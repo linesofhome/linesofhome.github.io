@@ -324,7 +324,7 @@ function link(w) {
   let uur24 = w.u;
   if (klok === "12") uur24 = (w.u % 12) + (w.ap === "PM" ? 12 : 0);
   const hhmm = String(uur24).padStart(2, "0") + ":" + String(w.mi).padStart(2, "0");
-  const tijd = klok === "12" ? `${w.u}:${String(w.mi).padStart(2, "0")} ${w.ap} (${hhmm})` : hhmm;
+  const tijd = klok === "12" ? `${w.u}:${String(w.mi).padStart(2, "0")} ${w.ap} (${hhmm})` : `${hhmm} (24h)`;
   const plaats = `${gekozen.n}${gekozen.reg ? ", " + gekozen.reg : ""}, ${landNaam(gekozen.cc)} [${gekozen.lat.toFixed(3)}, ${gekozen.lon.toFixed(3)}]`;
   const q = new URLSearchParams({ wanted: "true" });
   q.set(VELD.naam, w.naam);
