@@ -19,10 +19,6 @@
   header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 36px; }
   .merk { display: flex; align-items: center; gap: 10px; font-weight: 600; letter-spacing: .14em;
     font-size: 12px; text-transform: uppercase; }
-  .taal { display: flex; border: 1px solid var(--inkt); border-radius: 999px; overflow: hidden; }
-  .taal button { border: 0; background: transparent; color: var(--inkt); font: inherit; font-size: 12px;
-    font-weight: 600; letter-spacing: .08em; padding: 7px 14px; cursor: pointer; }
-  .taal button[aria-pressed="true"] { background: var(--inkt); color: var(--creme); }
   h1 { font-size: 34px; line-height: 1.12; font-weight: 600; letter-spacing: -.02em; margin: 0 0 12px; }
   .intro { color: var(--zand); font-size: 16px; line-height: 1.5; margin: 0 0 32px; }
   .veld { margin-bottom: 24px; }
@@ -82,10 +78,6 @@
         <circle cx="30" cy="20" r="8" fill="#0F1118"/>
       </svg>
       <span>Lines of Home</span>
-    </div>
-    <div class="taal" role="group" aria-label="Language">
-      <button type="button" data-taal="en" aria-pressed="true">EN</button>
-      <button type="button" data-taal="es" aria-pressed="false">ES</button>
     </div>
   </header>
 
@@ -155,7 +147,6 @@ const GUMROAD = "https://linesofhome.gumroad.com/l/astrocartography-map";
 // Deze namen moeten EXACT gelijk zijn aan de labels van de eigen velden in Gumroad.
 const VELD = { naam: "Name on the map", datum: "Date of birth (e.g. 3 March 1995)",
                tijd: "Time of birth (e.g. 09:30 or 9:30 AM)", plaats: "Place of birth (city, country)" };
-const VARIANT = { en: "English", es: "Español" };
 
 const T = {
   en: {
@@ -176,27 +167,9 @@ const T = {
     klein: "Payment is handled by Gumroad. For reflection and entertainment; astrology is not science, advice or a forecast.",
     maanden: ["January","February","March","April","May","June","July","August","September","October","November","December"],
   },
-  es: {
-    titel: "Tu mapa de astrocartografía",
-    intro: "Tres datos sobre el momento en que naciste. Con ellos calculamos tu mapa y te lo enviamos por email en PDF en menos de una hora.",
-    naam: "Nombre en el mapa", naamHulp: "La persona de la carta. ¿Es un regalo? Pon su nombre.",
-    naamFout: "Escribe un nombre.",
-    datum: "Fecha de nacimiento", dag: "Día", maand: "Mes", jaar: "Año", datumFout: "Elige una fecha válida.",
-    tijd: "Hora de nacimiento", uur: "Hora", minuut: "Min",
-    tijdHulp: "Lo más exacta posible. Suele aparecer en el certificado de nacimiento.",
-    tijdFout: "Elige la hora, los minutos y AM o PM.",
-    plaats: "Lugar de nacimiento", plaatsZoek: "Empieza a escribir una ciudad…",
-    plaatsHulp: "Elige de la lista. ¿Tu pueblo no aparece? Elige la ciudad más cercana.",
-    plaatsFout: "Elige tu lugar de nacimiento de la lista.", wijzig: "Cambiar",
-    geen: "Sin resultados. Prueba otra forma de escribirlo o la ciudad más cercana.", laden: "Buscando…",
-    verder: "Continuar al pago · 24 $",
-    klaar: "Abriendo el pago seguro de Gumroad. Tus datos ya están rellenados; revísalos una vez más antes de pagar. ¿No se abrió nada? Pulsa el botón otra vez.",
-    klein: "El pago lo gestiona Gumroad. Para reflexión y entretenimiento; la astrología no es ciencia, consejo ni predicción.",
-    maanden: ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],
-  },
 };
 
-// Andere schrijfwijzen (NL/ES/lokaal) -> naam in de lijst. Genormaliseerd.
+// Andere schrijfwijzen (NL/lokaal/andere talen) -> naam in de lijst. Genormaliseerd.
 const ALIAS = {
   "den haag":"the hague","s gravenhage":"the hague","la haya":"the hague","den bosch":"s hertogenbosch",
   "keulen":"koln","cologne":"koln","colonia":"koln","munchen":"munich","munich":"munich","praag":"prague","praha":"prague",
@@ -230,7 +203,8 @@ function norm(s) {
     .replace(/\ba d\b/g, "aan den").replace(/\ba z\b/g, "aan zee");
 }
 const $ = id => document.getElementById(id);
-let taal = "en", klok = "24", gekozen = null, landen = null;
+const taal = "en";
+let klok = "24", gekozen = null, landen = null;
 const delen = {};            // eerste letter -> [{n, naamNorm, cc, reg, lat, lon}]
 
 function vertaal() {
@@ -278,7 +252,7 @@ async function deel(letter) {
   });
   return delen[letter];
 }
-function landNaam(cc) { return landen && landen[cc] ? landen[cc][taal === "es" ? 1 : 0] : cc; }
+function landNaam(cc) { return landen && landen[cc] ? landen[cc][0] : cc; }
 function regel(p) { return [p.n, p.reg, landNaam(p.cc)].filter(Boolean).join(", "); }
 
 let zoekTeller = 0, actief = -1, treffers = [];
@@ -352,7 +326,7 @@ function link(w) {
   const hhmm = String(uur24).padStart(2, "0") + ":" + String(w.mi).padStart(2, "0");
   const tijd = klok === "12" ? `${w.u}:${String(w.mi).padStart(2, "0")} ${w.ap} (${hhmm})` : hhmm;
   const plaats = `${gekozen.n}${gekozen.reg ? ", " + gekozen.reg : ""}, ${landNaam(gekozen.cc)} [${gekozen.lat.toFixed(3)}, ${gekozen.lon.toFixed(3)}]`;
-  const q = new URLSearchParams({ wanted: "true", variant: VARIANT[taal] });
+  const q = new URLSearchParams({ wanted: "true" });
   q.set(VELD.naam, w.naam);
   q.set(VELD.datum, `${w.d} ${mnd} ${w.j}`);
   q.set(VELD.tijd, tijd);
@@ -368,11 +342,6 @@ function werkKnopBij() {
 }
 
 // ------------------------------------------------------------------ gebeurtenissen
-document.querySelectorAll(".taal button").forEach(b => b.addEventListener("click", () => {
-  taal = b.dataset.taal;
-  document.querySelectorAll(".taal button").forEach(x => x.setAttribute("aria-pressed", x === b));
-  vertaal(); werkKnopBij();
-}));
 document.querySelectorAll(".wissel button").forEach(b => b.addEventListener("click", () => {
   klok = b.dataset.klok;
   document.querySelectorAll(".wissel button").forEach(x => x.setAttribute("aria-pressed", x === b));
@@ -410,9 +379,6 @@ $("verder").addEventListener("click", e => {
   $("klaar").classList.add("zichtbaar");
 });
 
-const voorkeur = (navigator.language || "en").slice(0, 2);
-if (voorkeur === "es") { taal = "es";
-  document.querySelectorAll(".taal button").forEach(x => x.setAttribute("aria-pressed", x.dataset.taal === "es")); }
 vertaal(); werkKnopBij();
 </script>
 </body>
