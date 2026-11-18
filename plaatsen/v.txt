@@ -1,0 +1,4489 @@
+Vienna	AT		48.208	16.372
+Vadodara	IN		22.299	73.208
+Valencia	VE		10.162	-68.008
+Varanasi	IN		25.317	83.010
+Visakhapatnam	IN		17.680	83.202
+Volgograd	RU		48.719	44.502
+Vijayawada	IN		16.507	80.647
+Voronezh	RU		51.672	39.184
+Valencia	ES		39.470	-0.377
+Vancouver	CA	02	49.250	-123.119
+Vladivostok	RU		43.106	131.874
+Vilnius	LT		54.689	25.280
+Victoria de Durango	MX	10	24.020	-104.658
+Vereeniging	ZA		-26.673	27.926
+Virginia Beach	US	VA	36.853	-75.978
+Venustiano Carranza	MX	09	19.444	-99.105
+Veracruz	MX	30	19.181	-96.143
+Villa Nueva	GT		14.525	-90.585
+Vila Velha	BR	08	-20.330	-40.292
+Van	TR		38.495	43.383
+Villahermosa	MX	27	17.987	-92.930
+Vinnytsia	UA		49.233	28.481
+Vitebsk	BY		55.190	30.205
+Volzhskiy	RU		48.786	44.780
+Villavicencio	CO		4.142	-73.627
+Valladolid	ES		41.655	-4.724
+Vladikavkaz	RU		43.037	44.668
+Vologda	RU		59.224	39.884
+Varna	BG		43.217	27.917
+Vitória	BR	08	-20.319	-40.338
+Vladimir	RU		56.137	40.397
+Valledupar	CO		10.463	-73.253
+Vigo	ES		42.233	-8.723
+Viña del Mar	CL		-33.025	-71.552
+Victoria	CA	02	48.436	-123.352
+Viamão	BR	23	-30.081	-51.023
+Valparaíso	CL		-33.036	-71.630
+Vitória da Conquista	BR	05	-14.866	-40.839
+Várzea Grande	BR	14	-15.647	-56.133
+Volta Redonda	BR	21	-22.523	-44.104
+Vanderbijlpark	ZA		-26.712	27.838
+Vaughan	CA	08	43.836	-79.498
+Verona	IT		45.430	10.984
+Vykhino-Zhulebino	RU		55.702	37.812
+Velikiy Novgorod	RU		58.521	31.271
+Vũng Tàu	VN		10.346	107.084
+Vasyl'evsky Ostrov	RU		59.941	30.254
+Vientiane	LA		17.967	102.600
+Vantaa	FI		60.294	25.041
+Varāmīn	IR		35.324	51.646
+Vizianagaram	IN		18.117	83.411
+Vellore	IN		12.918	79.133
+Vancouver	US	WA	45.639	-122.661
+Volgodonsk	RU		47.514	42.151
+Vinh	VN		18.673	105.692
+Verāval	IN		20.908	70.368
+Viranşehir	TR		37.223	39.755
+Virār	IN		19.456	72.811
+Vryheid	ZA		-27.770	30.792
+Valencia	US	CA	34.444	-118.610
+Vidisha	IN		23.526	77.811
+Van Nuys	US	CA	34.187	-118.449
+Valdivia	CL		-39.814	-73.246
+Villeurbanne	FR		45.766	4.880
+Visalia	US	CA	36.330	-119.292
+Villaverde	ES		40.350	-3.700
+Virginia	ZA		-28.104	26.866
+Victorville	US	CA	34.536	-117.291
+Villa Canales	GT		14.483	-90.534
+Veshnyaki	RU		55.724	37.820
+Vejalpur	IN		22.690	73.563
+Vallejo	US	CA	38.104	-122.257
+Västerås	SE		59.616	16.553
+Varginha	BR	15	-21.551	-45.430
+Villa Lugano	AR		-34.679	-58.473
+Vihari	PK		30.044	72.356
+Várzea Paulista	BR	27	-23.211	-46.828
+Vacoas	MU		-20.298	57.478
+Vitória de Santo Antão	BR	30	-8.118	-35.291
+Vicenza	IT		45.547	11.547
+Vĩnh Long	VN		10.254	105.972
+Velikiye Luki	RU		56.340	30.545
+Vanadzor	AM		40.805	44.494
+Vista	US	CA	33.200	-117.243
+Vasco da Gama	IN		15.396	73.816
+Votorantim	BR	27	-23.547	-47.438
+Votkinsk	RU		57.049	53.987
+Villupuram	IN		11.940	79.492
+Villa Alemana	CL		-33.042	-71.373
+Vacaville	US	CA	38.357	-121.988
+Villa Mercedes	AR		-33.676	-65.458
+Ventura	US	CA	34.278	-119.293
+Vostochnoe Degunino	RU		55.880	37.558
+Vespasiano	BR	15	-19.692	-43.923
+Valera	VE		9.318	-70.604
+Việt Trì	VN		21.323	105.402
+Villa María	AR		-32.408	-63.240
+Venlo	NL		51.370	6.168
+Valparai	IN		10.327	76.951
+Vaniyambadi	IN		12.682	78.620
+Vlorë	AL		40.469	19.483
+Valle de La Pascua	VE		9.216	-66.007
+Valinhos	BR	27	-22.971	-46.996
+Velbert	DE		51.335	7.043
+Victorias	PH		10.902	123.070
+Volos	GR		39.361	22.942
+Versailles	FR		48.804	2.134
+Villingen-Schwenningen	DE		48.062	8.494
+Vitry-sur-Seine	FR		48.787	2.403
+Vorkuta	RU		67.499	64.053
+Vyborg	RU		60.708	28.753
+Valvedditturai	LK		9.817	80.167
+Voskresensk	RU		55.317	38.653
+Varese	IT		45.821	8.825
+Villa de Cura	VE		10.039	-67.489
+Viersen	DE		51.254	6.394
+Vélez-Málaga	ES		36.781	-4.103
+Vlaardingen	NL		51.913	4.342
+Virudunagar	IN		9.585	77.958
+Valsād	IN		20.610	72.934
+Venado Tuerto	AR		-33.746	-61.969
+Vapi	IN		20.372	72.905
+Vila Nova de Gaia	PT		41.124	-8.612
+Vol’sk	RU		52.045	47.380
+Votuporanga	BR	27	-20.423	-49.973
+Villa Carlos Paz	AR		-31.424	-64.498
+Vaslui	RO		46.633	27.733
+Viçosa	BR	15	-20.754	-42.882
+Visnagar	IN		23.699	72.552
+Valle de Santiago	MX	11	20.391	-101.192
+Velsen-Zuid	NL		52.460	4.650
+Victoria	US	TX	28.805	-97.004
+Vicálvaro	ES		40.400	-3.600
+Veliko Tŭrnovo	BG		43.081	25.629
+Vilanova i la Geltrú	ES		41.224	1.725
+Växjö	SE		56.878	14.809
+Villa de Vallecas	ES		40.367	-3.601
+Villa del Rosario	CO		7.834	-72.474
+Vratsa	BG		43.210	23.562
+Villa Elisa	PY		-25.368	-57.593
+Valence	FR		44.926	4.910
+Viladecans	ES		41.314	2.014
+Valença	BR	05	-13.370	-39.073
+Vilhena	BR	24	-12.741	-60.146
+Valdemoro	ES		40.191	-3.679
+Villeneuve-d'Ascq	FR		50.617	3.167
+Veszprém	HU		47.093	17.911
+Vyksa	RU		55.318	42.174
+Vriddhāchalam	IN		11.518	79.324
+Vinukonda	IN		16.053	79.740
+Výronas	GR		37.961	23.753
+Veenendaal	NL		52.029	5.559
+Valença	BR	21	-22.246	-43.700
+Valjevo	RS		44.275	19.898
+Vineland	US	NJ	39.486	-75.026
+Vrindāvan	IN		27.581	77.697
+Vavuniya	LK		8.751	80.497
+Villa Vicente Guerrero	MX	29	19.121	-98.166
+Valley Glen	US	CA	34.190	-118.450
+Verkhnyaya Pyshma	RU		56.970	60.582
+Villach	AT		46.610	13.856
+Vasastan	SE		59.346	18.050
+Volzhsk	RU		55.866	48.359
+Vigevano	IT		45.314	8.854
+Veles	MK		41.716	21.776
+Vénissieux	FR		45.697	4.886
+Villa Hayes	PY		-25.093	-57.524
+Vaasa	FI		63.096	21.616
+Vacaria	BR	23	-28.512	-50.934
+Vinhedo	BR	27	-23.030	-46.975
+Vranje	RS		42.551	21.900
+Valdosta	US	GA	30.833	-83.280
+Vyaz’ma	RU		55.210	34.295
+Viana	BR	08	-20.390	-40.496
+Viljoenskroon	ZA		-27.208	26.949
+Vidin	BG		43.992	22.882
+Vannes	FR		47.658	-2.756
+Vyshniy Volochëk	RU		57.591	34.565
+Verviers	BE		50.589	5.862
+Vidnoye	RU		55.552	37.710
+Venice	IT		45.437	12.333
+Vila-real	ES		39.938	-0.101
+Vejle	DK		55.709	9.536
+Vittoria	IT		36.952	14.528
+Villa Francisca	DO		18.483	-69.889
+Vatutino	RU		55.884	37.691
+Vagonoremont	RU		55.900	37.550
+Vryburg	ZA		-26.957	24.728
+Viareggio	IT		43.867	10.250
+Verkhnyaya Salda	RU		58.049	60.559
+Valladolid	MX	31	20.688	-88.199
+Viedma	AR		-40.813	-62.997
+Valle Hermoso	MX	28	25.672	-97.813
+Velasco Ibarra	EC		-1.044	-79.638
+Verrettes	HT		19.050	-72.466
+Vigan	PH		17.575	120.387
+Velletri	IT		41.686	12.778
+Vsevolozhsk	RU		60.015	30.673
+Vernon	CA	02	50.026	-126.362
+Villejuif	FR		48.794	2.360
+Volkovysk	BY		53.156	24.451
+Vernon	CA	02	50.267	-119.273
+Viterbo	IT		42.419	12.106
+Vitina	XK		42.321	21.358
+Ventanas	EC		-1.442	-79.459
+Vagharshapat	AM		40.166	44.295
+Vite	IN		17.273	74.538
+Vincennes	FR		48.849	2.438
+Vahdat	TJ		38.556	69.014
+Volkhov	RU		59.926	32.338
+Vercelli	IT		45.322	8.420
+Voi	KE		-3.396	38.556
+Vlissingen	NL		51.443	3.574
+Vallenar	CL		-28.576	-70.759
+Valenciennes	FR		50.359	3.525
+Vomero	IT		40.843	14.231
+Véroia	GR		40.524	22.202
+Villa Constitución	AR		-33.228	-60.330
+Varangaon	IN		21.018	75.910
+Villa Ángela	AR		-27.574	-60.715
+Villa de Mayo	AR		-34.511	-58.681
+Volksrust	ZA		-27.365	29.882
+Vikārābād	IN		17.338	77.904
+Varkala	IN		8.733	76.717
+Ventspils	LV		57.395	21.561
+Videira	BR	26	-27.008	-51.152
+Voznesensk	UA		47.565	31.331
+Varash	UA		51.351	25.847
+Varaždin	HR		46.304	16.338
+Villarrica	PY		-25.749	-56.435
+Völklingen	DE		49.252	6.859
+Venice	US	CA	33.991	-118.460
+Venâncio Aires	BR	23	-29.606	-52.192
+Vwawa	TZ		-9.108	32.935
+Vaijāpur	IN		19.927	74.728
+Villa Altagracia	DO		18.673	-70.171
+Vic	ES		41.930	2.255
+Vasylkiv	UA		50.187	30.313
+Vyatskiye Polyany	RU		56.226	51.066
+Vyazniki	RU		56.241	42.156
+Vichuga	RU		57.213	41.930
+Venray	NL		51.525	5.975
+Voerde	DE		51.597	6.686
+Vitrolles	FR		43.460	5.249
+Vilafranca del Penedès	ES		41.346	1.697
+Vredenburg	ZA		-32.907	17.990
+Volodymyr-Volynskyi	UA		50.853	24.324
+Vyāra	IN		21.111	73.394
+Vetapālem	IN		15.785	80.307
+Voorburg	NL		52.074	4.360
+Valley Stream	US	NY	40.664	-73.708
+Vakfıkebir	TR		41.046	39.276
+Vilagarcía de Arousa	ES		42.596	-8.764
+Vaulx-en-Velin	FR		45.787	4.925
+Villaflores	MX	05	16.234	-93.270
+Vettūr	IN		8.717	76.726
+Vanløse	DK		55.684	12.487
+Villepinte	FR		48.962	2.533
+Vilvoorde	BE		50.928	4.429
+Vavatenina	MG		-17.467	49.200
+Vuyyūru	IN		16.363	80.844
+Vršac	RS		45.117	21.304
+Vargem Grande do Sul	BR	27	-21.832	-46.894
+Viana do Castelo	PT		41.693	-8.833
+Voghera	IT		44.992	9.012
+Valuyki	RU		50.203	38.107
+Vuosaari	FI		60.210	25.142
+Victoria Falls	ZW		-17.933	25.831
+Valrico	US	FL	27.938	-82.236
+Villamaría	CO		5.046	-75.515
+Villena	ES		38.637	-0.866
+Vác	HU		47.776	19.136
+Velika Gorica	HR		45.712	16.076
+Viborg	DK		56.453	9.402
+Victoriaville	CA	10	46.050	-71.966
+Varberg	SE		57.106	12.251
+Vestavia Hills	US	AL	33.449	-86.788
+Villa Santa Rita	AR		-34.611	-58.481
+Vegesack	DE		53.167	8.617
+Villajoyosa	ES		38.508	-0.233
+Venaria Reale	IT		45.126	7.631
+Vinkovci	HR		45.288	18.805
+Verkhniy Ufaley	RU		56.056	60.240
+Vyshneve	UA		50.389	30.370
+Villa Bisonó	DO		19.564	-70.876
+Villefranche-sur-Saône	FR		45.990	4.720
+Venkatagiri	IN		13.960	79.580
+Víctor Rosales	MX	32	22.949	-102.702
+Velikiy Ustyug	RU		60.762	46.314
+Valparaiso	US	IN	41.473	-87.061
+Viernheim	DE		49.540	8.578
+Vallabh Vidyanagar	IN		22.533	72.900
+Vinces	EC		-1.556	-79.752
+Vienne	FR		45.526	4.875
+Vedaraniyam	IN		10.372	79.851
+Villaguay	AR		-31.865	-59.027
+Vallentuna	SE		59.534	18.078
+Vandœuvre-lès-Nancy	FR		48.650	6.183
+Villarrica	CL		-39.286	-72.228
+Villanueva	HN		15.317	-88.000
+Vadigenhalli	IN		13.297	77.802
+Vandavāsi	IN		12.504	79.606
+Vavoua	CI		7.382	-6.478
+Villa Regina	AR		-39.100	-67.067
+Valdepeñas	ES		38.762	-3.385
+Viry-Châtillon	FR		48.672	2.393
+Valkenswaard	NL		51.351	5.460
+Verbania	IT		45.921	8.552
+Villeneuve-Saint-Georges	FR		48.732	2.449
+Vrilissia	GR		38.034	23.830
+Vushtrri	XK		42.823	20.968
+Vera Cruz	BR	05	-12.633	-41.033
+Vasto	IT		42.111	14.706
+Villenave-d'Ornon	FR		44.779	-0.567
+Voluntari	RO		44.490	26.173
+Villazón	BO		-22.087	-65.594
+Villiers-sur-Marne	FR		48.831	2.548
+Vernier	CH		46.217	6.085
+Vilyeyka	BY		54.491	26.911
+Vostryakovo	RU		55.667	37.450
+Vorob’yovo	RU		55.717	37.533
+Vierzon	FR		47.222	2.068
+Vechta	DE		52.726	8.286
+Vertientes	CU		21.258	-78.150
+Vukovar	HR		45.352	19.002
+Vega Baja	PR		18.444	-66.388
+Vigia	BR	16	-0.858	-48.142
+Voorhees	US	NJ	40.481	-74.483
+Visconde do Rio Branco	BR	15	-21.010	-42.841
+Vulcan	RO		45.383	23.267
+Vaihingen an der Enz	DE		48.936	8.960
+Várzea da Palma	BR	15	-17.598	-44.734
+Villa Consuelo	DO		18.483	-69.900
+Vsetín	CZ		49.339	17.996
+Voúla	GR		37.842	23.777
+Visaginas	LT		55.597	26.440
+Vinaròs	ES		40.470	0.476
+Veendam	NL		53.107	6.879
+Villa Dolores	AR		-31.946	-65.190
+Villemomble	FR		48.883	2.500
+Villa Bruzual	VE		9.332	-69.120
+Vila do Conde	PT		41.353	-8.745
+Vynohradiv	UA		48.141	23.027
+Valašské Meziříčí	CZ		49.472	17.971
+Vallauris	FR		43.578	7.055
+Viñales	CU		22.619	-83.707
+Villagrán	MX	11	20.515	-100.997
+Villiers-le-Bel	FR		49.009	2.398
+Vichy	FR		46.127	3.426
+Vohipaho	MG		-23.550	47.500
+Valmiera	LV		57.541	25.428
+Verden	DE		52.923	9.235
+Vepagunta	IN		17.778	83.216
+Vigneux-sur-Seine	FR		48.703	2.414
+Viana	BR	13	-3.220	-45.004
+Villarrobledo	ES		39.270	-2.601
+Voinjama	LR		8.422	-9.748
+Villaviciosa de Odón	ES		40.358	-3.904
+Viseu	PT		40.661	-7.910
+Vernon Hills	US	IL	42.219	-87.980
+Vihti	FI		60.417	24.320
+Vanves	FR		48.823	2.290
+Vernon	FR		49.093	1.463
+Vrbas	RS		45.571	19.641
+Villeneuve-sur-Lot	FR		44.409	0.704
+Villanueva de la Serena	ES		38.977	-5.797
+Vaudreuil-Dorion	CA	10	45.400	-74.033
+Valente Diaz	MX	30	19.163	-96.216
+Vilapicina i la Torre Llobeta	ES		41.429	2.174
+Valle de Bravo	MX	15	19.195	-100.131
+Val-d'Or	CA	10	48.097	-77.797
+Velenje	SI		46.359	15.110
+Veghel	NL		51.617	5.549
+Vohibinany	MG		-17.350	49.033
+Varel	DE		53.397	8.136
+Vilyuchinsk	RU		52.931	158.405
+Vezirköprü	TR		41.144	35.455
+Victoria	AR		-32.618	-60.155
+Vayalār	IN		9.712	76.339
+Valls	ES		41.286	1.250
+Villaricca	IT		40.920	14.193
+Vught	NL		51.653	5.287
+Vangviang	LA		18.924	102.448
+Volokolamsk	RU		56.034	35.969
+Villa de Costa Rica	MX	25	24.592	-107.388
+Vineyard	US	CA	38.464	-121.347
+Vadnagar	IN		23.786	72.639
+Vittorio Veneto	IT		45.980	12.301
+Vadakku Valliyūr	IN		8.383	77.612
+Veinticinco de Mayo	AR		-35.432	-60.173
+Vincentown	US	NJ	39.934	-74.748
+Vale of Leven	GB		55.971	-4.579
+Victoria	CL		-38.233	-72.333
+Vị Thanh	VN		9.784	105.470
+Victoria	PH		14.228	121.329
+Vijāpur	IN		23.562	72.748
+Velingrad	BG		42.028	23.992
+Verl	DE		51.883	8.517
+Villeparisis	FR		48.942	2.615
+Volnovakha	UA		47.601	37.497
+Van Nest	US	NY	40.848	-73.864
+Vangaindrano	MG		-23.350	47.600
+Visby	SE		57.641	18.296
+Vikindu	TZ		-7.007	39.298
+Villa Gesell	AR		-37.264	-56.973
+Vranov nad Topľou	SK		48.888	21.685
+Vicksburg	US	MS	32.353	-90.878
+Vel’sk	RU		61.070	42.098
+Vänersborg	SE		58.381	12.323
+Vero Beach South	US	FL	27.616	-80.413
+Van Buren	US	AR	35.437	-94.348
+Vertou	FR		47.169	-1.469
+Vemalwāda	IN		18.465	78.869
+Volla	IT		40.874	14.341
+Victoria	SC		-4.620	55.455
+Vícar	ES		36.832	-2.643
+Valinda	US	CA	34.045	-117.944
+Vaikam	IN		9.749	76.396
+Valley Station	US	KY	38.111	-85.870
+Vimercate	IT		45.615	9.368
+Vattalkundu	IN		10.161	77.759
+Valdagno	IT		45.645	11.299
+Visitacion Valley	US	CA	37.717	-122.404
+Villa Ortúzar	AR		-34.580	-58.468
+Vikhorevka	RU		56.121	101.178
+Voorschoten	NL		52.127	4.449
+Vereshchagino	RU		58.079	54.656
+Vādippatti	IN		10.085	77.961
+Vélingara	SN		13.150	-14.117
+Vreden	DE		52.038	6.828
+Vignola	IT		44.484	11.011
+Varkaus	FI		62.315	27.873
+Vyškov	CZ		49.277	16.999
+Venice	US	FL	27.100	-82.454
+Voiron	FR		45.365	5.586
+Vyshhorod	UA		50.585	30.490
+Villeneuve-la-Garenne	FR		48.939	2.315
+Volendam	NL		52.495	5.071
+Villa Park	US	IL	41.890	-87.989
+Várzea Alegre	BR	06	-5.350	-40.383
+Verdun	FR		49.160	5.383
+Vélizy-Villacoublay	FR		48.782	2.194
+Vose’	TJ		37.804	69.644
+Villa Allende	AR		-31.295	-64.295
+Vargem Grande	BR	13	-3.543	-43.916
+Vilkpėdė	LT		54.670	25.248
+Valongo	PT		41.189	-8.499
+Várpalota	HU		47.199	18.140
+Västervik	SE		57.758	16.637
+Vassouras	BR	21	-22.404	-43.663
+Vaterstetten	DE		48.105	11.768
+Vakarai	LK		8.133	81.433
+Versmold	DE		52.040	8.153
+Villa Juárez	MX	25	24.659	-107.541
+Varennes	CA	10	45.683	-73.432
+Vila-seca	ES		41.111	1.148
+Virú	PE		-8.416	-78.752
+Vauréal	FR		49.033	2.033
+Villeta	CO		5.009	-74.472
+Vogan	TG		6.333	1.533
+Villa de San Diego de Ubaté	CO		5.309	-73.816
+Valkeakoski	FI		61.264	24.031
+Viljandi	EE		58.364	25.590
+Vlotho	DE		52.165	8.860
+Villanueva	CO		5.283	-71.967
+Varadero	CU		23.157	-81.244
+Vnukovo	RU		55.612	37.296
+Vrangel’	RU		42.730	133.083
+Vondrozo	MG		-22.817	47.283
+Vianen	NL		51.992	5.092
+Vesoul	FR		47.626	6.143
+Veranópolis	BR	23	-28.936	-51.549
+Vera	AR		-29.459	-60.213
+Villefontaine	FR		45.613	5.151
+Vadakku Viravanallur	IN		8.698	77.519
+Viçosa	BR	02	-9.371	-36.241
+Vovchans’k	UA		50.291	36.941
+Vilassar de Mar	ES		41.505	2.392
+Vatutine	UA		49.015	31.062
+Velika Kladuša	BA		45.185	15.806
+Vecsés	HU		47.407	19.286
+Vibo Valentia	IT		38.676	16.101
+Vendôme	FR		47.793	1.066
+Villa Ocampo	AR		-28.488	-59.355
+Villa Paula de Sarmiento	AR		-31.493	-68.538
+Värnamo	SE		57.186	14.040
+Villabate	IT		38.078	13.443
+Vāsudevanallūr	IN		9.242	77.412
+Viseu	BR	16	-1.197	-46.140
+Velur	IN		11.108	78.001
+Vorgashor	RU		67.584	63.794
+Vilar de Andorinho	PT		41.106	-8.586
+Villamontes	BO		-21.262	-63.469
+Vyselki	RU		45.581	39.664
+Villanueva	CO		10.608	-72.979
+Varto	TR		39.174	41.454
+Vence	FR		43.723	7.112
+Valabhīpur	IN		21.889	71.879
+Vellmar	DE		51.358	9.480
+Vanino	RU		49.098	140.253
+Valday	RU		57.978	33.247
+Ventimiglia	IT		43.790	7.609
+Vīsāvadar	IN		21.340	70.750
+Vila Franca de Xira	PT		38.955	-8.990
+Villa del Prado 2da Sección	MX	02	32.424	-116.972
+Vinica	MK		41.883	22.509
+Villa Yapacaní	BO		-17.400	-63.833
+Vettaikkaranpudur	IN		10.562	76.913
+Veruela	PH		8.073	125.956
+Vincennes	US	IN	38.677	-87.529
+Visoko	BA		43.989	18.178
+Vadlapūdi	IN		14.311	79.804
+Vĩnh Yên	VN		21.309	105.605
+V.S.K.Valasai (Dindigul-Dist.)	IN		10.315	78.151
+Volgorechensk	RU		57.439	41.156
+Velp	NL		51.995	5.974
+Villeneuve-le-Roi	FR		48.737	2.401
+Valley East	CA	08	46.668	-81.000
+Vilaseca	ES		42.062	2.255
+Valenza	IT		45.012	8.644
+Vitré	FR		48.118	-1.206
+Vitry-le-François	FR		48.725	4.584
+Viradouro	BR	27	-20.873	-48.297
+Veracruz	PA		8.890	-79.626
+Visé	BE		50.738	5.699
+Villaquilambre	ES		42.647	-5.558
+Vila Real	PT		41.301	-7.744
+Vanier	CA	08	45.440	-75.665
+Vasind	IN		19.408	73.263
+Vişeu de Sus	RO		47.717	24.433
+Villa Nueva	AR		-32.433	-63.248
+Villanueva de la Cañada	ES		40.447	-4.004
+Vasil’yevo	RU		55.830	48.717
+Verneuil-sur-Seine	FR		48.974	1.965
+Verrières-le-Buisson	FR		48.746	2.268
+Vobkent Shahri	UZ		40.000	64.502
+Vilshofen	DE		48.627	13.192
+Viçosa do Ceará	BR	06	-3.562	-41.092
+Venezuela	CU		21.737	-78.793
+Vienna	US	VA	38.901	-77.265
+Vostryakovo	RU		55.399	37.808
+Varjota	BR	06	-4.194	-40.477
+Vero Beach	US	FL	27.639	-80.397
+Viveiro	ES		43.662	-7.593
+Vechelde	DE		52.260	10.365
+Vimodrone	IT		45.515	9.288
+Viroflay	FR		48.801	2.162
+Valenzano	IT		41.044	16.885
+Vialonga	PT		38.872	-9.078
+Vatra Dornei	RO		47.350	25.367
+Viewpark	GB		55.827	-4.057
+Venilale	TL		-8.643	126.378
+Vicente Guerrero	MX	10	23.734	-103.985
+Vīrarājendrapet	IN		12.196	75.805
+Valparaíso	BR	27	-21.228	-50.868
+Vasa	IN		22.661	72.755
+Västra Frölunda	SE		57.647	11.929
+Vincent	US	CA	34.501	-118.116
+Vincent	US	CA	34.098	-117.924
+Villers-lès-Nancy	FR		48.673	6.153
+Varnsdorf	CZ		50.912	14.618
+Villafranca di Verona	IT		45.354	10.845
+Vadamadurai	IN		10.441	78.098
+Valença do Piauí	BR	20	-6.407	-41.746
+Vári	GR		37.833	23.803
+Vevey	CH		46.463	6.843
+Vitória do Mearim	BR	13	-3.462	-44.871
+Venëv	RU		54.355	38.268
+Virovitica	HR		45.832	17.384
+Vallcarca	ES		41.412	2.144
+Venceremos	MX	22	20.551	-100.398
+Väståboland	FI		60.300	22.300
+Venustiano Carranza	MX	05	16.338	-92.563
+Vāda	IN		19.653	73.148
+Vazante	BR	15	-17.987	-46.908
+Vilalba	ES		43.298	-7.681
+Villa Independencia	MX	30	20.055	-97.052
+Vyazemskiy	RU		47.538	134.756
+Viterbo	CO		5.062	-75.872
+Vakhsh	TJ		37.715	68.835
+Villa Hidalgo	MX	14	21.676	-102.588
+Villanova	IT		41.964	12.756
+Vandalia	US	OH	39.891	-84.199
+Villanueva del Pardillo	ES		40.490	-3.964
+Virac	PH		13.585	124.237
+Vicaria	IT		40.862	14.273
+Vasylivka	UA		47.437	35.274
+Villa Presidente Frei, Ñuñoa, Santiago, Chile	CL		-33.461	-70.580
+Vagator	IN		15.598	73.745
+Vammala	FI		61.333	22.900
+Vallam	IN		10.720	79.060
+Vecindario	ES		27.846	-15.445
+Villa Rica	US	GA	33.732	-84.919
+Villa Unida	PA		9.189	-79.625
+Vredendal	ZA		-31.668	18.501
+Vilattikulam	IN		9.132	78.166
+Villaviciosa	ES		43.481	-5.436
+Varsity Lakes	AU	04	-28.089	153.412
+Vilar do Paraíso	PT		41.090	-8.621
+Victoria Point	AU	04	-27.583	153.312
+Viadana	IT		44.936	10.519
+Võru	EE		57.834	27.019
+Vrede	ZA		-27.426	29.166
+Vāghodia	IN		22.305	73.400
+Vire	FR		48.838	-0.889
+Valle Vista	US	CA	33.748	-116.893
+Valavanur	IN		11.921	79.582
+Valbom	PT		41.129	-8.562
+Varenikovskaya	RU		45.121	37.642
+Verín	ES		41.941	-7.438
+Volpiano	IT		45.199	7.775
+Villeneuve-Loubet	FR		43.658	7.122
+Vulcăneşti	MD		45.685	28.406
+Villa de El Carmen Tequexquitla	MX	29	19.324	-97.653
+Valenza	PT		42.024	-8.635
+Vicovu de Sus	RO		47.933	25.683
+Vallirana	ES		41.387	1.932
+Villefranche-de-Rouergue	FR		44.352	2.037
+Vera	ES		37.243	-1.859
+Veglie	IT		40.335	17.962
+Villa de Zaachila	MX	20	16.951	-96.749
+Valga	EE		57.778	26.047
+Villa del Campo	MX	02	32.508	-116.738
+Verkhnedneprovskiy	RU		54.981	33.346
+Val-de-Reuil	FR		49.274	1.210
+Vettavalam	IN		12.108	79.245
+Vigonza	IT		45.435	11.975
+Vicente Guerrero	MX	20	16.933	-96.701
+Villa Juárez	MX	26	27.129	-109.839
+Villa San Giovanni	IT		38.220	15.637
+Vreewijk	NL		51.884	4.520
+Vandalūr	IN		12.892	80.081
+Vuktyl	RU		63.857	57.309
+Vinzons	PH		14.174	122.907
+Verona	US	NJ	40.830	-74.240
+Valdés	ES		36.758	-4.242
+Vallensbæk	DK		55.622	12.385
+Vicuña	CL		-30.035	-70.713
+Voisins-le-Bretonneux	FR		48.758	2.051
+Village of Campton Hills	US	IL	41.937	-88.397
+Villeneuve-lès-Avignon	FR		43.968	4.796
+Vetlanda	SE		57.429	15.078
+Villasanta	IT		45.606	9.308
+Villa Unión	MX	25	23.190	-106.219
+Verwood	GB		50.876	-1.870
+Villafranca de los Barros	ES		38.561	-6.338
+Vălenii de Munte	RO		45.183	26.033
+Vitorino Freire	BR	13	-4.042	-45.238
+Vadnais Heights	US	MN	45.057	-93.074
+Vetluzhskiy	RU		58.390	45.465
+Vöhringen	DE		48.278	10.082
+Villasis	PH		15.902	120.588
+Velen	DE		51.894	6.988
+Vikāsnagar	IN		30.469	77.773
+Værløse	DK		55.783	12.369
+Veintidós de Febrero	MX	15	19.611	-99.347
+Vilkaviskis	LT		54.652	23.032
+Vostochnyy	RU		55.817	37.867
+Valmontone	IT		41.773	12.919
+Vejer de la Frontera	ES		36.252	-5.967
+Valfin-lès-Saint-Claude	FR		46.438	5.855
+Vychegodskiy	RU		61.247	46.898
+Valparaíso	MX	32	22.771	-103.570
+Vice	PE		-5.417	-80.783
+Vrchlabí	CZ		50.627	15.609
+Vasyurinskaya	RU		45.118	39.424
+Vico Equense	IT		40.660	14.434
+Villanueva	CO		10.444	-75.273
+Valverde del Camino	ES		37.575	-6.754
+Villacidro	IT		39.457	8.741
+Varedo	IT		45.598	9.163
+Varde	DK		55.621	8.481
+Vaassen	NL		52.286	5.967
+Valtierrilla	MX	11	20.532	-101.128
+Vānsada	IN		20.758	73.364
+Vilanova del Camí	ES		41.572	1.638
+Valbonne	FR		43.633	6.999
+Valentigney	FR		47.464	6.832
+Veľký Krtíš	SK		48.211	19.350
+Valente	BR	05	-11.412	-39.462
+Vaires-sur-Marne	FR		48.876	2.640
+Verona	US	WI	42.991	-89.533
+Villamartín	ES		36.860	-5.645
+Vengurla	IN		15.861	73.632
+Vedasandūr	IN		10.531	77.950
+Volokonovka	RU		50.483	37.856
+Vaskelovo	RU		60.396	30.354
+Vasilevo	MK		41.474	22.643
+Vorsma	RU		55.991	43.272
+Verkhniy Tagil	RU		57.373	59.956
+Vinchia	IN		22.210	71.380
+Vriezenveen	NL		52.408	6.622
+Verdun	ES		41.443	2.176
+Vysoké Mýto	CZ		49.953	16.162
+Villanueva	MX	32	22.355	-102.883
+Villa Lázaro Cárdenas	MX	30	20.462	-97.700
+Vlašim	CZ		49.706	14.899
+Vedi	AM		39.914	44.725
+Volosovo	RU		59.445	29.489
+Veselí nad Moravou	CZ		48.954	17.376
+Vega Alta	PR		18.412	-66.331
+Villa Berthet	AR		-27.292	-60.413
+Villetaneuse	FR		48.958	2.342
+Vordingborg	DK		55.008	11.911
+Villa Adriana	IT		41.955	12.772
+Vom	NG		9.729	8.791
+Venustiano Carranza	MX	16	20.116	-102.654
+Veurne	BE		51.073	2.668
+Valenton	FR		48.745	2.465
+Veinticinco de Mayo	AR		-27.377	-54.743
+Videle	RO		44.278	25.524
+Vernouillet	FR		48.721	1.370
+Vaux-le-Pénil	FR		48.528	2.692
+Velké Meziříčí	CZ		49.355	16.012
+Vysočany	CZ		50.109	14.517
+Villa Vásquez	DO		19.741	-71.446
+Valmadrera-Caserta	IT		45.846	9.358
+Verde Village	US	AZ	34.711	-112.012
+Villas	US	FL	26.550	-81.869
+Vila Real de Santo António	PT		37.195	-7.418
+Velilla de San Antonio	ES		40.365	-3.485
+Valangaiman	IN		10.890	79.393
+Valley Falls	US	RI	41.907	-71.391
+Varazze	IT		44.364	8.596
+Vermont South	AU	07	-37.857	145.183
+Velten	DE		52.691	13.175
+Versoix	CH		46.284	6.162
+Vicente Guerrero	MX	02	30.731	-115.991
+Valdez	EC		1.249	-78.983
+Ville-d'Avray	FR		48.824	2.193
+Vienenburg	DE		51.952	10.564
+Vilsbiburg	DE		48.453	12.356
+Vardenis	AM		40.183	45.731
+Venosa	IT		40.963	15.813
+Venadillo	CO		4.719	-74.929
+Villacarrillo	ES		38.116	-3.085
+Virton	BE		49.568	5.533
+Vendas Novas	PT		38.677	-8.458
+Villa Cuauhtémoc	MX	15	19.417	-99.559
+Villiers	ZA		-27.030	28.601
+Vetralla	IT		42.318	12.073
+Vieste	IT		41.882	16.171
+Vinzili	RU		56.959	65.771
+Volchikha	RU		52.014	80.357
+Vanimo	PG		-2.684	141.302
+Vernal	US	UT	40.456	-109.529
+Villarrubia de los Ojos	ES		39.221	-3.608
+Villa Tupac Amaru	PE		-13.711	-76.150
+Vyritsa	RU		59.408	30.348
+Vytegra	RU		61.006	36.448
+Village Park	US	HI	21.398	-158.030
+Veresegyház	HU		47.646	19.295
+Villas de la Hacienda [Fraccionamiento]	MX	14	20.531	-103.383
+View Park-Windsor Hills	US	CA	33.996	-118.348
+Vicente Noble	DO		18.384	-71.180
+Valdemorillo	ES		40.501	-4.067
+Vize	TR		41.572	27.766
+Vermilion-on-the-Lake	US	OH	41.428	-82.324
+Vysokyy	UA		49.892	36.122
+Vorotynsk	RU		54.428	36.046
+Verkhnyaya Sinyachikha	RU		57.976	61.667
+Vidor	US	TX	30.132	-94.015
+Vennesla	NO		58.269	7.973
+Vélez	CO		6.013	-73.674
+Volodarsk	RU		56.231	43.188
+Vīraganūr	IN		11.476	78.736
+Villa Corzo	MX	05	16.185	-93.269
+Vale da Amoreira	PT		39.070	-7.698
+Vurnary	RU		55.490	46.965
+Visselhövede	DE		52.985	9.583
+Vauvert	FR		43.695	4.277
+Van Wert	US	OH	40.869	-84.584
+Vieux-Condé	FR		50.459	3.567
+Vysokovsk	RU		56.317	36.550
+Viera East	US	FL	28.262	-80.714
+Villa Unión	MX	10	23.975	-104.047
+Vista Hermosa de Negrete	MX	16	20.272	-102.475
+Vermillion	US	SD	42.779	-96.929
+Vilanova de Arousa	ES		42.564	-8.828
+Ventersburg	ZA		-28.086	27.138
+Villa Carcina	IT		45.633	10.196
+Vesele	UA		47.015	34.915
+Vidalia	US	GA	32.218	-82.413
+Villablino	ES		42.939	-6.319
+Valencia	CO		8.258	-76.149
+Vredefort	ZA		-27.008	27.365
+Villacañas	ES		39.624	-3.338
+Villa Tecolutilla	MX	27	18.283	-93.334
+Vashon	US	WA	47.447	-122.460
+Verkhnyaya Tura	RU		58.361	59.807
+Vernon	US	TX	34.155	-99.266
+Vienna	US	WV	39.327	-81.548
+Ventnor City	US	NJ	39.340	-74.477
+Varennes-Vauzelles	FR		47.017	3.140
+Vladimirescu	RO		46.166	21.401
+Vikravāndi	IN		12.037	79.546
+Vermilion	US	OH	41.422	-82.365
+Volchansk	RU		59.938	60.081
+Villa de Reyes	MX	24	21.803	-100.934
+Vicência	BR	30	-7.657	-35.327
+Valea Călugărească	RO		44.967	26.150
+Vakhrushi	RU		58.685	50.026
+Vosselaar	BE		51.309	4.890
+Varėna	LT		54.215	24.575
+Volcán	PA		8.773	-82.638
+Veitshöchheim	DE		49.833	9.882
+Vartej	IN		21.739	72.066
+Verkhneural’sk	RU		53.877	59.211
+Victoria	RO		45.730	24.703
+Valea lui Mihai	RO		47.517	22.150
+Vermont	AU	07	-37.836	145.194
+Veternik	RS		45.254	19.759
+Voreppe	FR		45.295	5.632
+Valréas	FR		44.385	4.991
+Vail	US	AZ	32.048	-110.712
+Vrnjačka Banja	RS		43.627	20.896
+Vallehermoso	PH		10.335	123.326
+Villa González	DO		19.541	-70.789
+Vinovo	IT		44.947	7.633
+Vårby	SE		59.267	17.884
+Valky	UA		49.836	35.612
+Victoria	PH		13.177	121.278
+Villers-Cotterêts	FR		49.253	3.090
+Villanueva de Córdoba	ES		38.323	-4.629
+Villa Literno	IT		41.009	14.076
+Villars-sur-Glâne	CH		46.791	7.117
+Velankanni	IN		10.683	79.833
+vadlamuru	IN		17.095	82.166
+Veradale	US	WA	47.650	-117.207
+Villebon-sur-Yvette	FR		48.706	2.240
+Valle del Guamuez	CO		0.453	-76.919
+Valle Dorado Inn	MX	14	20.524	-103.362
+Vernouillet	FR		48.971	1.981
+Vilyuysk	RU		63.747	121.633
+Vuhlehirs’k	UA		48.315	38.274
+Villa Zaragoza	MX	24	22.037	-100.731
+Villa Hidalgo	MX	18	21.742	-105.231
+Varna	RU		53.382	60.975
+Villepreux	FR		48.828	1.998
+Vetschau	DE		51.786	14.079
+Veyrier	CH		46.167	6.184
+Villerupt	FR		49.467	5.932
+Vinings	US	GA	33.865	-84.464
+Vargashi	RU		55.356	65.847
+Valozhyn	BY		54.089	26.527
+Voorthuizen	NL		52.187	5.606
+Vitali	PH		7.371	122.289
+Vegachí	CO		6.761	-74.795
+Velyka Dymerka	UA		50.593	30.903
+Vinogradovo	RU		56.933	37.550
+Villers-la-Ville	BE		50.567	4.517
+Volkach	DE		49.864	10.228
+Vradiyivka	UA		47.862	30.592
+Val-des-Monts	CA	10	45.650	-75.666
+Vedène	FR		43.977	4.904
+Velyka Lepetykha	UA		47.176	33.944
+Villa Guerrero	MX	15	18.962	-99.641
+Volodarskiy	RU		46.401	48.541
+Vatutinki	RU		55.496	37.330
+Vila Nova de Famalicão	PT		41.408	-8.520
+Vráble	SK		48.244	18.308
+Villas	US	NJ	39.029	-74.939
+Valley	US	AL	32.819	-85.179
+Veldhuizen	NL		52.075	5.012
+Veliki Preslav	BG		43.167	26.817
+Viktring	AT		46.592	14.269
+Voitsberg	AT		47.044	15.153
+Verkhniye Achaluki	RU		43.347	44.697
+Venafro	IT		41.483	14.048
+Verkhneyarkeyevo	RU		55.450	54.315
+Valencia West	US	AZ	32.132	-111.114
+Villa Elisa	AR		-32.163	-58.401
+Villa Cañás	AR		-34.006	-61.608
+Vásárosnamény	HU		48.125	22.313
+Veshenskaya	RU		49.630	41.733
+Valley Center	US	CA	33.218	-117.034
+Villeneuve-Tolosane	FR		43.523	1.341
+Valadares	PT		41.147	-7.981
+Villa Zempoala	MX	30	19.444	-96.408
+Villa Jaragua	DO		18.491	-71.484
+Villa Luvianos	MX	15	18.917	-100.400
+Vilcún	CL		-38.669	-72.226
+Vaucluse	AU	02	-33.855	151.278
+Visbek	DE		52.833	8.317
+Versailles	US	KY	38.053	-84.730
+Vettweiß	DE		50.733	6.600
+Veľký Meder	SK		47.858	17.769
+Valley Cottage	US	NY	41.118	-73.955
+Villa Rica	CO		2.514	-76.849
+Vinhais	PT		41.835	-7.005
+Vadu Paşii	RO		45.167	26.900
+Verano Brianza	IT		45.689	9.225
+Venturina	IT		43.029	10.601
+Vicuña Mackenna	AR		-33.920	-64.392
+Villecresnes	FR		48.720	2.539
+Vyetka	BY		52.559	31.179
+Vallendar	DE		50.396	7.624
+Vinsady	RU		44.081	42.965
+Viale	AR		-31.868	-60.007
+Veltheim (Kreis 5)	CH		47.514	8.717
+Virpur	IN		23.189	73.480
+Verduron	FR		43.371	5.345
+Vicam	MX	26	27.644	-110.294
+Villalba	IT		41.954	12.729
+Villa la Venta	MX	27	18.099	-94.046
+Vesëlyy	RU		47.093	40.742
+Vignate	IT		45.499	9.377
+Villa Avila Camacho	MX	21	20.386	-97.880
+Villa del Carbón	MX	15	19.729	-99.464
+Verkhniy Baskunchak	RU		48.226	46.722
+Valu lui Traian	RO		44.167	28.467
+Villanueva del Arzobispo	ES		38.168	-3.007
+Villars	FR		45.468	4.355
+Vânători-Neamţ	RO		47.200	26.317
+Vaucresson	FR		48.841	2.157
+Victoria	US	MN	44.859	-93.662
+Vista Alegre	PA		8.928	-79.703
+Viechtach	DE		49.080	12.886
+Vrapčište	MK		41.834	20.886
+Velesta	MK		41.241	20.644
+Valeggio sul Mincio	IT		45.353	10.736
+Valsequillo de Gran Canaria	ES		27.986	-15.497
+Verneşti	RO		45.217	26.733
+Virginia	US	MN	47.523	-92.537
+Varva	UA		50.495	32.720
+Volodymyrets’	UA		51.421	26.145
+Vejen	DK		55.481	9.138
+Verkhotur’ye	RU		58.863	60.805
+Vorzel’	UA		50.544	30.153
+Victoria Park	AU	08	-31.976	115.905
+Vroomshoop	NL		52.461	6.565
+Vetluga	RU		57.856	45.781
+Vapnyarka	UA		48.535	28.744
+Vallegrande	BO		-18.489	-64.106
+Villacher Vorstadt	AT		46.624	14.289
+Vrhnika	SI		45.964	14.295
+Villeneuve-lès-Maguelone	FR		43.533	3.867
+Valpoy	IN		15.532	74.137
+Vidra	RO		44.261	26.170
+Vila Viçosa	PT		38.778	-7.418
+Vigonovo-Fontanafredda	IT		45.989	12.547
+Verkhniy Mamon	RU		50.163	40.383
+Vert-Saint-Denis	FR		48.568	2.620
+Vaiano	IT		43.968	11.124
+Vinton	US	VA	37.281	-79.897
+Ves’yegonsk	RU		58.664	37.260
+Villach-Innere Stadt	AT		46.613	13.846
+Veauche	FR		45.563	4.292
+Villa Vicente Guerrero	MX	27	18.390	-92.896
+Vieille Chapelle	FR		43.250	5.380
+Vogošća	BA		43.902	18.344
+Vittuone	IT		45.488	8.951
+Velizh	RU		55.606	31.197
+Vitez	BA		44.154	17.790
+Villafranca Tirrena	IT		38.240	15.439
+Vern-sur-Seiche	FR		48.045	-1.601
+Verkhov’ye	RU		52.812	37.242
+Villalbilla	ES		40.430	-3.299
+Vimperk	CZ		49.059	13.783
+Vimmerby	SE		57.666	15.855
+Vojens	DK		55.246	9.306
+Vysokaya Gora	RU		55.913	49.302
+Villa Opicina	IT		45.688	13.789
+Vylkove	UA		45.403	29.587
+Vorona Teodoru	RO		47.550	26.600
+Vado Ligure	IT		44.269	8.434
+Velaux	FR		43.528	5.257
+Vizille	FR		45.078	5.771
+Valpovo	HR		45.661	18.419
+Vidauban	FR		43.427	6.432
+Venelles	FR		43.599	5.480
+Vorozhba	UA		51.173	34.219
+Vaprio d'Adda	IT		45.576	9.524
+Vigliano Biellese	IT		45.563	8.105
+Velimeşe	TR		41.254	27.878
+Vniissok	RU		55.656	37.212
+Valognes	FR		49.509	-1.470
+Verkhnyaya Khava	RU		51.837	39.933
+Volya	RU		51.770	39.536
+Vyyezdnoye	RU		55.382	43.786
+Vasilaţi	RO		44.288	26.448
+Vyshkovo	UA		48.049	23.421
+Village Green-Green Ridge	US	PA	39.864	-75.425
+Vkhodnoy	RU		54.952	73.171
+Văcăreşti	RO		44.850	25.483
+Vianópolis	BR	29	-16.742	-48.516
+Villa Sandino	NI		12.048	-84.994
+Vieux-Habitants	GP		16.059	-61.767
+Vardenik	AM		40.133	45.443
+Virrat	FI		62.248	23.780
+Vyerkhnyadzvinsk	BY		55.778	27.939
+Vega de San Mateo	ES		28.009	-15.533
+Vypasne	UA		46.199	30.267
+Valle de Banderas	MX	18	20.808	-105.248
+Vega de Alatorre	MX	30	20.028	-96.648
+Vale de Cambra	PT		40.850	-8.394
+Verdellino	IT		45.601	9.608
+Vostochnyy	RU		58.788	52.245
+Villa Corona	MX	14	20.416	-103.664
+Villa de Arista	MX	24	22.643	-100.848
+Vohenstrauß	DE		49.624	12.338
+Villa Luvianos	MX	15	18.920	-100.298
+Villa La Angostura	AR		-40.762	-71.646
+Varshets	BG		43.194	23.287
+Viitasaari	FI		63.067	25.867
+Vésztő	HU		46.917	21.267
+Vallet	FR		47.162	-1.266
+Villa Guardia	IT		45.775	9.023
+Vorchdorf	AT		48.004	13.921
+Villa Hills	US	KY	39.063	-84.593
+Valguarnera Caropepe	IT		37.495	14.390
+Villa Rica	PE		-10.739	-75.270
+Villongo	IT		45.669	9.931
+Vedano al Lambro	IT		45.609	9.268
+Vidra	RO		45.917	26.900
+Villanueva	PH		8.589	124.776
+Villa del Río	ES		37.981	-4.290
+Verdello	IT		45.604	9.629
+Villard-Bonnot	FR		45.235	5.883
+Volodarka	UA		49.525	29.912
+Valencina de la Concepción	ES		37.416	-6.074
+Villmar	DE		50.393	8.193
+Vadu Moldovei	RO		47.383	26.367
+Vila Nova da Barquinha	PT		39.461	-8.436
+Vila Nova de Foz Côa	PT		41.082	-7.141
+Villa de Soto	AR		-30.855	-64.999
+Vrútky	SK		49.113	18.917
+Vielsalm	BE		50.284	5.915
+Villa de Etla	MX	20	17.206	-96.799
+Vico del Gargano	IT		41.897	15.957
+Velyka Oleksandrivka	UA		47.320	33.304
+Veydelevka	RU		50.152	38.449
+Vladimirskaya	RU		44.545	40.793
+Ville Platte	US	LA	30.688	-92.272
+Vanzago	IT		45.526	8.991
+Villemoisson-sur-Orge	FR		48.666	2.337
+Villanueva de Castellón	ES		39.077	-0.512
+Vorselaar	BE		51.202	4.773
+Verneuil-sur-Avre	FR		48.739	0.927
+Valley Center	US	KS	37.835	-97.373
+Villa Comaltitlán	MX	05	15.214	-92.577
+Vareš	BA		44.164	18.328
+Vicente Camalote	MX	20	18.514	-96.529
+Verdal	NO		63.793	11.482
+Valbo	SE		60.650	17.033
+Vandalia	US	IL	38.961	-89.094
+Villa del Totoral	AR		-30.817	-63.717
+Vokhtoga	RU		58.809	41.062
+Villefranche-sur-Mer	FR		43.704	7.311
+Venice Gardens	US	FL	27.073	-82.408
+Village Saint George	US	LA	30.362	-91.067
+Vozdvizhenka	RU		43.894	131.946
+Villa María Grande	AR		-31.666	-59.902
+Vohburg an der Donau	DE		48.770	11.618
+Vereşti	RO		47.600	26.433
+Veshkayma	RU		54.047	47.130
+Vărbilău	RO		45.183	25.950
+Velykyi Bereznyi	UA		48.888	22.461
+Vengerovo	RU		55.685	76.747
+Villa Juárez	MX	10	25.492	-103.594
+Vidyayevo	RU		69.319	32.805
+Velez Rubio	ES		37.648	-2.077
+Volzhskiy	RU		53.431	50.119
+Ville-la-Grand	FR		46.203	6.250
+Villagarzón	CO		1.038	-76.627
+Voznesenskaya	RU		44.553	41.032
+Válega	PT		40.836	-8.581
+Vishnyeva	BY		54.710	26.523
+Veselynove	UA		47.357	31.235
+Vösendorf	AT		48.121	16.340
+Volovăţ	RO		47.817	25.900
+Villa Castelli	IT		40.583	17.475
+Valley Park	US	MO	38.549	-90.493
+Voznesenskaya	RU		43.544	44.746
+Vaals	NL		50.771	6.018
+Veinticinco de Mayo	AR		-37.774	-67.716
+Vilino	UA		44.846	33.672
+Volkmarsen	DE		51.409	9.118
+Vikulovo	RU		56.817	70.611
+Vineuil	FR		47.584	1.376
+Vleuten	NL		52.106	5.015
+Vif	FR		45.057	5.672
+Vlăhiţa	RO		46.350	25.517
+Vigasio	IT		45.318	10.944
+Villa Alberto Andrés Alvarado Arámburo	MX	03	27.644	-113.385
+Vallo della Lucania	IT		40.228	15.266
+Verkhniye Kigi	RU		55.408	58.604
+Viagrande	IT		37.610	15.098
+Viola	US	NY	41.136	-74.082
+Volterra	IT		43.403	10.862
+Vrnograč	BA		45.164	15.954
+Vysokiy	RU		68.136	33.419
+Valdoviño	ES		43.600	-8.133
+Valderice	IT		38.040	12.615
+Vedano Olona	IT		45.776	8.888
+Valletta	MT		35.900	14.515
+Vizinga	RU		61.075	50.103
+Viewbank	AU	07	-37.740	145.093
+Villa Azueta	MX	30	18.074	-95.712
+Verkhnebakanskiy	RU		44.849	37.657
+Vânju-Mare	RO		44.425	22.870
+Völs	AT		47.250	11.333
+Vilamarxant	ES		39.569	-0.625
+Văleni	RO		46.593	28.062
+Verolanuova	IT		45.328	10.079
+Vendin-le-Vieil	FR		50.474	2.867
+Verbilki	RU		56.533	37.600
+Villaverde del Río	ES		37.589	-5.874
+Vozhega	RU		60.472	40.221
+Vad	RU		55.530	44.211
+Victoria	GB		51.750	-3.200
+Vodňany	CZ		49.148	14.175
+Višnjevac	HR		45.569	18.614
+Valley City	US	ND	46.923	-98.003
+Vijayapuri	IN		11.245	77.501
+Viera West	US	FL	28.245	-80.734
+Villadossola	IT		46.071	8.267
+Vacha	RU		55.803	42.771
+Vişina	RO		44.583	25.333
+Villasor	IT		39.381	8.943
+Victoria	MT		36.044	14.240
+Valka	LV		57.775	26.010
+Villa Madero	MX	16	19.392	-101.279
+Vol’no-Nadezhdinskoye	RU		43.375	131.997
+Visp	CH		46.294	7.881
+Villa Verucchio	IT		44.005	12.436
+Varoška Rijeka	BA		45.089	16.019
+Vasilikón	GR		38.426	23.672
+Victorica	AR		-36.215	-65.436
+Vilseck	DE		49.615	11.803
+Verkhniy Rohachyk	UA		47.251	34.338
+Vitulazio	IT		41.163	14.213
+Villa García	MX	32	22.162	-101.956
+Veselí nad Lužnicí	CZ		49.184	14.697
+Villa Mariano Matamoros	MX	21	19.327	-98.378
+Verkhniye Sergi	RU		56.647	59.556
+Voranava	BY		54.149	25.311
+Villemandeur	FR		47.987	2.718
+Vandenberg Village	US	CA	34.708	-120.468
+Vellinge	SE		55.471	13.020
+Velden	DE		48.366	12.256
+Vida Mejor I	MX	05	14.870	-92.308
+Vershino-Darasunskiy	RU		52.366	115.527
+Verkhneye Kazanishche	RU		42.735	47.138
+Villarejo de Salvanés	ES		40.167	-3.273
+Vărăşti	RO		44.238	26.249
+Villa di Serio	IT		45.723	9.735
+Varzelândia	BR	15	-15.701	-44.028
+Venegono Superiore	IT		45.752	8.897
+Voronovytsya	UA		49.110	28.681
+Vratimov	CZ		49.770	18.310
+Viganello	CH		46.013	8.969
+Vista Hermosa	MX	15	19.516	-99.223
+Verkhniye Tatyshly	RU		56.291	55.858
+Verkhnevilyuysk	RU		63.446	120.307
+Vecchiano-Nodica	IT		43.783	10.384
+Valdobbiadene	IT		45.897	11.982
+Vodnyy	RU		63.505	53.409
+Viziru	RO		45.017	27.700
+Valley Falls	US	SC	35.016	-81.975
+Vöhl	DE		51.206	8.945
+Vinga	RO		46.017	21.200
+Vigodarzere	IT		45.458	11.886
+Valea Stanciului	RO		43.983	23.867
+Venustiano Carranza	MX	21	20.507	-97.668
+Voznesenskoye	RU		54.890	42.757
+Vrbové	SK		48.620	17.723
+Vill'Albese	IT		45.797	9.189
+Végueta	PE		-11.023	-77.644
+Villers-Saint-Paul	FR		49.289	2.490
+Villa d'Almè	IT		45.748	9.617
+Vaison-la-Romaine	FR		44.239	5.075
+Vítkov	CZ		49.774	17.749
+Veitsbronn	DE		49.512	10.888
+Villaseta	IT		37.299	13.559
+Vuokatti	FI		64.145	28.282
+Villa González Ortega	MX	32	22.512	-101.916
+Voineşti	RO		47.067	27.417
+Voineşti	RO		45.067	25.250
+Villatora	IT		45.388	11.967
+Vorotynets	RU		56.060	45.863
+Village of Oak Creek (Big Park)	US	AZ	34.781	-111.762
+Vodice	HR		43.761	15.783
+Villa Cortese	IT		45.567	8.887
+Valga	ES		42.698	-8.640
+Vito	PH		10.903	123.515
+Valencia de Alcántara	ES		39.411	-7.244
+Veggia-Villalunga	IT		44.561	10.756
+Vityazevo	RU		45.001	37.282
+Višegrad	BA		43.783	19.293
+Vellānūr	IN		13.158	80.106
+Viqueque	TL		-8.857	126.365
+Vrbno pod Pradědem	CZ		50.121	17.383
+Villawood	AU	02	-33.884	150.980
+Venegono Inferiore	IT		45.736	8.895
+Villers-le-Bouillet	BE		50.577	5.259
+Variaş	RO		46.017	20.950
+Voskresenskoye	RU		56.838	45.432
+Valerik	RU		43.180	45.408
+Vallecrosia	IT		43.787	7.639
+Valley View	AU	05	-34.840	138.661
+Vohimanitra	MG		-21.700	47.700
+Vrutok	MK		41.769	20.839
+Vama	RO		47.567	25.683
+Vétraz-Monthoux	FR		46.174	6.259
+Ventnor	GB		50.594	-1.207
+Villa Alta	MX	29	19.293	-98.401
+Vizzini	IT		37.162	14.757
+Villa Park	US	CA	33.814	-117.813
+Vicovu de Jos	RO		47.900	25.733
+Vidyayevo	RU		68.883	33.017
+Vidigueira	PT		38.210	-7.801
+Vaujours	FR		48.930	2.571
+Venta de Baños	ES		41.921	-4.491
+Villa de San Francisco	HN		14.167	-86.967
+Vyalikaya Byerastavitsa	BY		53.196	24.017
+Villa General Belgrano	AR		-31.978	-64.556
+Vancleave	US	MS	30.540	-88.688
+Villapinzón	CO		5.216	-73.595
+Vasyshcheve	UA		49.829	36.327
+Veragua Arriba	DO		19.583	-70.333
+Viriat	FR		46.255	5.216
+Vila Nova da Telha	PT		41.072	-8.641
+Vendargues	FR		43.658	3.970
+Vi	SE		62.433	17.417
+Viotá	CO		4.437	-74.522
+Villa Ojo de Agua	AR		-29.500	-63.694
+Villa di Briano	IT		41.000	14.161
+Villabona	ES		43.185	-2.053
+Vergiate	IT		45.722	8.695
+Valea Moldovei	RO		47.467	26.033
+Vieira de Leiria	PT		39.869	-8.932
+Volney	US	NY	43.343	-76.358
+Vishnëvogorsk	RU		55.991	60.658
+Vitinia	IT		41.791	12.408
+Viişoara	RO		46.550	23.917
+Vedea	RO		43.783	25.783
+Velyka Mykhaylivka	UA		47.080	29.858
+Veigné	FR		47.286	0.741
+Vashkivtsi	UA		48.385	25.510
+Velikovechnoye	RU		44.934	39.755
+Vine Grove	US	KY	37.810	-85.981
+Villa de Cos	MX	32	23.293	-102.350
+Valle de Lincoln	MX	19	25.793	-100.478
+Vendenheim	FR		48.669	7.710
+Venado	MX	24	22.930	-101.095
+Vittel	FR		48.201	5.948
+Villa Emilio Carranza	MX	30	19.970	-96.612
+Velyka Bahachka	UA		49.791	33.723
+Villa Riva	DO		19.181	-69.913
+Vogtsburg	DE		48.097	7.642
+Vodyane	UA		47.487	34.492
+Vegreville	CA	01	53.500	-112.052
+Vadstena	SE		58.449	14.890
+Volvera	IT		44.955	7.511
+Vinita	US	OK	36.639	-95.154
+Vostochnyy	RU		58.800	61.814
+Villeneuve-sur-Yonne	FR		48.082	3.297
+Verkh-Tula	RU		54.884	82.776
+Villa Progreso	MX	22	20.642	-99.835
+Vicopisano	IT		43.693	10.584
+Villemur-sur-Tarn	FR		43.867	1.503
+Voss	NO		60.629	6.415
+Vavozh	RU		56.775	51.931
+Vilela	PT		41.225	-7.603
+Vernio	IT		44.048	11.151
+Vânători	RO		45.733	27.250
+Valle Aurina - Ahrntal	IT		46.996	11.980
+Vulcan	RO		45.633	25.417
+Villmergen	CH		47.350	8.248
+Valle Nacional	MX	20	17.776	-96.302
+Valle Hermoso	AR		-31.117	-64.481
+Völkendorf	AT		46.608	13.832
+Viiala	FI		61.210	23.767
+Villanueva del Ariscal	ES		37.396	-6.141
+Velyki Kopani	UA		46.487	32.975
+Venecia	CO		5.963	-75.738
+Vail	US	CO	39.640	-106.374
+Vámospércs	HU		47.533	21.900
+Varsseveld	NL		51.943	6.458
+Vladimiro-Aleksandrovskoye	RU		42.891	133.078
+Villamuriel de Cerrato	ES		41.949	-4.516
+Vil’ne	UA		47.636	34.814
+Varallo	IT		45.814	8.258
+Villa de Arriaga	MX	24	21.909	-101.382
+Vilppula	FI		62.021	24.505
+Vayk’	AM		39.689	45.467
+Valentine	AU	02	-33.015	151.643
+Villas de Alcalá	MX	19	25.915	-100.185
+Valentín Gómez Farías	MX	06	28.217	-106.583
+Vobarno	IT		45.642	10.499
+Villa de San Antonio	HN		14.317	-87.617
+Villa del Prado	ES		40.279	-4.305
+Vielha	ES		42.702	0.796
+Vårgårda	SE		58.037	12.809
+Volda	NO		62.146	6.071
+Villa Hernandarias	AR		-31.231	-59.985
+Vic-en-Bigorre	FR		43.387	0.055
+Velburg	DE		49.232	11.672
+Vipiteno	IT		46.893	11.430
+Villa Unión	MX	07	28.222	-100.726
+Veldhoven	NL		51.418	5.403
+Vetluzhskiy	RU		57.174	45.123
+Vestby	NO		59.605	10.752
+Vrontádos	GR		38.409	26.129
+Vanzaghello	IT		45.580	8.782
+Vadul lui Vodă	MD		47.090	29.076
+Vydrino	RU		51.463	104.642
+Verkhovyna	UA		48.156	24.791
+Vazzola	IT		45.835	12.409
+Vado Centro	IT		44.269	8.432
+Vievis	LT		54.767	24.800
+Vintar	PH		18.228	120.647
+Villa Aldama	MX	27	18.241	-93.351
+Velyka Pysarivka	UA		50.424	35.480
+Veseloyarsk	RU		51.287	81.107
+Verkh-Chebula	RU		56.031	87.622
+Villa El Carmen	NI		11.980	-86.506
+Vallejuelo	DO		18.654	-71.334
+Ventosa	PT		39.127	-9.084
+Vurpăr	RO		46.000	23.467
+Villanueva del Río y Minas	ES		37.655	-5.714
+Valchedram	BG		43.693	23.445
+Valašské Klobouky	CZ		49.141	18.008
+Vişeu de Jos	RO		47.726	24.366
+Vaartbroek	NL		51.480	5.498
+Verkhovazh’ye	RU		60.747	42.047
+Villas de Irapuato	MX	11	20.687	-101.405
+Vaduz	LI		47.142	9.522
+Villafranca de los Caballeros	ES		39.428	-3.361
+Volovets	UA		48.711	23.185
+Vila Nova de Paiva	PT		40.853	-7.728
+Vetovo	BG		43.700	26.267
+Verkh-Neyvinskiy	RU		57.270	60.138
+Villa Huidobro	AR		-34.838	-64.587
+Vogelwijk	NL		52.076	4.248
+Vinton	US	IA	42.169	-92.024
+Villa Union	MX	07	28.217	-100.717
+Velika Obarska	BA		44.805	19.162
+Vadsø	NO		70.073	29.749
+Vaggeryd	SE		57.498	14.148
+Vladimirovac	RS		45.031	20.866
+Villa de Leyva	CO		5.634	-73.524
+Vigneux-de-Bretagne	FR		47.325	-1.737
+Veneux-les-Sablons	FR		48.379	2.795
+Villabé	FR		48.589	2.451
+Villadose	IT		45.072	11.899
+Vygonichi	RU		53.099	34.067
+Valongo	PT		40.617	-8.450
+Venustiano Carranza	MX	05	16.190	-91.927
+Varca	IN		15.232	73.943
+Valdahon	FR		47.150	6.350
+Villa Pigna	IT		42.833	13.634
+Villennes-sur-Seine	FR		48.941	1.991
+Vedra	ES		42.778	-8.476
+Villanueva del Trabuco	ES		37.028	-4.339
+Villanuova sul Clisi	IT		45.599	10.453
+Vorontsovka	RU		50.613	40.355
+Valdoie	FR		47.670	6.842
+Villa Raspa	IT		42.455	14.185
+Valence	FR		44.108	0.891
+Vila Franca do Campo	PT		37.717	-25.433
+Vandergrift	US	PA	40.603	-79.565
+Valencia	PH		10.136	123.613
+Valparaiso	US	FL	30.509	-86.503
+Viişoara	RO		46.933	26.233
+Villa Berna	AR		-31.914	-64.732
+Valverde	ES		27.806	-17.916
+Vila Meã	PT		41.251	-8.184
+Vol’nyy Aul	RU		43.479	43.627
+Vardane	RU		43.732	39.554
+Vila Praia de Âncora	PT		41.811	-8.853
+Vargön	SE		58.356	12.391
+Vogelkwartier	NL		52.198	5.967
+Vorë	AL		41.391	19.655
+Violet	US	LA	29.896	-89.898
+Velagići	BA		44.556	16.733
+Vânătorii Mici	RO		44.490	25.559
+Vlădeni	RO		47.717	26.517
+Viarmes	FR		49.131	2.371
+Vyshneye Dolgoye	RU		52.063	37.405
+Vagay	RU		57.936	69.020
+Venda do Pinheiro	PT		38.924	-9.232
+Vouziers	FR		49.398	4.701
+Verzuolo	IT		44.593	7.482
+Vilches	ES		38.207	-3.510
+Vaitape	PF		-16.507	-151.749
+Voznesenka	UA		46.872	35.465
+Vereya	RU		55.345	36.172
+Valverde	IT		37.577	15.124
+Vias	FR		43.312	3.418
+Vorden	NL		52.105	6.310
+Villanueva de la Torre	ES		40.582	-3.298
+Vakhtan	RU		57.966	46.689
+Villa Juárez	MX	01	22.094	-102.069
+Vrbovec	HR		45.883	16.422
+Veberöd	SE		55.633	13.483
+Vaxholm	SE		59.402	18.353
+Velká Bíteš	CZ		49.288	16.227
+Vyzhnytsya	UA		48.248	25.195
+Velence	HU		47.239	18.655
+Velykyy Burluk	UA		50.062	37.384
+Vilafant	ES		42.247	2.938
+Voskhod	UA		45.510	34.394
+Ventabren	FR		43.538	5.295
+Villa Aglipay	PH		15.466	120.453
+Verkhoshizhem’ye	RU		58.011	49.104
+Veneta	US	OR	44.049	-123.351
+Vimy	FR		50.372	2.810
+Vamberk	CZ		50.118	16.291
+Veltheim (Kreis 5) / Rosenberg	CH		47.514	8.716
+Vi	SE		62.300	17.167
+Villages of Oriole	US	FL	26.462	-80.153
+Vasilyevichy	BY		52.251	29.829
+Vista Hermosa	PA		9.112	-79.361
+Vidigulfo	IT		45.292	9.235
+Vale	GE		41.616	42.881
+Valverde de la Virgen	ES		42.568	-5.685
+Vamo	US	FL	27.222	-82.498
+Victoria	CO		5.316	-74.911
+Vandercook Lake	US	MI	42.193	-84.391
+Vinderei	RO		46.150	27.800
+Vertova	IT		45.810	9.849
+Vadinsk	RU		53.692	43.057
+Villa Cura Brochero	AR		-31.706	-65.018
+Vónitsa	GR		38.916	20.886
+Vysoké Tatry	SK		49.136	20.244
+Vergato	IT		44.282	11.110
+Vitry-en-Artois	FR		50.327	2.980
+Vlasikha	RU		53.297	83.574
+Vamdrup	DK		55.428	9.284
+Villa Giardino	AR		-31.033	-64.483
+Vargem Alta	BR	08	-20.671	-41.007
+Voorhout	NL		52.222	4.485
+Vallvidrera, el Tibidabo i les Planes	ES		41.420	2.089
+Vokhma	RU		58.930	46.759
+Völkermarkt	AT		46.662	14.634
+Vatra Moldoviţei	RO		47.650	25.567
+Valle de Ángeles	HN		14.150	-87.033
+Vigía del Fuerte	CO		6.589	-76.896
+Vähäkyrö	FI		63.056	22.106
+Villastellone	IT		44.922	7.744
+Vechigen	CH		46.946	7.561
+Villa Hidalgo	MX	32	22.357	-101.713
+Vasvár	HU		47.049	16.800
+Vaux-sur-Seine	FR		49.013	1.969
+Verkhneye Dubrovo	RU		56.753	61.047
+Vic-le-Comte	FR		45.643	3.246
+Villars-les-Dombes	FR		46.002	5.032
+Vaux-sur-Sûre	BE		49.911	5.578
+Villa Magna	MX	16	19.684	-101.327
+Vieux Fort	LC		13.717	-60.950
+Valpaços	PT		41.607	-7.311
+Vasoldsberg	AT		47.016	15.558
+Vânători	RO		44.243	22.929
+Vermelles	FR		50.489	2.747
+Villalba	PR		18.127	-66.492
+Visciano	IT		40.924	14.582
+Vingåker	SE		59.043	15.874
+Vysokopillya	UA		47.492	33.531
+Villamayor	ES		40.999	-5.696
+Vágia	GR		38.317	23.178
+Vogt	DE		47.767	9.767
+Varallo Pombia	IT		45.668	8.629
+Villa d'Adda	IT		45.714	9.462
+Vagos	PT		40.556	-8.682
+Vasiliká	GR		40.480	23.137
+Vizovice	CZ		49.223	17.855
+Voila	RO		45.818	24.842
+Völkermarkter Vorstadt	AT		46.624	14.321
+Vlasenica	BA		44.182	18.941
+Viehofen	AT		48.217	15.617
+Velpke	DE		52.408	10.936
+Viby	DK		55.549	12.024
+Village of ALAMRAH	YE		13.743	43.730
+Vlădeni	RO		47.417	27.333
+Vysokaye	BY		52.371	23.371
+Valle de Guadalupe	MX	14	21.011	-102.617
+Vracov	CZ		48.975	17.211
+Volta Mantovana	IT		45.322	10.659
+Vorniceni	RO		47.983	26.667
+Viken	SE		56.151	12.574
+Villa Licenciado Jesús Terán (Calvillito)	MX	01	21.825	-102.188
+Villa Emiliano Zapata	MX	30	19.364	-96.658
+Villanova	IT		45.489	11.975
+Votice	CZ		49.640	14.638
+Valdese	US	NC	35.741	-81.563
+Volvic	FR		45.872	3.038
+Vliedberg	NL		51.690	5.190
+Vaugneray	FR		45.738	4.656
+Vilonia	US	AR	35.084	-92.208
+Ven	NL		51.640	5.550
+Vegadeo	ES		43.468	-7.054
+Villers-le-Lac	FR		47.063	6.667
+Vynohradove	UA		46.370	32.940
+Villanueva de Algaidas	ES		37.184	-4.450
+Vershina Tei	RU		53.269	89.560
+Vezin-le-Coquet	FR		48.119	-1.755
+Valle Martella	IT		41.878	12.747
+Vizcachane	PE		-15.809	-71.201
+Vodskov	DK		57.109	10.022
+Villerest	FR		45.995	4.035
+Vila Nova de Milfontes	PT		37.724	-8.783
+Vouneuil-sous-Biard	FR		46.573	0.270
+Villaverla	IT		45.649	11.492
+Verkhniy Lomov	RU		53.468	43.551
+Vila Verde	PT		41.647	-8.437
+Vitina	BA		43.237	17.484
+Vela Luka	HR		42.963	16.723
+Vännäs	SE		63.907	19.757
+Vergel	ES		38.847	0.010
+Vredenburg	NL		51.954	5.903
+Vetiş	RO		47.800	22.767
+Viroqua	US	WI	43.557	-90.889
+Vailate	IT		45.462	9.603
+Verdigris	US	OK	36.235	-95.691
+Villeneuve	CH		46.399	6.927
+Villa Rosa	IT		42.851	13.920
+Vandalia	US	MO	39.311	-91.488
+Vojka	RS		44.937	20.152
+Villas de la Loma	MX	16	19.690	-101.299
+Valdepeñas de Jaén	ES		37.589	-3.814
+Vignanello	IT		42.379	12.278
+Vieques	PR		18.425	-65.833
+Varangéville	FR		48.637	6.319
+Varennes-sur-Allier	FR		46.313	3.401
+Veduggio Con Colzano	IT		45.734	9.270
+Vyshestebliyevskaya	RU		45.196	37.018
+Vadu Crişului	RO		46.983	22.517
+Veinte de Noviembre	MX	05	14.977	-92.265
+Victoria	RO		47.283	27.583
+Vila Chã	PT		40.867	-8.467
+Villard-de-Lans	FR		45.072	5.556
+Voykovo	UA		45.383	36.437
+Vistahermosa	CO		3.124	-73.752
+Valderrama	PH		11.406	122.084
+Vestone	IT		45.708	10.396
+Vani	GE		42.085	42.512
+Verkhniy Uslon	RU		55.770	48.982
+Vellberg	DE		49.084	9.879
+Verneuil-en-Halatte	FR		49.279	2.524
+Villa Jiménez	MX	16	19.923	-101.747
+Viytivka	UA		48.426	29.543
+Vedea	RO		44.783	24.617
+Vaţa de Jos	RO		46.183	22.600
+Verona	US	VA	38.202	-79.008
+Vernaison	FR		45.648	4.811
+Vestmannaeyjar	IS		63.443	-20.273
+Vierkirchen	DE		48.367	11.467
+Vassalboro	US	ME	44.459	-69.678
+Vizantea-Mânăstirească	RO		45.983	26.783
+Villa de Don Fadrique	ES		39.615	-3.219
+Vaideeni	RO		45.167	23.933
+Ventsy	RU		45.376	40.836
+Valle de Allende	MX	06	26.935	-105.393
+Valencia de Don Juan	ES		42.294	-5.517
+Vöhringen	DE		48.334	8.664
+Vendychany	UA		48.612	27.793
+Vouliagméni	GR		37.814	23.779
+Vilarinho	PT		41.360	-8.331
+Verin Getashen	AM		40.131	45.253
+Vădeni	RO		45.367	27.933
+Vodstroy	RU		48.842	44.558
+Vichadero	UY		-31.778	-54.692
+Velké Opatovice	CZ		49.612	16.679
+Vöhrenbach	DE		48.050	8.300
+Villarosa	IT		37.588	14.171
+Volo	US	IL	42.326	-88.168
+Victor Harbor	AU	05	-35.550	138.622
+Villahermosa	CO		5.031	-75.116
+Vuvulane	SZ		-26.074	31.877
+Vakhrushevo	RU		55.232	61.717
+Vermilion	CA	01	53.354	-110.858
+Vétroz	CH		46.222	7.279
+Veltheim (Kreis 5) / Blumenau	CH		47.506	8.716
+Vighignolo	IT		45.495	9.043
+Verkhniachka	UA		48.828	30.040
+Vânători	RO		45.533	28.017
+Vihiers	FR		47.146	-0.532
+Valleseco	ES		28.043	-15.576
+Vidalia	US	LA	31.565	-91.426
+Villanova Mondovì	IT		44.348	7.768
+Vieremä	FI		63.750	27.017
+Viga	PH		13.872	124.309
+Volovo	RU		53.558	38.003
+Voinka	UA		45.870	33.991
+Vosketap’	AM		39.881	44.649
+Volkmarode	DE		52.290	10.599
+Villares de la Reina	ES		41.008	-5.649
+Valras-Plage	FR		43.248	3.290
+Verkhnyaya Balkariya	RU		43.125	43.457
+Vineland	CA	08	43.150	-79.400
+Vijes	CO		3.699	-76.442
+Vizela	PT		41.382	-8.249
+Volary	CZ		48.909	13.887
+Vito	MX	13	19.990	-99.199
+Videbæk	DK		56.088	8.629
+Vara	SE		58.262	12.954
+Velyki Sorochyntsi	UA		50.023	33.941
+Villa Basilio Nievas	AR		-31.550	-68.733
+Viejo Daan Banua	PH		10.904	123.060
+Volovo	RU		52.027	37.885
+Verchères	CA	10	45.783	-73.349
+Villas de la Laguna	MX	15	19.836	-99.090
+Velešín	CZ		48.829	14.463
+Vangaži	LV		57.094	24.545
+Velikent	RU		42.188	48.064
+Vila Frescainha	PT		41.538	-8.640
+Verpelét	HU		47.850	20.233
+Volchanets	RU		42.914	132.762
+Valle de Juárez	MX	14	19.932	-102.944
+Villa General Guemes	AR		-24.755	-59.489
+Vago	IT		45.420	11.130
+Varniţa	MD		46.866	29.466
+Voronkov	UA		50.222	30.900
+Vergara	UY		-32.944	-53.938
+Villalonga	ES		38.886	-0.208
+Villers-Bretonneux	FR		49.868	2.517
+Vinslöv	SE		56.100	13.917
+Villa Paranacito	AR		-33.714	-58.658
+Villachuato	MX	15	20.148	-101.635
+Villeneuve-de-la-Raho	FR		42.636	2.917
+Valea Nucarilor	RO		45.033	28.933
+Vimoutiers	FR		48.928	0.198
+Valea Mare	RO		44.467	24.433
+Villiers-sur-Orge	FR		48.660	2.300
+Villamalea	ES		39.367	-1.583
+Vergèze	FR		43.744	4.221
+Venansault	FR		46.685	-1.514
+Vollenhove	NL		52.681	5.954
+Villa Madero	MX	04	19.528	-90.699
+Victoria de Cortazar	MX	11	20.335	-101.032
+Vesilahti	FI		61.317	23.617
+Village Shires	US	PA	40.203	-74.970
+Viator	ES		36.890	-2.427
+Victoria	RO		44.817	27.617
+Vedelago	IT		45.687	12.019
+Viļāni	LV		56.553	26.924
+Verin Artashat	AM		39.997	44.589
+Villar Perosa	IT		44.918	7.248
+Vallda	SE		57.477	12.001
+Villedieu-les-Poêles	FR		48.833	-1.217
+Vysokogornyy	RU		50.099	139.123
+Valkenburg	NL		52.180	4.432
+Vynohradivka	UA		45.679	28.576
+Vendryně	CZ		49.667	18.713
+Valea Ursului	RO		46.817	27.083
+Vries	NL		53.074	6.578
+Vigarano Mainarda	IT		44.841	11.494
+Vigone	IT		44.842	7.498
+Vidoši	BA		43.771	17.028
+Vila Nova De Cacela	PT		37.174	-7.532
+Vasylivka	UA		45.643	28.833
+Vereya	RU		55.615	38.039
+Vertemate Con Minoprio	IT		45.725	9.073
+Voyskovitsy	RU		59.533	29.936
+Vvedenskoye	RU		55.474	65.084
+Viişoara	RO		46.383	27.883
+Village Green	US	NY	43.133	-76.313
+Volpago del Montello	IT		45.778	12.119
+Villa Isabela	DO		19.816	-71.061
+Villenoy	FR		48.941	2.860
+Vasanello	IT		42.415	12.348
+Valverde de Leganés	ES		38.671	-6.980
+Větřní	CZ		48.774	14.286
+Valdez	US	AK	61.131	-146.348
+Villa Guerrero	MX	14	21.983	-103.595
+Vagney	FR		48.006	6.717
+Vacha	DE		50.828	10.022
+Vorokhta	UA		48.285	24.565
+Vietri sul Mare	IT		40.670	14.727
+Valley Grande	US	AL	32.509	-86.987
+Villa Rosario	PA		8.774	-79.875
+Vitim	RU		59.443	112.570
+Vorukh	TJ		39.851	70.580
+Villa Victoria	MX	15	19.437	-99.996
+Verkhnyaya Maksakovka	RU		61.635	50.967
+Vinay	FR		45.208	5.406
+Villanueva de Gállego	ES		41.769	-0.824
+Villamediana de Iregua	ES		42.427	-2.419
+Varbitsa	BG		43.000	26.633
+Vatra	MD		47.075	28.737
+Villafranca de Córdoba	ES		37.963	-4.545
+Vic-Fezensac	FR		43.772	0.314
+Villanova d'Asti	IT		44.943	7.937
+Vaiano Cremasco	IT		45.371	9.588
+Valandovo	MK		41.317	22.560
+Verkhnyaya Toyma	RU		62.235	45.001
+Voskevaz	AM		40.275	44.300
+Vöcklabruck	AT		48.003	13.657
+Voineşti	RO		46.567	27.417
+Villamanrique de la Condesa	ES		37.245	-6.307
+Vengavasal	IN		12.899	80.169
+Vals-les-Bains	FR		44.666	4.366
+Vienna	US	GA	32.092	-83.795
+Vaja	HU		48.006	22.168
+Vildbjerg	DK		56.200	8.767
+Valencia	PH		11.109	124.573
+Vultureşti	RO		47.517	26.450
+Valparaíso	CO		1.194	-75.707
+Vistas del Maguey [Fraccionamiento]	MX	14	20.528	-102.523
+Veltum	NL		51.520	5.960
+Villareal	PH		11.566	124.928
+Voljevac	BA		43.879	17.659
+Valcanneto	IT		41.951	12.157
+Verson	FR		49.154	-0.456
+Vine Hill	US	CA	38.009	-122.096
+Vals-près-le-Puy	FR		45.032	3.878
+Volders	AT		47.283	11.567
+Viken	SE		64.726	20.915
+Vescovato	IT		45.174	10.165
+Viuz-en-Sallaz	FR		46.147	6.408
+Valledolmo	IT		37.747	13.828
+Vicchio	IT		43.934	11.460
+Vlietwijk	NL		52.124	4.457
+Venersborg	US	WA	45.774	-122.425
+Vaux-sur-Mer	FR		45.645	-1.060
+Villaputzu	IT		39.441	9.576
+Villa de la Paz	MX	24	23.676	-100.712
+Villafranca del Bierzo	ES		42.606	-6.811
+Velké Bílovice	CZ		48.849	16.892
+Voyvozh	RU		62.892	54.963
+Violaines	FR		50.542	2.789
+Vădăstriţa	RO		43.850	24.333
+Valledoria	IT		40.929	8.823
+Villanueva	CO		6.672	-73.174
+Vrdnik	RS		45.122	19.792
+Virje	HR		46.067	16.990
+Vânători	RO		46.233	24.933
+Villefranche-de-Lauragais	FR		43.400	1.717
+Viskafors	SE		57.629	12.849
+Valchidol	BG		43.400	27.550
+Vermezzo	IT		45.396	8.979
+Viereth-Trunstadt	DE		49.922	10.777
+Vratnica	MK		42.143	21.117
+Verkhnya Syrovatka	UA		50.829	34.959
+Villanueva de Alcardete	ES		39.673	-3.014
+Valtice	CZ		48.741	16.755
+Vaala	FI		64.567	26.833
+Vyshchetarasivka	UA		47.569	34.881
+Villaviciosa de Córdoba	ES		38.083	-5.017
+Vâlcele	RO		45.850	25.683
+Vrigne-aux-Bois	FR		49.737	4.856
+Vădastra	RO		43.867	24.367
+Valparaíso	CO		5.615	-75.624
+Villar del Arzobispo	ES		39.733	-0.817
+Vivian	US	LA	32.872	-93.987
+Vicovaro	IT		42.019	12.900
+Viviers	FR		44.483	4.689
+Villa URBI del Rey	MX	15	19.841	-99.257
+Vaskút	HU		46.108	18.985
+Viesca	MX	07	25.339	-102.805
+Veyre-Monton	FR		45.669	3.171
+Villeneuve-lès-Béziers	FR		43.315	3.281
+Villa General Mitre	AR		-29.143	-62.652
+Verkhnyaya Tishanka	RU		51.325	40.530
+Verlaine	BE		50.607	5.317
+Vipereşti	RO		45.233	26.467
+Valcheta	AR		-40.680	-66.163
+Villa d'Agri	IT		40.354	15.828
+Verneuil-sur-Vienne	FR		45.849	1.127
+Vilya	RU		55.246	42.209
+Villanueva del Fresno	ES		38.376	-7.168
+Vama	RO		47.833	23.400
+Vilhelmina	SE		64.624	16.656
+Vlokhoven	NL		51.467	5.483
+Volkel	NL		51.642	5.654
+Verenchanka	UA		48.547	25.745
+Verkhnie Synevydne	UA		49.103	23.591
+Valley Springs	US	CA	38.192	-120.829
+Villers-Semeuse	FR		49.742	4.747
+Versalles	CO		4.575	-76.198
+Vukovije Donje	BA		44.462	18.749
+Vigonovo	IT		45.387	12.006
+Vieillevigne	FR		46.972	-1.434
+Val della Torre	IT		45.155	7.445
+Veteli	FI		63.478	23.783
+Vila Velha de Ródão	PT		39.656	-7.677
+Velyka Bilozerka	UA		47.278	34.706
+Vettelschoß	DE		50.617	7.350
+Vidor	IT		45.867	12.045
+Vallelunga Pratameno	IT		37.682	13.832
+Volodarskogo	RU		55.503	37.942
+Varennes-sur-Seine	FR		48.373	2.926
+Vista Hermosa	MX	14	19.694	-103.339
+Verolavecchia	IT		45.329	10.055
+Villa del Rosario	AR		-30.796	-57.913
+Villa Juárez	MX	24	22.326	-100.267
+Valencia	PH		9.772	123.367
+Volga	RU		57.952	38.388
+Vada	IT		43.353	10.456
+Vép	HU		47.230	16.722
+Vreeswijk	NL		52.011	5.093
+Varades	FR		47.385	-1.028
+Villafranca Padovana	IT		45.492	11.793
+Vila de Rei	PT		39.676	-8.146
+Vetrişoaia	RO		46.430	28.208
+Vostok	RU		46.451	135.827
+Venarey-les-Laumes	FR		47.542	4.460
+Voróklini	CY		34.981	33.656
+Villeneuve	FR		44.945	6.565
+Verguleasa	RO		44.650	24.317
+Viktringer Vorstadt	AT		46.618	14.309
+Villaescusa	ES		42.963	-4.167
+Valley Green	US	PA	40.157	-76.793
+Villasana de Mena	ES		43.100	-3.283
+Vodnjan	HR		44.959	13.852
+Visthá	MX	22	20.447	-99.977
+Vimpeli	FI		63.162	23.819
+Verberie	FR		49.311	2.732
+Vörå	FI		63.136	22.252
+Vir	SI		46.153	14.607
+Villa Santiago	MX	17	18.980	-99.185
+Virden	US	IL	39.501	-89.768
+Villalba del Alcor	ES		37.397	-6.475
+Valea Crişului	RO		45.917	25.767
+Valkenburg	NL		50.865	5.832
+Valdivia	CO		7.294	-75.392
+Vagnhärad	SE		58.946	17.488
+Voldöpp	AT		47.445	11.883
+Valthermond	NL		52.882	6.963
+Vlăsineşti	RO		47.933	26.883
+Velventós	GR		40.255	22.075
+Verbivka	UA		49.417	35.533
+Vineyards	US	FL	26.224	-81.728
+Viewegs Garten	DE		52.258	10.538
+Villanueva de la Reina	ES		38.004	-3.916
+Vails Gate	US	NY	41.454	-74.058
+Vintilă Vodă	RO		45.467	26.717
+Viry	FR		46.113	6.038
+Vivier-au-Court	FR		49.733	4.829
+Villanueva del Rosario	ES		36.997	-4.365
+Veternigo	IT		45.518	12.058
+Vinton	US	LA	30.191	-93.581
+Villavieja	ES		39.850	-0.183
+Verőce	HU		47.825	19.035
+Voujeaucourt	FR		47.475	6.774
+Vulturu	RO		45.617	27.417
+Van Alstyne	US	TX	33.422	-96.577
+Vallada	ES		38.896	-0.691
+Vrakháti	GR		37.959	22.806
+Vandenberg Air Force Base	US	CA	34.748	-120.518
+Velika Mlaka	HR		45.736	16.031
+Vaulnaveys-le-Haut	FR		45.125	5.817
+Vladislavovka	UA		45.167	35.373
+Venetico Marina	IT		38.219	15.366
+Villaines-la-Juhel	FR		48.344	-0.277
+Văleni	RO		44.233	24.783
+Valmont	FR		49.084	6.698
+Vişina	RO		43.867	24.450
+Vordorf	DE		52.365	10.520
+Villeneuve	FR		43.894	5.863
+Várda	GR		38.031	21.365
+Vynohradivka	UA		45.828	29.382
+Vallehermosa	ES		28.179	-17.267
+Veshchevo	RU		60.731	29.183
+Venus	US	TX	32.433	-97.103
+Vouvry	CH		46.337	6.889
+Vylok	UA		48.109	22.839
+Villa Aldama	MX	30	19.649	-97.223
+Velykyy Klyuchiv	UA		48.471	24.947
+Vomp	AT		47.333	11.683
+Villarejo de Órbigo	ES		42.446	-5.905
+Varnavino	RU		57.404	45.092
+Vinon-sur-Verdon	FR		43.725	5.812
+Vejprty	CZ		50.492	13.032
+Vihanti	FI		64.485	24.992
+Venta	LT		56.192	22.695
+Verdun-sur-Garonne	FR		43.854	1.234
+Village-Neuf	FR		47.607	7.570
+Vigliano-Bettolino	IT		45.433	9.344
+Villaba	PH		11.213	124.392
+Varlamovo	RU		53.190	48.423
+Vinogradnyy	RU		45.056	37.321
+Villafranca Piemonte	IT		44.788	7.508
+Vârfurile	RO		46.317	22.517
+Voroshnëvo	RU		51.653	36.017
+Virden	CA	03	49.851	-100.933
+Vaghashen	AM		40.136	45.331
+Valcău de Jos	RO		47.117	22.733
+Veynes	FR		44.534	5.823
+Vicksburg	US	MI	42.120	-85.533
+Véretz	FR		47.357	0.806
+Villingendorf	DE		48.200	8.583
+Veilsdorf	DE		50.409	10.809
+Vișeu de Mijloc	RO		47.716	24.407
+Villa Bartolomea	IT		45.155	11.354
+Valdisotto	IT		46.434	10.357
+Vităneşti	RO		44.000	25.417
+Valea Dragului	RO		44.212	26.304
+Voskresenskoye	RU		51.825	46.935
+Vozuća	BA		44.359	18.354
+Vollersode	DE		53.333	8.917
+Vouvray	FR		47.411	0.799
+Vârtoapele de Jos	RO		44.183	25.200
+Vineyard	US	UT	40.297	-111.747
+Vado	US	NM	32.112	-106.662
+Velykoploske	UA		47.013	29.672
+Volyně	CZ		49.166	13.886
+Verquin	FR		50.502	2.639
+Viile Satu Mare	RO		47.667	22.950
+Valea Mare	RO		44.667	24.000
+Valhalla	US	NY	41.075	-73.775
+Voitinel	RO		47.884	25.757
+Vincentia	AU	02	-35.068	150.675
+Velká nad Veličkou	CZ		48.883	17.521
+Vyartsilya	RU		62.176	30.693
+Velikiye Borki	UA		49.524	25.758
+Valdetorres de Jarama	ES		40.694	-3.512
+Volturara Irpina	IT		40.883	14.918
+Villelaure	FR		43.711	5.434
+Verkhniy Kurkuzhin	RU		43.696	43.275
+Vezirhan	TR		40.245	30.020
+Villamassargia	IT		39.275	8.641
+Vizzolo Predabissi	IT		45.356	9.348
+Vieux-Thann	FR		47.804	7.121
+Văgiuleşti	RO		44.717	23.083
+Virklund	DK		56.132	9.556
+Villa Tapia	DO		19.301	-70.422
+Vințu de Jos	RO		45.995	23.486
+Valado de Frades	PT		39.584	-9.023
+Vandoies - Vintl	IT		46.815	11.721
+Vedea	RO		44.083	25.067
+Vicarello	IT		43.612	10.465
+Valgreghentino	IT		45.779	9.413
+Valea Mare-Podgoria	RO		44.885	24.906
+Vallorbe	CH		46.713	6.379
+Vélo	GR		37.976	22.760
+Villamar	MX	16	20.020	-102.597
+Viggiù	IT		45.871	8.909
+Vallese	IT		45.328	11.086
+Villa de Almoloya de Juárez	MX	15	19.369	-99.758
+Vysokoye	RU		43.463	39.967
+Vanavara	RU		60.347	102.284
+Valea Danului	RO		45.183	24.650
+Valleggia	IT		44.281	8.430
+Villarrica	CO		3.935	-74.600
+Velké Pavlovice	CZ		48.905	16.816
+Vysotskoye	RU		45.025	42.906
+Villafrati	IT		37.906	13.485
+Villarta de San Juan	ES		39.238	-3.423
+Vreed-en-Hoop	GY		6.809	-58.198
+Villafranca in Lunigiana	IT		44.298	9.953
+Vartholomió	GR		37.862	21.206
+Viškovo	HR		45.376	14.384
+Volano	IT		45.917	11.064
+Vista Hermosa	PA		8.527	-80.375
+Vrdy	CZ		49.922	15.472
+Vnorovy	CZ		48.931	17.351
+Vissenbjerg	DK		55.385	10.138
+Verona	US	MS	34.194	-88.720
+Vivonne	FR		46.430	0.264
+Vogtareuth	DE		47.947	12.181
+Velestíno	GR		39.382	22.746
+Vranić	RS		44.602	20.329
+Voves	FR		48.271	1.626
+Vlčnov	CZ		49.579	17.955
+Vlčnov	CZ		49.010	17.582
+Voerendaal	NL		50.883	5.930
+Villa Las Esperanzas	MX	07	27.743	-101.353
+Velleron	FR		43.957	5.029
+Villers-Bocage	FR		49.080	-0.654
+Văleni	RO		46.747	27.760
+Valea Voievozilor	RO		44.938	25.485
+Vrâncioaia	RO		45.850	26.733
+Villarpando	DO		18.659	-71.039
+Villaconejos	ES		40.101	-3.483
+Vila do Maio	CV		15.138	-23.212
+Villasmundo	IT		37.251	15.091
+Varpaisjärvi	FI		63.359	27.755
+Veigy	FR		46.268	6.263
+Valdezorras	ES		37.429	-5.926
+Villa Juárez	MX	18	21.689	-105.390
+Voznesenskiy	RU		54.897	99.103
+Virginia Water	GB		51.403	-0.567
+Villasimius	IT		39.145	9.518
+Vary	UA		48.122	22.713
+Vinderup	DK		56.482	8.780
+Vouillé	FR		46.641	0.168
+Vaini	TO		-21.193	-175.177
+Volkhovskiy	RU		58.580	31.316
+Vulcana Băi	RO		45.080	25.382
+Valley	DE		47.893	11.779
+Vrbanja	HR		44.981	18.927
+Vairano-Patenora	IT		41.337	14.131
+Vlădeni	RO		44.876	25.773
+Vitigudino	ES		41.009	-6.434
+Viso del Marqués	ES		38.522	-3.563
+Villa Trinidad	AR		-30.213	-61.876
+Villemoustaussou	FR		43.252	2.366
+Verbicaro	IT		39.761	15.907
+Virgil	CA	08	43.217	-79.133
+Vittoriosa	MT		35.892	14.518
+Velvary	CZ		50.282	14.236
+Vayres	FR		44.897	-0.319
+Vouillé	FR		46.315	-0.368
+Villanterio	IT		45.218	9.361
+Vazhiny	RU		60.964	34.022
+Vista Santa Rosa	US	CA	33.628	-116.218
+Vostan	AM		39.965	44.559
+Viligili	MV		0.759	73.433
+Vale de Santarém	PT		39.191	-8.727
+Voloka	UA		48.192	25.931
+Velká Bystřice	CZ		49.595	17.365
+Valle de Vaquerías	MX	19	25.633	-100.147
+Vourles	FR		45.659	4.773
+Vik	NO		61.057	6.578
+Valençay	FR		47.162	1.569
+Villarrubia	ES		37.850	-4.900
+Varilhes	FR		43.045	1.628
+Viguzzolo	IT		44.906	8.920
+Volx	FR		43.878	5.841
+Valmojado	ES		40.204	-4.091
+Victoria	HN		15.504	-87.826
+Vakhrushev	RU		48.990	142.953
+Venette	FR		49.417	2.803
+Vyshkov	RU		52.476	31.687
+Victor Vlad Delamarina	RO		45.641	21.893
+Veniano	IT		45.716	8.985
+Villa Emiliano Zapata	MX	14	20.167	-102.991
+Velké Losiny	CZ		50.032	17.041
+Vista Alegre	AR		-38.750	-68.183
+Villarrubia de Santiago	ES		39.986	-3.369
+Vålberg	SE		59.391	13.186
+Vervins	FR		49.835	3.909
+Villa Constitución	UY		-31.069	-57.849
+Veverská Bítýška	CZ		49.276	16.437
+Valentine	US	NE	42.873	-100.551
+Valea Seacă	RO		46.243	27.046
+Vinchina	AR		-28.760	-68.207
+Voorheesville	US	NY	42.654	-73.929
+Ville-Marie	CA	10	47.333	-79.433
+Villa del Dique	AR		-32.177	-64.455
+Vandœuvres	CH		46.222	6.203
+Venetian Village	US	IL	42.399	-88.053
+Verfeil	FR		43.658	1.663
+Vişani	RO		45.150	27.283
+Valley View	US	PA	39.950	-76.701
+Vernole	IT		40.288	18.302
+Valentano	IT		42.564	11.827
+Vataša	MK		41.417	22.019
+Villamayor de Gállego	ES		41.686	-0.772
+Villa Hidalgo	MX	24	22.450	-100.678
+Valencianita	MX	11	20.747	-101.302
+Vercurago	IT		45.809	9.422
+Vighizzolo	IT		45.435	10.355
+Vadu Izei	RO		47.933	23.883
+Vultureşti	RO		44.733	24.317
+Villa Mugueta	AR		-33.311	-61.055
+Villamar	IT		39.619	8.959
+Vörstetten	DE		48.067	7.850
+Violí Charáki	GR		35.359	24.439
+Voldijn	NL		51.401	5.472
+Villafranca	ES		42.279	-1.746
+Volkertshausen	DE		47.817	8.867
+Vostok	RU		48.977	142.916
+Valea Iaşului	RO		45.183	24.717
+Vargas	PH		15.593	120.487
+Vormedal	NO		59.356	5.320
+Val-Morin	CA	10	46.000	-74.183
+Vila Chã de Ourique	PT		39.172	-8.767
+Villamayor de Santiago	ES		39.731	-2.924
+Velyki Berehy	UA		48.232	22.746
+Vejbystrand	SE		56.318	12.767
+Vic-la-Gardiole	FR		43.491	3.797
+Villarosa	PH		15.550	120.750
+Victor	US	NY	42.983	-77.409
+Valea Argovei	RO		44.350	26.783
+Velké Hamry	CZ		50.714	15.315
+Villevêque	FR		47.561	-0.424
+Velika Moštanica	RS		44.665	20.354
+Vértesszőlős	HU		47.621	18.381
+Villa Díaz Ordaz	MX	20	16.996	-96.432
+Vernou-la-Celle-sur-Seine	FR		48.388	2.847
+Veltenhof	DE		52.308	10.489
+Villány	HU		45.869	18.454
+Villavieja	CO		3.221	-75.219
+Valtimo	FI		63.667	28.800
+Vanegas	MX	24	23.885	-100.951
+Vedavågen	NO		59.295	5.219
+Volketswil / Volketswil (Dorf)	CH		47.390	8.691
+Veţel	RO		45.900	22.817
+Vaşcău	RO		46.467	22.467
+Victoria	PH		12.447	124.311
+Vista Alegre	PH		9.998	122.766
+Vibraye	FR		48.056	0.742
+Vendeuvre-sur-Barse	FR		48.238	4.469
+Villa del Carmen	UY		-33.239	-56.009
+Valdelacalzada	ES		38.889	-6.700
+Villenauxe-la-Grande	FR		48.583	3.550
+Villeneuve-de-Berg	FR		44.557	4.502
+Verderio Inferiore	IT		45.666	9.433
+Villelongue-de-la-Salanque	FR		42.726	2.982
+Valdemarsvik	SE		58.203	16.602
+Van	US	TX	32.525	-95.637
+Villeneuve-la-Guyard	FR		48.341	3.062
+Villa Atamisqui	AR		-28.496	-63.816
+Vitomireşti	RO		44.867	24.400
+Villano Beach	US	FL	29.939	-81.302
+Voznesen’ye	RU		61.011	35.478
+Vonnas	FR		46.217	4.992
+Vulpeni	RO		44.467	23.917
+Vlădești	RO		45.150	24.917
+Volgo-Kaspiyskiy	RU		46.203	47.919
+Ventiseri	FR		41.944	9.333
+Velké Karlovice	CZ		49.361	18.284
+Vega de Espinareda	ES		42.725	-6.654
+Vairão	PT		41.333	-8.667
+Versailles	US	OH	40.223	-84.484
+Vandans	AT		47.096	9.865
+Villa Ridge	US	MO	38.473	-90.887
+Vurğun	AZ		41.095	45.471
+Vieux-Charmont	FR		47.522	6.837
+Venerque	FR		43.435	1.446
+Vergennes	US	VT	44.167	-73.254
+Vyšší Brod	CZ		48.616	14.312
+Vvedenka	UA		49.824	36.503
+Vejprnice	CZ		49.730	13.276
+Villers-sur-Mer	FR		49.323	0.000
+Vassar	US	MI	43.372	-83.583
+Vertus	FR		48.906	4.002
+Vélez de Benaudalla	ES		36.832	-3.515
+Villanueva de la Fuente	ES		38.695	-2.696
+Villa Nicolás Bravo	MX	12	18.214	-100.548
+Veen	NL		51.778	5.108
+Villanueva	PH		15.798	120.547
+Vrtojba	SI		45.913	13.634
+Villiers-Saint-Fréderic	FR		48.817	1.883
+Vlad Ţepeş	RO		44.350	27.083
+Verkhniy Avzyan	RU		53.529	57.537
+Verkh-Suetka	RU		53.304	80.047
+Villagrande Strisaili	IT		39.959	9.509
+Vendeuvre-du-Poitou	FR		46.736	0.309
+Vinalesa	ES		39.533	-0.367
+Vendin-lès-Béthune	FR		50.540	2.600
+Verolengo	IT		45.190	7.971
+Volcano	US	HI	19.443	-155.234
+Verkh-Usugli	RU		52.700	115.167
+Vrachnaíika	GR		38.163	21.667
+Victoria	MX	11	21.212	-100.215
+Vila Cova	PT		41.551	-8.716
+Valverde del Fresno	ES		40.222	-6.878
+Vicari	IT		37.824	13.569
+Villafranca del Cid	ES		40.429	-0.258
+Vert-le-Petit	FR		48.552	2.365
+Vuolijoki	FI		64.185	26.995
+Vescovato	FR		42.493	9.439
+Villefranche-sur-Cher	FR		47.300	1.767
+Valperga	IT		45.370	7.661
+Vernou-sur-Brenne	FR		47.419	0.848
+Venticano	IT		41.047	14.912
+Verderio Superiore	IT		45.668	9.440
+Vändra	EE		58.648	25.036
+Vesanto	FI		62.933	26.417
+Villa Las Rosas	AR		-31.950	-65.054
+Valea Mare	RO		44.783	25.233
+Villasequilla de Yepes	ES		39.876	-3.731
+Vallerano	IT		42.383	12.261
+Vizal Santo Niño	PH		15.029	120.905
+Valea Caselor	RO		45.350	25.167
+Villa Valeria	AR		-34.341	-64.920
+Valle de San José	CO		6.447	-73.144
+Vilafranca de Bonany	ES		39.569	3.088
+Vargas	MX	30	19.228	-96.320
+Vouani	KM		-12.244	44.374
+Viñas del Sol	MX	02	32.627	-115.547
+Villa Hidalgo	MX	05	16.305	-93.155
+Vorona	RO		47.577	26.631
+Villars-sur-Ollon	CH		46.298	7.056
+Val Thorens	FR		45.298	6.584
+Veliki Drvenik	HR		43.450	16.150
+Vostochny	RU		44.315	44.196
+Villeveyrac	FR		43.501	3.607
+Vidardo	IT		45.257	9.402
+Villa Grove	US	IL	39.863	-88.162
+Villa de Ramos	MX	24	22.830	-101.911
+Verres	IT		45.667	7.689
+Vecumnieki	LV		56.606	24.522
+Virginia Gardens	US	FL	25.810	-80.302
+Varhaug	NO		58.618	5.657
+Vigo	PH		13.827	120.179
+Vulcana-Pandele	RO		45.016	25.393
+Valensole	FR		43.838	5.984
+Viscri	RO		46.055	25.094
+Velikooktyabr’skiy	RU		57.433	33.816
+Vårsta	SE		59.165	17.797
+Val Verde	US	CA	34.445	-118.658
+Valmorea	IT		45.815	8.931
+Vyshneve	UA		48.436	33.916
+Valkó	HU		47.564	19.513
+Valea Roșie	RO		44.178	26.635
+Valcourt	CA	10	45.500	-72.316
+Valbrona	IT		45.877	9.299
+Vinstra	NO		61.595	9.751
+Vikersund	NO		59.968	9.991
+Villa Chalcatongo de Hidalgo	MX	20	17.032	-97.571
+Villa Morelos	MX	15	20.003	-101.414
+Vilgertshofen	DE		47.950	10.917
+Verona	US	PA	40.506	-79.843
+Vinerea	RO		45.886	23.353
+Versailles	US	MO	38.431	-92.841
+Valtierra	ES		42.197	-1.635
+Vehmaa	FI		60.683	21.667
+Volgelsheim	FR		48.015	7.555
+Văleni-Dâmbovița	RO		45.167	25.183
+Velada	ES		39.977	-4.976
+Vevčani	MK		41.241	20.593
+Valencia	PH		9.610	124.208
+Villahermosa	PH		13.046	123.713
+Verlinghem	FR		50.683	2.999
+Verkhnechusovskiye Gorodki	RU		58.167	57.109
+Velardeña	MX	10	25.065	-103.737
+Vaivre-et-Montoille	FR		47.630	6.104
+Vairao	PF		-17.783	-149.283
+Villahermosa	ES		38.750	-2.871
+Valleiry	FR		46.111	5.970
+Veroli	IT		41.694	13.417
+Villa Pedergnano	IT		45.585	9.994
+Varano Borghi	IT		45.774	8.704
+Vlădeşti	RO		45.117	24.300
+Vřesina	CZ		49.824	18.126
+Villamor	PH		6.704	124.520
+Vilsheim	DE		48.449	12.107
+Vlachiótis	GR		36.861	22.708
+Vitry-sur-Orne	FR		49.266	6.111
+Vindeln	SE		64.202	19.719
+Voiteg	RO		45.469	21.239
+Vaulx-Milieu	FR		45.613	5.184
+Villedieu-sur-Indre	FR		46.846	1.540
+Vistino	RU		59.776	28.477
+Vertaizon	FR		45.770	3.287
+Viggiano	IT		40.342	15.900
+Vutcani	RO		46.467	27.967
+Venusberg	DE		50.699	13.019
+Vathí	GR		38.405	23.603
+Val Verde Park	US	TX	29.375	-100.832
+Villa de Guadalupe	MX	10	25.514	-103.489
+Vişineşti	RO		45.100	25.550
+Vezzano sul Crostolo	IT		44.602	10.545
+Vallà	IT		45.707	11.933
+Villahermosa Yaluma	MX	05	16.334	-92.078
+Villanova Monteleone	IT		40.503	8.471
+Vasil’yevskiy Mokh	RU		57.013	35.919
+Valley	GB		53.285	-4.566
+Valleroy	FR		49.209	5.937
+Villatobas	ES		39.902	-3.324
+Varago	IT		45.737	12.311
+Valea Seacă	RO		46.465	26.881
+Vallecorsa	IT		41.444	13.406
+Velo d'Astico	IT		45.788	11.368
+Vál	HU		47.363	18.679
+Valdilecha	ES		40.295	-3.302
+Vipperød	DK		55.668	11.740
+Villebarou	FR		47.623	1.323
+Vinkeveen	NL		52.215	4.934
+Văcăreni	RO		45.324	28.195
+Vallon-Pont-d'Arc	FR		44.407	4.394
+Vadu Izei	RO		47.888	23.932
+Valea Mărului	RO		45.839	27.691
+Vikingstad	SE		58.383	15.432
+Veringenstadt	DE		48.185	9.211
+Villeneuve-Saint-Germain	FR		49.380	3.360
+Verkhnesadovoye	UA		44.689	33.702
+Velden am Wörthersee	AT		46.613	14.041
+Vasse	AU	08	-33.693	115.268
+Vizal San Pablo	PH		15.062	120.900
+Vurpăr	RO		45.900	24.350
+Villa del Conte	IT		45.585	11.859
+Vultureşti	RO		46.817	27.533
+Voltana	IT		44.541	11.935
+Vârciorog	RO		46.967	22.300
+Vaucouleurs	FR		48.603	5.667
+Vincent	AU	04	-19.283	146.765
+Voineasa	RO		44.283	24.133
+Varzi	IT		44.823	9.198
+Veyrier-du-Lac	FR		45.882	6.177
+Villar Dora	IT		45.115	7.384
+Villa Florida	PY		-26.383	-57.150
+Villeneuve-de-Marsan	FR		43.893	-0.307
+Vögelsen	DE		53.274	10.354
+Vester Hassing	DK		57.068	10.126
+Viişoara	RO		48.167	26.733
+Vázquez	PR		18.066	-66.239
+Villa Nueva	HN		14.033	-87.133
+Vojnik	SI		46.293	15.303
+Villafranca d'Asti	IT		44.915	8.027
+Vilkija	LT		55.046	23.586
+Vendays-Montalivet	FR		45.356	-1.061
+Villablanca	ES		37.302	-7.344
+Vintrosa	SE		59.250	14.950
+Virginia	IE		53.834	-7.076
+Villar del Rey	ES		39.133	-6.848
+Villanova	IT		44.500	11.431
+Volot	RU		57.928	30.703
+Velké Poříčí	CZ		50.462	16.189
+Vrå	DK		57.354	9.942
+Vulaines-sur-Seine	FR		48.432	2.765
+Vitănești	RO		44.527	24.696
+Voh	NC		-20.967	164.700
+Villaspeciosa	IT		39.311	8.926
+Valea Mare	RO		44.938	24.239
+Vergara	CO		5.118	-74.345
+Villers-Outréaux	FR		50.036	3.299
+Velika	HR		45.454	17.661
+Veddige	SE		57.266	12.332
+Villaz	FR		45.951	6.194
+Victoria	GD		12.190	-61.707
+Villa Isla	PH		15.770	120.867
+Vieux-Berquin	FR		50.695	2.644
+Valea Chioarului	RO		47.433	23.483
+Vestbjerg	DK		57.132	9.959
+Városföld	HU		46.817	19.757
+Văculeşti	RO		47.883	26.417
+Viişoara	RO		43.783	25.167
+Viriato	PH		12.290	124.353
+Valašská Bystřice	CZ		49.415	18.110
+Verapaz	MX	05	15.712	-92.062
+Villedieu-la-Blouère	FR		47.147	-1.063
+Valencia del Ventoso	ES		38.267	-6.467
+Vizarrón	MX	22	20.832	-99.720
+Valencin	FR		45.611	5.029
+Vale Park	AU	05	-34.886	138.627
+Vlădeni	RO		44.617	27.883
+Vlădeşti	RO		45.850	28.083
+Vignacourt	FR		50.012	2.197
+Varapodio	IT		38.316	15.983
+Valle de Zaragoza	MX	06	27.451	-105.808
+Valea Vinului	RO		47.717	23.183
+Valle San Francisco	NI		12.517	-86.283
+Vathýlakkos	GR		40.769	22.709
+Velikodvorskiy	RU		55.250	40.668
+Viekšniai	LT		56.236	22.517
+Vela	RO		44.283	23.417
+Viernau	DE		50.662	10.558
+Verdun	MU		-20.234	57.555
+Valdeolmos	ES		40.637	-3.451
+Veinte de Noviembre	MX	05	16.620	-92.082
+Vondelwijk	NL		52.055	4.653
+Valea Rece	RO		46.621	25.958
+Vinnitsy	RU		60.629	34.773
+Vrgorac	HR		43.206	17.371
+Villa de García Márquez	MX	14	20.431	-102.495
+Valtournenche	IT		45.876	7.624
+Vlădila	RO		44.000	24.400
+Vrontoú	GR		40.194	22.432
+Vnanje Gorice	SI		46.007	14.422
+Vilablareix	ES		41.957	2.774
+Villa	IT		46.204	10.134
+Villa Raverio	IT		45.692	9.262
+Velyki Mezhyrichi	UA		50.654	26.866
+Valencia	US	NM	34.800	-106.700
+Valle di Maddaloni	IT		41.079	14.418
+Vadu Părului	RO		44.931	26.209
+Verton	FR		50.402	1.648
+Vlădaia	RO		44.350	23.033
+Vârlezi	RO		45.900	27.850
+Voskehat	AM		40.142	44.331
+Vincey	FR		48.337	6.331
+Vémars	FR		49.069	2.566
+Vauhallan	FR		48.734	2.203
+Veenoord	NL		52.711	6.849
+Villanueva de la Vera	ES		40.130	-5.463
+Villanova d'Albenga	IT		44.047	8.143
+Vultureni	RO		46.367	27.283
+Vișina Nouă	RO		43.874	24.418
+Val-de-Meuse	FR		48.000	5.500
+Villanueva de la Jara	ES		39.433	-1.933
+Villa Bustos	AR		-29.286	-67.021
+Velká Hleďsebe	CZ		49.962	12.668
+Vernet	FR		43.433	1.417
+Viesīte	LV		56.348	25.555
+Virginia	AU	04	-27.383	153.067
+Vacenovice	CZ		48.945	17.174
+Väike-Maarja	EE		59.126	26.250
+Vintileasca	RO		45.600	26.733
+Varzob	TJ		38.774	68.818
+Vinassan	FR		43.204	3.075
+Valerianovsk	RU		58.761	59.560
+Velký Týnec	CZ		49.550	17.334
+Velký Osek	CZ		50.099	15.186
+Villa Musone	IT		43.446	13.603
+Villa Santina	IT		46.414	12.924
+Vindeby	DK		55.045	10.613
+Vynohradne	UA		45.808	28.995
+Vernonia	US	OR	45.859	-123.193
+Villarrasa	ES		37.388	-6.606
+Verniolle	FR		43.082	1.649
+Vita	IT		37.869	12.828
+Viehhausen	AT		47.783	12.983
+Vailly-sur-Aisne	FR		49.408	3.516
+Vailhauquès	FR		43.672	3.720
+Vicoforte	IT		44.364	7.863
+Villarbasse	IT		45.045	7.468
+Veggiano	IT		45.447	11.713
+Viljakkala	FI		61.706	23.267
+Villadecanes	ES		42.580	-6.760
+Vođinci	HR		45.276	18.610
+Vendat	FR		46.164	3.354
+Vrpolje	HR		45.211	18.406
+Vincent	US	AL	33.385	-86.412
+Vad	RO		47.200	23.750
+Valley	US	NE	41.313	-96.346
+Valle Hermoso	PH		9.794	124.237
+Vârfu Câmpului	RO		47.846	26.331
+Verishen	AM		39.535	46.321
+Vineyard Haven	US	MA	41.454	-70.604
+Vöcklamarkt	AT		48.002	13.484
+Victory Lakes	US	NJ	39.633	-74.966
+Viforâta	RO		44.960	25.458
+Valea Cireșului	RO		44.167	25.564
+Varakļāni	LV		56.608	26.754
+Villefranque	FR		43.437	-1.453
+Vyazovaya	RU		54.905	58.356
+Vyaliki Trastsyanets	BY		53.851	27.714
+Versailles	US	IN	39.072	-85.252
+Vătava	RO		46.967	24.767
+Voyutychi	UA		49.551	23.106
+Villeneuve	FR		44.433	2.033
+Valle di Casies - Gsies	IT		46.768	12.179
+Vardadzor	AM		40.187	45.192
+Vaksince	MK		42.206	21.663
+Veedersburg	US	IN	40.113	-87.263
+Vista Center	US	NJ	40.159	-74.318
+Virginia	AU	03	-12.519	131.028
+Vestnes	NO		62.625	7.087
+Villa Potenza	IT		43.321	13.426
+Vârfuri	RO		45.100	25.517
+Vácszentlászló	HU		47.574	19.538
+Vărădia de Mureş	RO		46.017	22.150
+Villa Ascasubi	AR		-32.164	-63.892
+Valle Mosso	IT		45.631	8.148
+Valea Lupului	RO		47.179	27.500
+Valderrobres	ES		40.872	0.154
+Vilufushi	MV		2.503	73.309
+Villapiana Lido	IT		39.812	16.488
+Vardø	NO		70.370	31.111
+Volodarskoye	KZ		53.293	68.105
+Vern-d'Anjou	FR		47.601	-0.834
+Valley Hill	US	NC	35.298	-82.483
+Villanova	IT		44.448	12.050
+Valle Lomellina	IT		45.151	8.670
+Varnville	US	SC	32.850	-81.079
+Vilar de Figos	PT		41.476	-8.654
+Varennes-le-Grand	FR		46.719	4.869
+Vikýřovice	CZ		49.978	17.012
+Vivy	FR		47.326	-0.055
+Villalón de Campos	ES		42.100	-5.034
+Villa San Giuseppe	IT		42.869	13.745
+Villapark	NL		51.441	5.494
+Villa Lagarina	IT		45.918	11.033
+Vindinge	DK		55.623	12.139
+Vélez-Blanco	ES		37.692	-2.096
+Vlad Țepeș	RO		44.133	26.134
+Vaiusu	WS		-13.827	-171.793
+Vansbro	SE		60.509	14.225
+Ventimiglia di Sicilia	IT		37.924	13.568
+Villar Focchiardo	IT		45.112	7.238
+Valderas	ES		42.078	-5.444
+Varois-et-Chaignot	FR		47.351	5.128
+Vireux-Wallerand	FR		50.082	4.730
+Vale	RO		46.949	25.379
+Vojvoda Stepa	RS		45.685	20.655
+Višnjićevo	RS		44.967	19.290
+Viga	PH		12.516	125.053
+Victoria	SV		13.950	-88.633
+Velim	CZ		50.060	15.107
+Villers-sous-Saint-Leu	FR		49.212	2.395
+Vámosgyörk	HU		47.684	19.929
+Všetaty	CZ		50.282	14.593
+Varennes-Jarcy	FR		48.679	2.562
+Velgast	DE		54.272	12.811
+Verendin	RO		45.078	22.239
+Vert-le-Grand	FR		48.572	2.358
+Valley View	US	OH	41.388	-81.605
+Vespolate	IT		45.350	8.669
+Valadeces	MX	28	26.232	-98.677
+Vicente Guerrero	MX	05	16.680	-93.261
+Verkhniy Landekh	RU		56.840	42.597
+Vernantes	FR		47.393	0.053
+Vado	IT		44.317	11.259
+Vidzy	BY		55.395	26.631
+Verbier	CH		46.100	7.227
+Vallecitos de Zaragoza	MX	12	17.920	-101.324
+Valendries	NL		51.807	5.734
+Vale de Figueira	PT		39.306	-8.629
+Verkh-Katunskoye	RU		52.450	85.432
+Verblyany	UA		50.047	23.422
+Vicente Guerrero	MX	05	16.439	-92.712
+Vlașca	RO		44.397	27.849
+Valea Ciorii	RO		44.717	27.567
+Versonnex	FR		45.929	5.926
+Voskresenskoye	RU		53.123	56.147
+Varreddes	FR		49.003	2.928
+Valle Huejúcar (Fraccionamiento Popular) [Fraccionamiento]	MX	01	21.831	-102.750
+Voivozi	RO		47.216	22.390
+Valea Viilor	RO		46.083	24.283
+Villa Ceccolini	IT		43.865	12.836
+Vigarano Pieve	IT		44.861	11.509
+Vzmorye	RU		54.696	20.236
+Vallecillo	HN		14.517	-87.400
+Valdengo	IT		45.567	8.138
+Viganò	IT		45.725	9.325
+Vulturești	RO		45.066	25.083
+Valea Râmnicului	RO		45.364	27.042
+Vitorchiano	IT		42.466	12.172
+Vypolzovo	RU		57.877	33.699
+Vol’noye	UA		45.566	34.304
+Vilaflor	ES		28.156	-16.636
+Villaggio del Pino-Le Ginestre	IT		37.583	15.004
+Velas	PT		38.682	-28.209
+Vignole Borbera	IT		44.708	8.890
+Velký Šenov	CZ		50.991	14.374
+Vadum	DK		57.118	9.857
+Vărgata	RO		46.567	24.800
+Varetz	FR		45.194	1.451
+Verkhnyaya Inta	RU		65.981	60.309
+Vereya	RU		55.774	39.098
+Vinton	US	TX	31.951	-106.602
+Viry-Noureuil	FR		49.632	3.243
+Vouneuil-sur-Vienne	FR		46.718	0.540
+Volochayevka Vtoraya	RU		48.567	134.582
+Vatan	FR		47.074	1.810
+Vitulano	IT		41.174	14.648
+Vermești	RO		46.422	26.477
+Ventana	MX	07	25.327	-103.478
+Victor	US	ID	43.603	-111.111
+Vigolzone	IT		44.914	9.669
+Velké Březno	CZ		50.663	14.142
+Viöl	DE		54.567	9.183
+Villas Fundadores [Fraccionamiento]	MX	22	20.378	-99.909
+Vogelenzang	NL		52.319	4.578
+Vlagtwedde	NL		53.028	7.108
+Varennes-sur-Loire	FR		47.238	0.053
+Vanse	NO		58.098	6.692
+Valleyview	CA	01	55.067	-117.286
+Valergues	FR		43.668	4.061
+Vallée-Jonction	CA	10	46.374	-70.919
+Van Buren	US	ME	47.157	-67.935
+Veřovice	CZ		49.539	18.114
+Vic-sur-Cère	FR		44.980	2.625
+Villa d'Ogna	IT		45.905	9.931
+Vranovice	CZ		48.966	16.607
+Vysokinichi	RU		54.909	36.931
+Voivodeni	RO		46.700	24.633
+Vrata	RO		44.192	22.849
+Van Horn	US	TX	31.040	-104.831
+Velké Popovice	CZ		49.923	14.639
+Venoy	FR		47.805	3.637
+Villa Rumipal	AR		-32.188	-64.480
+Vrané nad Vltavou	CZ		49.936	14.377
+Veksø	DK		55.755	12.238
+Villa Ciambra	IT		38.061	13.320
+Vahto	FI		60.600	22.300
+Vignoux-sur-Barangeon	FR		47.201	2.173
+Venice	US	IL	38.672	-90.170
+Vysehrad	CZ		50.065	14.417
+Varvarivka	UA		49.538	35.201
+Valdefresno	ES		42.595	-5.494
+Valatie	US	NY	42.413	-73.673
+Valldemossa	ES		39.710	2.622
+Villadiego	ES		42.516	-4.010
+Valea Mare Pravăț	RO		45.292	25.093
+Várzea	PT		41.515	-8.584
+Vrbovsko	HR		45.369	15.078
+Vonyarcvashegy	HU		46.757	17.312
+Villamanta	ES		40.299	-4.109
+Valenzatico	IT		43.867	10.965
+Viloco	BO		-16.950	-67.550
+Veyrac	FR		45.897	1.106
+Vilamoura	PT		37.087	-8.117
+Vroutek	CZ		50.180	13.380
+Valea Largă	RO		46.623	24.078
+Vijfhuizen	NL		52.351	4.678
+Voinești	RO		45.300	25.072
+Vernon	US	AL	33.757	-88.109
+Vânjuleţ	RO		44.441	22.793
+Verd	SI		45.957	14.306
+Vehmersalmi	FI		62.761	28.029
+Verkhnetulomskiy	RU		68.607	31.796
+Vathý	GR		37.747	26.983
+Vajszló	HU		45.860	17.984
+Velden	DE		49.614	11.510
+Vâlcelele	RO		45.344	27.349
+Vinita Park	US	MO	38.690	-90.343
+Vrsar	HR		45.149	13.605
+Vuren	NL		51.825	5.046
+Vârghiş	RO		46.133	25.533
+Vysotsk	RU		60.629	28.570
+Valdeganga	ES		39.135	-1.677
+Voloder	HR		45.548	16.679
+Vietri di Potenza	IT		40.600	15.508
+Volga	US	SD	44.324	-96.926
+Vao	NC		-22.666	167.496
+Venecia	MX	10	25.778	-103.353
+Vlodrop	NL		51.133	6.076
+Vernoux-en-Vivarais	FR		44.896	4.645
+Valea Lungă Alba Romania	RO		46.126	24.045
+Vladimirci	RS		44.615	19.785
+Vermiglio	IT		46.297	10.691
+Vejano	IT		42.219	12.094
+Verin Dvin	AM		40.024	44.590
+Vulcan	CA	01	50.400	-113.252
+Vallefiorita	IT		38.776	16.461
+Varna	IT		46.739	11.637
+Verny	FR		49.007	6.204
+Villa Sola de Vega	MX	20	16.518	-96.978
+Ventoso	IT		44.586	10.688
+Villa Hidalgo	MX	20	17.184	-96.178
+Van Vleck	US	TX	29.018	-95.889
+Varzo	IT		46.207	8.253
+Verkhniy Dashkesan	AZ		40.494	46.072
+Vuadens	CH		46.615	7.017
+Villar del Olmo	ES		40.335	-3.234
+Vireux-Molhain	FR		50.079	4.724
+Vale	US	OR	43.982	-117.238
+Villandro - Villanders	IT		46.631	11.537
+Vanadjou	KM		-11.607	43.276
+Vallgorguina	ES		41.648	2.510
+Vinça	FR		42.645	2.528
+Vic-sur-Aisne	FR		49.406	3.112
+Voltlage	DE		52.433	7.750
+Villair-Amerique	IT		45.748	7.390
+Vitry-aux-Loges	FR		47.933	2.267
+Vârtop	RO		44.207	23.349
+Vârteju	RO		44.356	25.992
+Villers-Écalles	FR		49.541	0.919
+Vasīān	IR		33.491	48.049
+Vledder	NL		52.856	6.208
+Vislanda	SE		56.783	14.450
+Veazie	US	ME	44.839	-68.705
+Vâlcele	RO		45.087	26.634
+Village of the Branch	US	NY	40.856	-73.187
+Vorra	DE		49.557	11.494
+Valley of Peace	BZ		17.335	-88.835
+Voskehask	AM		40.764	43.775
+Verzino	IT		39.313	16.856
+Virginia	AU	05	-34.666	138.560
+Valvasone	IT		45.993	12.867
+Vişniovca	MD		46.333	28.448
+Veselyy Kut	UA		46.054	29.289
+Vilaión	ES		43.449	-6.705
+Viana de Cega	ES		41.529	-4.752
+Vagen	DE		47.874	11.884
+Varnell	US	GA	34.901	-84.974
+Vittsjö	SE		56.344	13.661
+Vis	HR		43.062	16.183
+Valea Seacă	RO		47.292	26.669
+Verona Walk	US	FL	26.084	-81.680
+Vernosc-lès-Annonay	FR		45.216	4.713
+Vigolo Vattaro	IT		46.005	11.198
+Volmerange-les-Mines	FR		49.443	6.081
+Vergongheon	FR		45.371	3.320
+Vamos Tamaulipas	MX	28	25.987	-98.222
+Vishnyakovskiye Dachi	RU		55.765	38.133
+Voulx	FR		48.282	2.967
+Vipava	SI		45.847	13.963
+Vachendorf	DE		47.843	12.606
+Virserum	SE		57.317	15.583
+Villeneuve-le-Comte	FR		48.814	2.830
+Vigrestad	NO		58.571	5.682
+Valle Santa	IT		41.945	12.320
+Villevaudé	FR		48.918	2.652
+Vallata	IT		41.040	15.254
+Valleymount	IE		53.104	-6.554
+Villa San Pietro	IT		39.036	8.997
+Verkhozim	RU		52.712	45.418
+Verrières	FR		48.233	4.149
+Vallon-en-Sully	FR		46.536	2.608
+Valea Vișeului	RO		47.912	24.158
+Vishennoye	UA		45.145	34.597
+Voiceşti	RO		44.600	24.283
+Vladimirskoye	RU		56.820	45.118
+Villaturiel	ES		42.518	-5.486
+Villié-Morgon	FR		46.162	4.681
+Vendres	FR		43.270	3.223
+Visano	IT		45.317	10.371
+Vampula	FI		61.017	22.700
+Villejust	FR		48.683	2.236
+Vicques	CH		47.350	7.413
+Völkenrode	DE		52.304	10.441
+Vockerode	DE		51.847	12.352
+Viimsi	EE		59.505	24.848
+Vinařice	CZ		50.176	14.091
+Viviers-lès-Montagnes	FR		43.555	2.177
+Vassy	FR		48.854	-0.675
+Viile	RO		45.807	27.947
+Verplanck	US	NY	41.253	-73.960
+Visan	FR		44.315	4.950
+Vaas	FR		47.669	0.317
+Véron	FR		48.129	3.308
+Vinningen	DE		49.156	7.552
+Van Wyksvlei	ZA		-30.351	21.825
+Veljusa	MK		41.476	22.567
+Vionnaz	CH		46.311	6.901
+Veyno	BY		53.833	30.383
+Villanova Monferrato	IT		45.181	8.478
+Vajont	IT		46.145	12.696
+Veștem	RO		45.718	24.240
+Visegrád	HU		47.785	18.971
+Vernon Center	US	NJ	41.189	-74.504
+Villacarriedo	ES		43.229	-3.811
+Vibble	SE		57.605	18.256
+Veresayevo	UA		45.306	33.500
+Vinchiaturo	IT		41.493	14.592
+Vermeş	RO		45.521	21.660
+Velasca	IT		45.632	9.355
+Villaurbana	IT		39.885	8.778
+Visim	RU		57.649	59.501
+Veliko Središte	RS		45.179	21.404
+Vers-Pont-du-Gard	FR		43.967	4.533
+Villanueva de Tapia	ES		37.183	-4.334
+Voineasa	RO		45.417	23.950
+Voykovo	UA		45.512	33.875
+Villalba de los Barros	ES		38.613	-6.509
+Viva México	MX	05	14.910	-92.326
+Vix	FR		46.365	-0.861
+Villalba	IT		37.655	13.845
+Villa de las Flores	MX	30	20.576	-97.434
+Vieira do Minho	PT		41.633	-8.143
+Villé	FR		48.343	7.303
+Villas del Campo	MX	15	19.180	-99.612
+Vilne	UA		45.983	29.049
+Valdestillas	ES		41.477	-4.771
+Valley View	US	PA	40.646	-76.539
+Ventaquemada	CO		5.368	-73.521
+Vezins	FR		47.120	-0.710
+Valea Teilor	RO		45.111	28.488
+Vevay	US	IN	38.748	-85.067
+Villamorelos	MX	05	16.480	-93.928
+Victoria	US	VA	36.995	-78.227
+Velké Hoštice	CZ		49.936	17.974
+Vare Chiquichuca	MX	15	19.355	-100.195
+Vesele	UA		44.858	34.880
+Villiers-sur-Morin	FR		48.861	2.878
+Villa Talea de Castro	MX	20	17.360	-96.250
+Vlachovo Březí	CZ		49.081	13.958
+Villaralbo	ES		41.492	-5.684
+Void-Vacon	FR		48.683	5.617
+Villanueva del Duque	ES		38.383	-5.000
+Vourey	FR		45.322	5.519
+Valdaora di Mezzo	IT		46.760	12.030
+Vérines	FR		46.194	-0.967
+Vordemwald	CH		47.276	7.901
+Villafamés	ES		40.117	-0.050
+Valburg	NL		51.912	5.790
+Villesse	IT		45.865	13.444
+Valle Vista	US	AZ	35.411	-113.863
+Vlădeni-Deal	RO		47.523	26.873
+Violès	FR		44.162	4.955
+Velké Němčice	CZ		48.992	16.672
+Vicofertile	IT		44.786	10.262
+Vanambouani	KM		-11.611	43.253
+Veisiejai	LT		54.101	23.696
+Voyager Point	AU	02	-33.959	150.974
+Villa Guerrero	MX	22	20.697	-99.761
+Vellezzo Bellini	IT		45.269	9.101
+Valea Leurzii	RO		45.162	25.485
+Vienna	US	IL	37.415	-88.898
+Volturino	IT		41.477	15.124
+Vienne-en-Val	FR		47.800	2.135
+Villeblevin	FR		48.324	3.080
+Viişoara	RO		46.283	24.600
+Volkenschwand	DE		48.600	11.883
+Vars	FR		45.762	0.124
+Vershino-Shakhtaminskiy	RU		51.300	117.888
+Veltrusy	CZ		50.270	14.329
+Val-d'Isère	FR		45.451	6.975
+Vorstenbosch	NL		51.653	5.550
+Vynohradivka	UA		46.080	29.120
+Valbandon	HR		44.919	13.813
+Vianden	LU		49.935	6.209
+Vernon Valley	US	NJ	41.237	-74.487
+Vista Hermosa	MX	20	17.796	-97.757
+Völpke	DE		52.139	11.099
+Viviers-du-Lac	FR		45.650	5.900
+Villa Poma	IT		45.002	11.114
+Vima Mică	RO		47.400	23.717
+Villacastín	ES		40.780	-4.414
+Vézénobres	FR		44.051	4.138
+Villa Montemorelos	MX	10	23.992	-104.480
+Valle Verde	MX	16	19.473	-100.355
+Vir	HR		44.303	15.085
+Vasles	FR		46.576	-0.025
+Varser	AM		40.555	44.908
+Vidče	CZ		49.442	18.095
+Vergt	FR		45.027	0.718
+Velké Heraltice	CZ		49.975	17.729
+Venegazzù	IT		45.779	12.091
+Vernayaz	CH		46.137	7.039
+Volonne	FR		44.110	6.014
+Villalpando	ES		41.865	-5.412
+Vimines	FR		45.546	5.865
+Vatne	NO		62.558	6.617
+Vergnasco	IT		45.488	8.086
+Vinné	SK		48.810	21.968
+Villanova del Ghebbo Canton	IT		45.059	11.643
+Villaseca de la Sagra	ES		39.962	-3.883
+Verdikoússa	GR		39.782	21.977
+Villersexel	FR		47.551	6.433
+Villemoirieu	FR		45.719	5.226
+Vic-sur-Seille	FR		48.782	6.531
+Viamonte	AR		-33.746	-63.098
+Velká Polom	CZ		49.864	18.093
+Vestenbergsgreuth	DE		49.688	10.652
+Vacon	FR		48.669	5.600
+Vallermosa	IT		39.364	8.796
+Viñuela	ES		36.863	-4.141
+Velilla del Río Carrión	ES		42.826	-4.846
+Valencia de Cerro Gordo	MX	11	20.601	-101.082
+Villata	IT		45.386	8.433
+Veyras	FR		44.735	4.563
+Vodice	SI		46.190	14.495
+Vianí	CO		4.874	-74.562
+Villemeux-sur-Eure	FR		48.673	1.465
+Villa Concepción del Tío	AR		-31.323	-62.814
+Velika Greda	RS		45.244	21.035
+Valla	SE		63.550	13.800
+Velars-sur-Ouche	FR		47.320	4.906
+Verbiţa	RO		44.300	23.167
+Viviez	FR		44.557	2.216
+Vidovci	HR		45.333	17.715
+Volochayevskoye	RU		54.700	20.220
+Vännäsby	SE		63.916	19.824
+Vilaça	PT		41.518	-8.484
+Vuzenica	SI		46.596	15.167
+Vrees	DE		52.883	7.767
+Venta de Bravo	MX	15	19.864	-100.173
+Viișoara	RO		44.078	28.194
+Vougy	FR		46.104	4.118
+Vergigny	FR		47.971	3.719
+Valdefuentes	ES		39.274	-6.122
+Vicente Guerrero	MX	27	17.513	-92.922
+Vágur	FO		61.473	-6.812
+Vicente Guerrero	MX	13	20.166	-99.057
+Veza	RO		46.167	23.925
+Villa Urquiza	AR		-31.648	-60.375
+Valera Fratta	IT		45.257	9.336
+Vrbátky	CZ		49.508	17.200
+Voloshka	RU		61.331	40.086
+Vaudry	FR		48.841	-0.853
+Virazeil	FR		44.507	0.220
+Voglans	FR		45.619	5.888
+Villeneuve-de-Rivière	FR		43.128	0.664
+Võhma	EE		58.628	25.548
+Valframbert	FR		48.465	0.108
+Vultureni	RO		46.967	23.567
+Villaguattera	IT		45.444	11.818
+Varna	RS		44.679	19.651
+Venise-en-Québec	CA	10	45.083	-73.132
+Vilminore di Scalve	IT		45.998	10.094
+Vadu Sorești	RO		45.315	26.877
+Vilasantar	ES		43.071	-8.122
+Vambolieri	IT		37.574	15.160
+Vineuil-Saint-Firmin	FR		49.200	2.496
+Václavovice	CZ		49.755	18.372
+Villar de Rena	ES		39.077	-5.811
+Vallfogona de Balaguer	ES		41.752	0.814
+Všestary	CZ		50.257	15.760
+Vils	AT		47.550	10.633
+Vauchrétien	FR		47.332	-0.477
+Valfabbrica	IT		43.158	12.602
+Vaglio Basilicata	IT		40.666	15.914
+Vlachovice	CZ		49.124	17.940
+Victory Gardens	US	NJ	40.876	-74.542
+Vratišinec	HR		46.478	16.458
+Venezzano	IT		44.683	11.333
+Valea Seacă	RO		47.139	26.300
+Villar-Saint-Pancrace	FR		44.873	6.627
+Venta Grande	MX	21	20.119	-98.099
+Villa Mantero	AR		-32.397	-58.746
+Viļaka	LV		57.185	27.672
+Vadu Moţilor	RO		46.400	22.967
+Vorey	FR		45.186	3.910
+Villanova	IT		43.739	12.935
+Via Lippia	IT		43.086	12.481
+Vinci	IT		43.781	10.924
+Villa Hermosa (Las Pozas)	MX	12	17.634	-101.466
+Villegailhenc	FR		43.269	2.355
+Virginia	US	IL	39.951	-90.212
+Vrsi	HR		44.265	15.232
+Văleni	RO		47.786	24.016
+Vance	US	AL	33.174	-87.234
+Valea Măcrișului	RO		44.744	26.830
+Volstroff	FR		49.311	6.260
+Valle Luz	MX	12	18.131	-100.340
+Verkhnyaya Belka	UA		49.816	24.303
+Vârtoapele de Sus	RO		44.192	25.200
+Villamanrique	ES		38.546	-2.997
+Vœuil-et-Giget	FR		45.583	0.150
+Voorst	NL		52.170	6.142
+Včelná	CZ		48.924	14.454
+Venustiano Carranza	MX	08	19.011	-104.110
+Viimsi	EE		59.501	24.863
+Vrieheide	NL		50.922	5.967
+Vybor	RU		57.227	29.166
+Valfenera	IT		44.902	7.964
+Vieux-Boucau-les-Bains	FR		43.786	-1.404
+Vitznau	CH		47.010	8.484
+Valea Grecului	RO		46.720	28.101
+Versailles	US	PA	40.316	-79.831
+Vathý	GR		37.764	23.480
+Velaine-en-Haye	FR		48.700	6.028
+Vinogradnoye	UA		44.481	34.130
+Venta del Moro	ES		39.483	-1.350
+Vernet-les-Bains	FR		42.548	2.387
+Villanova	IT		42.383	14.123
+Vărşag	RO		46.517	25.350
+Vonore	US	TN	35.590	-84.242
+Villa de los Niños	MX	14	20.407	-103.542
+Valle de San Juan	CO		4.199	-75.117
+Vicente Guerrero	MX	21	20.123	-97.654
+Valla	SE		59.017	16.383
+Viddalba	IT		40.913	8.890
+Vărădia	RO		45.078	21.547
+Vânătorii Mari	RO		44.489	25.545
+Villapiana	IT		39.846	16.455
+Vred	FR		50.395	3.230
+Valle de los Girasoles [Fraccionamiento]	MX	14	20.427	-103.199
+Verrua Savoia	IT		45.157	8.092
+Villaggio del Sole	IT		45.614	9.107
+Valdice	CZ		50.455	15.385
+Villnachern	CH		47.471	8.160
+Varzy	FR		47.358	3.386
+Valle de la Serena	ES		38.710	-5.798
+Vedeno	RU		42.969	46.096
+Venizel	FR		49.366	3.393
+Vimeiro	PT		39.178	-9.317
+Vana-Antsla	EE		57.866	26.532
+Villa Reducción	AR		-33.201	-63.862
+Vendeville	FR		50.577	3.079
+Vrbice	CZ		49.883	18.317
+Vågåmo	NO		61.875	9.097
+Vanderhoof	CA	02	54.017	-124.020
+Vlycháda	GR		38.027	23.437
+Valganna	IT		45.902	8.823
+Vailima	WS		-13.864	-171.761
+Vrigstad	SE		57.350	14.467
+Valdice	CZ		50.584	15.412
+Vignolo	IT		44.364	7.472
+Villers-Bocage	FR		49.998	2.317
+Valea Strâmbă	RO		46.694	25.600
+Villanova	IT		45.640	9.392
+Vrbov	SK		49.088	20.425
+Verona	US	KY	38.818	-84.661
+Vigneulles-lès-Hattonchâtel	FR		48.982	5.705
+Villa Fontana	IT		44.495	11.609
+Valea lui Ion	RO		46.703	26.625
+Valdepolo	ES		42.577	-5.225
+Venets	BG		43.550	26.933
+Villanueva de San Juan	ES		37.050	-5.175
+Vaie	IT		45.102	7.289
+Villiers-en-Lieu	FR		48.668	4.898
+Vista Hermosa (Cuasinada)	MX	22	20.369	-100.013
+Vanceburg	US	KY	38.599	-83.319
+Valdemārpils	LV		57.371	22.592
+Vlachópoulo	GR		37.032	21.792
+Villa Gregorio García	MX	10	25.752	-103.352
+Vignale Riotorto	IT		42.980	10.685
+Viver	ES		39.917	-0.600
+Visperterminen	CH		46.259	7.902
+Vignole-Olmi	IT		43.867	10.990
+Všenory	CZ		49.929	14.304
+Vorsha	RU		56.049	40.080
+Vaitogi	AS		-14.359	-170.735
+Vall'Alta	IT		45.761	9.826
+Vogogna	IT		46.010	8.291
+Vâlcelele	RO		44.388	27.150
+Veckenstedt	DE		51.901	10.732
+Vulcana de Sus	RO		45.101	25.358
+Valle del Río	MX	12	16.976	-99.936
+Virginias	MX	07	25.801	-103.272
+Viva Cárdenas	MX	05	16.836	-93.193
+Valea Lungă Ogrea	RO		45.060	25.590
+Vestric-et-Candiac	FR		43.741	4.259
+Văratec	RO		47.640	26.403
+Velemín	CZ		50.539	13.977
+Villimpenta	IT		45.141	11.032
+Vidnava	CZ		50.372	17.186
+Veinte de Noviembre	MX	07	25.712	-103.330
+Velda Village	US	MO	38.690	-90.294
+Villa d'Asolo	IT		45.772	11.900
+Vex	CH		46.212	7.398
+Veinge	SE		56.550	13.067
+Villanovafranca	IT		39.644	9.002
+Vallmoll	ES		41.243	1.249
+Vidim	RU		56.409	103.111
+Vyshneve	UA		45.807	29.774
+Verdi	US	NV	39.518	-119.989
+Valladolid	MX	01	22.021	-102.315
+Vattholma	SE		60.017	17.733
+Varano De' Melegari	IT		44.688	10.011
+Vezza d'Alba	IT		44.763	8.008
+Villebernier	FR		47.254	-0.032
+Vărbila	RO		45.047	26.197
+Voulangis	FR		48.853	2.896
+Vounoplagiá	GR		39.692	20.786
+Villa Rotaria	MX	12	17.194	-100.669
+Verea	ES		42.107	-8.001
+Valle di Vado	IT		44.262	8.414
+Veintiuno de Agosto	MX	30	19.725	-97.272
+Valsinni	IT		40.171	16.444
+Veurey-Voroize	FR		45.273	5.614
+Villaralto	ES		38.450	-4.983
+Villotta	IT		45.863	12.754
+Vian	US	OK	35.498	-94.970
+Valle di Cadore	IT		46.418	12.334
+Valmadonna	IT		44.974	8.611
+Vigaun	AT		47.667	13.133
+Vallarsa	IT		45.783	11.118
+Vezzano Ligure	IT		44.141	9.887
+Villoría	ES		40.994	-5.374
+Villabassa	IT		46.738	12.173
+Veselovka	UA		45.377	33.214
+Vasilikí	GR		39.640	21.704
+Verkhoyansk	RU		67.554	133.390
+Valenzuela	ES		37.776	-4.220
+Veronella	IT		45.324	11.326
+Ventas con Peña Aguilera	ES		39.610	-4.231
+Voutezac	FR		45.292	1.437
+Villafranca Sicula	IT		37.588	13.290
+Vicente Guerrero	MX	05	16.660	-93.583
+Ver-sur-Mer	FR		49.330	-0.531
+Villigen	CH		47.527	8.215
+Victoria	RO		47.610	27.167
+Vallières	FR		45.900	5.939
+Villers-sur-Coudun	FR		49.483	2.805
+Vennecy	FR		47.955	2.055
+Varybóbi	GR		38.127	23.787
+Viereck	DE		53.549	14.040
+Veltheim	CH		47.438	8.147
+Villers-la-Montagne	FR		49.472	5.825
+Vacov	CZ		49.137	13.729
+Valverde de Júcar	ES		39.719	-2.221
+Vézelise	FR		48.487	6.088
+Villarotta	IT		44.925	10.744
+Villa Hidalgo	MX	26	30.162	-109.322
+Villapinta	IT		46.175	9.680
+Villa Estense	IT		45.175	11.670
+Vălişoara	RO		46.050	22.850
+Vetrino	BG		43.317	27.433
+Varrel	DE		52.621	8.733
+Violay	FR		45.853	4.360
+Villanubla	ES		41.699	-4.842
+Villafalletto	IT		44.546	7.541
+Vysoké nad Jizerou	CZ		50.686	15.402
+Valady	FR		44.456	2.427
+Veliki Grđevac	HR		45.750	17.047
+Villa Hermosa	MX	12	16.939	-99.330
+Vlajkovac	RS		45.072	21.199
+Viesly	FR		50.153	3.462
+Villa Insurgentes (El Calabazal)	MX	32	23.743	-103.843
+Vilaxoán	ES		42.584	-8.794
+Viriville	FR		45.316	5.204
+Valff	FR		48.421	7.521
+Veinte de Noviembre	MX	30	18.865	-96.955
+Virey-le-Grand	FR		46.833	4.867
+Vesseaux	FR		44.652	4.440
+Vignacastrisi	IT		40.016	18.407
+Viechtwang	AT		47.915	13.963
+Vallbona	ES		41.463	2.184
+Viljevo	HR		45.751	18.063
+Valloire	FR		45.165	6.430
+Villagonzalo	ES		38.863	-6.197
+Viişoara	RO		47.383	22.450
+Villiers-en-Plaine	FR		46.409	-0.537
+Villagrán	MX	28	24.473	-99.491
+Vigardolo	IT		45.606	11.589
+Vălenii de Mureș	RO		46.893	24.798
+Venta de Ocotillos	MX	15	19.471	-99.959
+Valea Cânepii	RO		45.083	27.817
+Viiratsi	EE		58.360	25.637
+Vadue	IT		39.281	16.229
+Valla Beach	AU	02	-30.593	153.011
+Vank	AZ		40.053	46.544
+Valea Seacă	RO		48.081	23.165
+Vřesina	CZ		49.946	18.190
+Venzone	IT		46.330	13.138
+Vay	FR		47.555	-1.701
+Villanova	IT		44.689	10.917
+Vasilyevka	UA		45.139	34.723
+Valašská Polanka	CZ		49.262	17.997
+Virojoki	FI		60.579	27.704
+Varnávas	GR		38.224	23.923
+Valea Arini	RO		47.127	26.294
+Villa Madero	MX	12	18.411	-100.449
+Vue	FR		47.200	-1.877
+Velehrad	CZ		49.105	17.394
+Vorau	AT		47.405	15.888
+Vercel-Villedieu-le-Camp	FR		47.183	6.401
+Vernègues	FR		43.686	5.172
+Višňova	CZ		50.967	15.025
+Villefranche-d'Allier	FR		46.397	2.857
+Villaggio Residenziale	IT		45.528	9.467
+Västra Hagen	SE		57.424	11.936
+Vaale	DE		54.000	9.383
+Vigy	FR		49.204	6.299
+Vicente Guerrero	MX	26	27.538	-109.977
+Vester-Skerninge	DK		55.073	10.455
+Vigatto	IT		44.720	10.330
+Venecia	CO		4.088	-74.477
+Volkstedt	DE		51.563	11.557
+Věrovany	CZ		49.461	17.288
+Villereversure	FR		46.185	5.383
+Voetin	RO		45.444	27.146
+Vinco	US	PA	40.405	-78.856
+Villevieille	FR		43.788	4.098
+Vallabrègues	FR		43.853	4.627
+Verrua Po	IT		45.107	9.175
+Vânători	RO		47.233	27.533
+Valea Borcutului	RO		47.375	24.653
+Vignot	FR		48.774	5.609
+Veltruby	CZ		50.071	15.185
+Valdetorres	ES		38.915	-6.068
+Villedômer	FR		47.547	0.888
+Villa	IT		45.718	10.279
+Venustiano Carranza	MX	05	16.896	-93.005
+Velturno	IT		46.667	11.597
+Vinosady	SK		48.311	17.290
+Vallonga	IT		45.272	12.079
+Vò	IT		45.328	11.642
+Vardablur	AM		40.971	44.509
+Vardaman	US	MS	33.876	-89.177
+Vezza d'Oglio	IT		46.239	10.398
+Vyšné Ružbachy	SK		49.304	20.566
+Velm	AT		48.033	16.433
+Valence-d'Albigeois	FR		44.019	2.405
+Ville-sous-la-Ferté	FR		48.121	4.790
+Vladimirovo	MK		41.710	22.793
+Vijlen	NL		50.788	5.965
+Valmondois	FR		49.097	2.190
+Villa Caldari	IT		42.296	14.362
+Vărăști	RO		44.212	26.972
+Valle San Bartolomeo	IT		44.950	8.640
+Vilovatovo	RU		56.172	46.601
+Voskevan	AM		41.121	45.064
+Villeréal	FR		44.637	0.743
+Vernoil-le-Fourrier	FR		47.383	0.083
+Vestmanna	FO		62.154	-7.173
+Villers-Pol	FR		50.285	3.614
+Vinalhaven	US	ME	44.048	-68.832
+Villenbach	DE		48.509	10.615
+Virbalis	LT		54.629	22.823
+Vianne	FR		44.197	0.321
+Varvásaina	GR		37.671	21.499
+Vălcani	RO		46.004	20.399
+Villa Hidalgo (El Cubo)	MX	12	18.162	-100.315
+Vega del Sol	MX	20	17.810	-96.217
+Valros	FR		43.420	3.365
+Valea Părului	RO		45.364	26.777
+Valea Arinilor	RO		46.498	26.509
+Vadu Roșca	RO		45.639	27.457
+Vinica	HR		46.336	16.149
+Vicomoscano	IT		44.975	10.450
+Vâlcele	RO		46.298	26.600
+Vápenná	CZ		50.283	17.098
+Villiers-le-Morhier	FR		48.620	1.563
+Velika Ostrna	HR		45.788	16.281
+Villa Vicentina	IT		45.814	13.393
+Valstrona	IT		45.908	8.343
+Velký Beranov	CZ		49.405	15.667
+Vayrac	FR		44.953	1.704
+Vília	GR		38.167	23.337
+Vári	GR		37.399	24.949
+Vilallonga dels Monts	FR		42.526	2.904
+Vraneštica	MK		41.445	21.027
+Velká Dobrá	CZ		50.110	14.070
+Villette-de-Vienne	FR		45.590	4.915
+Valmeyer	US	IL	38.306	-90.277
+Vorderthiersee	AT		47.583	12.100
+Villa Escolar	AR		-26.622	-58.671
+Vladimirovka	UA		45.148	33.576
+Velva	US	ND	48.056	-100.929
+Venustiano Carranza	MX	10	24.472	-104.626
+Văleni	RO		46.903	26.389
+Valea Merilor	RO		44.472	24.656
+Vaulnaveys-le-Bas	FR		45.100	5.825
+Vegas de la Soledad y Soledad Dos	MX	30	20.945	-97.833
+Vigeland	NO		58.084	7.305
+Vestiaria	PT		39.553	-8.998
+Vermenton	FR		47.665	3.735
+Valduggia	IT		45.727	8.327
+Valea Târsei	RO		45.177	25.633
+Villamañán	ES		42.322	-5.582
+Valdecaballeros	ES		39.243	-5.190
+Vinneuf	FR		48.348	3.140
+Villa San Giovanni in Tuscia	IT		42.279	12.053
+Vienna Bend	US	LA	31.732	-93.041
+Villaudric	FR		43.830	1.432
+Vouzon	FR		47.645	2.056
+Valdottavo	IT		43.942	10.481
+Vladislavci	HR		45.459	18.574
+Vitis	AT		48.760	15.183
+Voisenon	FR		48.572	2.665
+Vergína	GR		40.487	22.317
+Verșeni	RO		47.113	26.643
+Vezzano	IT		46.079	10.997
+Vicente Herrera	MX	30	20.577	-97.350
+Valea Dacilor	RO		44.195	28.318
+Volargne	IT		45.537	10.818
+Villa Santa Maria	IT		41.951	14.351
+Venasca	IT		44.561	7.397
+Varniai	LT		55.744	22.373
+Victoria	US	KS	38.853	-99.148
+Vladislav	CZ		49.210	15.988
+Vólakas	GR		41.317	24.002
+Vishow	BY		53.980	29.992
+Varengeville-sur-Mer	FR		49.905	0.995
+Vilenka	RU		54.269	38.917
+Vigeois	FR		45.379	1.517
+Vauxhall	CA	01	50.067	-112.119
+Varrains	FR		47.223	-0.060
+Vasylivka	UA		45.522	29.163
+Vinež	HR		45.098	14.107
+Vrănești	RO		44.846	25.007
+Villiers-sur-Loir	FR		47.805	0.998
+Vierpolders	NL		51.879	4.179
+Vrani	RO		45.038	21.492
+Villepinte	FR		43.282	2.088
+Villa Unión	MX	30	18.854	-96.982
+Viškovci	HR		45.345	18.462
+Velyka Balka	UA		46.564	30.607
+Val-David	CA	10	46.033	-74.216
+Vetas	CO		7.309	-72.871
+Vistarino	IT		45.211	9.308
+Viuz-la-Chiésaz	FR		45.812	6.066
+Villers-en-Cauchies	FR		50.226	3.404
+Verdun-sur-le-Doubs	FR		46.897	5.021
+Valliquerville	FR		49.614	0.687
+Villa	IT		44.746	7.901
+Voievodeasa	RO		47.800	25.749
+Valley Heights	AU	02	-33.700	150.583
+Vicq	FR		50.407	3.603
+Vesela Dolyna	UA		46.232	29.324
+Völkershausen	DE		50.800	10.050
+Villa Minozzo	IT		44.365	10.465
+Verkhniy Yasenov	UA		48.162	24.945
+Varen	CH		46.319	7.607
+Vicente Guerrero	MX	30	17.496	-94.719
+Virós	GR		39.583	19.883
+Valle de Santa Ana	ES		38.366	-6.789
+Verkhniy Bekhtemir	RU		52.766	85.910
+Vila Seca	PT		41.500	-8.685
+Vineyard	AU	02	-33.650	150.853
+Valence-sur-Baïse	FR		43.883	0.381
+Viișoara	RO		44.881	25.427
+Villa Soriano	UY		-33.398	-58.322
+Villisca	US	IA	40.930	-94.976
+Venturada	ES		40.797	-3.620
+Villa Cuauhtémoc	MX	21	19.778	-98.097
+Vikarbyn	SE		60.917	15.017
+Vignoc	FR		48.248	-1.782
+Våler	NO		60.671	11.835
+Valgatara	IT		45.535	10.912
+Vahagni	AM		40.907	44.609
+Villeneuve-sur-Bellot	FR		48.862	3.341
+Vion	FR		47.819	-0.239
+Villecroze	FR		43.582	6.276
+Vânători	RO		46.625	21.673
+Vabalninkas	LT		55.982	24.748
+Valley Mills	US	TX	31.659	-97.472
+Villabrágima	ES		41.822	-5.115
+Voșlăbeni	RO		46.650	25.633
+Von Ormy	US	TX	29.289	-98.644
+Villegouge	FR		44.967	-0.308
+Valle del Risco	PA		9.231	-82.427
+Viișoara	RO		46.283	26.662
+Villafranca	IT		44.033	8.105
+Voćin	HR		45.618	17.548
+Verrone	IT		45.508	8.115
+Verges	ES		42.063	3.046
+Vélines	FR		44.859	0.107
+Villada	ES		42.251	-4.967
+Vânători	RO		47.360	26.764
+Velikopetrovka	RU		53.250	60.486
+Vernashen	AM		39.792	45.364
+Vieille-Église	FR		50.928	2.077
+Vojnić	HR		45.324	15.699
+Vila Verde	PT		39.155	-9.115
+Valea Șoșii	RO		46.462	26.550
+Villa Tulumba	AR		-30.396	-64.122
+Vitteaux	FR		47.397	4.542
+Vacquiers	FR		43.777	1.481
+Vendrennes	FR		46.825	-1.124
+Villeneuve-d'Olmes	FR		42.906	1.819
+Voghiera	IT		44.756	11.752
+Verkhniye Kayrakty	KZ		48.683	73.283
+Villardompardo	ES		37.837	-4.001
+Vieille-Brioude	FR		45.265	3.405
+Viadana	IT		45.372	10.336
+Valley Falls	US	KS	39.343	-95.460
+Vernon	US	NY	43.080	-75.539
+Vertheuil	FR		45.250	-0.834
+Valea Mare	RO		45.767	26.000
+Vidais	PT		39.369	-9.049
+Villiers-le-Bâcle	FR		48.728	2.119
+Villeneuve-la-Rivière	FR		42.694	2.803
+Vahan	AM		40.575	45.398
+Villalpardo	ES		39.467	-1.633
+Villa Morelos	MX	03	24.930	-111.628
+Ventoquipa	MX	13	20.034	-98.338
+Vineuil	FR		46.900	1.635
+Vallio Terme	IT		45.610	10.397
+Val di Cava	IT		43.638	10.649
+Vander	US	NC	35.032	-78.795
+Vénéjan	FR		44.197	4.654
+Vailoatai	AS		-14.361	-170.782
+Vestec	CZ		49.980	14.505
+Villa Elisa	DO		19.686	-71.270
+Valli	IT		45.223	12.190
+Van Meter	US	IA	41.532	-93.954
+Vaugrigneuse	FR		48.603	2.122
+Villasabariego	ES		42.533	-5.413
+Višňové	CZ		48.982	16.150
+Viborillas	MX	22	20.609	-100.186
+Vacqueyras	FR		44.138	4.983
+Vandiver	US	AL	33.471	-86.513
+Verchnia Rozhanka	UA		48.781	23.515
+Vogau	AT		46.732	15.608
+Vaulx-Vraucourt	FR		50.149	2.908
+Vareiá	GR		39.079	26.578
+Vintířov	CZ		50.234	12.717
+Vecoux	FR		47.978	6.637
+Villeneuve-les-Sablons	FR		49.238	2.078
+Valea Izvoarelor	RO		46.439	24.376
+Villamanín	ES		42.939	-5.657
+Velimirovac	HR		45.524	18.109
+Villiers-Saint-Georges	FR		48.650	3.408
+Vădurele	RO		46.730	26.572
+Villanova Tulo	IT		39.780	9.214
+Verkhorechye	UA		44.697	33.987
+Velké Svatoňovice	CZ		50.532	16.029
+Villagordo del Júcar	ES		39.300	-2.067
+Valle de Vázquez	MX	17	18.529	-99.069
+Viile Tecii	RO		46.933	24.483
+Vasselay	FR		47.157	2.390
+Valverde de Mérida	ES		38.911	-6.220
+Virtasalmi	FI		62.127	27.463
+Valea Popii	RO		45.093	25.022
+Villeneuve-la-Comptal	FR		43.288	1.918
+Vrbice	CZ		48.915	16.898
+Vilanova de Bellpuig	ES		41.614	0.964
+Viișoara	RO		47.103	24.449
+Vaiges	FR		48.040	-0.475
+Valle de Juárez	MX	19	25.638	-100.158
+Valea Dulce	RO		45.114	26.208
+Villandry	FR		47.340	0.510
+Virgen	AT		47.002	12.457
+Villevocance	FR		45.225	4.588
+Vaudelnay	FR		47.138	-0.207
+Viano	IT		44.545	10.624
+Villa di Chiavenna	IT		46.331	9.481
+Vicq-sur-Breuilh	FR		45.646	1.382
+Vlierden	NL		51.445	5.758
+Verkhnyaya Sysert’	RU		56.440	60.756
+Vukatanë	AL		42.028	19.548
+Vielmur-sur-Agout	FR		43.617	2.100
+Vârciorova	RO		45.327	22.352
+Villagonzalo-Pedernales	ES		42.301	-3.735
+Vranjic	HR		43.533	16.467
+Viverone	IT		45.427	8.049
+Villafufre	ES		43.266	-3.894
+Villasalto	IT		39.492	9.390
+Villamagna	IT		42.330	14.237
+Viking	CA	01	53.100	-111.768
+Ville-sous-Anjou	FR		45.373	4.851
+Vigny	FR		49.079	1.928
+Vazzano	IT		38.633	16.248
+Velké Přílepy	CZ		50.160	14.314
+Vaux-en-Bugey	FR		45.927	5.351
+Vicente Guerrero (San Javier)	MX	13	19.950	-98.901
+Vamvakoú	GR		39.337	22.420
+Vaccheria	IT		44.727	8.043
+Vrbovec	CZ		48.800	16.101
+Villanueva de Duero	ES		41.519	-4.867
+Ver-sur-Launette	FR		49.105	2.684
+Verzenay	FR		49.159	4.145
+Valteró	GR		41.179	23.320
+Villanova del Battista	IT		41.119	15.158
+Villassio	IT		45.863	9.845
+Verkhniy Fiagdon	RU		42.835	44.306
+Valle de Ángeles	HN		14.500	-87.633
+Vigliatore 2	IT		38.122	15.131
+Vulcăneasa	RO		45.774	26.910
+Valderrueda	ES		42.816	-4.947
+Villes-sur-Auzon	FR		44.057	5.234
+Veymandoo	MV		2.188	73.096
+Vydropuzhsk	RU		57.365	34.843
+Virle Piemonte	IT		44.864	7.570
+Villefranche-d'Albigeois	FR		43.896	2.330
+Vallejo (Porvenir Vallejo)	MX	25	25.883	-109.074
+Venustiano Carranza (Peña Blanca)	MX	30	17.642	-94.754
+Veinte de Noviembre (Santa Lucía)	MX	07	25.789	-103.151
+Vâlcele	RO		44.283	24.544
+Vermand	FR		49.876	3.150
+Vernante	IT		44.244	7.535
+Valthe	NL		52.846	6.894
+Valdeflores	MX	20	16.766	-96.824
+Villaz-Saint-Pierre	CH		46.721	6.956
+Vetagrande	MX	32	22.834	-102.556
+Valleraugue	FR		44.081	3.642
+Varnița	RO		44.807	25.945
+Venarotta	IT		42.883	13.492
+Villa Lempa	IT		42.793	13.644
+Velázquez	UY		-34.036	-54.281
+Valdevimbre	ES		42.420	-5.620
+Villa Hidalgo	MX	05	15.107	-92.374
+Vilovo	RS		45.249	20.155
+Vergano-Villa	IT		45.794	9.375
+Verceia	IT		46.199	9.455
+Vielle-Saint-Girons	FR		43.950	-1.300
+Vorobyovo	UA		45.329	33.247
+Villey-Saint-Étienne	FR		48.733	5.979
+Verneřice	CZ		50.661	14.301
+Vorwerk	DE		53.183	9.150
+Villeneuve-lès-Bouloc	FR		43.768	1.423
+Vidalengo	IT		45.522	9.641
+Vestbygd	NO		58.100	6.587
+Vraná	GR		38.125	23.952
+Vitigliano	IT		40.040	18.412
+Villaganzerla	IT		45.436	11.619
+Vigonzone	IT		45.273	9.310
+Villanueva de Valdegovía	ES		42.848	-3.099
+Vimory	FR		47.948	2.687
+Van Lear	US	KY	37.771	-82.758
+Villarino de los Aires	ES		41.271	-6.468
+Villebois	FR		45.848	5.433
+Vășad	RO		47.519	22.257
+Villefagnan	FR		46.013	0.079
+Vert-en-Drouais	FR		48.760	1.295
+Villa Ocampo	MX	10	26.441	-105.506
+Vernioz	FR		45.427	4.883
+Vairé	FR		46.601	-1.755
+Vorţa	RO		46.017	22.683
+Villa Sara	UY		-33.253	-54.419
+Vinsobres	FR		44.333	5.062
+Verzy	FR		49.146	4.164
+Văleni-Podgoria	RO		44.858	24.989
+Velký Újezd	CZ		49.579	17.483
+Villachiara	IT		45.354	9.931
+Viennay	FR		46.690	-0.244
+Vaquerías	MX	14	21.768	-101.654
+Valje	SE		56.063	14.544
+Vlăsceni	RO		44.585	25.599
+Viničné Šumice	CZ		49.214	16.825
+Villanueva del Campo	ES		41.985	-5.407
+Velika Pisanica	HR		45.802	17.066
+Vuka	HR		45.434	18.505
+Vendegies-sur-Écaillon	FR		50.262	3.513
+Veracruz	MX	05	16.404	-91.999
+Vâlcelele de Sus	RO		44.285	24.558
+Všemina	CZ		49.281	17.877
+Vamvakófyto	GR		41.179	23.396
+Vădurele	RO		46.933	26.251
+Vysha	RU		53.848	42.378
+Vougy	FR		46.068	6.472
+Voigtstedt	DE		51.392	11.309
+Vilajuïga	ES		42.325	3.093
+Verdú	ES		41.611	1.143
+Vische	IT		45.336	7.945
+Vas’kovo	RU		64.412	40.464
+Volxheim	DE		49.817	7.933
+Valea Părului	RO		43.917	25.466
+Velda Village Hills	US	MO	38.691	-90.287
+Vlkoš	CZ		48.990	17.164
+Vorbach	DE		49.821	11.736
+Villenouvelle	FR		43.436	1.663
+Villa San Filippo	IT		43.260	13.593
+Venhorst	NL		51.608	5.737
+Vacchereccia	IT		43.561	11.501
+Vinnitskoye	UA		44.981	33.739
+Veseuș	RO		46.275	24.143
+Voka	EE		59.408	27.583
+Vordernberg	AT		47.488	14.994
+Vanáton	GR		37.794	20.852
+Veracruz	HN		14.917	-88.783
+Veltheim	DE		52.219	10.683
+Virieu-le-Grand	FR		45.848	5.651
+Villebret	FR		46.267	2.639
+Vaida-Cămăraș	RO		46.828	23.947
+Voznesenka Persha	UA		46.132	29.479
+Vinogradnoye	UA		45.293	35.845
+Villavieja de Yeltes	ES		40.876	-6.468
+Villaggio Montegrappa	IT		45.546	11.614
+Villa Carmen	PA		8.798	-79.869
+Villabruna-Umin	IT		46.057	11.927
+Vierșani	RO		44.879	23.531
+Veliki Gaj	RS		45.288	21.171
+Vasil’sursk	RU		56.131	46.016
+Vigo di Fassa	IT		46.419	11.674
+Villadangos del Páramo	ES		42.517	-5.767
+Villetelle	FR		43.731	4.137
+Venasque	FR		43.996	5.147
+Vinninga	SE		58.450	13.267
+Vojkovice	CZ		49.051	16.608
+Vinni	EE		59.296	26.432
+Vimbodí	ES		41.401	1.051
+Villargondran	FR		45.264	6.377
+Vaccarizzo Albanese	IT		39.585	16.433
+Valea Cucului	RO		45.065	26.228
+Vorontsovka	RU		46.653	38.079
+Vilémov	CZ		49.816	15.536
+Vogar	IS		63.982	-22.385
+Verșești	RO		46.449	26.702
+Villar de Olalla	ES		40.015	-2.196
+Viile	RO		44.162	27.758
+Virieu	FR		45.484	5.476
+Volpedo	IT		44.889	8.986
+Villatuerta	ES		42.660	-1.992
+Verkhniye Osel’ki	RU		60.249	30.449
+Veruno	IT		45.689	8.529
+Villeneuve	FR		46.021	4.836
+Vintileanca	RO		44.985	26.580
+Vinuesa	ES		41.910	-2.765
+Veinte de Noviembre	MX	27	17.847	-92.589
+Viveash	AU	08	-31.879	115.997
+Viciomaggio	IT		43.432	11.773
+Vieille-Toulouse	FR		43.524	1.442
+Vokhaïkó	GR		37.948	22.792
+Villa Tejúpam de la Unión	MX	20	17.663	-97.471
+Villaquejida	ES		42.145	-5.597
+Villammare	IT		40.077	15.594
+Vista Hermosa	MX	30	17.924	-95.061
+Vieru	RO		43.888	25.810
+Vendœuvres	FR		46.800	1.350
+Valea Bolvașnița	RO		44.946	22.390
+Všeruby	CZ		49.842	13.229
+Vaida	EE		59.285	24.979
+Vlăduleni	RO		44.889	23.237
+Vvedenka	UA		46.170	29.533
+Vilémov	CZ		49.536	15.383
+Vega del Rosario	MX	05	15.521	-92.307
+Villagarcía de la Torre	ES		38.300	-6.083
+Villa Victoria	MX	16	18.757	-103.370
+Viișoara	RO		46.052	27.096
+Valea Mare	RO		45.113	23.080
+Valea Ierii	RO		46.650	23.350
+Verscio	CH		46.185	8.732
+Velaines	FR		48.699	5.305
+Vintere	RO		46.769	22.147
+Vilémov	CZ		50.991	14.335
+Villemolaque	FR		42.588	2.839
+Vaumoise	FR		49.235	2.981
+Valsamáta	GR		38.176	20.584
+Vizurești	RO		44.640	25.807
+Vălenii Șomcutei	RO		47.473	23.451
+Vorderthal	CH		47.122	8.902
+Vals Platz	CH		46.616	9.180
+Viladrau	ES		41.847	2.390
+Varennes-Saint-Sauveur	FR		46.482	5.243
+Villanova	IT		46.132	12.971
+Vigano San Martino	IT		45.726	9.896
+Villanova Canavese	IT		45.244	7.552
+Vineland	US	MN	46.164	-93.757
+Villanova	IT		45.026	9.999
+Vila do Bispo	PT		37.083	-8.911
+Vishnyovka	UA		45.960	33.953
+Villa Santa Lucia	IT		41.512	13.769
+Villarramiel	ES		42.043	-4.912
+Voltago Agordino	IT		46.271	12.006
+Villoruela	ES		41.009	-5.394
+Valle Agricola	IT		41.425	14.256
+Villa de Guadalupe	MX	24	23.374	-100.757
+Valstagna	IT		45.851	11.666
+Val Masino	IT		46.215	9.638
+Villamontán de la Valduerna	ES		42.310	-5.997
+Villanueva de Perales	ES		40.345	-4.099
+Villalvernia	IT		44.814	8.855
+Văliug	RO		45.233	22.033
+Vrbnik	HR		45.076	14.672
+Vega de Pas	ES		43.157	-3.783
+Verucchio	IT		43.982	12.423
+Villarquemado	ES		40.517	-1.265
+Villagarcía del Llano	ES		39.317	-1.833
+Villavallelonga	IT		41.871	13.621
+Vadu Săpat	RO		45.040	26.387
+Velika Polana	SI		46.572	16.347
+Villazala	ES		42.361	-5.856
+Valli del Pasubio	IT		45.740	11.264
+Vignone	IT		45.961	8.564
+Villaperuccio	IT		39.112	8.670
+Villa Latina	IT		41.615	13.836
+Venaus	IT		45.157	7.011
+Vibonati	IT		40.099	15.584
+Veržej	SI		46.584	16.165
+Vaprio D'Agogna	IT		45.603	8.554
+Vega	US	TX	35.243	-102.428
+Vauda Canavese Superiore	IT		45.279	7.619
+Vittorito	IT		42.127	13.817
+Vilamalla	ES		42.217	2.970
+Vaglia	IT		43.911	11.280
+Veladero	PA		8.231	-81.654
+Vinogradovo	UA		45.393	33.647
+Verano - Voeran	IT		46.605	11.226
+Villabuena del Puente	ES		41.381	-5.408
+Vattaro	IT		45.994	11.218
+Villalbilla de Burgos	ES		42.348	-3.781
+Vitanje	SI		46.382	15.296
+Villamejil	ES		42.562	-6.025
+Virginia City	US	NV	39.310	-119.650
+Vidovec	HR		46.283	16.241
+Veţca	RO		46.350	24.783
+Vega de Infanzones	ES		42.481	-5.533
+Villares de Órbigo	ES		42.470	-5.910
+Vilabertran	ES		42.283	2.981
+Valdemanco	ES		40.870	-3.659
+Van Buren	US	MO	36.996	-91.015
+Villa-Agnedo	IT		46.054	11.528
+Villarta	ES		39.450	-1.650
+Vatican City	VA		41.903	12.454
+Villanueva de los Castillejos	ES		37.499	-7.291
+Vallelado	ES		41.404	-4.427
+Visone	IT		44.662	8.501
+Văleni	RO		47.031	26.688
+Valgioie	IT		45.064	7.349
+Vescovado	IT		43.170	11.392
+Villanueva de Bogas	ES		39.723	-3.657
+Viadanica	IT		45.685	9.961
+Villareggia	IT		45.309	7.977
+Vama Buzăului	RO		45.597	25.994
+Villar Pellice	IT		44.809	7.160
+Vico nel Lazio	IT		41.778	13.343
+Valencia del Mombuey	ES		38.242	-7.120
+Vega de Valcarce	ES		42.661	-6.938
+Varena	IT		46.307	11.458
+Villaumbrales	ES		42.089	-4.614
+Villa	IT		46.746	11.762
+Visso	IT		42.934	13.081
+Villar del Buey	ES		41.330	-6.189
+Valdeavero	ES		40.630	-3.330
+Vicolungo	IT		45.475	8.461
+Valenzuela de Calatrava	ES		38.853	-3.772
+Verla	IT		46.158	11.153
+Västanfjärd	FI		60.050	22.683
+Vandoies di Sotto	IT		46.816	11.722
+Villagómez	CO		5.274	-74.196
+Vallebona	IT		43.812	7.665
+Vransko	SI		46.244	14.951
+Víznar	ES		37.231	-3.554
+Valdemaqueda	ES		40.512	-4.297
+Valdeobispo	ES		40.083	-6.248
+Villandro	IT		46.631	11.538
+Vilademuls	ES		42.139	2.888
+Vilabella	ES		41.248	1.330
+Villa	IT		46.331	9.484
+Villapalacios	ES		38.575	-2.634
+Valverde de Llerena	ES		38.217	-5.817
+Valva	IT		40.739	15.268
+Vailoa	WS		-13.756	-172.307
+Viștea de Jos	RO		45.796	24.724
+Visco	IT		45.892	13.349
+Varenna	IT		46.011	9.285
+Vichten	LU		49.803	6.000
+Villanueva de las Torres	ES		37.557	-3.089
+Velo	IT		45.790	11.367
+Vallo Torinese	IT		45.224	7.496
+Villar del Pedroso	ES		39.706	-5.196
+Válor	ES		36.996	-3.083
+Villa-Borgo	IT		44.699	7.935
+Volčja Draga	SI		45.907	13.678
+Vilviestre del Pinar	ES		41.950	-3.078
+Vulturu	RO		44.650	28.267
+Vrýses	GR		35.376	24.201
+Villarejo de Fuentes	ES		39.788	-2.697
+Villalobón	ES		42.030	-4.503
+Villagrande	IT		42.295	13.300
+Villamaina	IT		40.971	15.089
+Valdealgorfa	ES		40.991	-0.034
+Villamuelas	ES		39.818	-3.735
+Velike Lašče	SI		45.832	14.636
+Villamarzana	IT		45.015	11.692
+Villamiel de Toledo	ES		39.965	-4.126
+Valdeverdeja	ES		39.796	-5.245
+Villargordo del Cabriel	ES		39.533	-1.433
+Vercana	IT		46.159	9.335
+Valmacca	IT		45.101	8.584
+Villanova d'Ardenghi	IT		45.170	9.041
+Vikeså	NO		58.638	6.091
+Valtopina	IT		43.057	12.753
+Varisella	IT		45.208	7.484
+Valencia de las Torres	ES		38.405	-6.004
+Varmo	IT		45.886	12.990
+Valverde de la Vera	ES		40.123	-5.495
+Villagatón	ES		42.634	-6.162
+Vestenanova	IT		45.574	11.229
+Villafranca de Ebro	ES		41.575	-0.650
+Vezzi Portio	IT		44.229	8.365
+Vetto	IT		44.484	10.339
+Ventalló	ES		42.149	3.026
+Valoria la Buena	ES		41.800	-4.531
+Villanovaforru	IT		39.632	8.870
+Villaluenga de la Vega	ES		42.524	-4.765
+Villamanrique de Tajo	ES		40.066	-3.237
+Veglio	IT		45.641	8.114
+Ventas de Huelma	ES		37.068	-3.820
+Villalba de la Sierra	ES		40.234	-2.089
+Val de San Lorenzo	ES		42.418	-6.124
+Villalba del Rey	ES		40.347	-2.639
+Villazanzo de Valderaduey	ES		42.536	-4.965
+Villetta Barrea	IT		41.776	13.939
+Vallesaccarda	IT		41.063	15.252
+Villaobispo de Otero	ES		42.501	-6.058
+Vescovana	IT		45.134	11.713
+Vignale Monferrato	IT		45.010	8.397
+Vivaro	IT		46.077	12.779
+Villares del Saz	ES		39.841	-2.504
+Valdaracete	ES		40.208	-3.191
+Vodo	IT		46.419	12.246
+Vara de Rey	ES		39.426	-2.294
+Villafáfila	ES		41.847	-5.615
+Vezdemarbán	ES		41.655	-5.366
+Villa Pesqueira	MX	26	29.118	-109.968
+Vighizzolo d'Este	IT		45.176	11.625
+Vallecillo	MX	19	26.660	-99.987
+Villamayor de Calatrava	ES		38.788	-4.138
+Villa del Campo	ES		40.142	-6.427
+Villa Hidalgo	MX	10	26.248	-104.914
+Villarroya de la Sierra	ES		41.463	-1.784
+Villalcampo	ES		41.522	-6.048
+Villamiel	ES		40.186	-6.784
+Vilminore	IT		45.998	10.095
+Villaharta	ES		38.133	-4.900
+Villaromagnano	IT		44.850	8.888
+Viehhofen	AT		47.367	12.733
+Villalba de Duero	ES		41.682	-3.744
+Villaverde de Medina	ES		41.307	-5.026
+Vienna	US	MO	38.187	-91.947
+Vecpiebalga	LV		57.061	25.816
+Villefranche	IT		45.741	7.416
+Voulgaréli	GR		39.372	21.183
+Villaminaya	ES		39.712	-3.871
+Valverde del Majano	ES		40.957	-4.235
+Vigo di Ton	IT		46.265	11.088
+Villalago	IT		41.935	13.839
+Videm	SI		45.850	14.694
+Vinaixa	ES		41.433	0.983
+Voltaggio	IT		44.621	8.843
+Valdeaveruelo	ES		40.635	-3.314
+Villamantilla	ES		40.338	-4.130
+Valderrey	ES		42.394	-6.022
+Valfloriana	IT		46.250	11.343
+Vilaplana	ES		41.228	1.033
+Värska	EE		57.958	27.638
+Villarrín de Campos	ES		41.795	-5.639
+Villanueva de la Sierra	ES		40.202	-6.406
+Villamor de los Escuderos	ES		41.252	-5.575
+Villanueva de las Manzanas	ES		42.473	-5.480
+Vallada Agordina	IT		46.364	11.934
+Villanova Solaro	IT		44.730	7.574
+Valdelosa	ES		41.172	-5.784
+Valzemola	IT		44.364	8.174
+Valea Sării	RO		45.877	26.799
+Villa	IT		46.780	11.690
+Viracachá	CO		5.436	-73.296
+Vicalvi	IT		41.678	13.708
+Volongo	IT		45.212	10.302
+Villanueva de Sigena	ES		41.716	-0.009
+Vals	AT		47.045	11.533
+Vestignè	IT		45.387	7.953
+Villalba de los Alcores	ES		41.864	-4.861
+Ventotene	IT		40.794	13.428
+Vikevåg	NO		59.098	5.698
+Vilvestre	ES		41.106	-6.727
+Varese Ligure	IT		44.377	9.594
+Vignola	IT		46.088	9.275
+Villafrechós	ES		41.893	-5.219
+Villardeciervos	ES		41.942	-6.286
+Vernasca	IT		44.799	9.831
+Villarejo-Periesteban	ES		39.872	-2.441
+Villagrande	IT		43.841	12.360
+Vernazza	IT		44.135	9.683
+Villastar	ES		40.281	-1.151
+Valdelacasa de Tajo	ES		39.726	-5.283
+Valdieri	IT		44.278	7.398
+Villalfonsina	IT		42.160	14.569
+Valbuena de Duero	ES		41.643	-4.293
+Venialbo	ES		41.390	-5.536
+Villaluenga del Rosario	ES		36.696	-5.386
+Villanuova	IT		45.442	9.867
+Varsi	IT		44.663	9.849
+Villasbuenas de Gata	ES		40.179	-6.626
+Villar San Costanzo	IT		44.485	7.382
+Vastogirardi	IT		41.775	14.258
+Vas	IT		45.938	11.936
+Villaconejos de Trabaque	ES		40.401	-2.320
+Villabáñez	ES		41.631	-4.522
+Viggianello	IT		39.972	16.085
+Vigolo	IT		45.716	10.026
+Villar de Cañas	ES		39.779	-2.564
+Villamayor de Campos	ES		41.899	-5.360
+Vegaquemada	ES		42.819	-5.332
+Villa Basilica	IT		43.926	10.645
+Villarejo del Valle	ES		40.286	-4.997
+Viù	IT		45.238	7.373
+Viarigi	IT		44.981	8.357
+Viveros	ES		38.773	-2.574
+Voloiac	RO		44.617	23.100
+Videm pri Ptuju	SI		46.369	15.906
+Voltago	IT		46.273	12.006
+Villalmanzo	ES		42.048	-3.742
+Villanova del Sillaro	IT		45.238	9.482
+Villademor de la Vega	ES		42.270	-5.568
+Valea Salciei	RO		45.496	26.824
+Vega de Tera	ES		41.998	-6.125
+Vallelonga	IT		38.647	16.297
+Villa Santo Stefano	IT		41.517	13.310
+Vinebre	ES		41.185	0.589
+Valero	ES		40.535	-5.943
+Valle de Matamoros	ES		38.379	-6.804
+Vistrorio	IT		45.441	7.768
+Villalar de los Comuneros	ES		41.550	-5.138
+Villoldo	ES		42.248	-4.596
+Villahermosa del Río	ES		40.203	-0.420
+Valdepiélago	ES		42.869	-5.398
+Vendone	IT		44.077	8.071
+Vico Canavese	IT		45.493	7.779
+Volturara Appula	IT		41.496	15.052
+Vera de Moncayo	ES		41.824	-1.688
+Villanueva de las Cruces	ES		37.628	-7.024
+Vistabella del Maestrazgo	ES		40.296	-0.294
+Viguera	ES		42.309	-2.533
+Vervò	IT		46.310	11.120
+Villaseco de los Reyes	ES		41.163	-6.184
+Villanueva de San Carlos	ES		38.622	-3.909
+Villariezo	ES		42.270	-3.733
+Villagarcía de Campos	ES		41.780	-5.192
+Valjunquera	ES		40.953	0.026
+Valdepiélagos	ES		40.758	-3.462
+Villaverde y Pasaconsol	ES		39.771	-2.266
+Vadocondes	ES		41.639	-3.574
+Viktorsberg	AT		47.301	9.675
+Vårdö	AX		60.250	20.383
+Villanueva de Oscos	ES		43.311	-6.986
+Villanúa	ES		42.680	-0.538
+Villa Lourdes	PA		7.811	-80.470
+Vallemaio	IT		41.366	13.808
+Villaverde de Guadalimar	ES		38.455	-2.518
+Villaviudas	ES		41.962	-4.342
+Vernate	IT		45.316	9.060
+Vinadio	IT		44.308	7.176
+Villota del Páramo	ES		42.552	-4.849
+Valle Salimbene	IT		45.172	9.234
+Villoslada de Cameros	ES		42.114	-2.674
+Valdecarros	ES		40.770	-5.422
+Villa Rendena	IT		46.063	10.713
+Villafranca de Duero	ES		41.433	-5.302
+Verduno	IT		44.666	7.931
+Villaflores	ES		41.084	-5.234
+Viloria	ES		41.446	-4.384
+Villalengua	ES		41.435	-1.841
+Viento Frío	PA		9.583	-79.407
+Villa Mainero	MX	28	24.560	-99.616
+Valpelline	IT		45.825	7.325
+Valdefuentes del Páramo	ES		42.324	-5.831
+Vinchio	IT		44.811	8.321
+Villabrázaro	ES		42.054	-5.727
+Valgrana	IT		44.412	7.381
+Villanova Marchesana	IT		44.992	11.967
+Villeneuve	IT		45.702	7.207
+Villa Sant'Angelo	IT		42.270	13.537
+Villalazán	ES		41.494	-5.589
+Villafranca del Campo	ES		40.695	-1.347
+Verano	IT		46.604	11.226
+Vik	NO		65.313	12.167
+Villa Sant'Antonio	IT		39.859	8.902
+Villel	ES		40.235	-1.186
+Veitsch	AT		47.578	15.495
+Vassena	IT		45.930	9.284
+Voiteștii din Vale	RO		45.087	23.421
+Villamandos	ES		42.181	-5.594
+Valdina	IT		38.194	15.370
+Villanázar	ES		41.974	-5.780
+Villar del Humo	ES		39.867	-1.633
+Vallerotonda	IT		41.551	13.914
+Villaescusa	ES		41.206	-5.464
+Vadillo de la Guareña	ES		41.282	-5.353
+Villar de Ciervo	ES		40.738	-6.739
+Villamesías	ES		39.246	-5.873
+Viticuso	IT		41.525	13.970
+Valea Lungă-Cricov	RO		45.065	25.588
+Vall de Ebo	ES		38.806	-0.159
+Valverde de Alcalá	ES		40.417	-3.296
+Veddasca	IT		46.071	8.799
+Valgoglio	IT		45.975	9.914
+Valdeltormo	ES		40.987	0.083
+Vilanova de Sau	ES		41.947	2.384
+Verretto	IT		45.040	9.113
+Villahoz	ES		42.076	-3.913
+Valcabado	ES		41.549	-5.749
+Vegacervera	ES		42.888	-5.535
+Villa Verde	IT		39.796	8.821
+Vitomarci	SI		46.528	15.939
+Vilanant	ES		42.255	2.889
+Valseca	ES		40.999	-4.175
+Vacri	IT		42.298	14.229
+Valverde de Burguillos	ES		38.327	-6.536
+Villanova Truschedu	IT		39.988	8.752
+Vidracco	IT		45.431	7.757
+Villar de Peralonso	ES		41.032	-6.223
+Valdelacasa	ES		40.506	-5.764
+Valdastillas	ES		40.133	-5.879
+Villangómez	ES		42.180	-3.774
+Villamoronta	ES		42.403	-4.699
+Villanueva de Azoague	ES		41.976	-5.664
+Viandar de la Vera	ES		40.122	-5.536
+Vallepietra	IT		41.926	13.231
+Vecinos	ES		40.779	-5.878
+Villa del Bosco	IT		45.617	8.278
+Villa d'Oneta	IT		45.871	9.819
+Vilamacolum	ES		42.196	3.057
+Valdefuentes de Sangusín	ES		40.466	-5.833
+Villanueva de Alcorón	ES		40.680	-2.251
+Veganzones	ES		41.193	-3.993
+Villarboit	IT		45.438	8.337
+Villavicencio de los Caballeros	ES		42.059	-5.236
+Valverdón	ES		41.047	-5.770
+Villalba de la Lampreana	ES		41.743	-5.641
+Villalobos	ES		41.946	-5.475
+Vigo di Cadore	IT		46.499	12.471
+Valvestino	IT		45.761	10.595
+Vega de Tirados	ES		41.025	-5.887
+Villanueva de Gumiel	ES		41.738	-3.627
+Villasrubias	ES		40.338	-6.639
+Villa-Nabian	IT		45.690	7.705
+Villa	IT		44.719	7.941
+Valle dell'Angelo	IT		40.344	15.368
+Velayos	ES		40.842	-4.623
+Venetico Superiore	IT		38.193	15.381
+Villar de Domingo García	ES		40.237	-2.291
+Vione	IT		46.248	10.448
+Villasbuenas	ES		41.063	-6.597
+Villar de la Yegua	ES		40.726	-6.704
+Villadepera	ES		41.547	-6.133
+Valdeolivas	ES		40.506	-2.445
+Vesime	IT		44.635	8.227
+Vottignasco	IT		44.564	7.579
+Villavaliente	ES		39.126	-1.457
+Villette	IT		46.132	8.534
+Valle del Rosario	MX	06	27.319	-106.296
+Villaveza del Agua	ES		41.919	-5.679
+Vall de Almonacid	ES		39.900	-0.450
+Velilla de Ebro	ES		41.374	-0.435
+Villar de Torre	ES		42.371	-2.864
+Vegas de Matute	ES		40.795	-4.278
+Villarrubio	ES		39.945	-2.894
+Villaherreros	ES		42.390	-4.463
+Valle Castellana	IT		42.736	13.497
+Villalube	ES		41.610	-5.545
+Vallanzengo	IT		45.603	8.150
+Vingt Cinq	MU		-10.388	56.618
+Villafruela	ES		41.916	-3.914
+Villatoro	ES		40.556	-5.113
+Velefique	ES		37.194	-2.402
+Vorderhornbach	AT		47.370	10.539
+Velo Veronese	IT		45.607	11.095
+Villanueva de los Caballeros	ES		41.759	-5.248
+Valdemaluque	ES		41.674	-3.046
+Villarrabé	ES		42.421	-4.784
+Villar de Plasencia	ES		40.138	-6.028
+Vanzone	IT		45.978	8.108
+Valdemorales	ES		39.206	-6.066
+Vallinfreda	IT		42.085	12.996
+Villasandino	ES		42.371	-4.110
+Villa San Secondo	IT		45.005	8.135
+Villagonzalo de Tormes	ES		40.892	-5.497
+Villalba de Guardo	ES		42.722	-4.823
+Villa Celiera	IT		42.382	13.859
+Vigliano d'Asti	IT		44.834	8.229
+Vinzaglio	IT		45.323	8.520
+Villamediana	ES		42.050	-4.361
+Vestreno	IT		46.083	9.325
+Videmala	ES		41.613	-6.041
+Vessalico	IT		44.046	7.960
+Viale	IT		45.000	8.050
+Villar del Cobo	ES		40.395	-1.673
+Vialfrè	IT		45.381	7.818
+Valentino	IT		45.156	8.094
+Vivaro Romano	IT		42.101	13.006
+Villanueva del Conde	ES		40.510	-6.012
+Valdeavellano de Tera	ES		41.942	-2.576
+Villel de Mesa	ES		41.126	-1.991
+Villaturde	ES		42.378	-4.671
+Valbona	ES		40.229	-0.811
+Verghereto	IT		43.794	12.005
+Villafeliche	ES		41.195	-1.510
+Valdenebro de los Valles	ES		41.857	-4.970
+Villasarracino	ES		42.412	-4.496
+Villamayor de los Montes	ES		42.106	-3.765
+Villar de la Encina	ES		39.637	-2.522
+Velkua	FI		60.467	21.667
+Villamol	ES		42.428	-5.048
+Veleso	IT		45.909	9.181
+Vasia	IT		43.933	7.954
+Vertavillo	ES		41.833	-4.327
+Valda	IT		46.207	11.265
+Villarmayor	ES		41.015	-5.972
+Villarluengo	ES		40.648	-0.531
+Villardefrades	ES		41.724	-5.255
+Villavaquerín	ES		41.664	-4.463
+Valdesamario	ES		42.721	-5.951
+Villalcázar de Sirga	ES		42.317	-4.543
+Valverde-Enrique	ES		42.305	-5.300
+Valdehúncar	ES		39.837	-5.523
+Valnegra	IT		45.949	9.689
+Valdecañas de Tajo	ES		39.759	-5.620
+Valdunquillo	ES		42.042	-5.313
+Villaverde de Guareña	ES		41.064	-5.525
+Villaseco de los Gamitos	ES		41.036	-6.113
+Virginia City	US	MT	45.294	-111.946
+Villatoya	ES		39.333	-1.300
+Villavieja del Lozoya	ES		41.004	-3.669
+Villavendimio	ES		41.578	-5.343
+Villarreal de Huerva	ES		41.190	-1.290
+Villa General Roca	AR		-32.665	-66.451
+Vallerriquito	PA		7.622	-80.320
+Valdescorriel	ES		42.022	-5.510
+Viola	IT		44.291	7.965
+Valeggio	IT		45.151	8.861
+Vallanca	ES		40.067	-1.333
+Vedeseta	IT		45.891	9.539
+Valsalabroso	ES		41.110	-6.503
+Velascálvaro	ES		41.230	-4.972
+Villadeati	IT		45.072	8.168
+Villarroya de los Pinares	ES		40.529	-0.669
+Valdepeñas de la Sierra	ES		40.906	-3.384
+Visiedo	ES		40.686	-1.097
+Villar de Gallimazo	ES		40.954	-5.288
+Vilopriu	ES		42.100	3.000
+Villalba de los Llanos	ES		40.800	-5.976
+Valdorros	ES		42.172	-3.709
+Val Rezzo	IT		46.073	9.112
+Villamartín de Don Sancho	ES		42.569	-5.061
+Valsavarenche	IT		45.592	7.210
+Villarta-Quintana	ES		42.430	-3.048
+Valdezate	ES		41.602	-3.930
+Valle Rico	PA		7.620	-80.351
+Voltido	IT		45.112	10.333
+Villar del Río	ES		42.076	-2.351
+Villaquirán de los Infantes	ES		42.227	-4.009
+Villán de Tordesillas	ES		41.593	-4.922
+Villalba de Rioja	ES		42.610	-2.887
+Valderrodrigo	ES		41.065	-6.509
+Villamoratiel de las Matas	ES		42.398	-5.301
+Villafranca de la Sierra	ES		40.498	-5.230
+Vilamaniscle	ES		42.375	3.068
+Valdemoro-Sierra	ES		40.100	-1.767
+Villanueva de Campeán	ES		41.354	-5.770
+Vilanova de Prades	ES		41.349	0.957
+Valpalmas	ES		42.158	-0.855
+Valloriate	IT		44.338	7.374
+Villanueva del Campillo	ES		40.576	-5.180
+Vidrà	ES		42.123	2.310
+Villanueva del Aceral	ES		41.041	-4.854
+Vellisca	ES		40.130	-2.814
+Villares de Yeltes	ES		40.866	-6.413
+Villanueva de las Peras	ES		41.935	-5.979
+Vallesa de la Guareña	ES		41.135	-5.326
+Villaverde del Monte	ES		42.161	-3.814
+Vega de Valdetronco	ES		41.594	-5.113
+Villa Santa Lucia degli Abruzzi	IT		42.333	13.778
+Villardiegua de la Ribera	ES		41.535	-6.183
+Verrayes	IT		45.763	7.535
+Valtiendas	ES		41.479	-3.918
+Valgañón	ES		42.318	-3.067
+Villaferrueña	ES		42.098	-5.858
+Villalbarba	ES		41.604	-5.213
+Villaga	IT		45.403	11.535
+Vaglio Serra	IT		44.796	8.339
+Vega de Villalobos	ES		41.971	-5.463
+Valdenebro	ES		41.572	-2.964
+Valdelinares	ES		40.391	-0.606
+Vicoli	IT		42.341	13.897
+Vegalatrave	ES		41.700	-6.107
+Villodrigo	ES		42.144	-4.095
+Vobbia	IT		44.601	9.039
+Villar de los Navarros	ES		41.159	-1.042
+Villafuerte	ES		41.734	-4.324
+Vallecillo	ES		42.356	-5.211
+Villamayor de Monjardín	ES		42.629	-2.105
+Valle de Tabladillo	ES		41.363	-3.840
+Villaflor	ES		40.759	-4.874
+Villanueva de Gómez	ES		40.883	-4.716
+Villabraz	ES		42.247	-5.446
+Villa del Rey	ES		39.660	-6.821
+Velliza	ES		41.579	-4.947
+Villa Collemandina	IT		44.159	10.398
+Villeguillo	ES		41.253	-4.580
+Villameriel	ES		42.528	-4.476
+Ventosa	ES		42.405	-2.627
+Vadillo	ES		41.791	-3.008
+Vega de Ruiponce	ES		42.188	-5.115
+Vendrogno	IT		46.034	9.329
+Villalba de Perejil	ES		41.327	-1.548
+Velilla	ES		41.559	-5.005
+Villaveza de Valverde	ES		41.945	-5.848
+Villamartín de Campos	ES		42.016	-4.664
+Villaescusa de Roa	ES		41.727	-4.017
+Ventosa de la Cuesta	ES		41.411	-4.829
+Valleve	IT		46.028	9.744
+Ventosa del Río Almar	ES		40.927	-5.348
+Vacone	IT		42.381	12.645
+Villarmentero de Esgueva	ES		41.685	-4.546
+Vega de Santa María	ES		40.836	-4.643
+Villanueva de San Mancio	ES		41.928	-5.012
+Valverdejo	ES		39.617	-2.017
+Villanueva de Argaño	ES		42.380	-3.934
+Valdeande	ES		41.833	-3.528
+Velamazán	ES		41.449	-2.699
+Villar del Pozo	ES		38.850	-3.964
+Villardondiego	ES		41.585	-5.377
+Villalbilla de Gumiel	ES		41.806	-3.626
+Valverde de Campos	ES		41.835	-5.037
+Vadillo de la Sierra	ES		40.606	-5.125
+Viñuelas	ES		40.792	-3.340
+Villahán	ES		42.050	-4.131
+Valtorres	ES		41.299	-1.741
+Valtorta	IT		45.977	9.535
+Villaciervos	ES		41.762	-2.627
+Villa Faraldi	IT		43.968	8.090
+Villalgordo del Marquesado	ES		39.682	-2.509
+Villar de Samaniego	ES		41.117	-6.433
+Vallclara	ES		41.380	0.983
+Villaco	ES		41.740	-4.268
+Villegas	ES		42.469	-4.018
+Valle de Cerrato	ES		41.880	-4.362
+Villalonso	ES		41.598	-5.298
+Velilla de Jiloca	ES		41.275	-1.604
+Valderrodilla	ES		41.563	-2.808
+Viniegra de Abajo	ES		42.151	-2.889
+Valdearcos de la Vega	ES		41.643	-4.048
+Varco Sabino	IT		42.240	13.021
+Viguí	PA		8.339	-81.498
+Villasexmir	ES		41.639	-5.065
+Villanuño de Valdavia	ES		42.508	-4.519
+Valdehijaderos	ES		40.419	-5.848
+Villahermosa del Campo	ES		41.109	-1.247
+Valdelageve	ES		40.369	-5.991
+Villamalur	ES		39.967	-0.400
+Villovieco	ES		42.295	-4.481
+Villanueva del Rebollar	ES		42.241	-4.743
+Villaverde-Mogina	ES		42.160	-4.050
+Villanueva de Cameros	ES		42.167	-2.650
+Valdeavellano	ES		40.666	-2.970
+Valluércanes	ES		42.572	-3.121
+Viganella	IT		46.052	8.194
+Vaiatu	EE		59.356	25.995
+Villar del Salz	ES		40.682	-1.500
+Villacid de Campos	ES		42.083	-5.125
+Valverde de los Arroyos	ES		41.129	-3.233
+Valmadrid	ES		41.444	-0.885
+Valdunciel	ES		41.085	-5.672
+Villafrades de Campos	ES		42.079	-4.971
+Valle San Nicolao	IT		45.607	8.141
+Villárdiga	ES		41.819	-5.464
+Vidayanes	ES		41.910	-5.574
+Valles de Palenzuela	ES		42.120	-4.077
+Vervio	IT		46.253	10.241
+Vita	ES		40.812	-5.006
+Valdemora	ES		42.195	-5.427
+Valdemeca	ES		40.224	-1.744
+Vallés	ES		38.985	-0.557
+Villadoz	ES		41.162	-1.288
+Villasayas	ES		41.353	-2.610
+Villar de Fallaves	ES		41.925	-5.340
+Vierlas	ES		41.927	-1.681
+Valfermoso de Tajuña	ES		40.619	-2.954
+Villasila de Valdavia	ES		42.532	-4.559
+Villamayor de Treviño	ES		42.460	-4.119
+Villalobar de Rioja	ES		42.491	-2.964
+Valdefinjas	ES		41.452	-5.452
+Valdearenas	ES		40.809	-2.992
+Valdecasa	ES		40.659	-5.012
+Valfarta	ES		41.557	-0.133
+Villagómez la Nueva	ES		42.156	-5.142
+Villagalijo	ES		42.349	-3.192
+Villacarralón	ES		42.190	-5.043
+Vivel del Río Martín	ES		40.871	-0.939
+Villalcón	ES		42.293	-4.855
+Villaconancio	ES		41.872	-4.224
+Vallibona	ES		40.603	0.046
+Valdeolmillos	ES		42.041	-4.400
+Villamuriel de Campos	ES		41.947	-5.207
+Val de San Martín	ES		41.058	-1.449
+Villarroya del Campo	ES		41.143	-1.324
+Villaprovedo	ES		42.517	-4.396
+Volpara	IT		44.954	9.297
+Viñegra de Moraña	ES		40.851	-4.921
+Villavellid	ES		41.692	-5.276
+Villanova Biellese	IT		45.482	8.194
+Villavelayo	ES		42.131	-2.986
+Villanueva de Jiloca	ES		41.076	-1.390
+Valdemorillo de la Sierra	ES		40.033	-1.783
+Villa de Ves	ES		39.200	-1.233
+Villaverde de Rioja	ES		42.321	-2.814
+Valdelcubo	ES		41.226	-2.676
+Villazopeque	ES		42.198	-4.017
+Villaseca de Uceda	ES		40.818	-3.349
+Villarejo de Montalbán	ES		39.769	-4.573
+Ventrosa	ES		42.157	-2.850
+Villalaco	ES		42.156	-4.259
+Volpeglino	IT		44.893	8.959
+Viana de Duero	ES		41.534	-2.461
+Villa Biscossi	IT		45.091	8.787
+Villar de Corneja	ES		40.475	-5.433
+Villacidaler	ES		42.222	-4.977
+Villaeles de Valdavia	ES		42.566	-4.583
+Villoruebo	ES		42.169	-3.442
+Valleruela de Sepúlveda	ES		41.188	-3.773
+Vallejera de Riofrío	ES		40.409	-5.719
+Villanueva de Viver	ES		40.050	-0.650
+Villaldemiro	ES		42.247	-3.985
+Valbuena de Pisuerga	ES		42.146	-4.240
+Valle e Castello	IT		43.037	13.087
+Villaescusa la Sombría	ES		42.415	-3.418
+Valsalobre	ES		40.617	-2.093
+Valleruela de Pedraza	ES		41.179	-3.807
+Vidra	RO		46.368	22.888
+Valverde de Valdelacasa	ES		40.482	-5.781
+Valdeprados	ES		40.818	-4.257
+Villatuelda	ES		41.815	-3.881
+Valdegrudas	ES		40.711	-3.012
+Viloria de Rioja	ES		42.426	-3.101
+Villamuera de la Cueza	ES		42.258	-4.689
+Vallarta de Bureba	ES		42.589	-3.205
+Valderrábano	ES		42.607	-4.656
+Villaverde de Montejo	ES		41.522	-3.655
+Villaseca de Henares	ES		40.961	-2.798
+Villanueva de Teba	ES		42.649	-3.163
+Villageriz	ES		42.119	-5.956
+Velezzo Lomellina	IT		45.163	8.737
+Vizcaínos	ES		42.104	-3.267
+Villar del Ala	ES		41.916	-2.567
+Villaquirán de la Puebla	ES		42.283	-4.100
+Villores	ES		40.675	-0.200
+Vocca	IT		45.833	8.196
+Villarmuerto	ES		41.056	-6.363
+Villares de Jadraque	ES		41.102	-3.026
+Villanueva del Rebollar de la Sierra	ES		40.891	-1.008
+Villalán de Campos	ES		42.015	-5.236
+Villar del Infantado	ES		40.455	-2.479
+Villabaruz de Campos	ES		42.011	-4.996
+Valdehorna	ES		41.073	-1.424
+Valdeconcha	ES		40.456	-2.877
+Valgrisenche	IT		45.630	7.064
+Villanueva de Argecilla	ES		40.903	-2.914
+Valdecuenca	ES		40.298	-1.408
+Valdemierque	ES		40.822	-5.582
+Villamiroglio	IT		45.135	8.171
+Valderrebollo	ES		40.810	-2.729
+Viniegra de Arriba	ES		42.095	-2.833
+Villanueva de la Condesa	ES		42.149	-5.096
+Villalba de la Loma	ES		42.175	-5.190
+Valhermoso de la Fuente	ES		39.567	-2.017
+Vozmediano	ES		41.838	-1.856
+Vadena	IT		46.414	11.305
+Valhermoso	ES		40.786	-1.961
+Viana de Jadraque	ES		41.026	-2.770
+Valprato Soana	IT		45.522	7.549
+Vallecupa	IT		42.254	13.575
+Villarejo	ES		42.374	-2.887
+Velilla de los Ajos	ES		41.491	-2.256
+Villaseca de Arciel	ES		41.624	-2.162
+Villamiel de la Sierra	ES		42.191	-3.418
+Vizmanos	ES		42.023	-2.409
+Villar del Campo	ES		41.789	-2.150
+Villodre	ES		42.212	-4.245
+Villarejo de la Peñuela	ES		40.087	-2.410
+Vistabella	ES		41.218	-1.154
+Valmala	ES		42.306	-3.255
+Vindel	ES		40.587	-2.381
+Vileña	ES		42.622	-3.323
+Valtajeros	ES		41.938	-2.223
+Valdevacas de Montejo	ES		41.521	-3.636
+Valdarachas	ES		40.517	-3.127
+Ville Sur Sarre	IT		45.733	7.259
+Valacloche	ES		40.191	-1.091
+Villanueva de Carazo	ES		41.983	-3.324
+Villamedianilla	ES		42.161	-4.146
+Valdesotos	ES		40.955	-3.325
+Vizzola Ticino	IT		45.626	8.697
+Villanueva de Gormaz	ES		41.467	-3.062
+Veguillas de la Sierra	ES		40.150	-1.400
+Villaespasa	ES		42.100	-3.404
+Valdeprado	ES		41.938	-2.109
+Valtablado del Río	ES		40.714	-2.402
+Vignola	IT		46.044	11.277
+Villa Fornace	IT		44.972	9.252
+Villasdardo	ES		41.004	-6.163
+Villarmentero de Campos	ES		42.298	-4.500
+Valdelagua del Cerro	ES		41.888	-2.115
+Valmala	IT		44.544	7.346
+Valdemadera	ES		41.984	-2.074
+Villarroya	ES		42.131	-2.069
+Velika Kopanica	HR		45.156	18.393
+Vreshtas	AL		40.797	20.777
+Voskopojë	AL		40.633	20.589
+Voskop	AL		40.612	20.690
+Vithkuq	AL		40.525	20.582
+Vithkuq	AL		40.205	20.259
+Vërtop	AL		40.629	20.054
+Vergo	AL		40.007	20.009
+Vendresha e Vogël	AL		40.507	20.135
+Velçan	AL		40.955	20.462
+Vranisht	AL		40.210	19.691
+Velipojë	AL		41.878	19.406
+Velabisht	AL		40.702	19.932
+Vaqarr	AL		41.299	19.744
+Valbonë	AL		42.451	19.892
+Vau i Dejës	AL		42.010	19.625
+Vllahinë	AL		40.457	19.644
+Verónica	AR		-35.388	-57.337
+Villa Unión	AR		-29.413	-62.788
+Villa Unión	AR		-29.316	-68.227
+Villa Santa Rosa	AR		-31.744	-68.314
+Villa Nueva	AR		-32.897	-68.780
+Villa Media Agua	AR		-31.983	-68.424
+Villa Krause	AR		-31.567	-68.533
+Villa de María	AR		-29.902	-63.723
+Villa del Salvador	AR		-31.442	-68.397
+Villa del Rosario	AR		-31.557	-63.535
+Villa Castelli	AR		-29.014	-68.223
+Villa Aberastain	AR		-31.650	-68.583
+Vedia	AR		-34.496	-61.541
+Valle Grande	AR		-23.476	-64.948
+Villa Serrano	BO		-19.125	-64.323
+Villa Charcas	BO		-20.723	-64.885
+Vargem Grande Paulista	BR	27	-23.603	-47.026
+Veyras	CH		46.302	7.536
+Vuarrens	CH		46.686	6.648
+Vuisternens-devant-Romont	CH		46.653	6.930
+Valeyres-sous-Montagny	CH		46.799	6.611
+Vallenar	CL		-28.516	-70.256
+Villa Rica	CO		3.175	-76.462
+Villa Caro	CO		7.914	-72.971
+Villanueva	CO		4.612	-72.928
+Valdivia	CO		7.164	-75.439
+Villa La Mata	DO		19.017	-70.267
+Villarta de los Montes	ES		39.214	-4.792
+Villanueva de Mesía	ES		37.215	-4.014
+Valderrubio	ES		37.234	-3.820
+Valdemanco del Esteras	ES		38.939	-4.829
+Valdelarco	ES		37.949	-6.682
+Viñas	ES		41.773	-6.471
+Vimianzo	ES		43.110	-9.034
+Vilobí d'Onyar	ES		41.883	2.750
+Vilobí del Penedès	ES		41.383	1.650
+Villaselán	ES		42.561	-5.048
+Vilariño de Conso	ES		42.167	-7.183
+Vilamarín	ES		42.465	-7.891
+Vilalba dels Arcs	ES		41.117	0.417
+Vila-sacra	ES		42.266	3.018
+Vilanova d'Escornalbou	ES		41.117	0.933
+Viladasens	ES		42.083	2.933
+Viladecavalls	ES		41.550	1.950
+Vilada	ES		42.137	1.932
+Vidreres	ES		41.783	2.783
+Viana	ES		42.516	-2.371
+Vallromanes	ES		41.533	2.300
+Vallfogona de Riucorb	ES		41.563	1.237
+Vallcebre	ES		42.203	1.818
+Vallbona de les Monges	ES		41.526	1.089
+Vall de Gallinera	ES		38.823	-0.242
+Vega del Codorno	ES		40.425	-1.913
+Villanova	ES		42.547	0.462
+Vilarnaz	ES		42.401	-7.863
+Virolahti	FI		60.517	27.683
+Vinkkilä	FI		60.683	21.717
+Viðareiði	FO		62.360	-6.531
+Vrhovine	HR		44.852	15.419
+Vrbje	HR		45.188	17.419
+Vižinada	HR		45.329	13.759
+Visoko	HR		46.090	16.325
+Visignano	HR		45.276	13.721
+Veliko Trojstvo	HR		45.936	16.934
+Veliko Trgovišće	HR		46.000	15.850
+Veliki Bukovec	HR		46.294	16.713
+Velika Trnovitica	HR		45.682	16.954
+Velika Ludina	HR		45.600	16.600
+Varaždinske Toplice	HR		46.209	16.419
+Vlaka	HR		42.999	17.524
+Varazqān	IR		38.675	46.112
+Vico	IT		46.424	12.584
+Veun Sai	KH		13.976	106.811
+Veal Veaeng	KH		12.305	103.102
+Varin	KH		13.793	103.761
+Viangxai	LA		20.407	104.224
+Viengxay	LA		20.342	104.345
+Viengthong	LA		20.328	103.409
+Vecvārkava	LV		56.198	26.508
+Vaiņode	LV		56.418	21.854
+Vlaa Vula	MN		50.683	99.233
+Vandeikya	NG		6.785	9.068
+Villanueva	NI		12.964	-86.815
+Vuonnabahta	NO		70.173	28.556
+Vikøyri	NO		61.087	6.579
+Vevelstad	NO		65.698	12.437
+Vangsvika	NO		69.171	17.734
+Valle	NO		59.213	7.536
+Valldal	NO		62.298	7.264
+Vang	NO		61.125	8.573
+Vik	NO		60.077	10.279
+Valderøy	NO		62.501	6.135
+Vågaholmen	NO		66.714	13.287
+Valle de La Mina	PA		8.664	-82.232
+Vista Alegre	PE		-6.151	-77.301
+Vitis	PE		-12.224	-75.806
+Vitarte	PE		-12.033	-76.933
+Vischongo	PE		-13.589	-73.994
+Viraco	PE		-15.657	-72.525
+Vinchos	PE		-13.241	-74.353
+Viñac	PE		-12.931	-75.779
+Vilque Chico	PE		-15.217	-69.683
+Vilque	PE		-15.767	-70.250
+Vilcanchos	PE		-13.612	-74.532
+Vilcabamba	PE		-14.076	-72.626
+Vilcabamba	PE		-10.478	-76.448
+Vilca	PE		-12.483	-75.183
+Vilavila	PE		-15.187	-70.660
+Ventanilla	PE		-11.875	-77.118
+Velinga	PE		-15.273	-73.022
+Velille	PE		-14.509	-71.885
+Villaviciosa	PH		17.438	120.626
+Villa Verde	PH		16.599	121.188
+Victoria	PH		15.578	120.682
+Valladolid	PH		10.462	122.825
+Valenzuela	PH		14.700	120.967
+Valencia	PH		9.281	123.246
+Vila Flor	PT		41.309	-7.154
+Vila Baleira	PT		33.059	-16.334
+Viana do Alentejo	PT		38.335	-8.004
+Vouzela	PT		40.724	-8.113
+Vizela	PT		41.391	-8.264
+Vimioso	PT		41.585	-6.528
+Vila Pouca de Aguiar	PT		41.500	-7.644
+Vila Nova de Cerveira	PT		41.941	-8.742
+Valença	PT		42.031	-8.646
+Vila	PT		42.030	-8.159
+Vârvoru de Jos	RO		44.244	23.608
+Vârteşcoiu	RO		45.733	27.083
+Vârşolţ	RO		47.200	22.933
+Vâlcăneşti	RO		45.117	25.933
+Vranjska Banja	RS		42.555	21.992
+Vračar	RS		44.793	20.475
+Vlasotince	RS		42.967	22.134
+Vladičin Han	RS		42.708	22.063
+Veliko Gradište	RS		44.763	21.516
+Velika Plana	RS		44.334	21.077
+Varvarin	RS		43.724	21.362
+Voždovac	RS		44.778	20.476
+Vorob’yëvka	RU		50.648	40.950
+Vel’ye	RU		56.970	28.579
+Varygino	RU		56.763	28.535
+Vanj	TJ		38.371	71.455
+Veliköy	TR		41.315	42.432
+Volochysk	UA		49.537	26.216
+Vinkivtsi	UA		49.035	27.236
+Vil’nyans’k	UA		47.944	35.435
+Verkhn’odniprovs’k	UA		48.652	34.335
+Velyka Novosilka	UA		47.845	36.835
+Vasyl’kivka	UA		48.207	36.024
+Vil’shanka	UA		48.236	30.876
+Vodil	UZ		40.174	71.730
+Valle de Guanape	VE		9.910	-65.674
+Veguitas	VE		8.824	-69.996
+Vũng Liêm	VN		10.096	106.185
+Vụ Bản	VN		20.464	105.443
+Võ Xu	VN		11.187	107.560
+Vĩnh Thuận	VN		9.508	105.257
+Vĩnh Thạnh	VN		14.109	108.784
+Vĩnh Lộc	VN		20.054	105.616
+Vĩnh Châu	VN		9.324	105.980
+Vĩnh Bình	VN		10.345	106.581
+Văn Quan	VN		21.865	106.539
+Vạn Giã	VN		12.692	109.221
+Vân Đình	VN		20.735	105.772
+Văn Điển	VN		20.946	105.845
+Vân Canh	VN		13.619	108.998
+Vân Tùng	VN		22.431	105.997
+Vạn Hà	VN		19.887	105.679
+Vĩnh Trụ	VN		20.560	106.028
+Vũ Thư	VN		20.437	106.291
+Vĩnh Tường	VN		21.216	105.512
+Văn Giang	VN		20.943	105.931
+Vương	VN		20.701	106.118
+Vũ Quang	VN		18.384	105.506
+Vĩnh An	VN		11.089	107.035
+Vĩnh Hưng	VN		10.891	105.785
+Vĩnh Thạnh	VN		10.223	105.398
+Victoria West	ZA		-31.404	23.115
+Ventersdorp	ZA		-26.314	26.822

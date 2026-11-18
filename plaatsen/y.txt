@@ -1,0 +1,1114 @@
+Yangon	MM		16.805	96.156
+Yokohama	JP		35.433	139.650
+Yunfu	CN		22.928	112.040
+Yekaterinburg	RU		56.852	60.612
+Yaoundé	CM		3.867	11.517
+Yueyang	CN		29.375	113.095
+Yerevan	AM		40.181	44.514
+Yono	JP		35.883	139.633
+Yantai	CN		37.476	121.441
+Yogyakarta	ID		-7.801	110.365
+Yancheng	CN		33.358	120.157
+Yaroslavl	RU		57.630	39.874
+Yingkou	CN		40.665	122.228
+Yangzhou	CN		32.397	119.436
+Yazd	IR		31.897	54.367
+Yichang	CN		30.714	111.285
+Yinchuan	CN		38.468	106.273
+Yokosuka	JP		35.284	139.667
+Yangquan	CN		37.858	113.563
+Yangjiang	CN		21.856	111.963
+Yanji	CN		42.907	129.508
+Yangshuo	CN		24.781	110.490
+Yokkaichi	JP		34.967	136.617
+Yeosu	KR		34.761	127.662
+Yoshkar-Ola	RU		56.639	47.891
+Yao	JP		34.617	135.600
+Yamagata	JP		38.233	140.367
+Yibin	CN		28.759	104.640
+Yuci	CN		37.680	112.732
+Yakutsk	RU		62.034	129.733
+Yamunānagar	IN		30.128	77.284
+Yiyang	CN		28.589	112.328
+Yuncheng	CN		35.023	110.993
+Yonkers	US	NY	40.931	-73.899
+Yanbu	SA		24.090	38.062
+Yamoussoukro	CI		6.821	-5.277
+Yasenevo	RU		55.607	37.520
+Yangju	KR		37.833	127.062
+Yuzhno-Sakhalinsk	RU		46.954	142.736
+Yichun	CN		47.721	128.875
+York	GB		53.958	-1.083
+Yangchun	CN		22.167	111.783
+Yichun	CN		27.833	114.400
+Yulin	CN		22.633	110.150
+Yamaguchi	JP		34.183	131.467
+Yuen Long Kau Hui	HK		22.450	114.033
+Yonago	JP		35.433	133.333
+Yavatmāl	IN		20.393	78.132
+Yevlakh	AZ		40.618	47.150
+Yushu	CN		44.800	126.533
+Yuanlin	TW		23.957	120.576
+Yaizu	JP		34.869	138.320
+Yelahanka	IN		13.101	77.596
+Yakeshi	CN		49.283	120.733
+Yelets	RU		52.624	38.502
+Yuyao	CN		30.050	121.149
+Yenangyaung	MM		20.465	94.871
+Yên Vinh	VN		18.667	105.667
+Yevpatoriya	UA		45.201	33.367
+Yenakiyeve	UA		48.233	38.211
+Yuxi	CN		24.355	102.542
+Yasuj	IR		30.668	51.588
+Yên Bái	VN		21.723	104.911
+Yola	NG		9.208	12.481
+Yicheng	CN		31.361	119.820
+Yonezawa	JP		37.910	140.117
+Yongchuan	CN		29.354	105.894
+Yilan	TW		24.757	121.753
+Yuma	US	AZ	32.725	-114.624
+Yishui	CN		35.785	118.628
+Yakima	US	WA	46.602	-120.506
+Yala	TH		6.540	101.281
+Yatou	CN		37.157	122.438
+Yaroslavskiy	RU		55.883	37.717
+Yulinshi	CN		38.292	109.738
+Yaritagua	VE		10.081	-69.124
+Yiwu	CN		29.315	120.077
+Yingchuan	CN		34.163	113.464
+Yozgat	TR		39.820	34.804
+Yeysk	RU		46.706	38.274
+Yanjiang	CN		30.121	104.648
+Yotsukaidō	JP		35.650	140.167
+Yegor’yevsk	RU		55.383	39.032
+Yurga	RU		55.723	84.886
+Yangp'yŏng	KR		37.490	127.491
+Yachimata	JP		35.650	140.317
+Yuanping	CN		38.715	112.757
+Yacuiba	BO		-22.016	-63.678
+Yima	CN		34.738	111.884
+Yudong	CN		29.385	106.519
+Yashio	JP		35.823	139.839
+Yessentuki	RU		44.044	42.861
+Yagoua	CM		10.341	15.233
+Yambol	BG		42.483	26.500
+Yanta	CN		36.241	115.667
+Youhao	CN		47.853	128.836
+Yanzhou	CN		35.553	116.829
+Yalta	UA		44.502	34.166
+Yuktae-dong	KP		40.025	128.160
+Yangliuqing	CN		39.138	117.000
+Yinzhu	CN		35.879	119.975
+Yanggu	CN		36.111	115.775
+Yunyang	CN		33.447	112.714
+Yelabuga	RU		55.761	52.065
+Yangsan	KR		35.342	129.034
+Yüksekova	TR		37.574	44.287
+Yawata	JP		34.870	135.703
+Yumbo	CO		3.582	-76.491
+Yalova	TR		40.655	29.277
+Yukuhashi	JP		33.729	130.983
+Yilan	CN		46.316	129.555
+Yongfeng	CN		27.455	112.169
+Yorba Linda	US	CA	33.889	-117.813
+Yafran	LY		32.063	12.529
+Yuba City	US	CA	39.140	-121.617
+Yebaishou	CN		41.398	119.641
+Yādgīr	IN		16.770	77.138
+Youssoufia	MA		32.246	-8.529
+Youngstown	US	OH	41.100	-80.650
+Yunmeng Chengguanzhen	CN		31.063	113.765
+Yangcun	CN		39.364	117.060
+Yucheng	CN		34.929	116.465
+Yingshang Chengguanzhen	CN		32.629	116.270
+Yopal	CO		5.338	-72.396
+Yicheng	CN		31.705	112.256
+Yanliang	CN		34.659	109.229
+Yoshikawa	JP		35.892	139.842
+Yuxia	CN		34.062	108.629
+Yangiyŭl	UZ		41.112	69.047
+Yamethin	MM		20.432	96.139
+Yigou	CN		35.811	114.317
+Yantongshan	CN		43.292	126.009
+Yashan	CN		22.198	109.942
+Yutan	CN		28.258	112.560
+Yeongam	KR		34.801	126.697
+Yucaipa	US	CA	34.034	-117.043
+Yartsevo	RU		55.067	32.696
+Yūki	JP		36.300	139.883
+Yerba Buena	AR		-26.817	-65.317
+Yeola	IN		20.042	74.489
+Yeovil	GB		50.942	-2.632
+Yefremov	RU		53.148	38.099
+Youkaichi	JP		35.116	136.198
+York	US	PA	39.963	-76.728
+Yellandu	IN		17.591	80.321
+Yendi	GH		9.443	-0.010
+Yautepec	MX	17	18.882	-99.067
+Yaguajay	CU		22.327	-79.236
+Yurimaguas	PE		-5.902	-76.122
+Yuta	PS		31.446	35.094
+Yeonil	KR		35.995	129.352
+Yelizovo	RU		53.189	158.381
+Yabrūd	SY		33.969	36.657
+Yanagawa	JP		33.167	130.400
+Yei	SS		4.094	30.676
+Yambio	SS		4.571	28.394
+Yagry	RU		64.594	39.810
+Yuzhnoukrains'k	UA		47.818	31.183
+Yesan	KR		36.678	126.843
+Yuzhnoural’sk	RU		54.442	61.254
+Yokote	JP		39.317	140.550
+Yalvaç	TR		38.296	31.178
+Yorii	JP		36.116	139.194
+Yolöten	TM		37.299	62.360
+Yasynuvata	UA		48.130	37.859
+Yeoju	KR		37.296	127.634
+Yeadon	GB		53.864	-1.687
+Yanam	IN		16.733	82.214
+Yirga ‘Alem	ET		6.750	38.417
+Yaita	JP		36.800	139.933
+Yalutorovsk	RU		56.654	66.301
+Yangambi	CD		0.768	24.440
+Yerköy	TR		39.638	34.467
+Yecla	ES		38.614	-1.115
+Yate	GB		51.541	-2.418
+Yuzawa	JP		39.167	140.500
+Yablonovskiy	RU		44.989	38.943
+Yarīm	YE		14.298	44.378
+Yāval	IN		21.168	75.698
+Yōkaichiba	JP		35.700	140.550
+Yangiyer	UZ		40.275	68.823
+Yubileyny	RU		55.933	37.833
+Yamaga	JP		33.017	130.689
+Yanai	JP		33.967	132.117
+Yeşilli	TR		37.338	40.817
+Yamoto	JP		38.427	141.215
+Yavné	IL		31.878	34.740
+Yaring	TH		6.866	101.369
+Yugorsk	RU		61.312	63.331
+Yany Kapu	UA		45.957	33.794
+Yanamalakuduru	IN		16.485	80.667
+Ypenburg	NL		52.041	4.370
+Yemanzhelinsk	RU		54.755	61.321
+Yasugichō	JP		35.421	133.242
+Yehud-Monosson	IL		32.028	34.880
+Yara	CU		20.275	-76.951
+Yerres	FR		48.718	2.493
+Yakuplu	TR		40.989	28.676
+Yenişehir	TR		40.264	29.653
+Yangiqo‘rg‘on	UZ		41.195	71.724
+Yanaul	RU		56.275	54.934
+Yaguachi Nuevo	EC		-2.097	-79.695
+Yugawara	JP		35.150	139.067
+Yong Peng	MY		2.014	103.066
+Yylanly	TM		41.833	59.650
+Yukon	US	OK	35.507	-97.763
+Yoshii	JP		36.250	138.983
+Yehud	IL		32.033	34.891
+Yoshida-kasugachō	JP		37.683	138.883
+Yarmouth	US	MA	41.706	-70.229
+Yuriria	MX	11	20.211	-101.132
+Yamazakichō-nakabirose	JP		35.000	134.550
+Yangirabot	UZ		40.025	65.961
+Yahyalı	TR		38.102	35.357
+Yŏnmu	KR		36.129	127.100
+Yuzhne	UA		46.622	31.101
+Yangiobod	UZ		41.119	70.094
+Yazman	PK		29.121	71.745
+Yenagoa	NG		4.927	6.268
+Yumbe	UG		3.465	31.247
+Yeongdong	KR		36.175	127.776
+Ytrebygda	NO		60.305	5.282
+Yanggu	KR		38.106	127.989
+Yurécuaro	MX	16	20.336	-102.284
+Yverdon-les-Bains	CH		46.779	6.641
+Yershov	RU		51.351	48.277
+Yanacancha	PE		-10.241	-76.646
+Yako	BF		12.959	-2.261
+Yoichi	JP		43.204	140.770
+Yahotyn	UA		50.280	31.762
+Yŏnan-ŭp	KP		37.909	126.161
+Yarumal	CO		6.963	-75.417
+Yatsuomachi-higashikumisaka	JP		36.567	137.133
+Ylöjärvi	FI		61.556	23.596
+Yŏnggwang-ŭp	KP		40.018	127.455
+Yasothon	TH		15.794	104.145
+Yucca Valley	US	CA	34.114	-116.432
+Yashiro	JP		34.917	134.967
+Yanykurgan	KZ		43.907	67.246
+Yarovoye	RU		52.927	78.580
+Yanagawamachi-saiwaichō	JP		37.850	140.600
+Yigo Village	GU		13.536	144.889
+Yaypan	UZ		40.376	70.816
+Yauco	PR		18.035	-66.850
+Yateley	GB		51.343	-0.830
+Yamada	JP		39.467	141.950
+Yessentukskaya	RU		44.033	42.881
+Ypsilanti	US	MI	42.241	-83.613
+Yeniseysk	RU		58.449	92.180
+Yeonggwang	KR		35.278	126.512
+Yur’yev-Pol’skiy	RU		56.503	39.679
+Yomra	TR		40.953	39.855
+Yaransk	RU		57.303	47.886
+Yuzhnyy	RU		53.254	83.694
+Yellāpur	IN		14.964	74.709
+Yelizavetinskaya	RU		45.046	38.795
+Yarm	GB		54.504	-1.358
+Yatağan	TR		37.340	28.143
+Ystad	SE		55.430	13.820
+Yorkville	US	IL	41.641	-88.447
+Yasnogorsk	RU		54.481	37.699
+Yegorlykskaya	RU		46.566	40.656
+Yagoona	AU	02	-33.905	151.020
+Yabēlo	ET		4.883	38.083
+Yelenendorf	AZ		40.586	46.319
+Yovon	TJ		38.314	69.038
+Yorosso	ML		12.358	-4.777
+Yasnyy	RU		51.033	59.874
+Yuza	JP		39.016	139.929
+Yecapixtla	MX	17	18.883	-98.865
+Yajalón	MX	05	17.173	-92.333
+Yanqul	OM		23.586	56.540
+Yujing	TW		23.125	120.461
+Yemva	RU		62.590	50.859
+Yunguyo	PE		-16.250	-69.083
+Yeni Suraxanı	AZ		40.430	50.036
+Young	UY		-32.698	-57.627
+Yellowknife	CA	13	62.454	-114.372
+Yoro	HN		15.137	-87.128
+Yorkton	CA	11	51.217	-102.468
+Yutz	FR		49.356	6.193
+Yashkino	RU		55.874	85.427
+Yelan’	RU		50.949	43.738
+Yarraville	AU	07	-37.817	144.900
+Yuzha	RU		56.583	42.012
+Yankton	US	SD	42.871	-97.397
+Yashikira	NG		9.768	3.398
+Yeşilhisar	TR		38.352	35.089
+Yermentau	KZ		51.624	73.103
+Yangi Marg‘ilon	UZ		40.427	71.719
+Yunak	TR		38.814	31.732
+Yeşilyurt	TR		38.296	38.245
+Yahualica de González Gallo	MX	14	21.180	-102.886
+Ya‘bad	PS		32.446	35.168
+Yonggang-ŭp	KP		38.856	125.424
+Yzeure	FR		46.566	3.354
+Yuryuzan’	RU		54.863	58.422
+Yang Talat	TH		16.400	103.368
+Yokadouma	CM		3.517	15.050
+Yeppoon	AU	04	-23.127	150.744
+Yaya	RU		56.206	86.440
+Yelwa	NG		8.833	9.633
+Ylivieska	FI		64.083	24.550
+Yavoriv	UA		49.939	23.383
+York Beach	US	ME	43.171	-70.609
+Yakhroma	RU		56.300	37.483
+Yongsan-dong	KR		37.544	126.984
+Yakymivka	UA		46.700	35.159
+Yelbarga	IN		15.615	76.012
+Yemetsk	RU		63.472	41.780
+Youngsville	US	LA	30.100	-91.990
+Yeraliyev	KZ		43.180	51.681
+Yamasá	DO		18.773	-70.026
+Yeadon	US	PA	39.939	-75.255
+Yulee	US	FL	30.632	-81.606
+Yur’yevets	RU		57.320	43.104
+Yenifakılı	TR		39.211	35.000
+Yokine	AU	08	-31.901	115.853
+Yol	IN		32.164	76.196
+Yazoo City	US	MS	32.855	-90.406
+Yvetot	FR		49.617	0.758
+Yorktown	US	IN	40.174	-85.494
+Yalıkavak	TR		37.105	27.297
+Yengema	SL		8.714	-11.171
+Yumbel	CL		-37.098	-72.561
+Ymittos	GR		37.953	23.749
+Yemel’yanovo	RU		56.168	92.675
+Yadrin	RU		55.941	46.206
+Yeghvard	AM		40.325	44.486
+Yuzhno-Sukhokumsk	RU		44.658	45.644
+Yayva	RU		59.335	57.259
+Yatton	GB		51.388	-2.824
+Ystalyfera	GB		51.767	-3.781
+Yekaterinoslavka	RU		50.373	129.110
+Young	AU	02	-34.313	148.301
+Yermolino	RU		55.195	36.595
+Yel’nya	RU		54.579	33.184
+Yaroslavskiy	RU		44.186	132.229
+Yantzaza	EC		-3.833	-78.761
+Yukhary-Dashkesan	AZ		40.524	46.082
+Ypacarai	PY		-25.408	-57.289
+Yŏngbyŏn	KP		39.813	125.804
+Yuli	NG		9.697	10.274
+Yŏmju-ŭp	KP		39.893	124.598
+Yershovo	RU		55.769	36.859
+Yaxley	GB		52.518	-0.259
+Yauya	PE		-8.983	-77.300
+Yepocapa	GT		14.502	-90.954
+Yermakovskoye	RU		53.275	92.400
+Yelandūr	IN		12.046	77.030
+Yoshino-chō	JP		34.396	135.858
+Yairipok	IN		24.678	94.048
+Yaiza	ES		28.957	-13.765
+Yutsa	RU		43.956	43.013
+Yelanskiy	RU		56.842	62.501
+Yeroẖam	IL		30.988	34.932
+Yarmolyntsi	UA		49.192	26.837
+Yanchep	AU	08	-31.547	115.632
+Yaycı	AZ		38.941	45.732
+Yongning	CN		24.680	118.690
+Yelm	US	WA	46.942	-122.606
+Yeed	SO		4.550	43.033
+Yerbabuena	MX	11	20.963	-101.274
+Yotoco	CO		3.860	-76.384
+Yayladağı	TR		35.903	36.063
+Yeghegnadzor	AM		39.764	45.332
+Yagunovskiy	RU		55.283	85.978
+Yavuzeli	TR		37.318	37.568
+Yvoir	BE		50.328	4.881
+Yarega	RU		63.435	53.577
+York	US	SC	34.994	-81.242
+Yenotayevka	RU		47.246	47.028
+Youkounkoun	GN		12.531	-13.122
+Yukhnov	RU		54.744	35.230
+Yurgamysh	RU		55.375	64.462
+York	US	NE	40.868	-97.592
+Yavas	RU		54.416	42.849
+Yugo-Kamskiy	RU		57.703	55.590
+Yandev	NG		7.363	9.042
+Yuto	AR		-23.643	-64.472
+Yasinya	UA		48.279	24.360
+Yallahs	JM		17.875	-76.562
+Yarrawonga	AU	07	-36.019	146.000
+Yreka	US	CA	41.735	-122.634
+Yabassi	CM		4.457	9.968
+Yaremche	UA		48.452	24.554
+Yorkshire	US	VA	38.793	-77.448
+Yondó	CO		7.006	-73.910
+Yarmouth	CA	07	43.833	-66.116
+Ýpsonas	CY		34.688	32.962
+Yuvacık	TR		40.688	29.967
+Yangebup	AU	08	-32.121	115.816
+Yssingeaux	FR		45.143	4.124
+Yashkul’	RU		46.171	45.343
+Yampil’	UA		51.948	33.788
+Yardville	US	NJ	40.181	-74.664
+Yaguarón	PY		-25.561	-57.283
+Yar	RU		58.246	52.105
+Yamrat	NG		10.112	9.826
+Ytyk-Kyuyël’	RU		62.361	133.560
+Yabucoa	PR		18.051	-65.879
+Yarkovo	RU		57.404	67.064
+Yamba	AU	02	-29.438	153.359
+Yehualtepec	MX	21	18.795	-97.662
+Yajiwa	NG		11.386	12.720
+Yoshitomi	JP		33.602	131.176
+Youghal	IE		51.950	-7.851
+Yeşilyurt	TR		40.328	36.351
+Yeniçağa	TR		40.771	32.034
+Yusufeli	TR		40.820	41.537
+Yeşilova	TR		37.508	29.755
+Yacimiento Río Turbio	AR		-51.573	-72.351
+Youngtown	US	AZ	33.594	-112.303
+Yangī Qal‘ah	AF		37.466	69.611
+Yerseke	NL		51.492	4.050
+Yorketown	US	NJ	40.308	-74.338
+Yenipazar	TR		37.823	28.196
+Yona Village	GU		13.410	144.777
+Yuzhno-Kurilsk	RU		44.027	145.861
+Yass	AU	02	-34.840	148.910
+Yeppoon city centre	AU	04	-23.130	150.736
+Yekaterinovka	RU		52.051	44.345
+Yapraklı	TR		40.758	33.778
+Yeronga	AU	04	-27.516	153.016
+Yermolayevo	RU		52.717	55.800
+Yetkul’	RU		54.822	61.588
+Yalıhüyük	TR		37.301	32.085
+Yolombó	CO		6.598	-75.011
+Yoakum	US	TX	29.288	-97.152
+Yakoruda	BG		42.025	23.684
+Yung Shue Wan	HK		22.226	114.112
+Yonedacho Sendo	JP		34.776	134.826
+Yanahuanca	PE		-10.517	-76.499
+Yaphank	US	NY	40.837	-72.917
+Yazykovo	RU		55.220	56.135
+Yanda Bayo	NG		11.507	10.746
+Yurty	RU		56.050	97.635
+Yarmouth	US	ME	43.801	-70.187
+Yaguará	CO		2.664	-75.518
+Yuni	PH		13.412	122.485
+Yura	PE		-16.252	-71.680
+Yayas de Viajama	DO		18.607	-70.928
+Yuncos	ES		40.086	-3.871
+Yaguate	DO		18.335	-70.181
+Yanga	MX	30	18.833	-96.798
+Ylistaro	FI		62.940	22.513
+Yelovo	RU		57.054	54.921
+Yantarnyy	RU		54.871	19.940
+Yalta	UA		46.963	37.274
+Yapton	GB		50.821	-0.613
+Yaroslavskaya	RU		44.611	40.464
+Yerofey Pavlovich	RU		53.963	121.958
+Yolbaşı	TR		37.387	41.318
+Yumaguzino	RU		52.904	56.393
+Yarmouth Port	US	MA	41.702	-70.249
+Yelan’-Koleno	RU		51.152	41.231
+Yoko	CM		5.533	12.317
+Yungay	PE		-9.138	-77.744
+Yenişarbademli	TR		37.708	31.386
+Yazıhan	TR		38.593	38.173
+Yarkovo	RU		54.806	82.599
+Ylitornio	FI		66.309	23.677
+Yakakent	TR		41.633	35.529
+Yasnaya Polyana	RU		44.023	42.754
+Yakovlevka	RU		44.426	133.474
+Yingdu	CN		24.972	118.244
+Yosemite Lakes	US	CA	37.191	-119.773
+Yavlenka	KZ		54.345	68.457
+Yumbing	PH		9.239	124.658
+Yazykovo	RU		54.292	47.389
+Yarkoye Pole	UA		45.206	35.198
+Yar-Sale	RU		66.865	70.838
+Yasenskaya	RU		46.359	38.269
+Yamanto	AU	04	-27.660	152.739
+Yarqā	JO		31.976	35.696
+Yuty	PY		-26.615	-56.246
+Yepes	ES		39.902	-3.625
+Yashalta	RU		46.340	42.276
+Yrghyz	KZ		48.617	61.267
+Ybycuí	PY		-26.017	-57.050
+Yurginskoye	RU		56.819	67.392
+Yermish’	RU		54.768	42.271
+Yuzhnyy	RU		45.002	40.475
+Yaonahuac	MX	21	19.871	-97.466
+Yanino-1	RU		59.948	30.559
+Yffiniac	FR		48.484	-2.676
+Yeniköy	TR		40.536	29.354
+Yakovlevskoye	RU		55.442	37.948
+Youngstown	US	FL	30.364	-85.438
+Ybbs an der Donau	AT		48.167	15.083
+Yukamenskoye	RU		57.888	52.245
+Yeranos	AM		40.204	45.192
+Yermekeyevo	RU		54.076	53.671
+Yauhquemehcan	MX	29	19.407	-98.182
+Yurino	RU		56.294	46.304
+Yushala	RU		57.076	64.260
+Yallambie	AU	07	-37.725	145.094
+Yerky	UA		48.991	30.988
+Yinglin	CN		24.632	118.581
+Yasky	UA		46.510	30.076
+Yemanzhelinka	RU		54.801	61.299
+Yelan’-Kolenovskiy	RU		51.163	41.151
+Yurla	RU		59.325	54.328
+Yalkhoy-Mokhk	RU		43.105	46.190
+Yağlıdere	TR		40.544	39.528
+Yelantsy	RU		52.803	106.405
+Yardımlı	AZ		38.908	48.241
+Yago	MX	18	21.836	-105.065
+Yarensk	RU		62.168	49.092
+Yayladere	TR		39.226	40.069
+Youngtown	AU	06	-41.483	147.171
+Yagodnoye	RU		62.524	149.628
+Yanaoca	PE		-14.218	-71.432
+Yalí	CO		6.675	-74.834
+Yertsevo	RU		60.797	40.086
+Yellow Springs	US	OH	39.806	-83.887
+Yeşilalan	TR		37.461	40.784
+Yenifoça	TR		38.733	26.833
+Yangezhuang	CN		39.996	117.690
+Yoshib	MX	05	16.845	-92.446
+Yenice	TR		39.761	28.907
+Yelat’ma	RU		54.968	41.751
+Yavaros	MX	26	26.705	-109.521
+Yenice	TR		40.088	29.422
+Yakoucun	CN		24.672	118.637
+Yangzhong	CN		26.706	119.374
+Yelverton	GB		50.493	-4.084
+Yefimovskiy	RU		59.496	34.672
+Yomou	GN		7.567	-9.263
+Yarrabilba	AU	04	-27.809	153.112
+Yuma	US	CO	40.122	-102.725
+Yonibana	SL		8.443	-12.239
+Yeste	ES		38.369	-2.318
+Yeban Norte	PH		17.022	121.942
+Yekaterinovka	RU		42.925	133.049
+Yenişakran	TR		38.886	27.067
+Yurovka	RU		45.115	37.419
+Ynysybwl	GB		51.639	-3.360
+Ytrac	FR		44.912	2.362
+Yandyki	RU		45.769	47.126
+Yārāda	IN		17.659	83.274
+Ylikiiminki	FI		65.083	26.250
+Yaksatovo	RU		46.243	48.015
+Yguazú	PY		-25.462	-55.000
+Yantikovo	RU		55.822	47.910
+Yuzhnyy	RU		44.721	39.879
+Yelizavetinskoye	RU		45.007	43.349
+Yunquera	ES		36.733	-4.921
+Yeniköy	TR		37.880	41.050
+Yam	RU		55.488	37.745
+Yextla	MX	12	17.604	-99.934
+Yizhivtsi	UA		48.040	25.662
+Yershichi	RU		53.672	32.754
+Yablanitsa	BG		43.031	24.113
+Yamnytsya	UA		48.990	24.707
+Yacopí	CO		5.459	-74.338
+Yoloxóchitl	MX	12	16.816	-98.686
+Yantian	CN		26.853	119.858
+Yelkhovka	RU		53.867	50.283
+Yuzhnyy	RU		54.548	20.598
+Yerington	US	NV	38.986	-119.163
+Yarumela	HN		14.333	-87.633
+Yecuatla	MX	30	19.866	-96.778
+Yelizavetino	RU		59.492	29.782
+York Harbor	US	ME	43.137	-70.646
+Yupiltepeque	GT		14.197	-89.793
+Yountville	US	CA	38.402	-122.361
+Yaxcabá	MX	31	20.548	-88.827
+Yubilyeyny	BY		53.819	27.521
+Yanis’yarvi	RU		61.891	30.948
+Yuganets	RU		56.251	43.231
+Yowie Bay	AU	02	-34.051	151.102
+Yeles	ES		40.120	-3.805
+Youngwood	US	PA	40.240	-79.577
+Yarralumla	AU	01	-35.300	149.106
+Yadkinville	US	NC	36.135	-80.660
+Yécora	MX	06	28.372	-108.928
+Yavne’el	IL		32.706	35.504
+Yangjiapo	CN		39.294	117.888
+Yatmā	PS		32.109	35.269
+Yurkivka	UA		49.011	31.088
+Yorkeys Knob	AU	04	-16.803	145.721
+Yarra Glen	AU	07	-37.658	145.374
+Ylihärmä	FI		63.150	22.783
+Yaxkukul	MX	31	21.061	-89.419
+Yook	PH		13.226	121.964
+Yenne	FR		45.704	5.758
+Ygatimi	PY		-24.124	-55.644
+Yalkoba	MX	31	20.792	-88.037
+Yakamia	AU	08	-35.004	117.878
+Yala	KE		0.094	34.536
+Yeşildere	TR		36.973	37.495
+Yarrawarrah	AU	02	-34.054	151.036
+Yaxe	MX	20	16.726	-96.472
+Yakimovo	BG		43.635	23.354
+Ypäjä	FI		60.800	23.283
+Yacuanquer	CO		1.116	-77.402
+Yushan	CN		26.909	118.567
+Yorkville	US	NY	43.113	-75.271
+Yakovlevo	RU		50.860	36.448
+Yarma	TR		37.811	32.883
+Yalizava	BY		53.399	29.005
+Yolağzı	TR		37.526	41.353
+Yaniklar	TR		36.708	29.051
+Yarrabah	AU	04	-16.995	145.897
+Yarnton	GB		51.804	-1.311
+Yanghou	CN		26.641	118.508
+Yarra Junction	AU	07	-37.782	145.614
+Yumani	BO		-16.036	-69.148
+Yolotepec	MX	13	20.388	-99.073
+Ytre Arna	NO		60.462	5.433
+York	AU	08	-31.888	116.768
+Yagunovo	RU		55.246	86.011
+Yuncler	ES		40.041	-3.900
+Yapak	PH		11.950	121.933
+Yardley	US	PA	40.246	-74.846
+Yunquera de Henares	ES		40.751	-3.163
+Yug	RU		57.729	56.172
+Yvonand	CH		46.800	6.742
+York	US	AL	32.486	-88.296
+Yanıqlı	AZ		40.843	45.680
+Yalyalup	AU	08	-33.675	115.414
+Yantal’	RU		56.847	105.254
+Yubo	PH		10.390	123.069
+Yelshanka	RU		51.814	46.400
+Yuscarán	HN		13.944	-86.853
+Yandina	AU	04	-26.562	152.956
+Yantarnoye	UA		45.435	34.221
+Yvrac	FR		44.881	-0.462
+Yepifan’	RU		53.825	38.552
+Y Felinheli	GB		53.187	-4.205
+Yuzhnyy-Kospashskiy	RU		58.972	57.759
+Yotholin	MX	31	20.328	-89.454
+Yalagüina	NI		13.484	-86.493
+Ysselsteyn	NL		51.490	5.897
+Yulara	AU	03	-25.241	130.989
+Yli-Ii	FI		65.372	25.846
+Yāşīd	PS		32.297	35.278
+Yerville	FR		49.667	0.896
+Yorito	HN		15.067	-87.283
+Yläne	FI		60.883	22.417
+Yorktown	US	TX	28.981	-97.503
+Yapeyú	AR		-29.469	-56.818
+Yataity Calle	AR		-29.019	-58.908
+Yel’digino	RU		56.117	37.817
+Yhú	PY		-25.058	-55.923
+Yarram	AU	07	-38.565	146.676
+Yablochnyy	RU		47.152	142.057
+Yudomari	JP		30.235	130.479
+Yerbogachen	RU		61.280	108.015
+Yalakdere	TR		40.606	29.562
+Yemişli	TR		37.367	43.077
+Yimnón	GR		38.440	23.884
+Yanceyville	US	NC	36.404	-79.336
+Yeyskoye Ukrepleniye	RU		46.706	38.612
+Yablunytsya	UA		48.317	24.484
+Yátova	ES		39.383	-0.800
+Ydes	FR		45.347	2.437
+Youngstown	US	NY	43.247	-79.050
+Yangjinzhuang	CN		39.885	117.398
+Yorklyn	US	PA	39.992	-76.646
+Yale	US	MI	43.130	-82.798
+Ýdra	GR		37.350	23.466
+Yashanal	MX	05	16.829	-92.452
+Yeerongpilly	AU	04	-27.531	153.009
+Yaté-Barrage	NC		-22.150	166.883
+Yamkino	RU		55.921	38.404
+Yasha	MX	05	16.391	-92.069
+Yobain	MX	31	21.234	-89.115
+Yayvantepe	TR		37.301	41.521
+Yarkoye	UA		45.691	34.263
+Yakovlevo	RU		60.294	29.488
+Yesman’	UA		51.770	34.067
+Yabluniv	UA		48.404	24.939
+Yorktown Heights	US	NY	41.271	-73.778
+Yèvres	FR		48.211	1.187
+Yedisu	TR		39.433	40.534
+Yackandandah	AU	07	-36.314	146.840
+Ytteresse	FI		63.622	22.995
+Yvré-le-Pôlin	FR		47.822	0.156
+Yeghegnut	AM		40.089	44.167
+Youngsville	US	PA	40.781	-75.477
+Ybbsitz	AT		47.947	14.892
+Yustis	MX	11	20.582	-100.864
+Yaviza	PA		8.158	-77.693
+Yacolt	US	WA	45.866	-122.406
+Yonakuni	JP		24.467	123.000
+Yealmpton	GB		50.349	-3.999
+Yelyzavethradka	UA		48.804	32.405
+Youngsville	US	PA	41.852	-79.319
+Yaltem	MX	05	16.844	-92.791
+Yubileynyy	RU		58.779	57.782
+Yoxall	GB		52.767	-1.791
+Yaxhachen	MX	31	20.052	-89.566
+Yuxarı Aran	AZ		39.734	47.655
+Ychoux	FR		44.328	-0.958
+Yambirno	RU		54.123	42.091
+Yarragon	AU	07	-38.205	146.061
+Yertarskiy	RU		56.790	64.300
+Yennora	AU	02	-33.862	150.969
+Yāsūf	PS		32.108	35.238
+Yelizavetinka	RU		51.767	59.742
+Yanmen	CN		27.855	109.740
+Yaylı	TR		37.203	40.754
+Yaoshi	CN		26.293	110.789
+Yaroomba	AU	04	-26.551	153.097
+Yzernay	FR		47.022	-0.703
+Yea	AU	07	-37.211	145.428
+Yzeures-sur-Creuse	FR		46.786	0.872
+Yarrambat	AU	07	-37.638	145.135
+Yekimovichi	RU		54.113	33.296
+Young America (historical)	US	MN	44.783	-93.914
+Yallourn North	AU	07	-38.161	146.364
+Yenda	AU	02	-34.245	146.203
+Yaprakbaşı	TR		37.654	40.546
+Youguzhuang	CN		39.906	117.246
+Yaurel	PR		18.027	-66.057
+Yaguacire	HN		14.017	-87.217
+Yuguzhuang	CN		39.640	117.359
+Yemtsa	RU		63.073	40.333
+Yerri	ES		42.702	-1.938
+Ylämaa	FI		60.800	28.000
+Yahualica	MX	13	20.954	-98.380
+Yataity del Norte	PY		-24.833	-56.350
+Yosphí	MX	22	20.171	-99.952
+Yaroslavka	UA		46.076	29.872
+Yébleron	FR		49.633	0.537
+Yemelyanovka	UA		45.533	34.896
+Yatunpu	CN		26.155	109.627
+Yalding	GB		51.224	0.429
+Yalaha	US	FL	28.739	-81.809
+Yetla	MX	12	16.994	-100.003
+Yungaburra	AU	04	-17.271	145.583
+Yaoshi	CN		27.639	109.530
+Yeraskhahun	AM		40.072	44.219
+Yatala	AU	04	-27.717	153.217
+Yermolino	RU		56.149	37.491
+Yates Center	US	KS	37.881	-95.733
+Young Harris	US	GA	34.933	-83.847
+Yahil’nytsya	UA		48.942	25.744
+Yushkozero	RU		64.752	32.103
+Yenipazar	TR		40.178	30.520
+Yonghe	CN		39.075	117.476
+Yibeljoj	MX	05	16.957	-92.504
+Yerazgavors	AM		40.695	43.747
+Yukarı Taşyalak	TR		36.963	40.132
+Yetla de Juárez	MX	20	17.666	-97.991
+Yamachiche	CA	10	46.267	-72.832
+Yoogali	AU	02	-34.299	146.084
+Yarove	UA		46.045	29.096
+Ygos-Saint-Saturnin	FR		43.977	-0.738
+Yale	US	OK	36.114	-96.699
+Yeghegnavan	AM		39.839	44.620
+Youngsville	US	NC	36.025	-78.474
+Yutan	US	NE	41.245	-96.397
+Yëlkino	RU		58.692	59.832
+Yamaranguila	HN		14.283	-88.250
+Yaropolets	RU		56.133	35.833
+Yorkshire	US	NY	42.530	-78.473
+Yetlancingo	MX	12	17.721	-99.115
+Yellville	US	AR	36.226	-92.685
+Yedrovo	RU		57.913	33.620
+Yeghegnut	AM		40.903	44.632
+Yainville	FR		49.454	0.829
+Ysper	AT		48.289	15.061
+Yaxcopoil	MX	31	20.745	-89.722
+Yutanduchi de Guerrero	MX	20	17.040	-97.298
+Yerrinbool	AU	02	-34.369	150.538
+Yangtou	CN		27.689	109.414
+Yegros	PY		-26.450	-56.400
+Yves	FR		46.019	-1.048
+Youyupu	CN		27.552	109.135
+Yvignac-la-Tour	FR		48.350	-2.183
+Yerbabuena	MX	24	21.686	-100.767
+Yecapixteca	MX	17	18.882	-98.903
+Yaganiza	MX	20	17.145	-96.230
+Yetminster	GB		50.896	-2.580
+Yaruchel	HN		14.533	-88.817
+Yeniköy	TR		37.271	42.425
+Yaren	NR		-0.551	166.925
+Yedogon	RU		54.255	100.239
+Yenipınar	TR		37.843	41.301
+Yamhill	US	OR	45.342	-123.187
+Yarravel	AU	02	-31.043	152.762
+Yarrow Point	US	WA	47.646	-122.217
+Yanishpole	RU		62.111	34.270
+Ymare	FR		49.351	1.179
+Yoncalla	US	OR	43.598	-123.283
+Yeagertown	US	PA	40.643	-77.581
+Yeghegis	AM		39.872	45.350
+Yarraman	AU	04	-26.842	151.981
+Yopi	MX	21	19.827	-97.380
+Yorkville	US	OH	40.155	-80.710
+Yport	FR		49.737	0.315
+Youx	FR		46.145	2.799
+Yosemite Valley	US	CA	37.741	-119.578
+Yallingup	AU	08	-33.646	115.035
+Youlgreave	GB		53.174	-1.690
+Yoe	US	PA	39.909	-76.637
+Yinliu	CN		39.983	117.396
+Yarkoye Pole	UA		45.613	34.318
+Yarmouth	GB		50.705	-1.499
+Yermakovo	UA		45.854	34.486
+Yasnopolyanskoye	UA		45.941	34.353
+Yucuita	MX	20	17.511	-97.270
+Yebra	ES		40.357	-2.966
+Yalina	MX	20	17.240	-96.262
+Yecla de Yeltes	ES		40.959	-6.489
+Yesa	ES		42.620	-1.204
+Yebes	ES		40.532	-3.108
+Yanguas de Eresma	ES		41.072	-4.239
+Yaroslavichi	RU		60.493	34.508
+Yorktown	US	VA	37.239	-76.510
+Yatzachi	MX	20	17.226	-96.221
+Yape	PA		8.098	-77.598
+Yebra de Basa	ES		42.486	-0.282
+Yanguas	ES		42.102	-2.340
+Yélamos de Arriba	ES		40.640	-2.843
+Yélamos de Abajo	ES		40.631	-2.858
+Yésero	ES		42.619	-0.250
+Yelo	ES		41.217	-2.517
+Yémeda	ES		39.767	-1.717
+Yaḩyá Khēl	AF		32.937	68.646
+Yamparáez	BO		-19.189	-65.123
+Yel’sk	BY		51.814	29.152
+Yakassé-Attobrou	CI		6.182	-3.651
+Yuhu	CN		26.107	99.983
+Yopurga	CN		39.239	76.764
+Yanduo	CN		30.657	97.573
+Youdian	CN		24.829	99.592
+Yumen	CN		40.283	97.200
+Yuli	CN		41.337	86.257
+Yuanquan	CN		40.500	95.800
+Yining	CN		43.978	81.518
+Yanqi	CN		42.062	86.566
+Yili	CN		43.900	81.350
+Yushan	CN		31.673	118.485
+Yuzhong Chengguanzhen	CN		35.843	104.112
+Yuyue	CN		30.018	113.963
+Yuxi	CN		28.889	107.594
+Yutian	CN		39.879	117.739
+Yuping	CN		22.977	103.711
+Yunxian Chengguanzhen	CN		32.831	110.809
+Yunxixian Chengguanzhen	CN		32.983	110.423
+Yunxi	CN		31.226	105.386
+Yunxi	CN		29.473	113.246
+Yunling	CN		23.954	117.336
+Yunhe	CN		26.525	100.198
+Yuncheng	CN		35.598	115.935
+Yujin	CN		29.209	103.946
+Yueyang	CN		36.290	111.915
+Yuecheng	CN		28.642	102.509
+Yuanshan	CN		24.370	114.490
+Yuanmou	CN		25.706	101.869
+Yuanling	CN		28.449	110.402
+Yuanjiazhuang	CN		33.523	107.983
+Yuanba	CN		32.326	105.962
+Youxian Chengguanzhen	CN		26.992	113.361
+Youxi Chengguanzhen	CN		26.174	118.179
+Yongxing Chengguanzhen	CN		26.124	113.129
+Yongqing	CN		34.748	106.127
+Yongning	CN		28.524	114.366
+Yongfu	CN		25.004	109.982
+Yongding	CN		26.041	101.686
+Yongding	CN		25.199	102.462
+Yongdeng Chengguanzhen	CN		36.734	103.259
+Yongchang Chengguanzhen	CN		38.271	102.020
+Yongbei	CN		26.646	100.781
+Yong’an	CN		31.021	109.459
+Yong’an	CN		25.980	117.364
+Yizhang Chengguanzhen	CN		25.383	112.979
+Yiyang Chengguanzhen	CN		34.511	112.162
+Yitiaoshan	CN		37.153	104.062
+Yisuhe	CN		27.765	112.927
+Yishi	CN		35.165	110.746
+Yishan	CN		34.299	119.254
+Yisa	CN		23.332	102.447
+Yinying	CN		37.937	113.558
+Yining	CN		29.036	114.564
+Yingxian	CN		39.559	113.186
+Yinggen	CN		19.038	109.840
+Yingcheng	CN		24.166	113.413
+Yijing	CN		37.836	113.602
+Yichuan Chengguanzhen	CN		34.420	112.419
+Yezhou	CN		30.604	109.723
+Yaozhou	CN		34.905	108.970
+Yaohua	CN		32.122	118.872
+Yaodu	CN		30.100	117.017
+Yantan	CN		29.274	104.874
+Yansi	CN		29.824	118.338
+Yanling	CN		29.531	104.661
+Yankou	CN		30.351	106.287
+Yanjing	CN		27.427	101.510
+Yanjin Chengguanzhen	CN		35.141	114.188
+Yanjing	CN		28.082	104.195
+Yangxin	CN		37.645	117.577
+Yuanyang Chengguanzhen	CN		35.052	113.964
+Yangpu	CN		31.262	121.519
+Yangling	CN		34.272	108.079
+Yanghe	CN		38.279	106.248
+Yangcheng	CN		35.492	112.404
+Yancheng	CN		36.799	116.744
+Yancheng Chengguanzhen	CN		33.585	113.987
+Yacha	CN		19.231	109.448
+Yucheng	CN		29.985	102.999
+Yaofeng	CN		35.139	111.212
+Yancheng	CN		38.915	111.869
+Yakou	CN		33.296	113.524
+Yuhai	CN		36.981	105.906
+Yilong	CN		23.691	102.487
+Yongle	CN		33.265	104.233
+Yangjiaping	CN		29.505	106.501
+Yancheng	CN		29.651	104.067
+Yancheng	CN		29.744	103.567
+Yong’an	CN		39.696	113.687
+Yunzhong	CN		39.827	113.096
+Yanshi Chengguanzhen	CN		34.716	112.796
+Yixing	CN		37.338	113.539
+Yong’an	CN		36.658	111.566
+Yiyang	CN		26.389	112.379
+Yangying	CN		35.818	115.948
+Yanta	CN		34.206	108.952
+Yunxing	CN		39.999	112.698
+Yuelai	CN		47.023	130.713
+Yitong	CN		43.326	125.297
+Yingshouyingzi	CN		40.551	117.662
+Yi’an	CN		47.889	125.304
+Yanshou	CN		45.453	128.327
+Yanqing	CN		40.461	115.972
+Yuquan	CN		40.443	113.974
+Yunji	CN		26.693	112.667
+Yushan	CN		31.677	120.801
+Yongyang	CN		31.658	119.028
+Yongchang	CN		31.666	104.437
+Yijiang	CN		31.315	118.361
+Yelin	CN		18.521	110.040
+Yuanzhou	CN		27.798	114.376
+Yuanhe	CN		31.399	120.614
+Yunyang	CN		31.996	119.565
+Youganning	CN		34.736	101.611
+Youyi	CN		46.805	130.319
+Yangming	CN		44.596	129.621
+Yanqiao	CN		31.689	120.278
+Yinla	CN		29.577	94.483
+Yulong	CN		33.383	120.131
+Yangzi Jianglu	CN		43.773	87.589
+Yanji	CN		33.965	116.451
+Yuto	CO		5.532	-76.635
+Ystrad Mynach	GB		51.643	-3.236
+Ystradgynlais	GB		51.767	-3.767
+Yazor	GB		52.117	-2.867
+Yatton	GB		51.967	-2.533
+Yosowilangun	ID		-8.239	113.314
+Yamato-Takada	JP		34.517	135.750
+Yamakita	JP		35.363	139.080
+Yabu	JP		35.403	134.771
+Yūbari	JP		43.038	141.958
+Yachiyo	JP		35.735	140.124
+Yurihonjō	JP		39.389	140.058
+Yawatahama	JP		33.457	132.433
+Yasu	JP		35.101	136.018
+Yame	JP		33.228	130.649
+Yamatokōriyama	JP		34.607	135.770
+Yamato	JP		35.473	139.451
+Yamanashi	JP		35.672	138.698
+Yatomi	JP		35.105	136.734
+Yatsushiro	JP		32.557	130.653
+Yufu	JP		33.196	131.378
+Yamagata	JP		35.583	136.758
+Yasugi	JP		35.336	133.184
+Yoshinogawa	JP		34.039	134.292
+Yongha	KP		41.274	127.521
+Yuseong	KR		36.354	127.337
+Yonghwa	KR		36.021	127.766
+Yeongdeok	KR		36.414	129.370
+Yongan	KR		36.120	126.953
+Yeoncheon	KR		38.101	127.077
+Yecheon	KR		36.657	128.455
+Yongsan	KR		36.260	127.829
+Yangsa	KR		37.799	126.408
+Yuchi	KR		34.802	126.839
+Yureo	KR		34.871	127.187
+Yeomsan	KR		35.218	126.372
+Youwarou	ML		15.368	-4.263
+Yélimané	ML		15.119	-10.577
+Yanfolila	ML		11.183	-8.150
+Yucuyachi	MX	20	17.609	-98.197
+Yelwa	NG		10.835	4.742
+Yabo	NG		12.722	5.013
+Yana	NG		11.407	10.013
+Ydstebøhamn	NO		59.062	5.402
+Yangor	NR		-0.535	166.910
+Yuracyacu	PE		-5.931	-77.227
+Yungar	PE		-9.378	-77.593
+Yorongos	PE		-6.140	-77.144
+Yanas	PE		-9.714	-76.748
+Yanama	PE		-9.033	-77.483
+Yanac	PE		-8.617	-77.867
+Yambrasbamba	PE		-5.750	-77.900
+Yamango	PE		-5.178	-79.750
+Yunga	PE		-16.200	-70.683
+Yucay	PE		-13.321	-72.082
+Yauyos	PE		-12.459	-75.917
+Yaurisque	PE		-13.667	-71.921
+Yauli	PE		-11.714	-75.475
+Yauli	PE		-11.665	-76.086
+Yauca	PE		-15.661	-74.527
+Yarabamba	PE		-16.547	-71.477
+Yanque	PE		-15.649	-71.658
+Yangas	PE		-11.695	-76.846
+Yanaquihua	PE		-15.774	-72.877
+Yanahuaya	PE		-14.267	-69.200
+Yanacancha	PE		-12.200	-75.417
+Yanaca	PE		-14.218	-73.141
+Yanahuanca	PE		-10.491	-76.517
+Yuyapichis	PE		-9.627	-74.977
+Yirol	SS		6.553	30.498
+Yan Ta Khao	TH		7.386	99.667
+Yang Si Surat	TH		15.684	103.103
+Yi-ngo	TH		6.403	101.706
+Yan Nawa	TH		13.696	100.542
+Yang Chum Noi	TH		15.265	104.398
+Yarang	TH		6.760	101.293
+Yaha	TH		6.480	101.132
+Yumurtalık	TR		36.769	35.789
+Yücebağ	TR		38.394	41.267
+Yoncalı	TR		39.009	38.253
+Yolboyu	TR		37.898	40.001
+Yıldızeli	TR		39.866	36.599
+Yiğityolu	TR		35.996	36.260
+Yiğitler	TR		39.867	26.611
+Yeşilyurt	TR		38.340	28.664
+Yeşilyurt	TR		37.193	28.275
+Yeşilyazı	TR		39.335	39.081
+Yeşilova	TR		38.410	33.838
+Yeşildere	TR		37.157	33.514
+Yerkesik	TR		37.136	28.284
+Yenipazar	TR		39.464	35.083
+Yenimehmetli	TR		39.420	32.169
+Yeniköy	TR		39.779	28.003
+Yenicekale	TR		37.599	36.633
+Yeniceoba	TR		38.870	32.788
+Yenice	TR		39.931	27.258
+Yenice	TR		37.828	28.571
+Yenice	TR		36.977	35.052
+Yenibaşak	TR		38.804	40.992
+Yeditepe	TR		35.968	36.015
+Yazyurdu	TR		38.799	36.932
+Yaylak	TR		37.383	38.339
+Yayla	TR		38.631	40.528
+Yaygın	TR		38.897	41.306
+Yavu	TR		39.792	36.206
+Yarpuzlu	TR		38.054	38.521
+Yarpuz	TR		37.048	36.431
+Yardımcı	TR		37.021	39.005
+Yarbasan	TR		38.989	28.808
+Yanarsu	TR		38.036	41.552
+Yamaç	TR		38.776	40.439
+Yalınca	TR		37.857	43.522
+Yalangöz	TR		36.577	36.508
+Yakapınar	TR		36.973	35.620
+Yahşihan	TR		39.850	33.453
+Yağcılar	TR		39.417	28.381
+Yeşilüzümlü	TR		36.734	29.233
+Yenice	TR		39.275	32.680
+Yuntdağ	TR		38.932	27.214
+Yenisu	TR		38.752	40.876
+Yoğun	TR		38.099	39.513
+Yüreğir	TR		36.974	35.359
+Yeşilyurt	TR		40.006	36.221
+Yürük	TR		40.936	27.066
+Yoğuntaş	TR		41.831	27.070
+Yığılca	TR		40.960	31.444
+Yeşilvadi	TR		41.123	29.477
+Yeşilce	TR		40.536	37.796
+Yenice	TR		41.200	32.331
+Yavuzkemal	TR		40.693	38.337
+Yalnızçam	TR		41.064	42.501
+Yağmurdere	TR		40.575	39.862
+Yağlıdere	TR		40.857	38.620
+Yenikonak	TR		41.873	34.603
+Yarhisar	TR		40.217	29.871
+Yıldırım	TR		40.189	29.110
+Yenişehir	TR		37.941	40.138
+Yakutiye	TR		39.898	41.269
+Yur”yivka	UA		48.737	36.020
+Yemil’chyne	UA		50.873	27.806
+Yelanets’	UA		47.697	31.853
+Yats’kivka	UA		49.180	37.524
+Yampil’	UA		48.936	37.956
+Yampil’	UA		48.242	28.282
+Yangi Mirishkor	UZ		38.851	65.278
+Yakkabog‘ Shahri	UZ		38.977	66.689
+Yangi-Nishon Shahri	UZ		38.645	65.690
+Yozyovon	UZ		40.661	71.744
+Yangiqo‘rg‘on	UZ		40.554	71.147
+Yangiqishloq Shaharchasi	UZ		40.415	67.179
+Yangibozor Qishlog’i	UZ		40.006	64.374
+Yumare	VE		10.597	-68.673
+Yaracal	VE		10.970	-68.546
+Yaguaraparo	VE		10.568	-62.826
+Yên Thành	VN		18.999	105.471
+Yên Ninh	VN		20.184	106.061
+Yến Lạc	VN		22.237	106.181
+Yên Lạc	VN		21.236	105.573
+Yên Châu	VN		21.046	104.301
+Yên Lập	VN		21.347	105.057
+Yên Phú	VN		22.732	105.371
+Yên Bình	VN		22.410	104.579
+Yên Cát	VN		19.663	105.429
+Yên Thịnh	VN		20.162	106.007
+Yên Định	VN		20.201	106.296
+Yên Mỹ	VN		20.886	106.036
+Yufrus	YE		13.455	43.947

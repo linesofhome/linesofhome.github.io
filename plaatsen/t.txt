@@ -1,0 +1,6483 @@
+Tianjin	CN		39.142	117.177
+Tokyo	JP		35.690	139.692
+Taipei	TW		25.048	121.532
+Tehran	IR		35.694	51.422
+Tai’an	CN		36.185	117.120
+Tianshui	CN		34.580	105.742
+Taiyuan	CN		37.869	112.560
+Tangshan	CN		39.633	118.183
+Toronto	CA	08	43.700	-79.416
+Tashkent	UZ		41.265	69.216
+Tirunelveli	IN		8.727	77.684
+Tabriz	IR		38.080	46.292
+The Bronx	US	NY	40.850	-73.866
+Tangerang	ID		-6.178	106.630
+Tijuana	MX	02	32.503	-117.004
+Thāne	IN		19.197	72.964
+Tongshan	CN		34.180	117.157
+Tripoli	LY		32.887	13.187
+Tbilisi	GE		41.694	44.834
+Taichung	TW		24.147	120.684
+Teni	IN		10.011	77.478
+Turin	IT		45.070	7.687
+Tegucigalpa	HN		14.082	-87.207
+Takeo	KH		10.991	104.785
+Thiruvananthapuram	IN		8.486	76.949
+Tiruchirappalli	IN		10.816	78.697
+Tainan	TW		22.991	120.213
+Trujillo	PE		-8.116	-79.030
+Teresina	BR	20	-5.089	-42.802
+Tol’yatti	RU		53.530	49.346
+Tunis	TN		36.819	10.166
+Tangier	MA		35.767	-5.800
+Tlalnepantla	MX	15	19.540	-99.195
+Taguig	PH		14.524	121.079
+Tébessa	DZ		35.404	8.124
+Ta‘izz	YE		13.580	44.021
+Taizhou	CN		32.491	119.908
+Torreón	MX	07	25.544	-103.419
+Tlaquepaque	MX	14	20.641	-103.293
+Tlalpan	MX	09	19.295	-99.162
+Tuxtla	MX	05	16.760	-93.113
+Tanggu	CN		39.021	117.647
+Tucson	US	AZ	32.222	-110.926
+Ta’if	SA		21.270	40.416
+Touba	SN		14.850	-15.883
+Tyumen	RU		57.152	65.527
+Tembisa	ZA		-25.996	28.227
+Tonghua	CN		41.720	125.926
+Toluca	MX	15	19.288	-99.653
+Tomsk	RU		56.498	84.974
+The Hague	NL		52.077	4.299
+Tula	RU		54.196	37.618
+Tabuk	SA		28.400	36.572
+Toulouse	FR		43.604	1.444
+Tel Aviv	IL		32.081	34.781
+Thoothukudi	IN		8.767	78.134
+Tonalá	MX	14	20.624	-103.234
+Tanda	EG		30.788	31.002
+Tulsa	US	OK	36.154	-95.993
+Taoyuan City	TW		24.994	121.297
+Tver	RU		56.858	35.901
+Tiruppur	IN		11.115	77.355
+Tallinn	EE		59.437	24.754
+Toyonaka	JP		34.782	135.469
+Toyohashi	JP		34.767	137.383
+Tirana	AL		41.328	19.819
+Tampa	US	FL	27.948	-82.458
+Toyota	JP		35.083	137.150
+Tamale	GH		9.401	-0.839
+Taraz	KZ		42.900	71.367
+Takatsuki	JP		34.848	135.617
+Thessaloníki	GR		40.644	22.931
+Taihecun	CN		45.763	130.850
+Turmero	VE		10.229	-67.474
+Tokorozawa	JP		35.799	139.469
+Tungi	BD		23.892	90.402
+Takamatsu	JP		34.333	134.050
+Tieling	CN		42.293	123.841
+Tepic	MX	18	21.510	-104.896
+Tétouan	MA		35.578	-5.368
+Toyama	JP		36.700	137.217
+Thrissur	IN		10.517	76.217
+Thiès	SN		14.789	-16.926
+Timişoara	RO		45.754	21.226
+Temara	MA		33.929	-6.907
+Tampico	MX	28	22.285	-97.878
+Tumkūr	IN		13.341	77.102
+Tawau	MY		4.245	117.891
+Tláhuac	MX	09	19.287	-99.005
+Tambov	RU		52.732	41.443
+Tsuen Wan	HK		22.371	114.113
+Tacna	PE		-18.015	-70.254
+Toledo	US	OH	41.664	-83.555
+Taganrog	RU		47.236	38.897
+Tasikmalaya	ID		-7.327	108.221
+Tshikapa	CD		-6.416	20.800
+Tokushima	JP		34.067	134.567
+Tongliao	CN		43.612	122.265
+Tarsus	TR		36.918	34.893
+Turpan	CN		42.948	89.179
+Talcahuano	CL		-36.725	-73.117
+Thiès Nones	SN		14.783	-16.967
+Taubaté	BR	27	-23.026	-45.555
+Tirupati	IN		13.636	79.420
+Tehuacán	MX	21	18.464	-97.397
+Tiruvottiyūr	IN		13.158	80.302
+Trabzon	TR		41.005	39.727
+Tacloban	PH		11.243	125.005
+Takasaki	JP		36.333	139.017
+Temuco	CL		-38.740	-72.598
+Tegal	ID		-6.869	109.140
+Ternopil	UA		49.553	25.589
+Türkmenabat	TM		39.073	63.579
+Takoradi	GH		4.898	-1.760
+Taytay	PH		14.559	121.133
+Tripoli	LB		34.434	35.844
+Tanga	TZ		-5.069	39.099
+Tongchuanshi	CN		35.075	109.085
+Thị Xã Phú Mỹ	VN		10.568	107.130
+Takarazuka	JP		34.799	135.357
+Tanjore	IN		10.785	79.139
+Taiping	MY		4.850	100.733
+Taboão da Serra	BR	27	-23.626	-46.792
+Terrassa	ES		41.567	2.017
+Tarhuna	LY		32.435	13.633
+Toruń	PL		53.014	18.598
+Tacoma	US	WA	47.253	-122.444
+Toamasina	MG		-18.149	49.402
+Tampere	FI		61.499	23.787
+Tapachula	MX	05	14.904	-92.257
+Thika	KE		-1.033	37.069
+Tilburg	NL		51.556	5.091
+Talca	CL		-35.426	-71.655
+Townsville	AU	04	-19.266	146.806
+Tanjung Pinang	ID		0.917	104.458
+Tallahassee	US	FL	30.438	-84.281
+Trieste	IT		45.650	13.777
+Tarlac City	PH		15.480	120.598
+Taranto	IT		40.464	17.247
+Tāngāil	BD		24.250	89.917
+Tiaret	DZ		35.371	1.317
+Turku	FI		60.451	22.269
+Tempe	US	AZ	33.415	-111.909
+Tsukuba	JP		36.200	140.100
+Tomakomai	JP		42.637	141.603
+Tambaram	IN		12.925	80.127
+Temirtau	KZ		50.055	72.965
+Takaoka	JP		36.750	137.017
+Toulon	FR		43.124	5.928
+Tuluá	CO		4.085	-76.195
+Tsu	JP		34.733	136.517
+Tongzhou	CN		39.904	116.662
+Taunggyi	MM		20.789	97.038
+Tarija	BO		-21.535	-64.730
+Tempe Junction	US	AZ	33.414	-111.943
+Ţalkhā	EG		31.054	31.378
+Tiraspol	MD		46.843	29.629
+Toledo	PH		10.377	123.639
+Tema	GH		5.670	-0.017
+Tetuán de las Victorias	ES		40.460	-3.697
+Tottori	JP		35.500	134.233
+Tonk	IN		26.166	75.788
+Tordher	PK		33.990	72.286
+Torrance	US	CA	33.836	-118.341
+Telford	GB		52.677	-2.449
+Trondheim	NO		63.430	10.395
+Târgu-Mureş	RO		46.542	24.557
+Taishan	CN		22.251	112.780
+Tabora	TZ		-5.016	32.827
+Teshi Old Town	GH		5.584	-0.107
+Tizi Ouzou	DZ		36.712	4.046
+Tanjungbalai	ID		2.967	99.800
+Tuzla	BA		44.538	18.667
+Taza	MA		34.210	-4.010
+Tours	FR		47.395	0.704
+Tirmiz	UZ		37.224	67.278
+Tarragona	ES		41.117	1.250
+Tutamandahostel	EC		-0.197	-78.498
+Thānesar	IN		29.973	76.832
+Tiruvannāmalai	IN		12.227	79.075
+Tasek Glugor	MY		5.480	100.498
+Tyre	LB		33.273	35.194
+Thái Nguyên	VN		21.594	105.848
+Thornton	US	CO	39.868	-104.972
+Talisay	PH		10.245	123.849
+Tondabayashichō	JP		34.501	135.602
+Tlemcen	DZ		34.878	-1.315
+Toowoomba	AU	04	-27.561	151.954
+Tychy	PL		50.137	18.966
+Tokat	TR		40.314	36.554
+Thousand Oaks	US	CA	34.171	-118.838
+Tete	MZ		-16.156	33.587
+Teluknaga	ID		-6.099	106.638
+Titāgarh	IN		22.743	88.373
+Topeka	US	KS	39.048	-95.678
+Tando Allahyar	PK		25.460	68.717
+Torbat-e Ḩeydarīyeh	IR		35.274	59.219
+Tando Adam	PK		25.768	68.662
+Tyoply Stan	RU		55.620	37.493
+Timon	BR	13	-5.094	-42.837
+Targówek	PL		52.292	21.048
+Teresópolis	BR	21	-22.417	-42.978
+Thaton	MM		16.919	97.370
+Tsaritsyno	RU		55.625	37.650
+Tekirdağ	TR		40.978	27.511
+Tobruk	LY		32.090	23.954
+Toyokawa	JP		34.817	137.400
+Trois-Rivières	CA	10	46.345	-72.548
+Toledo	BR	18	-24.714	-53.743
+Torrejón de Ardoz	ES		40.455	-3.470
+Troparëvo	RU		55.656	37.485
+Tarnów	PL		50.014	20.987
+Tebingtinggi	ID		3.329	99.162
+Tigwav	HT		18.431	-72.865
+Tunja	CO		5.535	-73.368
+Taldykorgan	KZ		45.016	78.374
+Taganskiy	RU		55.733	37.667
+Tianfu	CN		37.264	122.052
+Toliara	MG		-23.350	43.667
+Tuguegarao	PH		17.616	121.723
+Tobol’sk	RU		58.198	68.255
+Thanh Hóa	VN		19.800	105.767
+Temecula	US	CA	33.494	-117.148
+Turhal	TR		40.388	36.081
+Tauranga	NZ		-37.686	176.167
+Tieli	CN		46.980	128.045
+Taitung City	TW		22.758	121.144
+Tumbes	PE		-3.567	-80.452
+Trincomalee	LK		8.578	81.229
+Tādepallegūdem	IN		16.815	81.527
+Tajimi	JP		35.317	137.133
+Taungoo	MM		18.943	96.434
+Tanza	PH		14.675	120.939
+Texcoco de Mora	MX	15	19.512	-98.883
+Tandil	AR		-37.322	-59.133
+Tyler	US	TX	32.351	-95.301
+Turgutlu	TR		38.495	27.700
+Tepexpan	MX	15	19.614	-98.936
+Tulancingo	MX	13	20.084	-98.363
+Tuxtepec	MX	20	18.088	-96.125
+Torrevieja	ES		37.979	-0.682
+Ternate	ID		0.791	127.384
+Teófilo Otoni	BR	15	-17.858	-41.505
+Tokuyama	JP		34.050	131.817
+Tonghae	KR		37.544	129.107
+Tartu	EE		58.381	26.725
+Tiébo	SN		14.633	-16.233
+Trier	DE		49.756	6.639
+Telde	ES		27.992	-15.419
+Tagiura	LY		32.882	13.351
+Tekstil’shchiki	RU		55.700	37.743
+Tsuruoka	JP		38.722	139.822
+Thunder Bay	CA	08	48.382	-89.250
+Talara	PE		-4.577	-81.272
+Thimphu	BT		27.466	89.642
+Tuscaloosa	US	AL	33.210	-87.569
+Thayetmyo	MM		19.321	95.183
+Temixco	MX	17	18.853	-99.225
+Trindade	BR	29	-16.649	-49.489
+Tarakan	ID		3.313	117.592
+Turkestan	KZ		43.297	68.252
+Tellicherry	IN		11.748	75.493
+Târgu Jiu	RO		45.050	23.283
+Terni	IT		42.563	12.643
+Terrebonne	CA	10	45.700	-73.647
+The Woodlands	US	TX	30.158	-95.489
+Tatuí	BR	27	-23.356	-47.857
+Trelew	AR		-43.249	-65.305
+Tādpatri	IN		14.908	78.010
+Tulcea	RO		45.179	28.805
+Tepatitlán de Morelos	MX	14	20.817	-102.763
+Timóteo	BR	15	-19.581	-42.650
+Tourcoing	FR		50.724	3.161
+Thủ Dầu Một	VN		10.980	106.652
+Tongren	CN		27.717	109.185
+Ţahţā	EG		26.769	31.502
+Tsuyama	JP		35.052	133.999
+Tartouss	SY		34.889	35.887
+Tinsukia	IN		27.489	95.360
+Talavera de la Reina	ES		39.963	-4.831
+Toms River	US	NJ	39.954	-74.198
+Târgovişte	RO		44.925	25.457
+Tāndā	IN		26.550	82.658
+Tiruchengode	IN		11.380	77.894
+Tracy	US	CA	37.740	-121.426
+Tumaco	CO		1.791	-78.793
+Tulcán	EC		0.812	-77.717
+Tagbilaran City	PH		9.656	123.852
+Torre del Greco	IT		40.789	14.368
+Tecomán	MX	08	18.917	-103.878
+Tārūt	SA		26.573	50.040
+Thakhèk	LA		17.410	104.831
+Túxpam de Rodríguez Cano	MX	30	20.958	-97.408
+Tlaxcala	MX	29	19.319	-98.200
+Trinidad	BO		-14.833	-64.900
+Trenton	US	NJ	40.217	-74.743
+Tübingen	DE		48.523	9.052
+Troy	US	MI	42.606	-83.150
+Taourirt	MA		34.407	-2.897
+Troitsk	RU		54.098	61.577
+Toledo	ES		39.858	-4.023
+Tinaquillo	VE		9.919	-68.305
+Tochigi	JP		36.383	139.733
+Tanashichō	JP		35.729	139.538
+Tamworth	GB		52.634	-1.696
+Tangping	CN		22.032	111.935
+Tatebayashi	JP		36.250	139.533
+Toride	JP		35.900	140.083
+Tustin	US	CA	33.746	-117.826
+Trento	IT		46.068	11.121
+Tahoua	NE		14.889	5.269
+Taixing	CN		32.167	120.014
+Tangjiazhuang	CN		39.743	118.451
+Tambacounda	SN		13.771	-13.667
+Tumen	CN		42.966	129.843
+Três Lagoas	BR	11	-20.788	-51.703
+Torrent	ES		39.437	-0.465
+Town 'n' Country	US	FL	28.011	-82.577
+Treviso	IT		45.667	12.242
+Tsurusaki	JP		33.245	131.692
+Tucuruí	BR	16	-3.766	-49.679
+Tuban	ID		-6.898	112.065
+Takefu	JP		35.904	136.167
+Tarub	ID		-6.933	109.167
+Turbat	PK		26.001	63.048
+Troisdorf	DE		50.809	7.150
+Tīkamgarh	IN		24.743	78.831
+Tatvan	TR		38.492	42.283
+Taman Senai	MY		1.601	103.642
+Tamanrasset	DZ		22.785	5.523
+Tetovo	MK		42.010	20.972
+Tando Muhammad Khan	PK		25.124	68.537
+Turlock	US	CA	37.495	-120.847
+Temple	US	TX	31.098	-97.343
+Três Rios	BR	21	-22.117	-43.209
+Tākestān	IR		36.071	49.696
+Triyuga	NP		26.792	86.699
+Tagaytay	PH		14.095	120.934
+Taroudant	MA		30.470	-8.877
+Thākurgaon	BD		26.031	88.470
+Tenri	JP		34.583	135.833
+Tatabánya	HU		47.585	18.393
+Taungdwingyi	MM		20.006	95.545
+Tiflet	MA		33.895	-6.306
+Talipparamba	IN		12.042	75.359
+Tindivanam	IN		12.234	79.656
+Trnava	SK		48.377	17.587
+Totonicapán	GT		14.912	-91.361
+Techiman	GH		7.591	-1.939
+Tuy Hòa	VN		13.095	109.321
+Tanabe	JP		33.733	135.367
+Toba Tek Singh	PK		30.971	72.483
+Tantou	CN		26.030	119.597
+Tuymazy	RU		54.607	53.710
+Tsuruga	JP		35.645	136.056
+Tanauan	PH		14.086	121.150
+Türkmenbaşy	TM		40.022	52.955
+Tanuku	IN		16.754	81.681
+Tolga	DZ		34.722	5.378
+Tangzhai	CN		34.433	116.591
+Tamano	JP		34.517	133.946
+Tournai	BE		50.607	3.389
+Tsushima	JP		35.167	136.717
+Toukh	EG		30.355	31.201
+Tejen	TM		37.383	60.505
+Tubarão	BR	26	-28.467	-49.007
+Tomaszów Mazowiecki	PL		51.531	20.009
+Trang	TH		7.556	99.611
+Takayama	JP		36.133	137.250
+Tailai	CN		46.389	123.414
+Tōgane	JP		35.550	140.367
+Tanabe	JP		34.822	135.766
+Thenkasi	IN		8.960	77.315
+Torremolinos	ES		36.620	-4.500
+Tendō	JP		38.354	140.370
+Torquay	GB		50.462	-3.525
+Tultepec	MX	15	19.685	-99.128
+Talisay	PH		10.738	122.967
+Tulungagung	ID		-8.066	111.903
+Tân An	VN		10.536	106.414
+Tecate	MX	02	32.567	-116.625
+Tamarac	US	FL	26.213	-80.250
+Taunton	GB		51.015	-3.103
+Talavera	PH		15.588	120.919
+Tikhoretsk	RU		45.855	40.125
+Tallaght	IE		53.286	-6.373
+Taloqan	AF		36.736	69.535
+Tuapse	RU		44.105	39.080
+Tulangan Utara	ID		-7.474	112.650
+Thành Phố Uông Bí	VN		21.034	106.770
+Tura	IN		25.514	90.202
+Tosu	JP		33.367	130.517
+Três Corações	BR	15	-21.697	-45.253
+Teluk Intan	MY		4.022	101.021
+Tāndūr	IN		17.248	77.577
+Tokmok	KG		42.842	75.301
+Tataouine	TN		32.930	10.452
+Tonypandy	GB		51.622	-3.455
+Tesistán	MX	14	20.801	-103.470
+Tanjung Pandan	ID		-2.734	107.635
+Tulare	US	CA	36.208	-119.347
+Tungipāra	BD		22.900	89.903
+Tinongan	PH		10.215	123.035
+Tikhvin	RU		59.645	33.529
+Tupã	BR	27	-21.935	-50.514
+Tan-Tan	MA		28.438	-11.103
+Tríkala	GR		39.555	21.768
+Taylor	US	MI	42.241	-83.270
+Toki	JP		35.350	137.183
+Tianchang	CN		37.998	114.016
+Tissemsilt	DZ		35.607	1.811
+Tiptūr	IN		13.256	76.478
+Tarnowskie Góry	PL		50.445	18.861
+Tahe	CN		52.333	124.733
+Terre Haute	US	IN	39.467	-87.414
+Tartagal	AR		-22.516	-63.801
+Tianpeng	CN		30.987	103.939
+Troyes	FR		48.301	4.085
+Taylorsville	US	UT	40.668	-111.939
+Takaishi	JP		34.517	135.433
+Trinidad	CU		21.802	-79.985
+Taozhuang	CN		34.850	117.333
+Tczew	PL		54.092	18.778
+Tanay	PH		14.497	121.285
+Temerluh	MY		3.451	102.418
+Tozkhurmato	IQ		34.888	44.633
+Tohāna	IN		29.713	75.904
+Talnakh	RU		69.487	88.397
+Tam Kỳ	VN		15.574	108.474
+Torbat-e Jām	IR		35.244	60.623
+Telêmaco Borba	BR	18	-24.324	-50.616
+Tezpur	IN		26.633	92.800
+Thiruvarur	IN		10.773	79.637
+Teziutlan	MX	21	19.817	-97.360
+Trapani	IT		38.018	12.536
+Tarn Tāran	IN		31.452	74.928
+Tongchuan	CN		31.094	105.087
+Trenčín	SK		48.895	18.044
+Täby	SE		59.444	18.069
+Tabaco	PH		13.359	123.734
+Trà Vinh	VN		9.947	106.342
+Tiruvalla	IN		9.382	76.575
+Tinley Park	US	IL	41.573	-87.784
+Tilhar	IN		27.963	79.738
+Taunton	US	MA	41.900	-71.090
+Tempelhof	DE		52.467	13.400
+Turbaco	CO		10.329	-75.411
+Tiko	CM		4.075	9.360
+Tirhanimîne	MA		35.236	-3.955
+Tsévié	TG		6.426	1.213
+Tomigusuku	JP		26.186	127.682
+Taikang	CN		46.861	124.442
+Torrelavega	ES		43.349	-4.048
+Tamiami	US	FL	25.759	-80.398
+Towson	US	MD	39.401	-76.602
+Tiznit	MA		29.697	-9.732
+Tirur	IN		10.914	75.921
+Tacurong	PH		6.692	124.676
+Turda	RO		46.567	23.783
+Tiruttangal	IN		9.483	77.833
+Tharyarwady	MM		17.654	95.788
+Trujillo Alto	PR		18.355	-66.007
+Trani	IT		41.277	16.410
+Timashëvsk	RU		45.617	38.945
+Tiquipaya	BO		-17.338	-66.216
+Tingo María	PE		-9.295	-75.996
+Tanjungagung	ID		-3.937	103.805
+Thái Bình	VN		20.450	106.340
+Tha Maka	TH		13.900	99.767
+Tuni	IN		17.359	82.546
+Terbanggi Besar	ID		-4.879	105.218
+Thongwa	MM		16.760	96.525
+Tromsø	NO		69.649	18.955
+Taxco de Alarcón	MX	12	18.555	-99.606
+Tavşanlı	TR		39.542	29.499
+Tarbes	FR		43.233	0.083
+Ta Khmau	KH		11.483	104.950
+Thomazeau	HT		18.653	-72.094
+Tacuarembó	UY		-31.717	-55.981
+Talagante	CL		-33.664	-70.927
+Telerghma	DZ		36.117	6.354
+Tagawa	JP		33.633	130.800
+Tachilek	MM		20.448	99.881
+Takāb	IR		36.401	47.113
+Tucupita	VE		9.058	-62.050
+Talā	EG		30.680	30.944
+The Villages	US	FL	28.934	-81.960
+Tarma	PE		-11.419	-75.690
+Tulun	RU		54.564	100.581
+Teoloyucan	MX	15	19.744	-99.181
+Tigard	US	OR	45.431	-122.771
+Teplice	CZ		50.640	13.825
+Tadmur	SY		34.562	38.284
+The Hammocks	US	FL	25.671	-80.445
+Tūndla	IN		27.215	78.237
+Tocumen	PA		9.089	-79.383
+Turbo	CO		8.093	-76.728
+Tarnobrzeg	PL		50.573	21.679
+Tafo	GH		6.732	-1.614
+Torbalı	TR		38.152	27.362
+Taquaritinga	BR	27	-21.406	-48.505
+Tateyama	JP		34.983	139.867
+Tipitapa	NI		12.197	-86.097
+Tabas	IR		33.596	56.924
+Troy	US	NY	42.728	-73.692
+Tokoname	JP		34.883	136.850
+Tomioka	JP		36.254	138.898
+Timimoun	DZ		29.264	0.231
+Touggourt	DZ		33.105	6.058
+Trstenik	RS		43.617	21.003
+T’aebaek	KR		37.176	128.989
+Tamlūk	IN		22.301	87.926
+Trollhättan	SE		58.284	12.289
+Torzhok	RU		57.044	34.962
+Tafí Viejo	AR		-26.732	-65.259
+Tiruvallur	IN		13.144	79.909
+Taquara	BR	23	-29.651	-50.781
+Titahari	NP		26.664	87.274
+Tierra Blanca	MX	30	18.448	-96.359
+Talegaon Dābhāde	IN		18.735	73.676
+Texas City	US	TX	29.384	-94.903
+Tamworth	AU	02	-31.090	150.929
+Twin Falls	US	ID	42.563	-114.461
+Tire	TR		38.089	27.735
+Tres Arroyos	AR		-38.374	-60.280
+Tipton	GB		52.530	-2.068
+Tlapa de Comonfort	MX	12	17.545	-98.576
+Tizimín	MX	31	21.143	-88.151
+Ţāmiyah	EG		29.476	30.961
+Tomé	CL		-36.618	-72.956
+Twante	MM		16.710	95.929
+Toyooka	JP		35.540	134.820
+Teghra	IN		25.490	85.940
+Tindouf	DZ		27.671	-8.147
+Tianguá	BR	06	-3.732	-40.992
+Tamana	JP		32.947	130.574
+Titusville	US	FL	28.612	-80.808
+Tôlanaro	MG		-25.032	46.983
+Takikawa	JP		43.553	141.906
+Timbaúba	BR	30	-7.505	-35.318
+Tung Chung	HK		22.288	113.942
+Tuckahoe	US	VA	37.590	-77.556
+Talagang	PK		32.928	72.416
+Tefé	BR	04	-3.368	-64.721
+Taunsa	PK		30.704	70.651
+Tānda	IN		28.976	78.942
+Ṭikāpur	NP		28.528	81.118
+Thoubāl	IN		24.639	93.996
+Thionville	FR		49.360	6.160
+Thatta	PK		24.747	67.924
+Tsubame	JP		37.664	138.925
+Ţūlkarm	PS		32.312	35.027
+Thohoyandou	ZA		-22.946	30.485
+Tutayev	RU		57.885	39.541
+Três Pontas	BR	15	-21.367	-45.513
+Torre Annunziata	IT		40.753	14.453
+Tizayuca	MX	13	19.837	-98.976
+Tumsar	IN		21.383	79.733
+Timmins	CA	08	48.467	-81.333
+Tirupparangunram	IN		9.882	78.073
+Tha Yang	TH		12.958	99.906
+Talence	FR		44.808	-0.589
+Tamamura	JP		36.300	139.117
+Thān	IN		22.574	71.199
+Tomiya	JP		38.393	140.886
+Tikrīt	IQ		34.616	43.679
+Talghar	KZ		43.303	77.241
+Thun	CH		46.751	7.622
+Tres Cantos	ES		40.601	-3.708
+The Colony	US	TX	33.089	-96.886
+Toretsk	UA		48.399	37.848
+Taketoyo	JP		34.850	136.917
+Tazoult-Lambese	DZ		35.482	6.261
+Tortuguitas	AR		-34.475	-58.754
+Timizart	DZ		36.800	4.267
+Tecuci	RO		45.850	27.434
+Tōkamachi	JP		37.133	138.767
+Tebesbest	DZ		33.117	6.083
+Trowbridge	GB		51.319	-2.209
+Tumba	SE		59.199	17.833
+Turaif	SA		31.673	38.664
+Tiel	NL		51.887	5.429
+Teknāf	BD		20.858	92.298
+Takahama	JP		34.917	136.983
+Tororo	UG		0.693	34.181
+Tarawa	KI		1.328	172.977
+Tosno	RU		59.540	30.878
+Tāki	IN		22.589	88.933
+Teaneck	US	NJ	40.898	-74.016
+Ţubarjal	SA		30.500	38.216
+Tatsunochō-tominaga	JP		34.864	134.552
+Thiruthani	IN		13.176	79.616
+Thakurdwara	IN		29.192	78.861
+Tiberias	IL		32.792	35.531
+Taal	PH		13.880	120.923
+Turnhout	BE		51.323	4.945
+Tual	ID		-5.629	132.752
+Tavda	RU		58.043	65.273
+Tengréla	CI		10.481	-6.407
+Tacarigua	VE		10.086	-67.920
+Tanjay	PH		9.516	123.158
+Tulsīpur	NP		28.131	82.297
+Talata Mafara	NG		12.568	6.062
+Toumodi	CI		6.558	-5.018
+Tambopata	PE		-12.672	-69.355
+Tønsberg	NO		59.268	10.408
+Tshela	CD		-4.997	12.948
+Třebíč	CZ		49.215	15.882
+The Acreage	US	FL	26.794	-80.267
+Tonbridge	GB		51.195	0.274
+Tsubata	JP		36.670	136.740
+Thaba Nchu	ZA		-29.209	26.839
+Tucumã	BR	16	-6.747	-51.161
+Tallbīsah	SY		34.841	36.731
+Tank	PK		32.217	70.383
+Tālcher	IN		20.949	85.234
+Třinec	CZ		49.678	18.671
+Tandlianwala	PK		31.034	73.133
+Tahara	JP		34.667	137.267
+Tepotzotlán	MX	15	19.721	-99.224
+Trujillo	VE		9.366	-70.437
+Tomelloso	ES		39.158	-3.022
+Thanatpin	MM		17.291	96.575
+Tarikere	IN		13.710	75.814
+Targovishte	BG		43.251	26.572
+Tayshet	RU		55.934	98.004
+Tenkodogo	BF		11.780	-0.370
+Troitsk	RU		55.485	37.307
+Tāybād	IR		34.740	60.776
+Tonekābon	IR		36.816	50.874
+Tynda	RU		55.156	124.725
+Tayabas	PH		14.026	121.593
+Texarkana	US	TX	33.425	-94.048
+Tomobe	JP		36.350	140.300
+Tursunzoda	TJ		38.513	68.232
+Talas	TR		38.691	35.554
+Tinghir	MA		31.515	-5.533
+Tunduma	TZ		-9.300	32.767
+Temryuk	RU		45.271	37.387
+Tây Ninh	VN		11.310	106.098
+Tuyên Quang	VN		21.824	105.214
+Temple City	US	CA	34.107	-118.058
+Topi	PK		34.070	72.621
+Tábor	CZ		49.414	14.658
+Teramo	IT		42.661	13.699
+Trumbull	US	CT	41.243	-73.201
+Teykovo	RU		56.858	40.537
+Tyldesley	GB		53.514	-2.468
+Tagudin	PH		16.936	120.444
+Tessaoua	NE		13.757	7.987
+Tupelo	US	MS	34.258	-88.705
+Tuljāpur	IN		18.008	76.070
+Tremblay-en-France	FR		48.950	2.568
+Tibati	CM		6.465	12.628
+Teruel	ES		40.346	-1.106
+Tala	MX	14	20.654	-103.701
+Tlapacoyan	MX	30	19.963	-97.211
+Tonalá	MX	05	16.090	-93.755
+Tha Bo	TH		17.850	102.581
+Talas	KG		42.523	72.243
+Tortosa	ES		40.812	0.522
+Tangkak	MY		2.267	102.545
+Tiassalé	CI		5.898	-4.823
+Tozeur	TN		33.920	8.134
+Tarkwa	GH		5.304	-1.990
+Tāsgaon	IN		17.037	74.602
+Tokmak	UA		47.255	35.712
+Torrington	US	CT	41.801	-73.121
+Tuttlingen	DE		47.985	8.818
+Tramandaí	BR	23	-29.985	-50.134
+Tuusula	FI		60.404	25.026
+Theunissen	ZA		-28.411	26.701
+Tudela	ES		42.062	-1.605
+Teresa	PH		14.561	121.219
+Tādif	SY		36.348	37.531
+Ti Port-de-Paix	HT		19.933	-72.833
+Trëkhgornyy	RU		54.815	58.459
+Thul	PK		28.240	68.775
+Tarneit	AU	07	-37.836	144.660
+Tādepalle	IN		16.483	80.600
+Tsuma	JP		32.100	131.400
+Tegel	DE		52.576	13.294
+Takeochō-takeo	JP		33.190	130.021
+Totton	GB		50.919	-1.490
+Tepeji del Río de Ocampo	MX	13	19.905	-99.344
+Tomé Açu	BR	16	-2.419	-48.152
+Timbó	BR	26	-26.823	-49.272
+Tuensang	IN		26.267	94.824
+Throgs Neck	US	NY	40.823	-73.820
+Tabanan	ID		-8.541	115.125
+Takahagi	JP		36.717	140.717
+Thāna Bhawan	IN		29.586	77.418
+Tondano	ID		1.305	124.913
+Trebinje	BA		42.712	18.344
+Tooele	US	UT	40.531	-112.298
+Tarime	TZ		-1.350	34.367
+Tumbi	TZ		-5.067	32.733
+Tanggulangin	ID		-7.500	112.700
+Taounate	MA		34.537	-4.640
+Ticul	MX	31	20.398	-89.535
+Torres	BR	23	-29.335	-49.727
+Tangjin	KR		36.894	126.630
+Tawaramoto	JP		34.554	135.793
+Tamalous	DZ		36.838	6.640
+Tenosique	MX	27	17.473	-91.424
+Timbuktu	ML		16.773	-3.007
+Turaiyūr	IN		11.150	78.599
+Tietê	BR	27	-23.102	-47.715
+Tienen	BE		50.807	4.938
+Tremembé	BR	27	-22.958	-45.549
+Thonon-les-Bains	FR		46.370	6.480
+Tando Jam	PK		25.428	68.529
+Torre-Pacheco	ES		37.743	-0.954
+Trutnov	CZ		50.561	15.913
+Ţafas	SY		32.737	36.067
+Tucano	BR	05	-10.958	-38.791
+Thornton-Cleveleys	GB		53.874	-3.022
+Travnik	BA		44.226	17.666
+Tigre	AR		-34.426	-58.580
+Termoli	IT		42.000	14.994
+Terracina	IT		41.292	13.244
+Taastrup	DK		55.650	12.302
+Tocoa	HN		15.683	-86.000
+Tantoyuca	MX	30	21.351	-98.226
+Topki	RU		55.277	85.616
+Takehara	JP		34.338	132.917
+Tarakeswar	IN		22.886	88.014
+Tagoloan	PH		8.540	124.754
+Texarkana	US	AR	33.442	-94.038
+Télimélé	GN		10.900	-13.033
+Tönisvorst	DE		51.321	6.494
+Tlajomulco de Zúñiga	MX	14	20.474	-103.447
+Telsiai	LT		55.981	22.247
+Tambo Grande	PE		-4.927	-80.345
+Ts’khinvali	GE		42.228	43.969
+Talāja	IN		21.353	72.035
+Tiruchchendur	IN		8.497	78.119
+Tsiombe	MG		-25.300	45.483
+Tongeren	BE		50.781	5.465
+Tequisquiapan	MX	22	20.523	-99.892
+Tallkalakh	SY		34.668	36.260
+Tobias Barreto	BR	28	-11.184	-37.998
+Thiais	FR		48.765	2.396
+Tangub	PH		8.062	123.748
+Turek	PL		52.015	18.501
+Taunusstein	DE		50.150	8.152
+Tangi	PK		34.301	71.652
+Tārānagar	IN		28.669	75.032
+Togitsu	JP		32.833	129.850
+Thal	PK		35.478	72.244
+Tewksbury	US	MA	42.611	-71.234
+Tela	HN		15.774	-87.467
+Trelleborg	SE		55.375	13.157
+Ţayyibat al Imām	SY		35.266	36.712
+Totana	ES		37.769	-1.502
+Tequila	MX	14	20.882	-103.836
+Tournefeuille	FR		43.589	1.319
+Tanah Merah	MY		5.800	102.150
+Tame	CO		6.461	-71.736
+Trenggalek	ID		-8.076	111.706
+Tarui	JP		35.367	136.533
+Tunceli	TR		39.099	39.544
+Tocache	PE		-8.188	-76.520
+Tandag	PH		9.078	126.199
+Turrialba	CR		9.905	-83.684
+Tsyurupyns’k	UA		46.618	32.719
+Turnu Măgurele	RO		43.747	24.868
+Tanuma	JP		36.367	139.583
+Tecamachalco	MX	21	18.884	-97.733
+Târnăveni	RO		46.332	24.297
+Tula de Allende	MX	13	20.052	-99.344
+Toshbuloq	UZ		40.916	71.578
+Titlāgarh	IN		20.290	83.152
+Tukuyu	TZ		-9.250	33.650
+Terme	TR		41.209	36.974
+Trappes	FR		48.774	2.018
+Tirukkoyilur	IN		11.966	79.203
+Tomilino	RU		55.656	37.947
+Tampin	MY		2.470	102.230
+Tabatinga	BR	04	-4.231	-69.939
+Thung Song	TH		8.165	99.680
+Talamba	PK		30.527	72.241
+Tultitlán de Mariano Escobedo	MX	15	19.647	-99.168
+Timaru	NZ		-44.397	171.254
+Tizi Gheniff	DZ		36.588	3.774
+Terneuzen	NL		51.336	3.828
+Tālīkota	IN		16.473	76.311
+Tapah Road	MY		4.167	101.200
+To‘rqao‘rg‘on	UZ		41.000	71.512
+Termas de Río Hondo	AR		-27.494	-64.860
+Toyoshina	JP		36.300	137.901
+Theniet el Had	DZ		35.871	2.028
+Taurage	LT		55.252	22.290
+Tomohon	ID		1.317	124.804
+Tehri	IN		30.391	78.480
+Tucker	US	GA	33.855	-84.217
+Tuxpan	MX	14	19.556	-103.376
+Touba	CI		8.283	-7.683
+Tepeaca	MX	21	18.967	-97.900
+Táriba	VE		7.819	-72.224
+Tandaltī	SD		13.017	31.867
+Taverny	FR		49.025	2.217
+Tualatin	US	OR	45.384	-122.764
+Taquari	BR	23	-29.800	-51.864
+Thomasville	US	NC	35.883	-80.082
+Tsiroanomandidy	MG		-18.770	46.047
+Tabuk	PH		17.474	121.468
+Tara	RU		56.894	74.371
+Triggiano	IT		41.065	16.925
+Tōno	JP		39.317	141.533
+Tha Muang	TH		13.961	99.641
+Toshloq	UZ		40.477	71.768
+Tekeli	KZ		44.833	78.831
+Truskavets’	UA		49.278	23.506
+Trípoli	GR		37.509	22.379
+Teapa	MX	27	17.550	-92.952
+Tujunga	US	CA	34.252	-118.288
+Tayu	ID		-6.540	111.052
+Terdāl	IN		16.494	75.047
+Takahata	JP		38.002	140.191
+Taloda	IN		21.561	74.212
+Tirmitine	DZ		36.654	3.981
+Tierralta	CO		8.174	-76.059
+Temse	BE		51.128	4.214
+Twentynine Palms	US	CA	34.136	-116.054
+Telabastagan	PH		15.119	120.608
+Tamra	IL		32.853	35.199
+Terlizzi	IT		41.129	16.545
+Tha Kham	TH		9.111	99.232
+Tahla	MA		34.050	-4.422
+Tecax	MX	31	20.205	-89.285
+Temple Terrace	US	FL	28.035	-82.389
+Thetford-Mines	CA	10	46.094	-71.305
+Tchamba	TG		9.033	1.417
+Tacámbaro de Codallos	MX	16	19.235	-101.458
+Troy	US	OH	40.039	-84.203
+Tall Rif‘at	SY		36.472	37.095
+Treinta y Tres	UY		-33.233	-54.383
+Tejupilco de Hidalgo	MX	15	18.905	-100.153
+Tougué	GN		11.445	-11.664
+Tekkalakote	IN		15.534	76.877
+Tipasa	DZ		36.590	2.447
+Tatarsk	RU		55.219	75.983
+Teluk Nibung	ID		3.001	99.816
+Tanjungtiram	ID		4.061	98.370
+Talisay	PH		14.092	121.022
+Treviglio	IT		45.521	9.591
+Thetford	GB		52.417	0.750
+Takum	NG		7.267	9.983
+Takahashi	JP		34.783	133.617
+Talwāra	IN		31.938	75.887
+Tres Isletas	AR		-26.341	-60.432
+Tharād	IN		24.396	71.626
+Tekkali	IN		18.606	84.235
+Traralgon	AU	07	-38.195	146.542
+Tarpon Springs	US	FL	28.146	-82.757
+Tamazunchale	MX	24	21.260	-98.789
+Tocopilla	CL		-22.092	-70.198
+Tbilisskaya	RU		45.363	40.190
+Torres Vedras	PT		39.091	-9.259
+Tupaciguara	BR	15	-18.592	-48.705
+Torcy	FR		48.851	2.651
+Tbeng Meanchey	KH		13.807	104.980
+Taiobeiras	BR	15	-15.808	-42.233
+Tayga	RU		56.064	85.622
+Thatcham	GB		51.404	-1.260
+Tippi	ET		7.200	35.450
+Tak	TH		16.870	99.129
+Trotwood	US	OH	39.797	-84.311
+Tanjung Tokong	MY		5.461	100.307
+Tegina	NG		10.071	6.191
+Tosya	TR		41.015	34.040
+Toritama	BR	30	-8.007	-36.057
+Tata	HU		47.653	18.318
+Tāramangalam	IN		11.694	77.970
+Troitskaya	RU		43.307	44.984
+Tanguá	BR	21	-22.730	-42.714
+Teocaltiche	MX	14	21.434	-102.574
+Tānsen	NP		27.867	83.547
+Tash-Kumyr	KG		41.346	72.217
+Trucuk	ID		-7.718	110.659
+Tacoronte	ES		28.477	-16.410
+Teloloapan	MX	12	18.367	-99.872
+Tallkayf	IQ		36.491	43.121
+Tadotsu	JP		34.275	133.750
+Teotihuacán de Arista	MX	15	19.690	-98.861
+Terrytown	US	LA	29.910	-90.033
+Tamboril	DO		19.485	-70.611
+Toba	JP		34.483	136.842
+Triolet	MU		-20.058	57.550
+Turabah	SA		21.214	41.633
+Tcholliré	CM		8.402	14.170
+Tūkrah	LY		32.534	20.579
+Taesal-li	KR		36.971	126.454
+Trairi	BR	06	-3.278	-39.269
+Thị Trấn Tân Thành	VN		10.256	105.593
+Tearce	MK		42.077	21.053
+Tochio-honchō	JP		37.476	138.995
+Truro	GB		50.265	-5.054
+Termini Imerese	IT		37.982	13.697
+Trebišov	SK		48.629	21.720
+Tralee	IE		52.270	-9.703
+Tremont	US	NY	40.850	-73.906
+Tixtla de Guerrero	MX	12	17.567	-99.398
+Thornlie	AU	08	-32.060	115.955
+Tashtagol	RU		52.766	87.889
+Tarāna	IN		23.334	76.043
+Tomares	ES		37.373	-6.046
+Törökszentmiklós	HU		47.183	20.417
+The Crossings	US	FL	25.671	-80.401
+Tortona	IT		44.898	8.864
+Tennō	JP		39.900	139.967
+Tequixquiac	MX	15	19.909	-99.145
+Todaraisingh	IN		26.024	75.482
+Teotihuacán	MX	15	19.689	-98.861
+Todabhim	IN		26.917	76.817
+Tiruppuvanam	IN		9.826	78.258
+Takanabe	JP		32.133	131.500
+Tulsīpur	IN		27.534	82.417
+Tijucas	BR	26	-27.241	-48.634
+Taupo	NZ		-38.683	176.083
+Tha Mai	TH		12.621	102.005
+Tejar	CR		9.746	-84.234
+Tizi-n-Tleta	DZ		36.546	4.057
+Thornaby-on-Tees	GB		54.533	-1.300
+Tanjung Sepat	MY		2.658	101.563
+Tokār	SD		18.425	37.729
+Tupiza	BO		-21.443	-65.719
+Tadjourah	DJ		11.788	42.882
+Tinnanūr	IN		13.114	80.027
+Tinde	TZ		-3.883	33.200
+Tsurugi-asahimachi	JP		36.450	136.633
+Tékane	MR		16.602	-15.349
+Thívai	GR		38.325	23.319
+Tivoli	IT		41.960	12.802
+Torre del Mar	ES		36.742	-4.093
+Tecpán Guatemala	GT		14.762	-90.992
+Toyohama	JP		34.709	136.934
+Taphan Hin	TH		16.221	100.420
+Toguchin	RU		55.235	84.386
+Tubize	BE		50.691	4.201
+Teutônia	BR	23	-29.448	-51.806
+Tijāra	IN		27.934	76.855
+Tōbetsu	JP		43.217	141.517
+Telavi	GE		41.920	45.473
+Torrelodones	ES		40.577	-3.927
+Tenango de Arista	MX	15	19.104	-99.590
+Tuxpan	MX	18	21.942	-105.299
+Tepecik	TR		41.029	28.550
+Tsukumiura	JP		33.075	131.869
+Taylors	US	SC	34.920	-82.296
+Trat	TH		12.244	102.515
+Tsawwassen	CA	02	49.017	-123.083
+Tanki Leendert	AW		12.539	-70.020
+Tatsuno	JP		35.984	137.997
+Taquarituba	BR	27	-23.533	-49.244
+Trinidad	UY		-33.517	-56.900
+Traunreut	DE		47.963	12.592
+Tornio	FI		65.848	24.147
+Terek	RU		43.483	44.136
+Troyan	BG		42.894	24.716
+Tanushimarumachi-toyoki	JP		33.350	130.683
+Talhar	PK		24.885	68.814
+Telhāra	IN		21.027	76.839
+Thiene	IT		45.709	11.480
+Téra	NE		14.008	0.753
+Três Coroas	BR	23	-29.517	-50.778
+Trussville	US	AL	33.620	-86.609
+Taïbet	DZ		33.085	6.389
+Tchaourou	BJ		8.886	2.598
+Tadmaït	DZ		36.744	3.900
+Tambuwal	NG		12.406	4.646
+Tor Lupara	IT		41.998	12.618
+Tharangambadi	IN		11.028	79.854
+Tirah	IL		32.234	34.950
+Thamaga	BW		-24.670	25.540
+Trofa	PT		41.337	-8.560
+Tŭytepa	UZ		41.032	69.363
+Takelsa	TN		36.783	10.633
+Truro	CA	07	45.367	-63.265
+Truganina	AU	07	-37.817	144.750
+Tervuren	BE		50.824	4.514
+T’ongch’ŏn-ŭp	KP		38.954	127.892
+Takanosu	JP		40.223	140.366
+Târgu Neamţ	RO		47.200	26.367
+Thomastown	AU	07	-37.683	145.017
+Terrazas del Valle	MX	02	32.487	-116.827
+Tufānganj	IN		26.317	89.665
+Taloc	PH		10.575	122.895
+Tisaiyanvilai	IN		8.337	77.868
+Tubbergen	NL		52.407	6.785
+Tomaszów Lubelski	PL		50.448	23.416
+Tegelen	NL		51.344	6.136
+Túquerres	CO		1.086	-77.619
+Tanda	CI		7.803	-3.168
+Tyrnyauz	RU		43.383	42.918
+Târgu Secuiesc	RO		46.000	26.133
+Ternate	PH		14.290	120.717
+Torit	SS		4.412	32.570
+Tibiri	NE		13.563	7.048
+Tukwila	US	WA	47.474	-122.261
+Trezzano sul Naviglio	IT		45.422	9.063
+Tekirova	TR		36.502	30.527
+Tambaú	BR	27	-21.705	-47.274
+Tías	ES		28.961	-13.645
+Tanguiéta	BJ		10.621	1.267
+Tewkesbury	GB		51.992	-2.160
+Tamuning-Tumon-Harmon Village	GU		13.488	144.781
+Tamuning	GU		13.488	144.781
+Tongelre	NL		51.449	5.520
+Tysons Corner	US	VA	38.919	-77.231
+Tiverton	GB		50.902	-3.492
+Teltow	DE		52.403	13.260
+Terrace	CA	02	54.516	-128.603
+Trecate	IT		45.434	8.736
+Teguise	ES		29.060	-13.564
+Taft	IR		31.744	54.203
+Telgte	DE		51.980	7.783
+Tchibanga	GA		-2.933	10.982
+Toktogul	KG		41.874	72.942
+Trindade	BR	30	-7.762	-40.268
+Tāoru	IN		28.212	76.950
+Tielt	BE		50.999	3.327
+Tillabéri	NE		14.207	1.454
+Taşova	TR		40.760	36.322
+Tumwater	US	WA	47.007	-122.909
+Tomar	PT		39.602	-8.409
+Tutong	BN		4.803	114.649
+Tarumizu	JP		31.483	130.700
+Titao	BF		13.767	-2.067
+Tullahoma	US	TN	35.362	-86.209
+Tha Ruea	TH		14.567	100.726
+Talitsa	RU		56.880	60.021
+Tekāri	IN		24.943	84.843
+Tirat Karmel	IL		32.760	34.972
+Torhout	BE		51.066	3.101
+Tajerouine	TN		35.892	8.553
+Tal’menka	RU		53.818	83.568
+Twinsburg	US	OH	41.313	-81.440
+Troy	US	AL	31.809	-85.970
+Trzebinia	PL		50.159	19.470
+Tamazula de Gordiano	MX	14	19.680	-103.251
+Torgau	DE		51.560	12.996
+Thomasville	US	GA	30.837	-83.979
+Tsirang	BT		27.022	90.123
+Talitsa	RU		57.011	63.733
+Tapes	BR	23	-30.673	-51.396
+Tarko-Sale	RU		64.916	77.775
+Turinsk	RU		58.046	63.696
+Trudovoye	RU		43.298	132.069
+Thoen	TH		17.613	99.216
+Traunstein	DE		47.868	12.643
+Turar Ryskulov	KZ		42.533	70.350
+Trenton	US	MI	42.139	-83.178
+Tsukawaki	JP		33.277	131.156
+Tukums	LV		56.968	23.156
+Thāsra	IN		22.798	73.212
+Tlaquiltenango	MX	17	18.634	-99.163
+Thornbury	AU	07	-37.758	145.006
+Três de Maio	BR	23	-27.773	-54.240
+Tourlaville	FR		49.638	-1.566
+Tulum	MX	23	20.212	-87.463
+Tanabi	BR	27	-20.626	-49.649
+Thorold	CA	08	43.117	-79.200
+Tavernes de la Valldigna	ES		39.072	-0.266
+Tiquisate	GT		14.284	-91.361
+Terter	AZ		40.342	46.932
+Tettnang	DE		47.669	9.591
+Tolosa	ES		43.135	-2.078
+Tirumala	IN		13.683	79.350
+Tres de Mayo	MX	17	18.869	-99.208
+Tamandaré	BR	30	-8.756	-35.100
+Timbiras	BR	13	-4.255	-43.941
+Tizi Rached	DZ		36.672	4.192
+Takhatpur	IN		22.129	81.870
+Tqvarch'eli	GE		42.840	41.680
+Teo	ES		42.750	-8.500
+Tarifa	ES		36.014	-5.607
+Taufkirchen	DE		48.049	11.617
+Tinton Falls	US	NJ	40.304	-74.100
+Tonota	BW		-21.442	27.462
+Tunapuna	TT		10.652	-61.389
+Takoma Park	US	MD	38.978	-77.007
+Tharu Shah	PK		26.942	68.118
+Tiffin	US	OH	41.114	-83.178
+Toul	FR		48.681	5.891
+Templin	DE		53.119	13.502
+Tapolca	HU		46.882	17.441
+Tougan	BF		13.072	-3.069
+Tājpur	IN		29.162	78.485
+Tallmadge	US	OH	41.101	-81.442
+Taşköprü	TR		41.510	34.214
+Tupanciretã	BR	23	-29.081	-53.836
+Teignmouth	GB		50.546	-3.497
+Tynemouth	GB		55.018	-1.426
+Tillmans Corner	US	AL	30.590	-88.171
+Tonj	SS		7.274	28.677
+Tres Valles	MX	30	18.239	-96.136
+Thorne	GB		53.611	-0.963
+Tiszaújváros	HU		47.933	21.083
+Três Passos	BR	23	-27.456	-53.932
+Takhatgarh	IN		25.322	73.005
+Tui	ES		42.047	-8.644
+Tak Bai	TH		6.259	102.055
+Torvaianica	IT		41.621	12.462
+Tekkeköy	TR		41.212	36.460
+Tena	EC		-0.994	-77.813
+Tradate	IT		45.708	8.908
+Taleigao	IN		15.469	73.833
+Terzigno	IT		40.804	14.493
+Tabou	CI		4.423	-7.353
+Tirebolu	TR		41.007	38.814
+Tensta	SE		59.394	17.901
+Trentola-Ducenta	IT		40.975	14.175
+Tandahimba	TZ		-10.750	39.633
+Terrell	US	TX	32.736	-96.275
+Tulle	FR		45.266	1.772
+Torremaggiore	IT		41.689	15.294
+Tzaneen	ZA		-23.833	30.164
+Tuen Mun	HK		22.392	113.972
+Tezoyuca	MX	15	19.593	-98.911
+Tabira	BR	30	-7.591	-37.539
+Tassin-la-Demi-Lune	FR		45.755	4.788
+Trzcianka	PL		53.041	16.456
+Tanakpur	IN		29.074	80.111
+Tanque Verde	US	AZ	32.252	-110.737
+Torrox	ES		36.758	-3.952
+Tiwi	PH		13.459	123.680
+Tuchkovo	RU		55.601	36.468
+Tsaratanana	MG		-16.797	47.652
+Ts’q’alt’ubo	GE		42.329	42.598
+Tifton	US	GA	31.450	-83.508
+Taylor	US	TX	30.571	-97.409
+Tagta	TM		41.650	59.916
+Troutdale	US	OR	45.539	-122.387
+Thap Than	TH		15.461	99.892
+Taradale	NZ		-39.533	176.850
+Tahlequah	US	OK	35.915	-94.970
+Teonthar	IN		24.982	81.642
+Tessenderlo	BE		51.065	5.089
+Tanauan	PH		11.109	125.016
+Tapiramutá	BR	05	-11.847	-40.791
+Tàrrega	ES		41.647	1.140
+Tarauacá	BR	01	-8.161	-70.766
+Tupi	PH		6.334	124.953
+Tonoshō	JP		34.480	134.170
+Tolentino	IT		43.209	13.285
+Turgutreis	TR		37.017	27.267
+Tondi	IN		9.742	79.018
+Tasbuget	KZ		44.770	65.555
+Tuntum	BR	13	-5.258	-44.649
+Tlaltenango de Sánchez Román	MX	32	21.782	-103.303
+Talwandi Bhai	IN		30.856	74.930
+Talne	UA		48.889	30.695
+The Gap	AU	04	-27.442	152.939
+Takedamachi	JP		32.967	131.400
+Taree	AU	02	-31.911	152.454
+Tamuín	MX	24	22.006	-98.780
+Tingi	TZ		-11.300	35.033
+Templestowe	AU	07	-37.754	145.149
+Tai Po	HK		22.450	114.169
+Truckee	US	CA	39.328	-120.183
+Teopisca	MX	05	16.542	-92.474
+Teolocholco	MX	29	19.243	-98.191
+Thenia	DZ		36.725	3.557
+Tulchyn	UA		48.674	28.846
+Trubchevsk	RU		52.580	33.764
+Tepatlaxco de Hidalgo	MX	21	19.081	-97.973
+Thala	TN		35.572	8.670
+Tonga	CM		4.967	10.700
+Tongging	ID		2.898	98.523
+Tullinge	SE		59.200	17.900
+Tsotsin-Yurt	RU		43.242	46.000
+Thākurganj	IN		26.427	88.131
+Trento	PH		8.046	126.064
+Tecámac de Felipe Villanueva	MX	15	19.713	-98.968
+Tadley	GB		51.350	-1.129
+Talladega	US	AL	33.436	-86.106
+Tarancón	ES		40.009	-3.007
+Ţūbās	PS		32.321	35.370
+Tulantongo	MX	15	19.532	-98.875
+Talacogon	PH		8.456	125.784
+Thap Khlo	TH		16.160	100.597
+Tergnier	FR		49.656	3.301
+Tavares	US	FL	28.804	-81.726
+Taylors Lakes	AU	07	-37.699	144.786
+Tīrthahalli	IN		13.688	75.245
+Terrace Heights	US	NY	40.721	-73.769
+Tordera	ES		41.699	2.719
+Tsimlyansk	RU		47.646	42.102
+The Dalles	US	OR	45.595	-121.179
+Tuzantla	MX	16	19.203	-100.567
+Tagas	PH		13.167	123.717
+Torredembarra	ES		41.145	1.399
+Tepeapulco	MX	13	19.788	-98.553
+Tecámac	MX	15	19.713	-98.969
+Telfs	AT		47.307	11.068
+Tepalcatepec	MX	16	19.187	-102.849
+Traverse City	US	MI	44.763	-85.621
+Tanout	NE		14.971	8.888
+Teodoro Sampaio	BR	27	-22.532	-52.167
+Trbovlje	SI		46.155	15.053
+Tetla	MX	29	19.442	-98.103
+Tavira	PT		37.127	-7.649
+Técpan de Galeana	MX	12	17.220	-100.630
+Trindade	BR	26	-27.586	-48.523
+Tangancícuaro de Arista	MX	15	19.887	-102.206
+Three Lakes	US	FL	25.642	-80.398
+Trossingen	DE		48.077	8.644
+Tucumã	BR	16	-0.183	-50.050
+Torres Novas	PT		39.476	-8.543
+Távros	GR		37.971	23.690
+Tezu	IN		27.913	96.129
+Tonawanda	US	NY	43.020	-78.880
+Tolland	US	CT	41.871	-72.369
+Tenafly	US	NJ	40.925	-73.963
+Tizapán el Alto	MX	14	20.161	-103.044
+Três Barras	BR	26	-26.106	-50.322
+Tredegar	GB		51.773	-3.247
+Tlaxco	MX	29	19.614	-98.120
+Tlalmanalco	MX	15	19.205	-98.801
+Taylors Hill	AU	07	-37.710	144.755
+Triunfo	BR	23	-29.943	-51.718
+Tabalosos	PE		-6.350	-76.683
+Tarascon	FR		43.806	4.660
+Thuin	BE		50.339	4.286
+Tosagua	EC		-0.787	-80.235
+Troon	GB		55.544	-4.663
+Thornton Heath	GB		51.399	-0.099
+Torre del Campo	ES		37.771	-3.897
+Teulada	ES		38.729	0.104
+Thibodaux	US	LA	29.796	-90.823
+Ternat	BE		50.867	4.167
+Taucha	DE		51.383	12.483
+Tranås	SE		58.037	14.978
+Tonya	TR		40.884	39.285
+Tecuala	MX	18	22.398	-105.458
+Tinogasta	AR		-28.063	-67.565
+Turnov	CZ		50.584	15.152
+Traiguén	CL		-38.250	-72.670
+Thornlands	AU	04	-27.558	153.265
+Thiruvaiyaru	IN		10.884	79.104
+Taglio	IT		45.022	12.211
+That Phanom	TH		16.936	104.710
+Tihuatlan	MX	30	20.714	-97.533
+Tafresh	IR		34.693	50.016
+Tetiiv	UA		49.377	29.665
+Thérmi	GR		40.547	23.020
+Tovarkovo	RU		54.676	35.939
+Tamboril	BR	06	-4.832	-40.321
+Tokoroa	NZ		-38.233	175.867
+Tāl	IN		23.720	75.385
+Tlaxcoapan	MX	13	20.092	-99.220
+Toongabbie	AU	02	-33.783	150.950
+Tarqūmyā	PS		31.576	35.012
+Toropets	RU		56.498	31.635
+Thiruvidaimaruthur	IN		10.999	79.452
+Torredonjimeno	ES		37.767	-3.958
+Tenancingo de Degollado	MX	15	18.961	-99.590
+Trepuzzi	IT		40.405	18.076
+Tepoztlán	MX	17	18.986	-99.101
+Turuvekere	IN		13.164	76.666
+Toulépleu Gueré	CI		6.574	-8.426
+Tando Bago	PK		24.789	68.965
+Tapejara	BR	23	-28.068	-52.014
+Trancoso	MX	32	22.735	-102.367
+Tostado	AR		-29.232	-61.769
+Travemünde	DE		53.963	10.871
+Trinitapoli	IT		41.357	16.089
+Tlacolula de Matamoros	MX	20	16.955	-96.476
+Tryavna	BG		42.867	25.500
+Torelló	ES		42.046	2.267
+Târgu Frumos	RO		47.200	27.000
+Tālbahat	IN		25.044	78.434
+Toro	CO		4.612	-76.081
+Tabligbo	TG		6.583	1.500
+Thiers	FR		45.857	3.548
+Tremelo	BE		50.992	4.708
+Tyazhinskiy	RU		56.116	88.523
+Tabarka	TN		36.954	8.758
+Taguatinga	BR	31	-12.404	-46.436
+Testour	TN		36.551	9.443
+Tricase	IT		39.930	18.354
+Tuchola	PL		53.588	17.859
+Tekanpur	IN		25.994	78.283
+Thandla	IN		23.010	74.577
+Tremestieri Etneo	IT		37.565	15.079
+Tīkri	IN		29.229	77.355
+Tuineje	ES		28.324	-14.047
+Tiszavasvári	HU		47.967	21.350
+Tanūmah	SA		27.100	44.133
+The Boldons	GB		54.943	-1.453
+Tibú	CO		8.639	-72.736
+Terra Santa	BR	16	-2.104	-56.487
+Taraclia	MD		45.903	28.668
+Twello	NL		52.237	6.103
+Talanga	HN		14.400	-87.083
+Timberwood Park	US	TX	29.706	-98.478
+Tyup	KG		42.728	78.365
+Thale	DE		51.749	11.041
+Taquaritinga do Norte	BR	30	-7.903	-36.044
+Taveta	KE		-3.399	37.683
+Talovskiy	RU		51.116	40.726
+Tostedt	DE		53.283	9.717
+Tomiño	ES		41.988	-8.755
+Thalwil	CH		47.292	8.564
+Tauberbischofsheim	DE		49.625	9.663
+Trāl	IN		33.927	75.116
+Tsivil’sk	RU		55.870	47.479
+Tepetlixpa	MX	15	19.029	-98.821
+Tirumullaivāsal	IN		11.240	79.837
+Templestowe Lower	AU	07	-37.767	145.117
+Ticuantepe	NI		12.023	-86.205
+T’q’ibuli	GE		42.348	42.998
+Tórshavn	FO		62.010	-6.772
+Talodi	SD		10.632	30.380
+Teays Valley	US	WV	38.450	-81.929
+Tholey	DE		49.484	7.037
+Terebovlya	UA		49.302	25.710
+Taiynsha	KZ		53.848	69.768
+Tucuran	PH		7.852	123.574
+Treuchtlingen	DE		48.955	10.908
+Târgu Ocna	RO		46.279	26.613
+Torrijos	ES		39.982	-4.283
+Taldom	RU		56.733	37.533
+Tornesch	DE		53.700	9.717
+Tavricheskoye	RU		54.585	73.639
+Thônex	CH		46.188	6.199
+Tehachapi	US	CA	35.132	-118.449
+Thisted	DK		56.955	8.695
+Thonotosassa	US	FL	28.061	-82.302
+Toboso	PH		10.714	123.516
+Turgen	KZ		43.401	77.593
+Tranovaho	MG		-25.300	44.967
+Terra Boa	BR	18	-23.768	-52.444
+Tarashcha	UA		49.558	30.493
+Teror	ES		28.061	-15.549
+Trebur	DE		49.926	8.407
+Tocantins	BR	15	-21.175	-43.018
+Torquay	AU	07	-38.331	144.326
+Travagliato	IT		45.524	10.080
+Taggia	IT		43.846	7.852
+Tabursuq	TN		36.457	9.248
+Tempio Pausania	IT		40.901	9.105
+Tendūkheda	IN		23.396	79.539
+Temascalcingo	MX	15	19.916	-100.004
+Tigbauan	PH		10.675	122.378
+Twistringen	DE		52.799	8.642
+Tibagi	BR	18	-24.509	-50.414
+Tachov	CZ		49.795	12.634
+Tovuz	AZ		40.992	45.628
+Tāttayyangārpettai	IN		11.124	78.449
+Triel-sur-Seine	FR		48.978	2.007
+Toorak	AU	07	-37.842	145.014
+Toshām	IN		28.870	75.916
+Tempoal de Sánchez	MX	30	21.520	-98.388
+Tototlán	MX	14	20.542	-102.792
+Tigaon	PH		13.633	123.497
+Tucacas	VE		10.790	-68.326
+Tsimbeo	KM		-12.206	44.465
+Thompson	CA	03	55.743	-97.856
+Thirukattupalli	IN		10.844	78.956
+Tulln	AT		48.328	16.059
+Tecalitlán	MX	14	19.472	-103.307
+Toma	BF		12.758	-2.899
+Treharris	GB		51.665	-3.307
+Tiergarten	DE		52.517	13.367
+Trenton	US	OH	39.481	-84.458
+Tavistock	GB		50.549	-4.144
+Tumpat	MY		6.198	102.171
+Temirlanovka	KZ		42.600	69.258
+Tondon	GN		10.367	-13.350
+Tercan	TR		39.777	40.378
+Ţăndărei	RO		44.650	27.667
+Tutóia	BR	13	-2.762	-42.274
+Trzebnica	PL		51.311	17.063
+Tucson Estates	US	AZ	32.188	-111.091
+Tsumeb	NA		-19.233	17.717
+Tarimoro	MX	11	20.283	-100.755
+Timberlake	US	VA	37.321	-79.258
+Teverola	IT		40.996	14.208
+Travilah	US	MD	39.069	-77.263
+Tamm	DE		48.920	9.116
+Talant	FR		47.337	5.009
+Tábua	PT		40.362	-8.029
+Tepalcingo	MX	17	18.595	-98.845
+Talsi	LV		57.246	22.581
+Tukzār	AF		35.948	66.421
+Titisee-Neustadt	DE		47.921	8.191
+Tolna	HU		46.427	18.782
+Tiszafüred	HU		47.617	20.767
+Tepelenë	AL		40.296	20.019
+Tarquinia	IT		42.254	11.757
+Tyukalinsk	RU		55.873	72.197
+Tring	GB		51.795	-0.658
+Teningen	DE		48.130	7.812
+Tiszaföldvár	HU		46.983	20.250
+Terryville	US	NY	40.909	-73.065
+Tranent	GB		55.944	-2.954
+Taşkent	TR		36.924	32.491
+Tomeşti	RO		47.117	27.683
+Tetyushi	RU		54.938	48.837
+Turi	IT		40.917	17.020
+Trezzo sull'Adda	IT		45.605	9.514
+Toungo	NG		8.117	12.046
+Trophy Club	US	TX	32.998	-97.184
+Tomarza	TR		38.447	35.799
+Tiszakécske	HU		46.933	20.103
+Trélazé	FR		47.446	-0.465
+Tilbury	GB		51.462	0.359
+Turramurra	AU	02	-33.733	151.128
+Todmorden	GB		53.714	-2.097
+Thornbury	GB		51.609	-2.520
+Trostberg an der Alz	DE		48.028	12.558
+Taurianova	IT		38.355	16.013
+Törökbálint	HU		47.429	18.914
+Thulamahashi	ZA		-24.725	31.199
+The Ponds	AU	02	-33.702	150.911
+Tavagnacco	IT		46.110	13.223
+Tenancingo	MX	29	19.147	-98.201
+Tabatinga	BR	27	-21.717	-48.688
+Tayug	PH		16.027	120.743
+Torroella de Montgrí	ES		42.043	3.127
+Theux	BE		50.533	5.812
+Tavas	TR		37.574	29.071
+Taboshar	TJ		40.570	69.642
+Tullamore	IE		53.274	-7.489
+Titron	IN		29.668	77.324
+Taviano	IT		39.982	18.082
+Targuist	MA		34.938	-4.319
+Tarrytown	US	NY	41.076	-73.859
+Tarnos	FR		43.542	-1.463
+Troy	US	MO	38.979	-90.981
+Tierra Colorada	MX	12	17.166	-99.528
+Tomball	US	TX	30.097	-95.616
+Trapiche	PH		10.684	122.432
+Thouars	FR		46.981	-0.212
+Titay	PH		7.812	122.534
+Tafalla	ES		42.527	-1.674
+Talachyn	BY		54.409	29.695
+Tyngsboro	US	MA	42.677	-71.425
+Two Rivers	US	WI	44.154	-87.569
+Thame	GB		51.748	-0.976
+Terrigal	AU	02	-33.448	151.447
+Traun	AT		48.221	14.238
+Tibigan	PH		9.952	123.962
+Tatsinskiy	RU		48.197	41.276
+Torre del Lago Puccini	IT		43.829	10.289
+Tarazona	ES		41.905	-1.727
+Talibon	PH		10.149	124.325
+Terra Nova	BR	05	-12.367	-40.667
+Tarboro	US	NC	35.897	-77.536
+Tewantin	AU	04	-26.391	153.034
+Tineo	ES		43.338	-6.415
+Twon-Brass	NG		4.312	6.241
+Tuyum	PH		9.977	122.558
+Town and Country	US	MO	38.612	-90.463
+Tepatepec	MX	13	20.246	-99.090
+Triandría	GR		40.615	22.976
+Troitskiy	RU		57.060	63.748
+Tselina	RU		46.534	41.033
+Timperley	GB		53.400	-2.333
+Topoloveni	RO		44.817	25.083
+Tatarbunary	UA		45.839	29.611
+Tāfuna	AS		-14.336	-170.720
+Tubod	PH		8.056	123.790
+Totowa	US	NJ	40.905	-74.210
+Tixkokob	MX	31	21.002	-89.395
+Trogir	HR		43.513	16.252
+Terra Roxa	BR	18	-23.856	-50.031
+Trinity	US	FL	28.181	-82.682
+Troitskoye	RU		52.982	84.680
+Tupi Paulista	BR	27	-21.381	-51.571
+Taylorville	US	IL	39.549	-89.295
+Takanini	NZ		-37.048	174.900
+Tiadiaye	SN		14.417	-16.700
+Tarare	FR		45.896	4.433
+Tyul’kubas	KZ		42.486	70.296
+Taurisano	IT		39.957	18.215
+Týrnavos	GR		39.738	22.289
+Teteven	BG		42.917	24.267
+Toowong	AU	04	-27.483	152.983
+Trofarello	IT		44.982	7.747
+Takaungu	KE		-3.683	39.857
+Takai	NG		11.576	9.109
+Tamalpais-Homestead Valley	US	CA	37.878	-122.536
+Tapejara	BR	18	-23.733	-52.873
+Tagbina	PH		8.452	126.171
+Tegueste	ES		28.517	-16.317
+Torgelow	DE		53.634	14.013
+Tālgrām	IN		27.048	79.648
+Trimbak	IN		19.933	73.529
+Tarragindi	AU	04	-27.527	153.046
+Tournon-sur-Rhône	FR		45.067	4.833
+Trou du Nord	HT		19.617	-72.024
+Tlaltizapán	MX	17	18.686	-99.119
+Tarki	RU		42.944	47.495
+Tulu Bolo	ET		8.667	38.217
+The Pinery	US	CO	39.455	-104.734
+Tlaixpan	MX	21	18.912	-97.738
+Tot’ma	RU		59.974	42.765
+Tangalle	LK		6.023	80.797
+Timrå	SE		62.487	17.326
+Turiaçu	BR	13	-1.663	-45.372
+Temiskaming Shores	CA	08	47.494	-79.715
+Tres Ríos	CR		9.906	-83.988
+Tindwāri	IN		25.617	80.527
+Thabazimbi	ZA		-24.592	27.412
+Taksimo	RU		56.342	114.900
+Terra Rica	BR	18	-22.709	-52.617
+Tarumã	BR	27	-22.747	-50.577
+Tantangan	PH		6.615	124.749
+Trzebiatów	PL		54.061	15.265
+Tinambac	PH		13.816	123.326
+Timberlane	US	LA	29.877	-90.032
+Turbaná	CO		10.272	-75.442
+Tocaima	CO		4.458	-74.634
+Tori-Fatehpur	IN		25.455	79.114
+Tyul’gan	RU		52.340	56.166
+Tetela del Volcán	MX	17	18.893	-98.730
+Tinqueux	FR		49.250	3.983
+Talayuela	ES		39.987	-5.610
+Tolbazy	RU		54.024	55.882
+Tarusa	RU		54.724	37.173
+Tankāra	IN		22.656	70.749
+Teplodar	UA		46.502	30.323
+Tököl	HU		47.322	18.962
+Trecastagni	IT		37.615	15.078
+Torslanda	SE		57.724	11.770
+Tanquián de Escobedo	MX	24	21.606	-98.663
+Ţammūn	PS		32.283	35.384
+Tadó	CO		5.266	-76.565
+Titu	RO		44.650	25.533
+Troy	US	IL	38.729	-89.883
+Troitskoye	RU		46.421	44.259
+Tutrakan	BG		44.049	26.612
+Taltal	CL		-25.407	-70.486
+Túrkeve	HU		47.100	20.750
+Tarinkot	AF		32.630	65.878
+Tårnby	DK		55.630	12.600
+Tomok Bolon	ID		2.652	98.861
+Tobelo	ID		1.728	128.009
+Telaga Batu	MY		5.467	100.233
+Taman Rajawali	MY		5.895	118.046
+Terrasini	IT		38.146	13.083
+Tzucacab	MX	31	20.072	-89.050
+Teocelo	MX	30	19.386	-96.974
+Teixeira	BR	17	-7.223	-37.254
+Thirsk	GB		54.233	-1.344
+Tobatí	PY		-25.261	-57.083
+Timonium	US	MD	39.437	-76.620
+Tangermünde	DE		52.545	11.976
+Tipp City	US	OH	39.958	-84.172
+Tirumakūdal Narsipur	IN		12.212	76.902
+Thorigny-sur-Marne	FR		48.887	2.718
+Tekit	MX	31	20.535	-89.333
+Tetlanohcán	MX	29	19.260	-98.164
+Tonneins	FR		44.395	0.310
+Talen	IN		23.569	76.728
+Torre Santa Susanna	IT		40.468	17.739
+Trets	FR		43.448	5.683
+Topes de Collantes	CU		21.915	-80.019
+Tlatlauquitepec	MX	21	19.848	-97.497
+Trail	CA	02	49.100	-117.702
+Türkan	AZ		40.365	50.221
+Tofol	FM		5.325	163.008
+Tamási	HU		46.633	18.283
+Terenozek	KZ		45.051	64.984
+Texistepec	MX	30	17.895	-94.817
+Trujillo	HN		15.917	-85.954
+Tequisistlán Primero	MX	15	19.600	-98.957
+Teddington	GB		51.422	-0.331
+Tega Cay	US	SC	35.024	-81.028
+Therwil	CH		47.499	7.557
+Totoras	AR		-32.584	-61.169
+Tulunan	PH		6.834	124.877
+Terralba	IT		39.721	8.635
+Terre Rouge	MU		-20.126	57.524
+Todorovo	BA		45.088	15.931
+Toro	ES		41.524	-5.395
+Tecklenburg	DE		52.220	7.814
+Tyuratam	KZ		45.650	63.312
+Tanhuato de Guerrero	MX	16	20.286	-102.331
+Teterow	DE		53.775	12.575
+Tvrdošín	SK		49.337	19.556
+Tosontsengel	MN		48.757	98.284
+Tutzing	DE		47.909	11.280
+Tlahualilo de Zaragoza	MX	10	26.106	-103.443
+Trescine	IT		41.023	14.620
+Taft	US	CA	35.142	-119.457
+Tambura	SS		5.600	27.467
+Taffūḩ	PS		31.539	35.050
+Tăşnad	RO		47.483	22.583
+Tortum	TR		40.289	41.541
+Tysmenytsya	UA		48.902	24.845
+Tyachiv	UA		48.012	23.571
+Taman’	RU		45.212	36.716
+Tirschenreuth	DE		49.883	12.331
+The Village	US	OK	35.561	-97.551
+Töging am Inn	DE		48.260	12.585
+Tsafe	NG		11.958	6.921
+Thompson	US	CT	41.959	-71.863
+Tomah	US	WI	43.979	-90.504
+Tlapehuala	MX	12	18.241	-100.538
+Trujillo	ES		39.458	-5.882
+Tonyrefail	GB		51.584	-3.430
+Topchikha	RU		52.819	83.118
+Trabia	IT		38.004	13.634
+Treviolo	IT		45.674	9.612
+Tangwani	PK		28.279	68.998
+Tisul’	RU		55.762	88.312
+Tulalip	US	WA	48.068	-122.292
+Tapping	AU	08	-31.719	115.796
+Tiburon	US	CA	37.874	-122.457
+Trebbin	DE		52.217	13.225
+Treuen	DE		50.542	12.303
+Tecolotlán	MX	14	20.202	-104.047
+Tiptree	GB		51.812	0.745
+Tidworth	GB		51.231	-1.663
+Trá Mhór	IE		52.162	-7.152
+Torbeyevo	RU		54.080	43.247
+Tekoh	MX	31	20.744	-89.474
+Timmendorfer Strand	DE		53.995	10.777
+Tuxpan	MX	16	19.568	-100.462
+Tsuiki	JP		33.673	131.038
+Tagāw-Bāy	AF		35.699	66.062
+Troina / Draginai	IT		37.784	14.596
+Tocina	ES		37.609	-5.734
+Towcester	GB		52.134	-0.991
+Tampakan	PH		6.490	125.083
+Tommot	RU		58.957	126.292
+Tavernes Blanques	ES		39.500	-0.367
+Thomaston	US	GA	32.888	-84.327
+Tomatlán	MX	14	19.937	-105.250
+Teisendorf	DE		47.849	12.819
+Tweed Heads	AU	02	-28.177	153.545
+Trudobelikovskiy	RU		45.269	38.154
+Tactic	GT		15.322	-90.354
+Toppenish	US	WA	46.377	-120.309
+Tarasovskiy	RU		48.727	40.363
+Tajiri	JP		34.427	135.246
+Torshälla	SE		59.417	16.467
+Tungao	PH		8.778	125.568
+Tlacotepec	MX	21	18.682	-97.656
+Tlalixtac de Cabrera	MX	20	17.071	-96.647
+Taperoá	BR	17	-7.207	-36.827
+Ts’alenjikha	GE		42.604	42.068
+Tirodi	IN		21.685	79.719
+Tarécuato	MX	15	19.844	-102.465
+Třeboň	CZ		49.004	14.771
+Tchintabaraden	NE		15.897	5.798
+Talpa de Allende	MX	14	20.381	-104.822
+Tiruppālaikudi	IN		9.546	78.917
+Tamulte de las Sabanas	MX	27	18.162	-92.784
+Tuskegee	US	AL	32.424	-85.691
+Trois-Rivières	GP		15.976	-61.645
+Tikaitnagar	IN		26.946	81.566
+Tondela	PT		40.517	-8.081
+Turmalina	BR	15	-17.286	-42.730
+Telica	NI		12.522	-86.859
+Thief River Falls	US	MN	48.119	-96.181
+Tel Mond	IL		32.250	34.917
+Tullibody	GB		56.134	-3.838
+Tetepango	MX	13	20.102	-99.151
+Taufkirchen	DE		48.350	12.132
+Treuenbrietzen	DE		52.098	12.873
+Töss (Kreis 4)	CH		47.479	8.702
+Târgu Cărbuneşti	RO		44.950	23.517
+Tacoaleche	MX	32	22.820	-102.405
+Tuba City	US	AZ	36.135	-111.240
+Tuy	PH		14.018	120.730
+Temirgoyevskaya	RU		45.114	40.280
+Tavarede	PT		40.167	-8.846
+Tarleton	GB		53.680	-2.830
+Turate	IT		45.657	9.004
+Toprakkale	TR		37.069	36.147
+Thompsonville	US	CT	41.997	-72.599
+Trørød	DK		55.839	12.544
+Torre de Moncorvo	PT		41.175	-7.054
+Torri di Quartesolo	IT		45.519	11.625
+Temperance	US	MI	41.779	-83.569
+Tlahuelilpan	MX	13	20.131	-99.231
+Trescore Balneario	IT		45.694	9.842
+Taseyevo	RU		57.215	94.894
+Tuscumbia	US	AL	34.731	-87.703
+Taco Pozo	AR		-25.616	-63.267
+Trebisacce	IT		39.871	16.534
+Titz	DE		51.006	6.425
+Târgşoru Vechi	RO		44.867	25.917
+Turceni	RO		44.683	23.367
+Thanniyam	IN		10.417	76.133
+Trecase	IT		40.769	14.438
+Togur	RU		58.363	82.826
+Thann	FR		47.808	7.103
+Traipu	BR	02	-9.971	-37.003
+Troitsko-Pechorsk	RU		62.708	56.196
+Tibro	SE		58.425	14.162
+Thornleigh	AU	02	-33.732	151.079
+Thurgoona	AU	02	-36.036	146.996
+Tecumseh	US	MI	42.004	-83.945
+Turunçova	TR		36.369	30.137
+Tavrichanka	RU		43.326	131.863
+Tirano	IT		46.215	10.163
+Tsengel	MN		49.478	100.889
+Tompkinsville	US	NY	40.638	-74.078
+Tepetitla	MX	29	19.265	-98.376
+Tournan-en-Brie	FR		48.741	2.772
+Tampakan	PH		4.923	119.794
+Toijala	FI		61.168	23.838
+Týn nad Vltavou	CZ		49.223	14.421
+Tura	HU		47.609	19.603
+Tămăşeni	RO		46.983	26.933
+Tamugan	PH		7.231	125.376
+Topanga	US	CA	34.094	-118.601
+Türkeli	TR		41.948	34.339
+Toccoa	US	GA	34.577	-83.332
+Tordesillas	ES		41.502	-5.001
+Tekman	TR		39.641	41.505
+Tolú Viejo	CO		9.451	-75.439
+Temnikov	RU		54.630	43.215
+Tumayr	SA		25.703	45.868
+Tišnov	CZ		49.349	16.424
+Tremonton	US	UT	41.712	-112.166
+Tweed Heads South	AU	02	-28.195	153.540
+Tuburan	PH		6.644	122.274
+Timaná	CO		1.971	-75.931
+Tanaina	US	AK	61.627	-149.428
+Triangle	US	VA	38.547	-77.337
+Tari	PG		-5.845	142.947
+Tubará	CO		10.876	-74.979
+Talange	FR		49.236	6.172
+Tidaholm	SE		58.180	13.958
+Taber	CA	01	49.787	-112.146
+Tatahuicapan	MX	30	18.246	-94.761
+Tarabha	IN		20.733	83.674
+Trinidad	US	CO	37.169	-104.501
+Tionk Essil	SN		12.786	-16.522
+Trostyanets’	UA		50.485	34.966
+Taringa	AU	04	-27.491	152.979
+Thorpe Hamlet	GB		52.628	1.312
+Treorchy	GB		51.660	-3.506
+Taperoá	BR	05	-13.538	-39.099
+Torre Boldone	IT		45.717	9.708
+Tenextepango	MX	17	18.729	-98.958
+Tolmezzo	IT		46.400	13.021
+Totnes	GB		50.431	-3.684
+Tacotalpa	MX	27	17.596	-92.826
+Tangará	BR	22	-6.199	-35.802
+Toritto	IT		40.998	16.679
+Totolapa	MX	30	20.558	-97.476
+Tingalpa	AU	04	-27.474	153.127
+Tarata	BO		-17.609	-66.021
+Tsrār Sharīf	IN		33.863	74.765
+Tymovskoye	RU		50.849	142.665
+Thaon-les-Vosges	FR		48.250	6.417
+Tomakivka	UA		47.816	34.741
+Tárnok	HU		47.373	18.846
+Tlayacapan	MX	17	18.956	-98.981
+Talagutong	PH		6.264	125.668
+Tovarkovskiy	RU		53.682	38.209
+Tamala	RU		52.541	43.251
+Tubay	PH		9.167	125.524
+Thuir	FR		42.633	2.755
+Tomarovka	RU		50.683	36.233
+Trebaseleghe	IT		45.593	12.044
+Tobarra	ES		38.592	-1.692
+Thornton	AU	02	-32.783	151.633
+Tubod	PH		7.372	125.645
+Talakag	PH		8.234	124.600
+Turzovka	SK		49.404	18.623
+Temple Hills	US	MD	38.814	-76.946
+Tønder	DK		54.933	8.867
+Trzemeszno	PL		52.561	17.823
+Tibanbang	PH		6.632	126.105
+Titābar	IN		26.601	94.204
+Tambovka	RU		50.100	128.057
+Tortolì	IT		39.926	9.656
+Tutay	PH		10.246	123.581
+Terekli-Mekteb	RU		44.167	45.870
+Tayud	PH		10.380	124.005
+Tombolo	IT		45.639	11.824
+Tapilon	PH		11.277	124.031
+Tolstoy-Yurt	RU		43.445	45.779
+Tingambato	MX	16	19.501	-101.853
+Tarxien	MT		35.866	14.515
+Thurso	GB		58.593	-3.526
+Three Rivers	US	MI	41.944	-85.632
+Tismana	RO		45.050	22.967
+Tīra Sujānpur	IN		31.834	76.505
+Tomislavgrad	BA		43.718	17.225
+Trofaiach	AT		47.425	15.007
+Torpoint	GB		50.375	-4.196
+Taytay	PH		10.818	119.499
+Thousand Palms	US	CA	33.820	-116.390
+Tottington	GB		53.613	-2.341
+Tomblaine	FR		48.684	6.216
+Tullins	FR		45.302	5.491
+Trittau	DE		53.617	10.400
+Tagkawayan Sabang	PH		13.991	122.530
+Tamborine Mountain	AU	04	-27.970	153.199
+Terenure	IE		53.310	-6.285
+Templeton	US	CA	35.550	-120.706
+Touros	BR	22	-5.199	-35.461
+Ţibăneşti	RO		46.917	27.333
+Tsarychanka	UA		48.937	34.479
+Tsingoni	YT		-12.787	45.103
+Tlacotalpan	MX	30	18.613	-95.659
+Teotitlán	MX	20	18.132	-97.071
+Terno d'Isola	IT		45.685	9.531
+Thurles	IE		52.682	-7.802
+Thalheim	DE		50.701	12.850
+Tlachichuca	MX	21	19.115	-97.419
+Tut	TR		37.795	37.916
+Trooz	BE		50.570	5.695
+Tiverton	US	RI	41.626	-71.213
+Trn	BA		44.858	17.236
+Tešanj	BA		44.612	17.986
+Talisay	PH		14.134	122.923
+Tenabo	MX	04	20.040	-90.226
+Twyford	GB		51.475	-0.860
+Tuzamapan	MX	30	19.403	-96.864
+Tlanalapa	MX	13	19.819	-98.604
+Tuluceşti	RO		45.567	28.033
+Tārāpur	IN		19.865	72.684
+Tadine	NC		-21.548	167.880
+Tuding	PH		16.411	120.642
+Tambulig	PH		8.070	123.535
+Tłuszcz	PL		52.431	21.436
+Tholen	NL		51.532	4.221
+Tranqueras	UY		-31.200	-55.750
+Ténenkou	ML		14.457	-4.917
+Téteghem	FR		51.019	2.445
+Trstená	SK		49.361	19.612
+Twin Rivers	US	NJ	40.264	-74.491
+Tapilula	MX	05	17.250	-93.017
+Taligaman	PH		8.904	125.656
+Torquay	AU	04	-25.285	152.879
+Teublitz	DE		49.223	12.087
+Turka	UA		49.154	23.030
+Tenares	DO		19.374	-70.351
+Talavera	PE		-13.653	-73.429
+Ternitz	AT		47.716	16.036
+Tatishchevo	RU		51.670	45.595
+Tenja	HR		45.498	18.747
+Taluksangay	PH		6.954	122.184
+Tauste	ES		41.918	-1.253
+Tenango de las Flores	MX	21	20.206	-97.988
+Torregrotta	IT		38.203	15.350
+Tashir	AM		41.121	44.285
+Tabasco	MX	32	21.863	-102.911
+Tranbjerg	DK		56.095	10.136
+Tilarán	CR		10.467	-84.968
+Tha Khanon	TH		9.030	98.953
+Tevriz	RU		57.509	72.404
+Turbigo	IT		45.531	8.737
+Tell City	US	IN	37.951	-86.768
+Türkler	TR		36.602	31.821
+Teteringen	NL		51.609	4.821
+Tonnay-Charente	FR		45.944	-0.892
+Trílofos	GR		40.469	22.972
+Tuscania	IT		42.419	11.868
+Trigueros	ES		37.386	-6.827
+Tărlungeni	RO		45.633	25.750
+Tyrone	US	GA	33.471	-84.597
+Thouaré-sur-Loire	FR		47.269	-1.438
+Tila	MX	05	17.301	-92.427
+Totskoye	RU		52.525	52.762
+Tobol	KZ		52.694	62.591
+Tavarnelle Val di Pesa	IT		43.562	11.172
+Trumann	US	AR	35.674	-90.507
+Thames	NZ		-37.138	175.540
+Trignac	FR		47.318	-2.189
+Tuszyn	PL		51.609	19.530
+Tham Phannara	TH		8.420	99.395
+Tenterden	GB		51.068	0.688
+Teiuş	RO		46.200	23.683
+Ţibana	RO		46.983	27.333
+Tokombere	NG		11.221	13.488
+Techirghiol	RO		44.050	28.600
+Thrapston	GB		52.397	-0.539
+Torata	PE		-17.077	-70.843
+Tiana	ES		41.482	2.267
+Tortosa	PH		10.933	123.090
+Túcume	PE		-6.506	-79.857
+Tuxtla Chico	MX	05	14.939	-92.167
+Toscolano Maderno	IT		45.640	10.608
+Templeogue	IE		53.295	-6.309
+Tolleson	US	AZ	33.450	-112.259
+Tanah Rata	MY		4.464	101.376
+Tarkhovka	RU		60.067	29.974
+Tacony	US	PA	40.031	-75.044
+Tamalpais Valley	US	CA	37.880	-122.546
+Tadworth	GB		51.292	-0.236
+Teutschenthal	DE		51.450	11.800
+Tallulah	US	LA	32.408	-91.187
+Tileagd	RO		47.067	22.200
+Totolac	MX	29	19.326	-98.258
+Tasqala	KZ		51.111	50.295
+Tīr Pul	AF		34.594	61.269
+Todireşti	RO		47.317	26.833
+Trévoux	FR		45.943	4.771
+Tona	ES		41.848	2.228
+Trino	IT		45.195	8.296
+Tugun	AU	04	-28.150	153.500
+Terrace Heights	US	WA	46.606	-120.440
+Terbuny	RU		52.149	38.283
+Tremseh	SY		35.272	36.504
+Tingüindín	MX	16	19.739	-102.481
+Tanvald	CZ		50.737	15.306
+Templeton	US	MA	42.556	-72.068
+Taytayan	PH		7.734	126.502
+Treasure Island	US	FL	27.769	-82.769
+Tuart Hill	AU	08	-31.898	115.835
+Trélissac	FR		45.196	0.783
+Teno	CL		-34.871	-71.162
+Taglio di Po	IT		45.002	12.214
+Tlacotepec	MX	12	17.790	-99.980
+Tiglauigan	PH		10.953	123.358
+Twardogóra	PL		51.365	17.469
+Tolcayuca	MX	13	19.958	-98.919
+Thalwil / Dorfkern	CH		47.290	8.566
+Tamaqua	US	PA	40.797	-75.969
+Tomelilla	SE		55.543	13.955
+Turki	RU		51.987	43.273
+Tervel	BG		43.748	27.409
+Trebujena	ES		36.871	-6.176
+Tuttle	US	OK	35.291	-97.812
+Tumbotino	RU		55.999	43.024
+Torreperogil	ES		38.035	-3.290
+Tullamarine	AU	07	-37.701	144.881
+Tesechoacan	MX	30	18.137	-95.658
+Tecamachalco	MX	15	19.360	-98.960
+Trégunc	FR		47.850	-3.850
+Tonanitla	MX	15	19.688	-99.053
+Taylor Mill	US	KY	38.998	-84.496
+Tancítaro	MX	16	19.338	-102.363
+Taneytown	US	MD	39.658	-77.174
+Turbiv	UA		49.348	28.721
+Tokonou	GN		9.650	-9.783
+Tūghyl	KZ		47.725	84.206
+Turţ	RO		47.983	23.217
+Thomson	US	GA	33.471	-82.505
+Tuchów	PL		49.895	21.054
+Trinity	US	NC	35.895	-79.991
+Torrington	US	WY	42.062	-104.184
+Terville	FR		49.347	6.133
+Trancas	AR		-26.231	-65.281
+Tashla	RU		51.772	52.743
+Thermalito	US	CA	39.511	-121.587
+Ternevskaya	RU		45.851	40.413
+Tuckahoe	US	NY	40.950	-73.827
+Tuntenhausen	DE		47.935	12.015
+Trochtelfingen	DE		48.308	9.245
+Teleneşti	MD		47.501	28.365
+Türkheim	DE		48.064	10.642
+Tecumseh	US	OK	35.258	-96.937
+Tápiószecső	HU		47.450	19.609
+Tanhaçu	BR	05	-14.021	-41.248
+Tržačka Raštela	BA		44.976	15.785
+Tochtepec	MX	21	18.839	-97.823
+Troia	IT		41.364	15.317
+Tappan	US	NY	41.022	-73.947
+Ts’nori	GE		41.621	45.969
+Traiskirchen	AT		48.015	16.293
+Teplyk	UA		48.666	29.745
+Tshabong	BW		-26.050	22.450
+Tojšići	BA		44.501	18.785
+Treillières	FR		47.331	-1.619
+Temascal	MX	20	18.243	-96.402
+Temozon	MX	31	20.804	-88.202
+Tapa	EE		59.261	25.959
+Tsiolkovskiy	RU		51.767	128.115
+Tequisistlán	MX	15	19.596	-98.941
+Tvarditsa	BG		42.700	25.900
+Tammela	FI		60.810	23.768
+Taxisco	GT		14.067	-90.468
+Tarazona de la Mancha	ES		39.250	-1.917
+Tótkomlós	HU		46.417	20.733
+Tropea	IT		38.674	15.895
+Tarcento	IT		46.213	13.215
+Tadcaster	GB		53.883	-1.263
+Troitskaya	RU		45.135	38.125
+Taigum	AU	04	-27.343	153.044
+Tlapanaloya	MX	17	19.936	-99.097
+Tyube	RU		43.049	47.307
+Topolovgrad	BG		42.083	26.333
+Tarrafal	CV		15.279	-23.752
+Trunovskoye	RU		45.488	42.136
+Thurmont	US	MD	39.624	-77.411
+Taretán	MX	16	19.334	-101.918
+Tacaná	GT		15.241	-92.067
+Thal	CH		47.467	9.566
+Tuma	RU		55.148	40.554
+Tamayo	DO		18.395	-71.203
+Talent	US	OR	42.246	-122.789
+Teculután	GT		14.989	-89.719
+Támesis	CO		5.665	-75.713
+Teslić	BA		44.606	17.860
+Tagāb	AF		34.855	69.649
+Trevelin	AR		-43.086	-71.464
+Tashtyp	RU		52.795	89.895
+Thinadhoo	MV		0.531	73.000
+Terrasson-Lavilledieu	FR		45.130	1.301
+Topolobampo	MX	25	25.601	-109.052
+Telega	RO		45.133	25.783
+Trith-Saint-Léger	FR		50.317	3.483
+Tabuaço	PT		41.116	-7.568
+Týniště nad Orlicí	CZ		50.151	16.078
+Thannhausen	DE		48.283	10.469
+Tereze	RU		43.936	42.443
+Tamaşi	RO		46.483	26.983
+Temascalapa	MX	15	19.828	-98.902
+Tehuixtla	MX	17	18.559	-99.271
+Tencarola	IT		45.395	11.809
+Talugtug	PH		15.778	120.811
+Tudela de Duero	ES		41.584	-4.581
+Tamnag	PH		6.573	124.880
+Tago	PH		9.021	126.232
+Tepecoacuilco de Trujano	MX	12	18.288	-99.464
+Talakan	RU		50.264	130.268
+Tuzla	RO		44.000	28.633
+Téglás	HU		47.717	21.683
+Tivat	ME		42.436	18.694
+Tuncurry	AU	02	-32.174	152.499
+Timbiquí	CO		2.772	-77.665
+Tongouson	PH		5.021	120.133
+Turuntayevo	RU		52.202	107.645
+Trissino	IT		45.560	11.377
+Tweed Heads West	AU	02	-28.187	153.523
+Tonacatepeque	SV		13.781	-89.119
+Temax	MX	31	21.151	-88.940
+Troitskiy	RU		51.359	37.525
+Tlamacazapa	MX	12	18.496	-99.500
+Tunstall	GB		53.058	-2.211
+Timiryazevskoye	RU		56.490	84.878
+Titel	RS		45.206	20.294
+Trimbach	CH		47.366	7.887
+Talaigua Viejo	CO		9.312	-74.585
+Tápiószele	HU		47.336	19.877
+Toormina	AU	02	-30.354	153.088
+Tarrant	US	AL	33.583	-86.773
+Trebukhiv	UA		50.484	30.903
+Treffurt	DE		51.137	10.234
+Tortoreto Lido	IT		42.800	13.942
+Thrakomakedónes	GR		38.130	23.758
+Totolapan	MX	17	18.985	-98.921
+Torbole Casaglia	IT		45.513	10.117
+Tumut	AU	02	-35.306	148.218
+Teotlaltzingo	MX	21	19.231	-98.501
+Tres Marías	MX	17	19.055	-99.243
+Târnova	RO		46.317	21.800
+Trasacco	IT		41.957	13.533
+Tabu	PH		9.892	122.710
+Tugulym	RU		57.059	64.643
+Türi	EE		58.809	25.433
+Tuam	IE		53.517	-8.850
+Theodore	US	AL	30.548	-88.175
+Taksony	HU		47.330	19.067
+Tepetlaoxtoc de Hidalgo	MX	15	19.574	-98.818
+Tiszalök	HU		48.017	21.383
+Teabo	MX	31	20.401	-89.283
+Temizhbekskaya	RU		45.446	40.845
+Twin Lakes	US	CO	39.825	-105.005
+Twin Lakes	US	WI	42.531	-88.248
+Teuva	FI		62.482	21.742
+Terenos	BR	11	-20.442	-54.860
+Tsarevo	BG		42.170	27.845
+Touza	TN		35.635	10.827
+Tittmoning	DE		48.062	12.768
+Truth or Consequences	US	NM	33.128	-107.253
+Tournus	FR		46.568	4.906
+Tarariras	UY		-34.266	-57.619
+Tatarka	RU		44.959	41.952
+Tarandacuao	MX	11	20.001	-100.519
+Trinity Beach	AU	04	-16.789	145.697
+The Pas	CA	03	53.825	-101.254
+Tarímbaro	MX	16	19.796	-101.178
+Tangerhütte	DE		52.435	11.807
+Thônes	FR		45.881	6.326
+Tocancipá	CO		4.965	-73.913
+Taylor	US	PA	41.395	-75.707
+Turinskaya Sloboda	RU		57.623	64.386
+Traben-Trarbach	DE		49.951	7.116
+Tuzlukçu	TR		38.478	31.626
+Talaban	PH		10.125	122.867
+Talitsy	RU		56.528	42.332
+Tidjikja	MR		18.556	-11.427
+Terespol	PL		52.075	23.616
+Tlaltenango	MX	21	19.172	-98.341
+Tanacu	RO		46.683	27.817
+Tombodu	SL		8.135	-10.620
+Terranuova Bracciolini	IT		43.551	11.581
+Tazovsky	RU		67.472	78.716
+Třešť	CZ		49.291	15.482
+Talipaw	PH		5.910	121.094
+Trèbes	FR		43.211	2.442
+Tsementnyy	RU		57.469	60.154
+Tarutyne	UA		46.188	29.146
+Thenzawl	IN		23.317	92.750
+Tinaan	PH		11.267	123.750
+Teaca	RO		46.917	24.517
+Tangstedt	DE		53.733	10.083
+Topsham	US	ME	43.928	-69.976
+Tain-l'Hermitage	FR		45.067	4.856
+Thirroul	AU	02	-34.316	150.921
+Tenango del Aire	MX	15	19.158	-98.857
+Toledo	CO		7.310	-72.483
+Terheijden	NL		51.643	4.754
+Talovyy	RU		47.808	40.109
+Templeuve-en-Pévèle	FR		50.523	3.178
+Trenton	US	MO	40.079	-93.617
+Thum	DE		50.671	12.951
+Tanglewilde-Thompson Place	US	WA	47.051	-122.781
+Tanglewilde	US	WA	47.051	-122.782
+Telč	CZ		49.184	15.453
+Tsetserleg	MN		47.475	101.454
+Trujillo	CO		4.212	-76.319
+Thames Ditton	GB		51.390	-0.339
+Toksovo	RU		60.153	30.516
+Tălmaciu	RO		45.667	24.265
+Tecozautla	MX	13	20.534	-99.634
+Tselinnoye	RU		53.078	85.654
+Trosa	SE		58.896	17.548
+Tierp	SE		60.343	17.518
+Toulouges	FR		42.670	2.830
+Tananger	NO		58.936	5.574
+Torres de la Alameda	ES		40.403	-3.358
+Tabango	PH		11.308	124.373
+Teià	ES		41.498	2.322
+Tulnici	RO		45.917	26.667
+Tuzhai	CN		24.983	118.832
+Tvardița	MD		46.148	28.965
+Temoac	MX	17	18.772	-98.778
+The Village of Indian Hill	US	OH	39.179	-84.335
+Tierra Buena	US	CA	39.149	-121.667
+Tellico Village	US	TN	35.683	-84.255
+Taormina	IT		37.854	15.289
+Topchānchi	IN		23.904	86.198
+Tufeşti	RO		45.050	27.817
+Talusan	PH		7.427	122.810
+Tapalpa	MX	14	19.946	-103.760
+Thyolo	MW		-16.068	35.140
+Tsagan Aman	RU		47.564	46.722
+Tupanatinga	BR	30	-8.753	-37.340
+Tamayo	PH		15.877	120.285
+Todireşti	RO		47.700	26.033
+Tyumentsevo	RU		53.322	81.498
+Tirlyanskiy	RU		54.211	58.581
+Trouville-sur-Mer	FR		49.366	0.080
+Trendelburg	DE		51.574	9.421
+Truşeşti	RO		47.767	27.017
+Trooper	US	PA	40.150	-75.402
+Taos	US	NM	36.407	-105.573
+Tamayong	PH		7.133	125.380
+Tarp	DE		54.667	9.400
+Tselinnoye	RU		54.501	63.674
+Tacherting	DE		48.078	12.570
+Tiksi	RU		71.690	128.865
+Tulay na Lupa	PH		14.093	122.786
+Teufen	CH		47.391	9.386
+Toronto	AU	02	-33.014	151.594
+Tazacorte	ES		28.642	-17.934
+Tsentoroy	RU		43.007	46.222
+Tešanjka	BA		44.672	18.011
+Tătăruşi	RO		47.350	26.600
+Tilcara	AR		-23.578	-65.395
+Tremp	ES		42.167	0.895
+Tyrnävä	FI		64.765	25.652
+Temamatla	MX	15	19.203	-98.869
+Tequesta	US	FL	26.968	-80.129
+Torreblanca	ES		40.220	0.197
+Tharandt	DE		50.985	13.580
+Todi	IT		42.779	12.412
+Tutova	RO		46.117	27.550
+Tarfaya	MA		27.939	-12.926
+Třebechovice pod Orebem	CZ		50.201	15.992
+Trafaria	PT		38.672	-9.233
+Tápiószentmárton	HU		47.340	19.746
+Teontepec	MX	21	18.492	-97.530
+Tricesimo	IT		46.161	13.216
+Tiefenbronn	DE		48.824	8.801
+Thourotte	FR		49.476	2.882
+Three Points	US	AZ	32.077	-111.314
+Taradell	ES		41.875	2.287
+Tát	HU		47.741	18.648
+Tavernerio	IT		45.801	9.141
+Tocatlán	MX	29	19.389	-98.027
+The Range	AU	04	-23.392	150.496
+Tlatenchi	MX	17	18.596	-99.186
+Tranby	NO		59.809	10.261
+Tiszalúc	HU		48.038	21.073
+Trakai	LT		54.638	24.934
+Turan	RU		52.145	93.919
+Turochak	RU		52.258	87.122
+Tséri	CY		35.073	33.323
+Tudor Vladimirescu	RO		45.567	27.650
+Tigpalay	PH		7.495	122.345
+Tilisarao	AR		-32.733	-65.291
+Taşlıçay	TR		39.630	43.369
+Tetbury	GB		51.639	-2.162
+Turner	US	ME	44.256	-70.256
+Tintafor	SL		8.627	-13.215
+Tehuitzingo	MX	21	18.332	-98.276
+Talisayan	PH		6.987	121.927
+Tura	RU		64.278	100.218
+Thalmässing	DE		49.088	11.222
+Tarnogskiy Gorodok	RU		60.500	43.576
+Thaba-Tseka	LS		-29.522	28.608
+Tătărani	RO		45.000	25.267
+Triftern	DE		48.395	13.006
+Telopea	AU	02	-33.793	151.039
+Tinana	AU	04	-25.552	152.666
+Traversetolo	IT		44.642	10.380
+Tonkino	RU		57.373	46.463
+Theix	FR		47.629	-2.652
+Teple	UA		48.312	39.563
+Ţigăneşti	RO		43.900	25.367
+Tajao	PH		10.315	123.584
+Tabuan	PH		9.516	122.851
+Titusville	US	PA	41.627	-79.674
+Todireşti	RO		46.850	27.367
+Terryville	US	CT	41.678	-73.011
+Timber Pines	US	FL	28.470	-82.603
+Thyez	FR		46.082	6.538
+Tezonapa	MX	30	18.607	-96.684
+Taltal	PH		15.588	119.945
+Tyrone	US	PA	40.671	-78.239
+Tonnerre	FR		47.856	3.974
+Torrita di Siena	IT		43.172	11.784
+Torrejón de la Calzada	ES		40.199	-3.797
+Topraisar	RO		44.017	28.450
+Tudor Vladimirescu	RO		45.217	27.800
+Tingjiang	CN		26.074	119.506
+Tefenni	TR		37.310	29.775
+Thiers	FR		43.297	5.382
+Telciu	RO		47.433	24.400
+Turís	ES		39.383	-0.700
+Târgu Trotuş	RO		46.267	26.667
+Taysan	PH		13.870	121.097
+Taquarana	BR	02	-9.645	-36.497
+Terrell Hills	US	TX	29.475	-98.451
+Tympáki	GR		35.073	24.769
+Tequexquináhuac	MX	15	19.478	-98.825
+Torghay	KZ		49.634	63.498
+Tabuc Pontevedra	PH		11.483	122.817
+Triberg	DE		48.132	8.233
+Turtle Creek	US	PA	40.406	-79.825
+Tierra Nueva	MX	24	21.669	-100.573
+Tecolots	MX	02	32.567	-114.983
+Ţicleni	RO		44.883	23.400
+Tulcingo de Valle	MX	21	18.044	-98.441
+Tonganoxie	US	KS	39.110	-95.088
+Tapon	PH		10.063	123.445
+Tarumovka	RU		44.076	46.536
+Tignieu	FR		45.752	5.189
+Torreglia	IT		45.336	11.736
+Taghazout	MA		30.543	-9.711
+Tracyton	US	WA	47.609	-122.655
+Trifeşti	RO		47.450	27.517
+Tartaro	PH		15.167	121.017
+Tibnah	JO		32.475	35.731
+Tinajo	ES		29.063	-13.676
+Tezontepec	MX	13	19.881	-98.820
+Trans-en-Provence	FR		43.503	6.486
+Talavera La Real	ES		38.878	-6.769
+Ţifeşti	RO		45.850	27.100
+Tlanchinol	MX	13	20.992	-98.657
+Tuban	PH		6.823	125.387
+Tannum Sands	AU	04	-23.947	151.367
+Trenzano	IT		45.477	10.011
+Tianguismanalco	MX	21	18.976	-98.449
+Tancacha	AR		-32.243	-63.981
+Tavazzano	IT		45.328	9.405
+Tisma	NI		12.082	-86.017
+Troyitske	UA		46.542	30.023
+Tune	DK		55.593	12.170
+Turgenevo	RU		54.846	46.330
+Tepetzintla	MX	30	21.164	-97.852
+Tamontaka	PH		7.181	124.226
+Týnec nad Sázavou	CZ		49.833	14.590
+Tillicoultry	GB		56.153	-3.740
+Tufanbeyli	TR		38.263	36.221
+Tecali	MX	21	18.901	-97.971
+Teano	IT		41.251	14.067
+Tabālah	SA		19.950	42.400
+Tëploye	RU		53.620	37.590
+Todos Santos	MX	03	23.447	-110.223
+Tipton	US	IN	40.282	-86.041
+Tottenham	CA	08	44.024	-79.806
+Talisay	PH		13.181	122.624
+Tudora	RO		47.517	26.633
+Tyukhtet	RU		56.539	89.312
+Torchiarolo	IT		40.483	18.051
+Tichigan	US	WI	42.829	-88.198
+Tara Hills	US	CA	37.994	-122.316
+Tayoltita	MX	10	24.103	-105.931
+Telese	IT		41.218	14.527
+Takhtamukay	RU		44.922	38.996
+Teyateyaneng	LS		-29.147	27.749
+Trappenkamp	DE		54.040	10.215
+Tzimol	MX	05	16.184	-92.189
+Tuglie	IT		40.073	18.099
+Tayturka	RU		52.869	103.461
+Turpin Hills	US	OH	39.110	-84.380
+Tlacotepec	MX	17	18.814	-98.745
+Tamiahua	MX	30	21.279	-97.446
+Trilport	FR		48.957	2.951
+Tabina	PH		7.467	123.408
+Todtnau	DE		47.829	7.944
+Tokaj	HU		48.117	21.417
+Tiszaalpár	HU		46.813	19.998
+Teneriffe	AU	04	-27.456	153.047
+Tumcon Ilawod	PH		10.917	122.667
+Tinyahuarco	PE		-10.768	-76.275
+Tărtăşeşti	RO		44.577	25.813
+Tayzhina	RU		53.668	87.436
+Turriff	GB		57.538	-2.459
+Tacuba	SV		13.901	-89.930
+Talalayivka	UA		50.958	31.921
+Tayaman	PH		13.229	120.573
+Turtas	RU		58.939	69.134
+Tecchiena	IT		41.688	13.345
+Tiaong	PH		13.964	121.321
+Tarrafal de São Nicolau	CV		16.566	-24.358
+Tambo	PE		-14.798	-73.924
+Thiells	US	NY	41.211	-74.018
+Tamazulapam Villa del Progreso	MX	20	17.677	-97.573
+Tucumcari	US	NM	35.172	-103.727
+Tamalín	MX	30	21.339	-97.812
+Trifeşti	RO		46.917	26.817
+Tahmoor	AU	02	-34.222	150.595
+Tönning	DE		54.319	8.942
+Tritenii de Jos	RO		46.583	24.000
+Terme	IT		38.136	15.157
+Tuzha	RU		57.606	47.936
+Tossa de Mar	ES		41.717	2.933
+Tres Palos	MX	12	16.830	-99.778
+Tuktuk Sonak	ID		2.669	98.858
+Thornhill	ZA		-33.895	25.139
+Tillamook	US	OR	45.456	-123.846
+Tagondaing	MM		16.067	97.907
+Tihosuco	MX	23	20.196	-88.374
+Travelers Rest	US	SC	34.968	-82.443
+Torrebelvicino	IT		45.716	11.319
+Tickhill	GB		53.432	-1.109
+Thatcher	US	AZ	32.849	-109.759
+Topolog	RO		44.883	28.367
+Tumbi Vmbi	AU	02	-33.367	151.450
+Tipperary	IE		52.473	-8.156
+Tamalameque	CO		8.852	-73.812
+Terrenate	MX	29	19.477	-97.920
+Tlyustenkhabl’	RU		44.982	39.098
+Tiszacsege	HU		47.700	21.000
+Tala	UY		-34.343	-55.764
+T’alin	AM		40.392	43.878
+Tavares	BR	17	-7.636	-37.878
+Togul	RU		53.467	85.913
+Tepexi de Rodríguez	MX	21	18.581	-97.926
+Toshkivka	UA		48.779	38.579
+Tafraout	MA		29.724	-8.975
+Twin Lakes	US	CA	36.967	-121.998
+Tohmajärvi	FI		62.183	30.383
+Tomari	RU		47.765	142.071
+Trevi	IT		42.878	12.749
+Tătăranu	RO		45.517	27.317
+Taluya	PH		5.812	125.173
+Tankerton	GB		51.364	1.049
+Tetecala	MX	17	18.730	-99.400
+Terranova da Sibari	IT		39.655	16.340
+Tortora Marina	IT		39.923	15.769
+Toronto	US	OH	40.464	-80.601
+Tello	CO		3.067	-75.138
+Ternay	FR		45.602	4.811
+Telford	US	PA	40.322	-75.328
+Thomassique	HT		19.082	-71.839
+Town and Country	US	WA	47.727	-117.422
+Tia Mare	RO		43.867	24.633
+Ţāleb ābād	IR		35.501	51.531
+Tompa	HU		46.206	19.539
+Tagbacan Ibaba	PH		13.603	122.369
+Tea	US	SD	43.446	-96.836
+Torul	TR		40.551	39.283
+Tawang	IN		27.574	91.924
+Tepepa	MX	13	20.134	-98.171
+Tab	HU		46.731	18.032
+Tinagacan	PH		6.199	125.229
+Tauramena	CO		5.018	-72.747
+Tianguismanalco	MX	21	19.241	-98.423
+Tegul’det	RU		57.307	88.160
+Tilzapotla	MX	17	18.489	-99.274
+Tepeojuma	MX	21	18.725	-98.446
+Taclobo	PH		12.307	122.586
+Taipalsaari	FI		61.150	28.050
+Tallassee	US	AL	32.536	-85.893
+Turukhansk	RU		65.795	87.950
+Teyran	FR		43.685	3.929
+Tucurú	GT		15.294	-90.119
+Tricarico	IT		40.615	16.143
+Turbe	BA		44.244	17.575
+Talamona	IT		46.138	9.613
+Tulia	US	TX	34.536	-101.759
+The Vines	AU	08	-31.755	116.002
+Talheim	DE		49.083	9.193
+Tervakoski	FI		60.814	24.626
+Trinidad	CO		5.408	-71.662
+Tambilil	PH		5.962	124.670
+Törtel	HU		47.122	19.937
+Tezontepec de Aldama	MX	13	20.191	-99.274
+Thedinghausen	DE		52.967	9.017
+Temirtau	RU		53.138	87.454
+Tenería del Santuario	MX	11	20.600	-100.798
+Telgate	IT		45.628	9.849
+Tyringe	SE		56.160	13.598
+Tenamaxtlán	MX	14	20.217	-104.165
+Trudarmeyskiy	RU		54.132	86.410
+Tlanepantla	MX	21	18.863	-97.887
+Trhové Sviny	CZ		48.842	14.639
+Teixoso	PT		40.314	-7.458
+Ternovka	RU		51.678	41.638
+Triesen	LI		47.108	9.528
+Tsyelyakhany	BY		52.517	25.843
+Tanah Merah	AU	04	-27.672	153.170
+Tenby	GB		51.673	-4.704
+Tann	DE		50.643	10.024
+Terrugem	PT		38.706	-9.287
+Talisay	PH		13.971	121.205
+Taivalkoski	FI		65.567	28.250
+Tahitótfalu	HU		47.752	19.079
+Telões	PT		41.311	-8.111
+Tengen	DE		47.821	8.661
+Tuim	RU		54.339	89.946
+Tjøme	NO		59.111	10.393
+Traian	RO		46.633	27.033
+Taulabé	HN		14.700	-87.967
+Terpinnya	UA		46.969	35.421
+Talaga	PH		15.384	120.589
+Třemošná	CZ		49.816	13.395
+Turburea	RO		44.717	23.517
+Tatou	CN		24.617	118.527
+Tagliacozzo	IT		42.069	13.255
+Tenango	MX	05	16.967	-92.417
+Trezzano Rosa	IT		45.582	9.486
+Töreboda	SE		58.707	14.126
+Texcalyacac	MX	15	19.133	-99.502
+Temora	AU	02	-34.448	147.536
+Tószeg	HU		47.100	20.150
+Talisayan	PH		9.000	124.881
+Trinidad de Viguera	MX	20	17.131	-96.750
+Taipu	BR	22	-5.622	-35.597
+Teteltzingo	MX	30	19.051	-97.145
+Till	PS		32.201	35.213
+Tsidjé	KM		-11.698	43.262
+Tepechitlán	MX	32	21.671	-103.326
+Tel’ma	RU		52.698	103.714
+Tungareo	MX	16	19.908	-100.366
+Totolapa	MX	05	16.544	-92.680
+Tecolutla	MX	30	20.480	-97.013
+Toddington	GB		51.949	-0.533
+Taibach	GB		51.583	-3.767
+Titeşti	RO		45.017	25.000
+Touro	ES		42.868	-8.308
+Tonshayevo	RU		57.736	47.013
+Tínos	GR		37.538	25.163
+Tonantins	BR	04	-2.873	-67.802
+Tianguistengo (La Romera)	MX	13	19.914	-99.326
+Tezoyuca	MX	17	18.805	-99.202
+Tinambacan	PH		12.094	124.502
+Telixtac	MX	17	18.560	-98.776
+Tomşani	RO		44.950	26.283
+Troitskoye	RU		55.300	38.533
+Tsibanobalka	RU		44.980	37.344
+Torrelles de Llobregat	ES		41.350	1.983
+Toukley	AU	02	-33.264	151.538
+Tecpatán	MX	05	17.137	-93.311
+Tlaltetela	MX	30	19.314	-96.901
+Tanunda	AU	05	-34.523	138.960
+Tonshalovo	RU		59.195	37.947
+Tepezalá	MX	01	22.224	-102.170
+Thurnau	DE		50.025	11.393
+Tinca	RO		46.775	21.933
+Tinago	PH		13.183	123.650
+Tríkomo	CY		35.286	33.892
+Taberg	SE		57.677	14.089
+Toa Alta	PR		18.388	-66.248
+Ţinteşti	RO		45.067	26.867
+Tatura	AU	07	-36.440	145.230
+Talipan	PH		13.933	121.683
+Teteles de Avila Castillo	MX	21	19.857	-97.457
+Tice	US	FL	26.675	-81.815
+Turners Falls	US	MA	42.604	-72.556
+Tarentum	US	PA	40.601	-79.760
+Trentwood	US	WA	47.697	-117.211
+Tarskoye	RU		42.966	44.775
+Tuscola	US	IL	39.799	-88.283
+Tiradentes	BR	15	-21.110	-44.178
+Tegernheim	DE		49.024	12.173
+Trenčianske Teplice	SK		48.911	18.167
+Tenango	MX	05	16.905	-92.261
+Turquel	PT		39.464	-8.977
+Thoiry	FR		46.238	5.981
+Terborg	NL		51.920	6.354
+Tolfa	IT		42.150	11.932
+Taft	PH		11.901	125.419
+Tazewell	US	VA	37.115	-81.520
+Torsby	SE		60.135	13.008
+Tayabo	PH		15.835	121.031
+Tres Picos	MX	05	15.882	-93.529
+Ţibucani	RO		47.100	26.533
+Tëplaya Gora	RU		58.524	59.073
+Trodica	IT		43.275	13.594
+Tlacote el Bajo	MX	22	20.661	-100.508
+Twekkelerveld	NL		52.231	6.860
+Tomar do Geru	BR	28	-11.373	-37.841
+Tagana-an	PH		9.697	125.586
+Torretta-Scalzapecora	IT		40.910	14.135
+Tivolille Pasquali-Merenzata	IT		39.280	16.207
+Torelli-Torrette	IT		40.908	14.752
+Tursi	IT		40.247	16.471
+Tăuteu	RO		47.267	22.333
+Topliceni	RO		45.417	27.000
+Tlacoachistlahuaca	MX	12	16.810	-98.301
+Teotitlán del Valle	MX	20	17.030	-96.519
+Teșila	RO		45.304	25.723
+Ten Boer	NL		53.276	6.694
+Tambach-Dietharz	DE		50.792	10.616
+Trevallyn	AU	06	-41.442	147.105
+Tignère	CM		7.367	12.650
+Tiptonville	US	TN	36.378	-89.472
+Tinicum	US	PA	40.448	-75.108
+Tomatlán	MX	30	19.031	-97.010
+Taylor Creek	US	FL	27.217	-80.790
+Tiha Bârgăului	RO		47.233	24.767
+Tajumulco	GT		15.083	-91.922
+Tamasopo	MX	24	21.924	-99.394
+Tapia de Casariego	ES		43.570	-6.944
+Temple	US	GA	33.737	-85.032
+The Basin	AU	07	-37.850	145.317
+Tlmače	SK		48.289	18.532
+Teba	ES		36.984	-4.919
+Tatoxcac	MX	21	19.869	-97.573
+Thalheim bei Wels	AT		48.150	14.033
+Tułowice	PL		50.596	17.653
+Torak	RS		45.509	20.609
+Teustepe	NI		12.420	-85.798
+Ţigănaşi	RO		47.333	27.467
+Tourrette-Levens	FR		43.786	7.276
+Trinidad	HN		15.133	-88.233
+Tortolita	US	AZ	32.410	-111.017
+Tokod	HU		47.723	18.659
+Tala	PH		13.274	122.586
+Tichileşti	RO		45.117	27.900
+Terrasse-des-Pins	CA	10	45.864	-74.066
+Tiefenort	DE		50.839	10.166
+Tecoanapa	MX	12	16.988	-99.260
+Tamaki	NZ		-36.888	174.860
+Tiquisio	CO		8.557	-74.264
+Teacapan	MX	25	22.540	-105.736
+Tocuila	MX	30	18.950	-97.017
+Tacopan	MX	21	19.837	-97.431
+Tetelco	MX	09	19.217	-98.973
+Trebsen	DE		51.289	12.755
+Tuyan	PH		6.000	125.283
+Tito	IT		40.584	15.676
+Tarnowo Podgórne	PL		52.466	16.663
+Tetela de Ocampo	MX	21	19.818	-97.807
+Ten’gushevo	RU		54.769	42.719
+Tavarnuzze	IT		43.710	11.217
+Triuggio	IT		45.661	9.267
+Tetlatlahuca	MX	29	19.232	-98.296
+Tinang	PH		15.376	120.653
+Tisovec	SK		48.677	19.944
+Tessin	DE		54.028	12.465
+Turluk	TR		39.440	39.878
+Trusetal	DE		50.783	10.417
+Teupasenti	HN		14.217	-86.700
+Teltipán de Juárez	MX	13	20.115	-99.201
+Teregova	RO		45.150	22.283
+Triengen	CH		47.236	8.077
+Tanna	DE		50.495	11.857
+Tabarz	DE		50.875	10.516
+Theog	IN		31.122	77.358
+Thornliebank	GB		55.805	-4.317
+Trent Woods	US	NC	35.082	-77.086
+Tramelan	CH		47.223	7.103
+Toscanella	IT		44.382	11.640
+Tabio	CO		4.917	-74.094
+Tarbagatay	RU		51.482	107.362
+Tras Cerros	HN		15.300	-88.667
+Tsqnet’i	GE		41.695	44.699
+Tagnanan	PH		7.284	125.842
+Tubalan	PH		6.495	125.566
+Tignoan	PH		14.565	121.618
+Taylor	US	AZ	34.465	-110.091
+Tagburos	PH		9.829	118.732
+Timiryazevo	KZ		53.749	66.489
+Tinskoy	RU		56.151	96.917
+Tarqui	CO		2.112	-75.824
+Tagbak	PH		13.842	120.089
+Tauche	DE		52.150	14.167
+Trenton	US	TN	35.981	-88.941
+Taunoa	PF		-17.751	-149.356
+Tomşani	RO		45.117	24.050
+Tynne	UA		50.601	26.185
+Tsil’na	RU		54.595	48.141
+Târgu Bujor	RO		45.867	27.900
+Thayngen	CH		47.747	8.707
+Tabuating	PH		15.392	120.941
+Tepojaco	MX	13	19.841	-98.948
+Talisay	PH		11.245	124.055
+Topolëvo	RU		48.503	135.176
+Tagdanua	PH		7.204	125.884
+Teremia Mare	RO		45.935	20.525
+Tenterfield	AU	02	-29.049	152.020
+Tét	HU		47.519	17.508
+Tokarevka	KZ		50.116	73.160
+Tignapalan	PH		8.264	124.575
+Triptis	DE		50.736	11.870
+Tyret’ Pervaya	RU		53.670	102.311
+Triebes	DE		50.685	12.020
+Tarm	DK		55.909	8.530
+Tapfheim	DE		48.673	10.684
+Taktaharkány	HU		48.083	21.133
+Talmassons	IT		45.928	13.122
+Thyrnau	DE		48.617	13.533
+Traitsching	DE		49.150	12.650
+Terchová	SK		49.259	19.029
+Tlalchapa	MX	12	18.410	-100.476
+Tavaux	FR		47.034	5.405
+Tallai	AU	04	-28.064	153.326
+Tobosi	CR		9.838	-83.984
+Toledo	UY		-34.738	-56.095
+Tuganay	PH		7.369	125.723
+Tourrettes-sur-Loup	FR		43.716	7.059
+Thomasville	US	AL	31.913	-87.736
+Theereheide	NL		51.638	5.337
+Torre Pellice	IT		44.821	7.217
+Tumble	GB		51.784	-4.110
+Tann	DE		48.315	12.893
+Tezze	IT		45.690	11.707
+Totolan	PH		9.633	123.847
+Tafí del Valle	AR		-26.853	-65.710
+The Entrance	AU	02	-33.339	151.498
+Tlancualpican	MX	21	18.433	-98.700
+Tagakpan	PH		7.113	125.429
+Torrelaguna	ES		40.828	-3.537
+Troitskoye	RU		43.762	44.684
+Tlacojalpan	MX	30	18.231	-95.947
+Tombu	SL		8.540	-10.731
+Turner	AU	01	-35.269	149.125
+Timişeşti	RO		47.233	26.550
+Tuka	PH		6.519	124.587
+Transfiguración	MX	15	19.577	-99.420
+Tangkou	CN		26.954	119.013
+Tsar Kaloyan	BG		43.617	26.250
+The Meadows	US	FL	27.362	-82.469
+Tocha	PT		40.313	-8.753
+Tespe	DE		53.396	10.411
+Tabuelan	PH		10.821	123.869
+Talitay	PH		7.033	124.700
+Tesalia	CO		2.486	-75.729
+Thaur	AT		47.295	11.475
+Tungol	PH		7.081	124.753
+Tullow	IE		52.800	-6.737
+Trivero-Prativero-Ponzone	IT		45.660	8.174
+Tsovinar	AM		40.160	45.468
+Thirlmere	AU	02	-34.205	150.568
+Teişani	RO		45.233	25.983
+Throop	US	PA	41.451	-75.612
+Tuburan	PH		13.242	123.552
+Tabuny	RU		52.777	78.790
+Toca	CO		5.564	-73.184
+Tresigallo-Final di Rero	IT		44.816	11.895
+Tamborine	AU	04	-27.883	153.133
+Teaoraereke Village	KI		1.333	173.012
+Tetiz	MX	31	20.963	-89.934
+Teocuitatlán de Corona	MX	14	20.092	-103.378
+Tiercé	FR		47.616	-0.466
+Tramonti	IT		40.692	14.645
+Torrensville	AU	05	-34.920	138.561
+Toufflers	FR		50.660	3.234
+Tri-City	US	OR	42.985	-123.312
+Tabor City	US	NC	34.149	-78.877
+Teruel	CO		2.742	-75.567
+Tolmachëvo	RU		54.982	82.736
+Tayport	GB		56.447	-2.880
+Toribío	CO		2.955	-76.268
+Troitsk	RU		55.701	72.234
+Tregear	AU	02	-33.746	150.793
+Tresses	FR		44.849	-0.464
+Tibagon	PH		7.233	125.863
+Tarczyn	PL		51.982	20.834
+Ticumán	MX	17	18.757	-99.120
+Tequila	MX	30	18.730	-97.070
+Taraklı	TR		40.397	30.493
+Thallwitz	DE		51.433	12.683
+Tarpey Village	US	CA	36.793	-119.701
+Ter Apel	NL		52.877	7.060
+Tyro	US	NC	35.809	-80.373
+Terney	RU		45.053	136.609
+Troistorrents	CH		46.229	6.916
+Tlalnepantla	MX	17	19.009	-98.996
+Timucuy	MX	31	20.810	-89.514
+Triunfo	BR	17	-6.567	-38.600
+Tintina	AR		-27.027	-62.706
+Tubigagmanoc	PH		10.628	123.749
+Tržič	SI		46.364	14.310
+Treasure Lake	US	PA	41.173	-78.716
+Targanice	PL		49.806	19.324
+Tunari	RO		44.550	26.150
+Tenjo	CO		4.873	-74.144
+Tsovagyugh	AM		40.633	44.961
+Thanna Mandi	IN		33.542	74.381
+Talomo	PH		7.529	125.723
+Tal I Mun Doc	PH		15.212	120.685
+Torrenova	IT		38.092	14.679
+Tenbury Wells	GB		52.311	-2.596
+Turia	RO		46.033	26.050
+Tuao	PH		16.588	121.258
+Tanza	PH		10.835	123.011
+Trzin	SI		46.133	14.567
+Thierhaupten	DE		48.565	10.909
+Theydon Bois	GB		51.674	0.098
+Tramagal	PT		39.450	-8.250
+Terwinselen	NL		50.867	6.025
+Taboada	ES		42.699	-7.823
+Tugos	PH		14.267	122.750
+Tápiógyörgye	HU		47.335	19.953
+Tireo Arriba	DO		18.935	-70.689
+Turulung	RO		47.933	23.083
+Temizhbekskaya	RU		45.451	41.039
+Totutla	MX	30	19.212	-96.961
+Tabon	PH		9.239	117.995
+Tepecik	TR		37.824	27.875
+Thompson's Station	US	TN	35.802	-86.911
+Tittling	DE		48.726	13.382
+Ts’inandali	GE		41.893	45.571
+Tarnów Opolski	PL		50.576	18.084
+Tungasuca	PE		-14.164	-71.477
+Turckheim	FR		48.087	7.277
+Tuzi	ME		42.366	19.331
+Titiribí	CO		6.063	-75.794
+Tibshelf	GB		53.144	-1.341
+Tarragona	PH		7.049	126.447
+Trafalgar	AU	07	-38.209	146.153
+Teuchitlán	MX	14	20.685	-103.849
+Tegernsee	DE		47.712	11.758
+Tampocon	PH		9.850	123.133
+Todd Creek	US	CO	39.978	-104.873
+Tamarin	MU		-20.326	57.371
+Thornwood	US	NY	41.123	-73.779
+Thiviers	FR		45.418	0.921
+Teseney	ER		15.110	36.657
+Tsibulev	UA		49.079	29.847
+Theodore	AU	01	-35.450	149.120
+Tasquillo	MX	13	20.548	-99.314
+Tahdziu	MX	31	20.205	-88.946
+Turnersville	US	NJ	39.773	-75.051
+Tábara Arriba	DO		18.570	-70.880
+Toužim	CZ		50.060	12.985
+Teeli	RU		51.014	90.205
+Taxach	AT		47.726	13.072
+Tíjola	ES		37.346	-2.433
+Tinoto	PH		5.887	125.071
+Tibiao	PH		11.292	122.035
+Tierra Verde	US	FL	27.692	-82.723
+Tennenbronn	DE		48.190	8.352
+Tourves	FR		43.408	5.924
+The Vale	MU		-20.030	57.602
+Thorneside	AU	04	-27.488	153.198
+Taino	IT		45.762	8.617
+Tublay	PH		16.543	120.610
+Tinajas	MX	13	19.897	-99.367
+Tranmere	AU	05	-34.906	138.662
+Tornado	US	WV	38.343	-81.844
+Thomonde	HT		19.017	-71.962
+Tumalim	PH		14.080	120.723
+Tain	GB		57.812	-4.055
+Turmus‘ayyā	PS		32.035	35.286
+Traian	RO		45.183	27.733
+Touques	FR		49.344	0.102
+Tim	RU		51.622	37.124
+Toflea	RO		46.064	27.334
+Toreno	ES		42.700	-6.512
+Terny	UA		50.989	33.971
+Tâmna	RO		44.567	23.017
+Taylor Lake Village	US	TX	29.575	-95.050
+Tamarit de Llitera / Tamarite de Litera	ES		41.869	0.422
+Taytayan	PH		10.879	123.977
+Turcoaia	RO		45.117	28.183
+Tarascon-sur-Ariège	FR		42.845	1.603
+Tominhao	PH		11.236	124.035
+Tuli	PH		7.233	125.417
+Toreo Bajo (El Toreo Bajo)	MX	16	19.445	-102.004
+Trumau	AT		47.993	16.343
+Tepetixtla	MX	12	17.215	-100.118
+Tixtlancingo	MX	12	17.058	-99.962
+Tigveni	RO		45.133	24.583
+Toszek	PL		50.454	18.522
+Töss (Kreis 4) / Eichliacker	CH		47.487	8.707
+Topsham	GB		50.686	-3.467
+Tetri Ts’q’aro	GE		41.544	44.462
+Trébeurden	FR		48.767	-3.567
+Tarmstedt	DE		53.225	9.078
+Tallebudgera	AU	04	-28.150	153.433
+Tilton	US	NH	43.442	-71.589
+Tunelu-Teliu	RO		45.700	25.850
+Tworóg	PL		50.531	18.716
+Tungawan	PH		7.508	122.371
+Tregnago	IT		45.514	11.164
+Talarrubias	ES		39.037	-5.234
+Tuxpanguillo	MX	30	18.782	-97.013
+Tavşancıl	TR		40.771	29.572
+Trazo	ES		43.017	-8.533
+Three Oaks	US	FL	26.470	-81.794
+Tawan tawan	PH		7.169	125.373
+Todireni	RO		47.617	27.117
+Tampilisan	PH		8.017	122.683
+Two Harbors	US	MN	47.023	-91.671
+Tupper Lake	US	NY	44.224	-74.464
+Tumauini	PH		17.277	121.809
+Tyubuk	RU		56.055	60.941
+Teague	US	TX	31.627	-96.284
+Torre Caracciolo	IT		40.876	14.179
+Tulimán	MX	12	18.029	-99.256
+Tlachaloya	MX	17	19.448	-99.662
+Talabaan	PH		6.941	122.172
+Trappe	US	PA	40.199	-75.476
+Timpas	PH		11.479	122.732
+Tambaca	MX	24	21.961	-99.301
+Trevose	US	PA	40.139	-74.981
+Tequesquitengo	MX	17	18.611	-99.260
+Tigtabon	PH		6.896	122.167
+Talawakele	LK		6.937	80.658
+Tefeya	SL		8.704	-11.213
+Tabio	PH		16.850	120.800
+Tulgheş	RO		46.950	25.767
+Tintigny	BE		49.683	5.513
+Tervola	FI		66.083	24.800
+Tangke	PH		10.255	123.865
+Tibasosa	CO		5.750	-73.000
+Tzintzuntzán	MX	16	19.628	-101.578
+Tolmin	SI		46.183	13.733
+Tribuswinkel	AT		48.006	16.271
+Tandayag	PH		9.455	123.230
+Tlalpujahua de Rayón	MX	16	19.805	-100.174
+Tambovka	RU		47.315	47.378
+Thierville-sur-Meuse	FR		49.170	5.353
+Terbregge	NL		51.953	4.515
+Temyasovo	RU		52.993	58.101
+Thompsonville	US	PA	40.291	-80.108
+Telchac Pueblo	MX	31	21.203	-89.269
+Thaleischweiler-Fröschen	DE		49.267	7.583
+Trevignano Romano	IT		42.160	12.238
+Tápióbicske	HU		47.361	19.686
+Templemars	FR		50.574	3.054
+Tepetzitzintla	MX	21	18.472	-97.119
+Tsybli	UA		49.995	31.563
+Toledo	US	OR	44.622	-123.938
+Tygda	RU		53.112	126.329
+Tamsweg	AT		47.128	13.811
+Táborfalva	HU		47.099	19.478
+Taguitic	PH		7.939	123.631
+Tarcău	RO		46.867	26.133
+Troianul	RO		44.000	25.000
+Tiefenbach	DE		48.500	12.100
+Tempe	AU	02	-33.923	151.160
+Tonaya	MX	14	19.786	-103.971
+Tutwiler	US	MS	34.015	-90.432
+Tahmek	MX	31	20.874	-89.255
+Tixcacalcupul	MX	31	20.536	-88.270
+Tongole	SL		7.451	-11.901
+Theresienfeld	AT		47.850	16.233
+Taloy	PH		16.333	120.500
+Teliu	RO		45.699	25.856
+Toholampi	FI		63.767	24.250
+Tolono	US	IL	39.986	-88.259
+Tatarskaya Kargala	RU		51.950	55.173
+Trebnje	SI		45.904	15.022
+Tlilapan	MX	30	18.806	-97.099
+'t Hofke	NL		51.449	5.519
+Taninges	FR		46.109	6.592
+Tixpehual	MX	31	20.977	-89.442
+Tinta	PE		-14.145	-71.407
+Tabacao	PH		15.650	120.941
+Tres Zapotes	MX	30	18.468	-95.437
+Tepango	MX	21	20.003	-97.797
+Talubatib	PH		14.182	122.785
+Thumeries	FR		50.477	3.055
+Tølløse	DK		55.612	11.770
+Traisen	AT		48.033	15.600
+Tlahuitoltepec	MX	20	17.097	-96.063
+Torricella	IT		40.355	17.498
+Toftlund	DK		55.189	9.069
+Tishchenskoye	RU		45.461	41.674
+Tenczynek	PL		50.120	19.613
+Taldan	RU		53.690	124.815
+Tóalmás	HU		47.508	19.667
+Troy	US	NC	35.358	-79.894
+Trenel	AR		-35.698	-64.132
+Trierweiler	DE		49.762	6.560
+Tygelsjö	SE		55.517	13.000
+Traian	RO		44.017	24.450
+Tierra Fría	MX	11	20.461	-101.039
+Tatkavaklı	TR		40.033	28.367
+Tägerwilen	CH		47.657	9.140
+Tăcuta	RO		46.917	27.683
+Thorndale	US	PA	39.993	-75.745
+Tuzuapan	MX	21	18.901	-97.667
+Tollarp	SE		55.933	13.983
+Turangi	NZ		-38.990	175.808
+Tarouca	PT		41.018	-7.775
+Türkenfeld	DE		48.105	11.083
+Tarnogród	PL		50.361	22.742
+Türnich	DE		50.859	6.755
+Tromello	IT		45.209	8.871
+Tyczyn	PL		49.964	22.034
+Ticala-an	PH		8.035	124.621
+Turícuaro	MX	16	19.571	-101.937
+Takeley	GB		51.871	0.266
+Talahiban I	PH		13.806	121.381
+Tovste	UA		48.847	25.726
+Ticonderoga	US	NY	43.849	-73.423
+Tipton	US	MO	38.656	-92.780
+Tuckerton	US	NJ	39.603	-74.340
+Turvey Park	AU	02	-35.128	147.363
+Teúl de González Ortega	MX	32	21.463	-103.461
+Tililan	TR		37.374	42.034
+Tuliszków	PL		52.077	18.295
+Tyshkivka	UA		48.497	30.942
+Ternberg	AT		47.945	14.359
+Tavannes	CH		47.221	7.198
+Tashara	RU		55.520	83.509
+Troarn	FR		49.178	-0.182
+Tolve	IT		40.694	16.016
+Tolmachevo	RU		58.860	29.911
+Tabaga	RU		61.855	129.600
+Tampate	MX	24	21.636	-99.026
+Trivalea-Moşteni	RO		44.267	25.233
+Thurø By	DK		55.047	10.664
+Tangua	CO		1.095	-77.395
+Tonila	MX	14	19.434	-103.517
+Tangal	PH		13.845	120.101
+Tlalixcoyan	MX	30	18.802	-96.061
+Tuzsér	HU		48.344	22.118
+Tiling	PH		9.974	122.654
+Torrejoncillo	ES		39.897	-6.467
+Temiraul	RU		43.253	46.825
+Titirangi	NZ		-36.938	174.656
+Tolland	AU	02	-35.145	147.352
+Thalmassing	DE		48.912	12.155
+Tabaquite	TT		10.388	-61.297
+Tom Price	AU	08	-22.694	117.793
+Tiszadob	HU		48.017	21.167
+Tallboda	SE		58.425	15.682
+Terra Bella	US	CA	35.962	-119.044
+Tower	IE		51.926	-8.607
+Tortorici	IT		38.030	14.822
+Tindog	PH		11.125	124.012
+Tresserve	FR		45.676	5.899
+Terrington St Clement	GB		52.758	0.297
+Temoaya	MX	15	19.467	-99.594
+Tulay	PH		14.270	120.769
+Taverna	IT		39.430	16.231
+Todos Santos Cuchumatán	GT		15.508	-91.604
+Tochimilco	MX	21	18.891	-98.572
+Thomery	FR		48.407	2.789
+Teulada	IT		38.967	8.771
+Tufeni	RO		44.367	24.783
+Tlamaco (San Gerónimo Tlamaco)	MX	13	20.035	-99.229
+Tarcal	HU		48.133	21.350
+Tione di Trento	IT		46.035	10.727
+Tabug	PH		18.034	120.549
+Talangnan	PH		9.634	123.334
+Tlaxcalilla	MX	13	20.377	-99.815
+Třemošnice	CZ		49.869	15.580
+Tyabb	AU	07	-38.250	145.183
+Tabon	PH		9.804	123.456
+Tangmere	GB		50.851	-0.716
+Tiniguiban	PH		11.357	119.505
+Texan de Palomeque	MX	31	20.938	-89.833
+Tumarbong	PH		10.377	119.458
+Tiríndaro	MX	16	19.771	-101.743
+Torre del Mangano	IT		45.252	9.130
+Tambo	PH		13.547	123.036
+Tremedal	BR	05	-14.976	-41.411
+Tribano	IT		45.209	11.836
+Tombongon	PH		7.079	125.949
+Tabernas	ES		37.050	-2.391
+Tüßling	DE		48.212	12.600
+Tapayan	PH		7.294	124.266
+Tanganhuato	MX	12	18.286	-100.612
+Thásos	GR		40.778	24.709
+Terradillos	ES		40.838	-5.542
+Talaga	PH		13.736	120.936
+Tlazazalca	MX	15	19.971	-102.058
+Tumbala	MX	05	17.277	-92.317
+Trinidad	PH		10.080	124.343
+Tranemo	SE		57.483	13.350
+Tepeyanco	MX	29	19.246	-98.234
+Tomahawk	US	WI	45.471	-89.730
+Travedona Monate	IT		45.804	8.671
+Tamazula	MX	25	25.446	-108.455
+Talofofo Village	GU		13.355	144.758
+Tetela	MX	20	18.509	-96.459
+Tiquicheo	MX	16	18.903	-100.737
+Torrejón de Velasco	ES		40.187	-3.777
+Tipton	US	IA	41.770	-91.128
+Teuchern	DE		51.121	12.024
+Tambo	PH		9.895	123.056
+Tandoc	PH		15.959	120.329
+Tagasilay	PH		7.303	122.259
+Treeton	GB		53.386	-1.352
+Tea Tree Gully	AU	05	-34.817	138.733
+Tracadie-Sheila	CA	04	47.514	-64.918
+Three Lakes	US	WA	47.945	-122.012
+Tetelilla	MX	17	18.613	-98.774
+Tondod	PH		15.718	120.968
+Traian	RO		44.764	27.343
+Tavernelle	IT		43.003	12.145
+Tecaxic	MX	15	19.323	-99.715
+Troitskoye	RU		46.925	142.645
+Tecoac (Santa María Nativitas)	MX	15	19.789	-99.853
+Torre de' Passeri	IT		42.243	13.933
+Thiensville	US	WI	43.238	-87.979
+Taxco el Viejo	MX	12	18.483	-99.584
+Tallapoosa	US	GA	33.745	-85.288
+Tollarp1	SE		56.167	14.283
+Tennant Creek	AU	03	-19.650	134.191
+Thise	FR		47.285	6.081
+Tápiószőlős	HU		47.302	19.851
+Tubmanburg	LR		6.871	-10.821
+Tidman	PH		8.299	126.339
+Timiryazevskiy	RU		54.929	60.763
+Tabid	PH		8.108	123.780
+Tunoshna	RU		57.546	40.125
+Tatarskaya Pishlya	RU		54.061	44.900
+Taguisa	PH		6.698	124.036
+Töysä	FI		62.628	23.818
+Trafford	US	PA	40.386	-79.759
+Torre di Mosto	IT		45.686	12.700
+Tubod-dugoan	PH		10.044	123.499
+Tudela	PH		8.247	123.842
+Tacub	PH		8.188	124.108
+Toluca de Guadalupe	MX	29	19.469	-97.956
+Taşköprü	TR		40.674	29.391
+Tonkawa	US	OK	36.678	-97.310
+Tandragee	GB		54.355	-6.414
+Tigbaw	PH		12.148	123.591
+Talahib Payap	PH		13.661	121.136
+Tõrva	EE		58.003	25.935
+Tenhult	SE		57.708	14.322
+Talshik	KZ		53.637	71.874
+Turbenthal	CH		47.436	8.846
+Tofte	NO		59.543	10.561
+Tarusan	PH		8.655	117.510
+Tartas	FR		43.832	-0.809
+Tekanto	MX	31	21.010	-89.107
+Tran	BG		42.835	22.652
+Tinchebray	FR		48.764	-0.733
+Tybee Island	US	GA	32.000	-80.846
+Turaw	BY		52.068	27.735
+Tarapacá	CO		-2.892	-69.742
+Tokarnia	PL		49.727	19.872
+Tanilba Bay	AU	02	-32.747	151.997
+Tezoquipa	MX	13	20.056	-99.205
+Torbay	CA	05	47.667	-52.731
+Tywyn	GB		52.586	-4.093
+Tribiano	IT		45.413	9.377
+Tollo	IT		42.345	14.324
+Taywanak Ilaya	PH		14.158	120.847
+Taft	US	TX	27.979	-97.399
+Tiger Point	US	FL	30.379	-87.056
+Terry Hills	AU	02	-33.683	151.233
+Tingsryd	SE		56.525	14.979
+Tabunok	PH		10.777	124.016
+Trippstadt	DE		49.359	7.775
+Turza Śląska	PL		49.972	18.438
+Trzebownisko	PL		50.078	22.037
+Themar	DE		50.505	10.615
+Toboy	PH		16.027	120.637
+Tansa	RO		46.917	27.233
+The Plains	US	OH	39.369	-82.132
+Tampamolón Corona	MX	24	21.559	-98.819
+Torrenueva	ES		38.640	-3.363
+Tishomingo	US	OK	34.236	-96.679
+Tilton-Northfield	US	NH	43.443	-71.594
+Towradgi	AU	02	-34.387	150.903
+Terskaya	RU		43.724	44.724
+Tanque	ES		28.367	-16.833
+Tacuarendí	AR		-28.413	-59.260
+Tocok	PH		15.750	120.300
+Torcy	FR		46.769	4.453
+Timelkam	AT		48.004	13.608
+Trafford Park	GB		53.469	-2.312
+Taremskoye	RU		55.929	43.044
+Talospatang	PH		15.917	120.441
+Tetecalita	MX	17	18.768	-99.177
+Tiburon	HT		18.326	-74.396
+Trinity Park	AU	04	-16.807	145.705
+Tarata	PE		-17.474	-70.033
+Tagudin	PH		16.081	119.954
+Tillo	TR		37.949	42.012
+Three Hills	CA	01	51.700	-113.269
+Tzicatlán	MX	21	18.451	-98.756
+Tence	FR		45.114	4.291
+Toledo	AR		-31.556	-64.009
+Tertenia	IT		39.695	9.579
+Tuturano	IT		40.545	17.948
+Tornimparte	IT		42.290	13.301
+Țintea	RO		45.034	25.905
+Taperoo	AU	05	-34.804	138.496
+Tiahuanaco	BO		-16.552	-68.680
+Tann	CH		47.269	8.850
+Tlamixtlahuacan	MX	12	17.503	-99.226
+Trouy	FR		47.012	2.360
+Trott Park	AU	05	-35.076	138.542
+Tătărani	RO		44.898	26.035
+Trashi Yangtse	BT		27.612	91.498
+Tehuetlán	MX	13	21.053	-98.509
+Taoudenni	ML		22.674	-3.979
+Tiguion	PH		13.335	121.861
+Thabeban	AU	04	-24.900	152.350
+Three Rivers	US	OR	43.820	-121.469
+Teplá	CZ		49.980	12.864
+Tunggol	PH		5.845	121.154
+The Hideout	US	PA	41.427	-75.353
+Tréguier	FR		48.783	-3.233
+Trémentines	FR		47.124	-0.785
+Tuikwerd	NL		53.317	6.900
+Torrijos	PH		13.317	122.082
+Tazlău	RO		46.717	26.467
+Tolhuin	AR		-54.511	-67.195
+Taiping	CN		28.141	106.038
+Talpe	LK		6.000	80.279
+Tatakamotonga	TO		-21.186	-175.125
+Trypillia	UA		50.118	30.781
+Trabuco Canyon	US	CA	33.663	-117.590
+Tinnum	DE		54.899	8.335
+Tronzano Vercellese	IT		45.342	8.174
+Tetoiu	RO		44.750	23.917
+Tura Beach	AU	02	-36.864	149.930
+Tyndall Air Force Base	US	FL	30.085	-85.607
+Tres Algarrobos	AR		-35.195	-62.774
+Torralba de Calatrava	ES		39.018	-3.751
+Thursday Island	AU	04	-10.583	142.219
+Terezín	CZ		50.511	14.151
+Tambo	PH		13.255	123.291
+Turgi	CH		47.492	8.254
+Tomelopitos	MX	11	20.595	-101.368
+Tipo-Tipo	PH		6.581	122.179
+Taypano	PH		8.371	124.559
+Tymoshivka	UA		47.184	35.116
+Thermopolis	US	WY	43.646	-108.212
+Thorngumbald	GB		53.721	-0.172
+Thiesi	IT		40.524	8.720
+Târşolţel	RO		47.950	23.350
+Teacalco	MX	13	19.806	-98.852
+Ţuglui	RO		44.183	23.817
+Tubao	PH		8.334	123.855
+Taroona	AU	06	-42.945	147.348
+Traînou	FR		47.974	2.104
+Tass	HU		47.021	19.030
+Teopantlán	MX	21	18.712	-98.263
+Teisnach	DE		49.041	12.988
+Tagusao	PH		9.192	117.814
+Trimdon	GB		54.699	-1.429
+Tsentral’nyy	RU		56.297	42.789
+Tavistock	CA	08	43.317	-80.833
+Tierra Blanca	MX	22	20.780	-100.380
+Tiwi	AU	03	-12.359	130.878
+Thurston	GB		52.252	0.807
+Troyebratskiy	KZ		54.443	66.080
+Tambalisa	PH		11.270	123.165
+Tyulyachi	RU		55.891	50.240
+Tanaco	MX	16	19.739	-102.081
+Tysmenychany	UA		48.772	24.666
+Tribsees	DE		54.096	12.757
+Topolovăţu Mare	RO		45.774	21.619
+Trélon	FR		50.058	4.102
+Taulé	FR		48.600	-3.900
+Tzinacapan	MX	21	20.029	-97.540
+Târguşor	RO		44.450	28.417
+Tancanhuitz	MX	24	21.598	-98.968
+Tunga	PH		11.246	124.752
+Tétange	LU		49.476	6.042
+Tomnatic	RO		45.989	20.662
+Tussenhausen	DE		48.102	10.561
+Tapijulapa	MX	27	17.462	-92.779
+Taminango	CO		1.570	-77.280
+Trappeto	IT		38.069	13.038
+Tezapotla	MX	13	21.174	-98.812
+Terra Mar	US	FL	26.216	-80.095
+Tagcatong	PH		9.002	125.257
+Tubajon	PH		10.332	125.562
+Talfīt	PS		32.087	35.291
+Tamiso	PH		9.631	123.087
+Tablac	PH		17.216	120.454
+Two Rocks	AU	08	-31.500	115.587
+Turmequé	CO		5.324	-73.491
+Taulov	DK		55.546	9.616
+Tiparak	PH		8.034	123.529
+Trinity Ville	JM		17.961	-76.514
+Tobias Fornier	PH		10.515	121.946
+Trawniki	PL		51.136	22.998
+Tapotzingo	MX	27	18.204	-93.014
+Three Rivers	US	MA	42.181	-72.361
+Tabon	PH		10.302	123.326
+Torrejón del Rey	ES		40.643	-3.334
+Tinténiac	FR		48.329	-1.836
+Terranora	AU	02	-28.238	153.501
+Toygarlı	TR		36.213	36.073
+Tomás Gomensoro	UY		-30.429	-57.436
+Tuningen	DE		48.033	8.600
+Tangnan	PH		9.607	123.774
+Tamisan	PH		6.844	126.298
+Tangerine	US	FL	28.765	-81.631
+Thermal	US	CA	33.640	-116.139
+Tularosa	US	NM	33.074	-106.019
+Tuzantán	MX	05	15.147	-92.422
+Tisdale	CA	11	52.850	-104.051
+Trmice	CZ		50.643	13.994
+Tiszaeszlár	HU		48.050	21.467
+Tsimasham	BT		27.099	89.536
+Termeno	IT		46.342	11.242
+Taviran	PH		7.123	124.320
+Tulca	RO		46.783	21.783
+Twin Waters	AU	04	-26.634	153.081
+Tenambit	AU	02	-32.740	151.613
+Tolimán	MX	22	20.908	-99.930
+Tiblawan	PH		6.478	126.108
+Tohautu	PF		-17.761	-149.317
+Thuré	FR		46.832	0.459
+Tampayan	PH		12.494	122.533
+Tlatempan	MX	29	19.332	-98.203
+Trinidad	PY		-27.117	-55.783
+Tototepec	MX	12	17.432	-98.587
+Tafers	CH		46.815	7.219
+Tuusniemi	FI		62.817	28.500
+Theale	GB		51.437	-1.077
+Trimmis	CH		46.901	9.561
+Tinglev	DK		54.938	9.255
+Thorens-Glières	FR		45.995	6.246
+Tunkas	MX	31	20.903	-88.752
+Trescore Cremasco	IT		45.403	9.623
+Tarján	HU		47.610	18.511
+Tpig	RU		41.780	47.589
+Tiggiano	IT		39.903	18.365
+Tabonok	PH		10.851	123.877
+Teslui	RO		44.517	24.367
+Taytay	PH		8.541	124.540
+Tikiw	PH		15.312	120.861
+Talaibon	PH		13.838	121.140
+Tlacamilco	MX	21	19.076	-97.916
+Tama	US	IA	41.967	-92.577
+Tomochic	MX	06	28.353	-107.846
+Torgiano	IT		43.028	12.440
+Torchione-Moia	IT		46.155	9.860
+Tootgarook	AU	07	-38.378	144.850
+Toucy	FR		47.736	3.295
+Topleţ	RO		44.797	22.394
+Towanda	US	PA	41.768	-76.443
+Tontitown	US	AR	36.178	-94.234
+Tawagan	PH		7.845	123.475
+Tarasovka	RU		55.957	37.843
+Trongsa	BT		27.503	90.507
+Tigbinan	PH		14.186	122.469
+Tadian	PH		16.996	120.820
+Tumbiscatío de Ruiz	MX	16	18.527	-102.378
+Tworków	PL		50.006	18.236
+Talmon	IL		31.939	35.135
+Tiarei	PF		-17.533	-149.333
+Telbang	PH		16.172	120.061
+Tolé	PA		8.240	-81.672
+Tucquegnieux	FR		49.310	5.894
+Tea Gardens	AU	02	-32.664	152.154
+Teloché	FR		47.888	0.271
+Tannersville	US	PA	41.040	-75.306
+Tamazulápam del Espíritu Santo	MX	20	17.055	-96.065
+Tecoluca	SV		13.789	-89.005
+Tebag East	PH		15.981	120.467
+Tanolong	PH		15.804	120.414
+Teleşti	RO		45.000	23.083
+Tuod	PH		8.343	124.354
+Tytuvėnėliai	LT		55.623	23.172
+Topolčani	MK		41.228	21.431
+Tomești	RO		46.556	25.779
+Tobuan	PH		16.056	120.110
+Tairan Camp	PH		6.640	121.840
+Töss (Kreis 4) / Schlosstal	CH		47.493	8.702
+Toury	FR		48.194	1.935
+Torchiati	IT		40.818	14.802
+Tarangnan	PH		11.901	124.746
+Tetla	MX	30	18.987	-97.061
+Tăuții-Măgherăuș	RO		47.650	23.483
+Tápióság	HU		47.402	19.630
+Tilapa	MX	21	18.597	-98.552
+Turley	US	OK	36.242	-95.976
+Tepich	MX	23	20.242	-88.257
+Trinity	US	TX	30.945	-95.376
+Traismauer	AT		48.350	15.733
+Tamaghzah	TN		34.388	7.943
+Turriaco	IT		45.821	13.444
+Thio	NC		-21.617	166.217
+Tepanco	MX	21	18.557	-97.561
+Tolga	AU	04	-17.186	145.477
+Turre	ES		37.152	-1.895
+Ts’aghveri	GE		41.804	43.482
+Taggì	IT		45.461	11.819
+Tzintzingareo	MX	16	19.764	-100.485
+Torrazza Piemonte	IT		45.215	7.977
+Tenango el Nuevo	MX	11	20.531	-100.672
+Tiszabura	HU		47.450	20.467
+Tejalpa	MX	15	19.252	-99.766
+Tlapanalá	MX	21	18.696	-98.536
+Timonan	PH		8.212	123.068
+Thüngersheim	DE		49.878	9.849
+Tornyospálca	HU		48.267	22.183
+Tando Mitha Khan	PK		25.996	69.203
+Trudfront	RU		45.935	47.669
+Tapia	PH		7.754	126.012
+Torre Baró	ES		41.455	2.174
+Thizy-les-Bourgs	FR		46.030	4.313
+Topsfield	US	MA	42.638	-70.950
+Tolome	MX	30	19.267	-96.395
+Torreblascopedro	ES		37.998	-3.638
+Trăisteni	RO		45.339	25.728
+Tormac	RO		45.521	21.494
+Trecella	IT		45.515	9.479
+Tinwald	NZ		-43.917	171.717
+Tarso	CO		5.865	-75.822
+Tymbark	PL		49.729	20.325
+Tolkmicko	PL		54.320	19.527
+Tucurrique	CR		9.853	-83.723
+Torda	RS		45.584	20.459
+Tawala	PH		9.554	123.770
+Torvaianica Alta	IT		41.632	12.498
+Tiszakeszi	HU		47.783	21.000
+Tëmkino	RU		55.109	35.014
+Tambac	PH		11.671	122.411
+Triesenberg	LI		47.118	9.542
+Teynham	GB		51.330	0.805
+Teichwolframsdorf	DE		50.721	12.247
+Tolosa	PH		7.032	122.161
+Toong	PH		14.071	120.763
+Támara	HN		14.150	-87.333
+Taşca	RO		46.900	26.017
+Tsvetochnoye	UA		45.087	34.385
+Tondol	PH		16.310	120.013
+Terzo d'Aquileia	IT		45.800	13.342
+Torre de la Horadada	ES		37.870	-0.758
+Tamworth	US	NH	43.860	-71.263
+Tuggen	CH		47.203	8.949
+Taytay	PH		14.126	121.404
+Tabonoc	PH		10.350	124.800
+Trenton	US	IL	38.606	-89.682
+Tusculum	US	TN	36.175	-82.759
+Trigg	AU	08	-31.869	115.757
+Tiffin	US	IA	41.706	-91.663
+Tejutla	GT		15.123	-91.806
+Tabaan	PH		16.300	120.517
+Tarcea	RO		47.450	22.183
+Trestieni	RO		44.504	25.758
+Tuxford	GB		53.230	-0.893
+Tijarafe	ES		28.700	-17.950
+Torigni-sur-Vire	FR		49.037	-0.982
+Texcaltitlán	MX	15	18.930	-99.939
+Tlapacoyan	MX	30	18.457	-95.401
+Tuhian	PH		13.622	122.218
+Tingloy	PH		13.661	120.871
+Tambongon	PH		10.968	123.924
+Tvååker	SE		57.041	12.399
+Thomaston	US	NY	40.786	-73.714
+Tola	NI		11.439	-85.939
+Taganak	PH		6.073	118.312
+Tugbong	PH		11.017	124.600
+Tocumwal	AU	02	-35.812	145.569
+Thiant	FR		50.305	3.448
+Tinawagan	PH		13.650	123.483
+Taytsy	RU		59.664	30.115
+Tunyogmatolcs	HU		47.967	22.467
+Tubigan	PH		8.532	124.312
+Trosna	RU		52.445	35.779
+Tilton	US	IL	40.095	-87.648
+Tecomatlán	MX	21	18.110	-98.313
+Transporte	MX	10	25.634	-103.541
+Thunderbolt	US	GA	32.034	-81.050
+Tollesbury	GB		51.759	0.835
+Tarporley	GB		53.159	-2.669
+Torre del Bierzo	ES		42.608	-6.367
+Toorak Gardens	AU	05	-34.935	138.636
+Toén	ES		42.318	-7.954
+Tomado	PH		7.192	124.608
+Taura	DE		50.917	12.850
+Teresita	PH		6.414	124.708
+Tiszanána	HU		47.567	20.533
+Tovačov	CZ		49.431	17.288
+Ţallūzah	PS		32.271	35.295
+Timberville	US	VA	38.639	-78.774
+Topolovo	BG		41.900	25.000
+Taūshyq	KZ		44.347	51.349
+Tierra y Libertad	MX	05	16.379	-93.861
+Talponada	IT		45.704	12.491
+Tamsalu	EE		59.159	26.115
+Tipaz	PH		13.829	121.425
+Tacligan	PH		13.398	121.063
+Thurins	FR		45.682	4.641
+Tinampo	PH		13.228	123.507
+Thyborøn	DK		56.698	8.212
+Tanza	PH		11.582	122.784
+Tobaccoville	US	NC	36.238	-80.371
+Tröstau	DE		50.017	11.950
+Talisay	PH		6.720	126.100
+Tăuții de Sus	RO		47.657	23.658
+Tellingstedt	DE		54.217	9.283
+Takamaka	SC		-4.767	55.500
+Tămădău Mare	RO		44.467	26.550
+Turnu Roşu	RO		45.633	24.300
+Tiguib	PH		9.801	123.135
+The Hills	US	TX	30.348	-97.985
+Thusis	CH		46.697	9.439
+Tuncingo	MX	12	16.851	-99.789
+Tahoka	US	TX	33.167	-101.794
+Teistungen	DE		51.467	10.267
+Tagob	TJ		38.838	68.898
+Tampico Alto	MX	30	22.112	-97.802
+Tekal de Venegas	MX	31	21.015	-88.947
+Treize-Septiers	FR		46.985	-1.229
+Temir	KZ		49.141	57.129
+Tagum Norte	PH		10.075	124.389
+Torrens Park	AU	05	-34.976	138.610
+Tabontabon	PH		11.041	124.961
+Travis Ranch	US	TX	32.804	-96.473
+Tlacotepec (San Mateo)	MX	21	20.060	-97.849
+Tepenixtlahuaca	MX	20	16.292	-97.492
+Tinosu	RO		44.817	26.017
+Tecario	MX	16	19.232	-101.544
+Tau	NO		59.065	5.923
+Tapel	PH		18.289	122.029
+Tânganu	RO		44.406	26.313
+Tureni	RO		46.629	23.702
+Troutman	US	NC	35.701	-80.888
+Tigui	PH		13.268	122.041
+Tipton	US	CA	36.059	-119.312
+Tekom	MX	31	20.603	-88.265
+Thaxted	GB		51.953	0.345
+Ţepu	RO		45.967	27.367
+Tabon	PH		15.271	120.913
+Toporu	RO		44.011	25.653
+Trois-Ponts	BE		50.371	5.871
+Temascaltepec de González	MX	15	19.044	-100.042
+Telpatlán	MX	21	18.484	-97.152
+Tsovak	AM		40.183	45.633
+Tongwan	CN		27.581	110.277
+Toyós	HN		15.550	-87.650
+Tayum	PH		17.617	120.654
+Tzajalá	MX	05	17.136	-92.393
+Teliucu Inferior	RO		45.717	22.883
+Tatton	AU	02	-35.160	147.359
+Tiszakarád	HU		48.200	21.717
+Tabinay	PH		13.487	120.957
+Truchtersheim	FR		48.663	7.608
+The Oaks	AU	02	-34.080	150.570
+Tettau	DE		50.470	11.259
+Two Wells	AU	05	-34.593	138.514
+Torrenueva	ES		36.704	-3.490
+Tsarítsani	GR		39.881	22.228
+Tufino	IT		40.956	14.566
+Tenneville	BE		50.095	5.529
+Tambong	PH		12.964	121.485
+Tarvisio	IT		46.506	13.587
+Tychowo	PL		53.928	16.258
+Tiszadada	HU		48.033	21.250
+Timsbury	GB		51.324	-2.479
+Tepetzingo	MX	15	18.938	-99.612
+Tugaya	PH		7.883	124.174
+Tagbita	PH		8.713	117.350
+Teresin	PL		52.199	20.417
+Tabaky	UA		45.727	28.607
+Talang	PH		15.025	120.838
+Turrella	AU	02	-33.930	151.142
+Tiriolo	IT		38.941	16.510
+Topiltepec	MX	12	17.650	-99.223
+Täuffelen	CH		47.066	7.199
+Thornton	US	IL	41.568	-87.608
+Tagbubungang Diot	PH		11.126	124.403
+Tumak	RU		46.234	48.506
+Tlalminulpa	MX	13	20.075	-99.222
+Tiguisan	PH		12.839	121.461
+'t Zand	NL		52.837	4.756
+Tepehan	TR		36.159	36.229
+Tlučná	CZ		49.724	13.235
+Tlalnepantla	MX	24	21.180	-98.846
+Tonopah	US	NV	38.067	-117.230
+Thurso	CA	10	45.600	-75.249
+Techaluta de Montenegro	MX	14	20.073	-103.551
+Trige	DK		56.253	10.148
+Tureac	RO		47.230	24.806
+Tlumačov	CZ		49.254	17.496
+Tollegno	IT		45.591	8.051
+Tecominoacán	MX	27	17.921	-93.563
+Tuxtla	MX	21	20.000	-97.655
+Trzcińsko Zdrój	PL		52.965	14.607
+Torzym	PL		52.313	15.082
+Tariric	PH		13.572	123.224
+Travancore	AU	07	-37.781	144.935
+Thiotte	HT		18.244	-71.842
+Thurmansbang	DE		48.766	13.316
+Thornley	GB		54.750	-1.433
+Tumbler Ridge	CA	02	55.130	-120.994
+Torri del Benaco	IT		45.610	10.687
+Tubli	PH		13.932	124.148
+Taverna	IT		39.022	16.581
+Tomas Oppus	PH		10.251	124.983
+Tengelic	HU		46.529	18.711
+Tranca	PH		14.118	121.057
+Tyrma	RU		50.048	132.150
+Tamorong	PH		17.333	120.433
+Traona	IT		46.147	9.533
+Thézan-lès-Béziers	FR		43.417	3.167
+Tenango de Doria	MX	13	20.338	-98.228
+Tully	AU	04	-17.933	145.923
+Toirano	IT		44.127	8.207
+Tolkamer	NL		51.855	6.103
+Tarabuco	BO		-19.182	-64.915
+Thalgau	AT		47.841	13.253
+Tucdao	PH		11.701	124.472
+Taverne D'Arbia	IT		43.295	11.395
+Traganón	GR		37.898	21.312
+Tomingad	PH		12.443	122.021
+Tarbagatay	RU		51.176	109.095
+Testerazo	MX	18	21.402	-104.894
+Trieben	AT		47.486	14.487
+Tacuatí	PY		-23.450	-56.583
+Tunititlán	MX	13	20.249	-99.244
+Tlacotepec de José Manzo	MX	21	19.272	-98.485
+Tuban	PH		12.812	120.832
+Tacadang	PH		16.726	120.641
+Taylor	US	AL	31.165	-85.468
+Tommerup Stationsby	DK		55.345	10.176
+Tlacotepec de Mejía	MX	30	19.189	-96.838
+Texistepeque	SV		14.133	-89.500
+Trzcinica	PL		49.743	21.418
+Telluride	US	CO	37.937	-107.812
+Tamparan	PH		7.879	124.333
+Teiș	RO		44.963	25.403
+Trilj	HR		43.618	16.724
+Tixmehuac	MX	31	20.236	-89.108
+Takub	PH		6.856	125.422
+Tramutola	IT		40.319	15.788
+Tupilaţi	RO		47.067	26.633
+Tappahannock	US	VA	37.925	-76.859
+Tignes	FR		45.496	6.925
+Tío Pujio	AR		-32.288	-63.356
+Tacátzcuaro	MX	16	19.730	-102.547
+Tataurovo	RU		52.142	107.441
+Trebbo	IT		44.556	11.319
+Tin Can Bay	AU	04	-25.919	153.003
+Tambo	PH		7.157	125.699
+Timmonsville	US	SC	34.135	-79.940
+Tepetitlán	MX	15	19.573	-98.871
+Tehuilotepec	MX	12	18.552	-99.581
+Treffiagat	FR		47.817	-4.267
+Tarong	PH		11.531	123.132
+Taungoh	PH		4.707	119.493
+Tugdan	PH		12.313	122.085
+Turcineşti	RO		45.100	23.333
+Tørring	DK		55.850	9.483
+Torrance	GB		55.940	-4.210
+Tupsan	PH		9.199	124.777
+Torretta	IT		39.454	17.036
+Town Line	US	NY	42.891	-78.578
+Tierras Nuevas Poniente	PR		18.462	-66.489
+Tweede Exloërmond	NL		52.909	6.933
+Tipolo	PH		10.020	124.514
+Tinaogan	PH		9.779	123.150
+Tielmes	ES		40.247	-3.315
+Tynset	NO		62.276	10.782
+Talisay	PH		13.915	120.623
+Tapalapan	MX	30	18.532	-95.306
+Tellin	BE		50.080	5.216
+Taloy	PH		15.924	120.396
+Tilik	PH		13.814	120.200
+Terkoest	BE		50.898	5.276
+Tuokou	CN		27.125	109.625
+Toivakka	FI		62.100	26.083
+Tuenno	IT		46.328	11.023
+Tamarack	CA	01	53.464	-113.362
+Tannheim	DE		48.000	10.083
+Talokgañgan	PH		11.008	122.845
+Tawern	DE		49.667	6.517
+Tabing	PH		11.400	124.350
+Táplánszentkereszt	HU		47.195	16.696
+Tartiki	TJ		37.582	68.133
+Trégastel	FR		48.817	-3.500
+Tănăsoaia	RO		46.100	27.367
+Tiszaszentimre	HU		47.483	20.733
+Tumalaytay	PH		12.276	123.232
+Tapas	PH		11.261	122.536
+Tejeda	ES		27.995	-15.615
+Tocco da Casauria	IT		42.212	13.915
+Tiszahegyes	RS		45.826	20.318
+Theilheim	DE		49.754	10.031
+Tovarnik	HR		45.165	19.152
+Tamazula de Victoria	MX	10	24.968	-106.967
+Tourville-la-Rivière	FR		49.328	1.106
+Tablas	PH		6.629	122.175
+Trzciel	PL		52.365	15.873
+Treis-Karden	DE		50.172	7.302
+Tariji	PH		15.521	120.614
+Talisayan	PH		10.950	124.700
+Tarpa	HU		48.105	22.537
+Tlacolula	MX	30	21.092	-97.960
+Tierra Blanca	MX	32	22.348	-102.065
+Tayāsīr	PS		32.340	35.396
+Terre du Lac	US	MO	37.912	-90.625
+Terre Haute	US	MO	40.439	-93.234
+Tiream	RO		47.617	22.467
+Topilco de Juárez	MX	29	19.421	-98.200
+Tavullia	IT		43.898	12.751
+Tabiauan	PH		6.028	121.894
+Talon	PH		11.560	122.681
+Tubod	PH		9.996	123.573
+Tarvin	GB		53.197	-2.765
+Talpa-Trivalea	RO		44.283	25.283
+Torretta	IT		38.130	13.235
+Tuoro sul Trasimeno	IT		43.207	12.075
+Telafas	PH		6.630	124.973
+Tinutulan	PH		7.100	124.650
+Toila	EE		59.421	27.508
+Trzciana	PL		50.072	21.838
+Treia	IT		43.309	13.310
+Tedder	US	FL	26.284	-80.122
+Thiendorf	DE		51.294	13.741
+Ternate	IT		45.787	8.699
+Thorn	NL		51.162	5.842
+Tigbao	PH		12.555	123.339
+Tabalong	PH		9.622	123.812
+Tautira	PF		-17.747	-149.161
+Towamensing Trails	US	PA	41.008	-75.585
+Tezonteopan de Bonilla	MX	21	18.748	-98.491
+Teavaro	PF		-17.500	-149.767
+Tompkinsville	US	KY	36.702	-85.692
+Topdac	PH		16.555	120.712
+Tazewell	US	TN	36.454	-83.569
+Tuftonboro	US	NH	43.696	-71.222
+Treffort-Cuisiat	FR		46.267	5.367
+Trélivan	FR		48.432	-2.117
+Tecolapan	MX	30	18.570	-95.340
+Touho	NC		-20.791	165.250
+Timmerlah	DE		52.239	10.450
+Tesero	IT		46.292	11.509
+Temalacayuca	MX	21	18.604	-97.557
+Telarah	AU	02	-32.729	151.535
+Toffen	CH		46.860	7.492
+Tecamalucan	MX	30	18.761	-97.225
+Tzajalchén	MX	05	16.842	-92.460
+Tamlang	PH		10.825	123.454
+Turgoyak	RU		55.150	60.118
+Thomastown	IE		52.527	-7.137
+Tara	AU	04	-27.276	150.457
+The Gap	AU	03	-23.713	133.874
+Torrefarrera	ES		41.673	0.607
+Tataltepec de Valdés	MX	20	16.305	-97.546
+Trinidad García de la Cadena	MX	32	21.210	-103.465
+Tiwi	PH		10.930	122.734
+Tăriceni	RO		44.796	25.970
+Tool	US	TX	32.268	-96.170
+Tococ East	PH		15.825	120.426
+Totogalpa	NI		13.563	-86.493
+Templemore	IE		52.795	-7.834
+Thal	AT		47.076	15.361
+Tolox	ES		36.687	-4.905
+Tumbagaan	PH		5.366	120.314
+Texanna	US	OK	35.347	-95.437
+Torreilles	FR		42.754	2.993
+Tulipanes	MX	13	20.060	-98.767
+Tambak	PH		6.725	124.623
+Talensac	FR		48.108	-1.928
+Trichiana	IT		46.081	12.141
+Tsovasar	AM		40.138	45.191
+Tiefenbach	DE		49.185	12.323
+Teuschnitz	DE		50.398	11.382
+Thayer	US	MO	36.525	-91.538
+Terrace Park	US	OH	39.159	-84.307
+Tallaboa Alta	PR		18.051	-66.700
+Tainter Lake	US	WI	44.989	-91.848
+Tlalixtaquilla	MX	12	17.577	-98.367
+Temextla	MX	21	19.609	-97.667
+Trenton	US	GA	34.872	-85.509
+Tinlot	BE		50.475	5.378
+Tlacuitlapa	MX	17	19.122	-99.415
+Trinidad de Copán	HN		14.950	-88.750
+Tiring	PH		10.850	122.507
+Tapikan	PH		6.852	124.323
+Tangelo Park	US	FL	28.456	-81.446
+Tsenovo	BG		43.536	25.658
+Tayabas Ibaba	PH		13.622	122.281
+Trivignano	IT		45.532	12.187
+Tomeşti	RO		45.783	22.300
+Twain Harte	US	CA	38.040	-120.233
+Thüringen	AT		47.200	9.767
+Tulapam	MX	30	18.314	-95.226
+Tlaxmalac	MX	12	18.361	-99.413
+Tinalmud	PH		13.594	122.878
+Tugolesskiy Bor	RU		55.551	39.824
+Todtmoos	DE		47.740	8.002
+Traian Vuia	RO		45.800	22.067
+Toora-Khem	RU		52.466	96.118
+Tupang	PH		17.905	121.641
+Toulenne	FR		44.559	-0.263
+Tinogboc	PH		12.007	121.412
+Tigbao	PH		7.428	122.328
+Taft	US	FL	28.430	-81.365
+Tembleque	ES		39.695	-3.504
+Toledo	US	IA	41.996	-92.577
+Tiraspolul Nou	MD		46.829	29.522
+Tuao	PH		17.736	121.456
+Talisay	PH		9.819	125.616
+Trzemeśnia	PL		49.828	20.022
+Tschagguns	AT		47.083	9.900
+Tayahua	MX	32	22.094	-102.872
+Troinex	CH		46.163	6.147
+Tinga	NL		53.021	5.646
+Tlatempa	MX	21	19.945	-97.935
+Terang	AU	07	-38.241	142.921
+Tyukod	HU		47.854	22.563
+Tlatlauquitepec	MX	12	17.548	-98.827
+Talalora	PH		11.529	124.836
+Tomice	PL		49.898	19.484
+Torremegía	ES		38.790	-6.377
+Tanlad	PH		6.602	125.445
+Tuross Head	AU	02	-36.053	150.133
+Three Rivers	US	CA	36.439	-118.905
+Trevignano	IT		45.737	12.067
+Tecuanipan	MX	21	19.013	-98.398
+Tisbury	GB		51.063	-2.081
+Tiep	PH		16.238	119.861
+Tătaru	RO		44.845	27.434
+Townsend	US	DE	39.395	-75.692
+Torre Melissa	IT		39.310	17.107
+Tz'Aquiviljok	MX	05	16.855	-92.460
+Tonalá	MX	12	16.862	-99.054
+Trowbridge Park	US	MI	46.557	-87.437
+Tecpantzacoalco	MX	21	18.477	-97.039
+Tremont	US	IL	40.528	-89.493
+Tapon	PH		9.771	123.527
+Trudovoye	UA		44.991	34.203
+Traian	RO		43.767	25.000
+Terpní	GR		40.916	23.481
+Tállya	HU		48.233	21.233
+Tigum	PH		10.783	122.567
+Texcaltitán Xoteapan (Texcaltitán)	MX	30	18.447	-95.253
+Tran	PH		6.720	124.055
+Tabasalu	EE		59.426	24.553
+Tixcancal	MX	31	21.036	-87.850
+Taissy	FR		49.215	4.094
+Taranganba	AU	04	-23.144	150.751
+Tambalan	PH		9.909	123.090
+Topile	RO		47.263	26.669
+Trinity	US	AL	34.607	-87.088
+Tycroes	GB		51.778	-4.020
+Tenixtepec	MX	30	19.021	-97.147
+Thurlby	GB		52.739	-0.379
+Trucksville	US	PA	41.304	-75.932
+Tillberga	SE		59.683	16.617
+Tomaševac	RS		45.269	20.623
+Torre de' Roveri	IT		45.697	9.763
+Torrens	AU	01	-35.372	149.088
+Tjæreborg	DK		55.465	8.580
+Tixcacaltuyub	MX	31	20.493	-88.916
+Tinubuan	PH		11.186	124.008
+Tissi	IT		40.678	8.561
+Texalpan de Arriba	MX	30	18.429	-95.244
+Tiguha	PH		7.704	123.211
+Tuchlovice	CZ		50.138	13.991
+Trąbki	PL		51.948	21.599
+Turt	MN		51.507	100.663
+Tañgo	PH		5.881	125.222
+Tauţ	RO		46.283	21.917
+Toogoom	AU	04	-25.256	152.690
+Tow Law	GB		54.745	-1.814
+Tyszowce	PL		50.617	23.699
+Tavernier	US	FL	25.012	-80.515
+Tsementnozavodskiy	RU		67.628	64.090
+Tērvete	LV		56.480	23.389
+Turicato	MX	16	19.054	-101.419
+Tuxtilla	MX	30	18.239	-95.895
+Toussieu	FR		45.654	4.985
+Tretiy Severnyy	RU		60.209	59.961
+Ţuţora	RO		47.133	27.783
+Tréméven	FR		47.900	-3.533
+Ţaga	RO		46.950	24.050
+Telec	RO		46.880	25.878
+Truro	US	MA	41.993	-70.050
+Toppenstedt	DE		53.264	10.115
+Tlalchiyahualica	MX	13	20.971	-98.400
+Tenenexpan	MX	30	19.141	-96.395
+Tegh	AM		39.558	46.481
+Tayeeglow	SO		4.019	44.511
+Thiersheim	DE		50.076	12.127
+Tracy	US	MN	44.233	-95.619
+Trojanovice	CZ		49.520	18.238
+Tinum	MX	31	20.768	-88.392
+Théding	FR		49.128	6.892
+Thornton	GB		56.167	-3.150
+Texca	MX	12	17.012	-99.825
+Taboc	PH		8.878	124.797
+Taniperla	MX	05	16.822	-91.523
+Tagoytoy	PH		13.416	123.678
+Tepetzingo	MX	17	18.785	-99.178
+Tărcaia	RO		46.633	22.367
+Teggiano-Macchiaroli	IT		40.379	15.540
+Tīreļi	LV		56.840	23.589
+Tweedbank	GB		55.604	-2.767
+Tiszapüspöki	HU		47.217	20.317
+Teojomulco	MX	20	16.590	-97.225
+Tinajitas	MX	30	19.618	-96.442
+Tagliaferro	IT		44.978	7.664
+Tuxpan	MX	12	18.349	-99.480
+Tepetlán	MX	30	19.673	-96.797
+Tuşnad	RO		46.200	25.900
+Tingira Heights	AU	02	-32.997	151.670
+Taguing	PH		17.946	121.755
+Tann / Tann (Dorfkern)	CH		47.265	8.850
+Tamcuime	MX	24	21.601	-99.011
+Taylorsville	US	NC	35.922	-81.176
+Tigao	PH		9.209	126.176
+Tara	PH		13.817	122.983
+Toritori	PH		16.238	119.996
+Te Anau	NZ		-45.417	167.717
+Tavşanlı	TR		40.819	29.511
+Twin Lakes	US	FL	26.181	-80.160
+Tommerup	DK		55.320	10.207
+Tugas	PH		11.613	122.382
+Townview	AU	04	-20.733	139.505
+Tigy	FR		47.794	2.198
+Telki	HU		47.548	18.828
+Tzeltal	MX	05	16.939	-92.478
+Tressange	FR		49.403	5.981
+Taktaszada	HU		48.117	21.183
+Tocob Leglemal	MX	05	17.234	-92.378
+Trenton	US	FL	29.613	-82.818
+Turgut	TR		37.375	28.031
+Trausdorf an der Wulka	AT		47.813	16.558
+Tepakan	MX	31	21.049	-89.039
+Tombod	PH		15.932	120.567
+Tabory	RU		58.520	64.549
+Topton	US	PA	40.503	-75.701
+Tuupovaara	FI		62.484	30.627
+Trzebunia	PL		49.791	19.847
+Telina	AU	04	-23.888	151.254
+Tierra Blanca	MX	11	21.100	-100.159
+The Rocks	AU	02	-33.859	151.208
+Tiszabezdéd	HU		48.367	22.150
+Tr’okhizbenka	UA		48.758	38.963
+Témoris	MX	06	27.276	-108.279
+Toftrees	US	PA	40.826	-77.881
+Taupont	FR		47.960	-2.439
+Topia	MX	10	25.211	-106.571
+Tarrawanna	AU	02	-34.382	150.888
+Tirípetio	MX	16	19.549	-101.347
+Tacuro (Santa María Tacuro)	MX	16	19.857	-102.051
+Tiszabercel	HU		48.150	21.650
+Tianguistongo	MX	17	20.006	-99.038
+Treponti	IT		45.367	11.709
+Torpè	IT		40.628	9.679
+Truskolasy	PL		50.867	18.827
+Thorsby	US	AL	32.916	-86.716
+Tvrdonice	CZ		48.760	16.994
+Tetipac	MX	12	18.648	-99.648
+Tecoma	AU	07	-37.903	145.345
+Thierachern	CH		46.753	7.574
+Trosly-Breuil	FR		49.400	2.967
+Tonara	IT		40.025	9.172
+Telpaneca	NI		13.532	-86.287
+The Valley	AI		18.217	-63.058
+Teunz	DE		49.483	12.383
+Tătărăștii de Jos	RO		44.375	25.177
+Tutubigan	PH		11.840	125.061
+Tycheró	GR		41.029	26.295
+Trail Creek	US	IN	41.698	-86.859
+Trinità d'Agultu e Vignola	IT		40.984	8.916
+Torfou	FR		47.037	-1.116
+Transacqua	IT		46.174	11.833
+Trivolzio	IT		45.258	9.043
+Târnava	RO		44.144	25.563
+Taxco	MX	27	18.139	-93.005
+Tucta	MX	27	18.193	-92.995
+Taszár	HU		46.375	17.906
+Tur	RO		47.882	23.390
+Temaiku Village	KI		1.363	173.162
+Tiszanagyfalu	HU		48.100	21.483
+Tasovčići	BA		43.113	17.720
+Támara	CO		5.830	-72.163
+Tiltepec	MX	05	16.394	-93.870
+Tomatlán	MX	21	19.894	-97.973
+Tchula	US	MS	33.183	-90.223
+Tamoowoug	MM		16.034	97.915
+Tonalá	MX	30	18.207	-94.142
+Tlazala de Fabela	MX	15	19.559	-99.415
+Tunes	PT		37.166	-8.259
+Tamazola	MX	20	17.670	-98.221
+Tai O	HK		22.255	113.863
+Tiszabő	HU		47.300	20.483
+Tala Bay	JO		29.408	34.979
+Tses	NA		-25.883	18.000
+Taquile	PE		-15.767	-69.683
+Tylicz	PL		49.396	21.024
+Tersa	RU		52.087	47.539
+Tashanta	RU		49.716	89.194
+Tulyushka	RU		54.459	101.171
+Torsås	SE		56.413	15.998
+Tenejapa	MX	05	16.819	-92.506
+Techachaltitla	MX	15	19.365	-98.941
+Troubky	CZ		49.432	17.349
+Tigil’	RU		57.760	158.682
+Terpsithéa	GR		39.619	22.351
+Tonengo-Casale	IT		45.286	7.940
+Toteşti	RO		45.567	22.883
+Trexlertown	US	PA	40.548	-75.606
+Texhuacán	MX	30	18.622	-97.040
+Träslövsläge	SE		57.054	12.279
+Talamanca de Jarama	ES		40.743	-3.509
+Tázlár	HU		46.548	19.514
+Turner	US	OR	44.843	-122.953
+Torres de Segre	ES		41.534	0.514
+Taluyers	FR		45.640	4.722
+Tequesquitlán	MX	14	19.388	-104.520
+Theißen	DE		51.087	12.107
+Trieux	FR		49.325	5.930
+Totoral	PE		-17.406	-70.365
+Thal	DE		50.917	10.392
+Teya	MX	31	21.051	-89.073
+Tvedestrand	NO		58.622	8.931
+Tar	HU		47.954	19.746
+Teising	DE		48.227	12.611
+Tavernola Bergamasca	IT		45.708	10.045
+Three Rivers	US	TX	28.460	-98.183
+Tepetzingo	MX	21	18.422	-97.338
+Tatauzoquico	MX	21	19.828	-97.527
+Teasc	RO		44.165	23.865
+Tilichiki	RU		60.428	166.058
+Tres Mezquites	MX	15	20.262	-101.627
+Troup	US	TX	32.145	-95.121
+Thornton	US	NH	43.893	-71.676
+Thuine	DE		52.500	7.483
+Tarvasjoki	FI		60.583	22.733
+Ten Mile Run	US	NJ	40.413	-74.602
+Townsend	US	MT	46.319	-111.521
+Thérmo	GR		38.574	21.666
+Tende	FR		44.088	7.594
+Terpeziţa	RO		44.292	23.506
+Tarna Mare	RO		48.092	23.194
+Tattenhall	GB		53.122	-2.767
+Texalpan de Abajo	MX	30	18.427	-95.256
+Tsovazard	AM		40.475	45.050
+Travacò Siccomario	IT		45.149	9.160
+Tenampa	MX	30	19.249	-96.884
+Tuta	RO		46.256	26.691
+Taft Heights	US	CA	35.135	-119.473
+Tusa	IT		37.984	14.236
+Tlaxcalantongo	MX	21	20.314	-97.872
+Tiszaszőlős	HU		47.557	20.719
+Taylor	US	AL	31.975	-86.233
+Telgruc-sur-Mer	FR		48.233	-4.350
+Tömörkény	HU		46.617	20.044
+Tanais	RU		47.268	39.334
+Tux	AT		47.156	11.729
+Œting	FR		49.173	6.915
+Tapalapa	MX	05	17.191	-93.105
+Tekik de Regil	MX	31	20.817	-89.561
+Taching am See	DE		47.959	12.729
+Tresques	FR		44.107	4.587
+Tlamanca de Hernández	MX	21	19.956	-97.815
+Tregasio	IT		45.678	9.288
+Tlacomulco	MX	13	20.153	-98.120
+Turdaş	RO		45.850	23.117
+Talty	US	TX	32.683	-96.386
+Texcapa	MX	13	21.092	-98.854
+Three Forks	US	MT	45.892	-111.552
+Tobane	BW		-21.950	27.900
+Totolmajac	MX	15	18.927	-99.686
+Tuczno	PL		53.194	16.154
+Torbeck	HT		18.163	-73.809
+The Gemfields	AU	04	-23.530	147.797
+Trecasali	IT		44.937	10.273
+Tsurib	RU		42.237	46.831
+Tacir	TR		40.526	29.740
+Tuzly	UA		45.865	30.098
+Taurasi	IT		41.011	14.960
+Tofield	CA	01	53.367	-112.669
+Tenochtitlán	MX	30	19.809	-96.916
+Taillades	FR		43.838	5.090
+Thomaston	US	CT	41.674	-73.073
+Tunica Resorts	US	MS	34.836	-90.347
+Thury-Harcourt	FR		48.984	-0.475
+Taden	FR		48.475	-2.019
+Tykocin	PL		53.206	22.775
+Töltéstava	HU		47.626	17.734
+Terrabona	NI		12.730	-85.965
+Tenayuca	MX	14	21.503	-102.658
+Tarbolton	GB		55.513	-4.486
+Tepec	MX	14	19.990	-103.641
+Tshaneni	SZ		-25.983	31.717
+Tlyarata	RU		42.104	46.356
+Ticino	AR		-32.694	-63.436
+Tepakán	MX	04	20.397	-90.041
+Tarrenz	AT		47.267	10.767
+Ticvaniu Mare	RO		45.135	21.638
+Thalwil / See	CH		47.294	8.569
+Tremsbüttel	DE		53.744	10.310
+Topalu	RO		44.544	28.046
+Toa Baja	PR		18.444	-66.260
+Totoró	CO		2.511	-76.402
+Tsybulevka	UA		48.387	29.103
+Torviscosa	IT		45.823	13.280
+Tehuipango	MX	30	18.520	-97.054
+Tlaxinga (Clatzinga)	MX	12	17.521	-99.193
+Tălpigi	RO		46.008	27.472
+Tongala	AU	07	-36.255	144.956
+Teupitz	DE		52.130	13.620
+Tabwakea Village	KI		2.016	-157.488
+Temple	US	PA	40.409	-75.922
+Tresivio	IT		46.176	9.943
+Temriuk	UA		47.265	36.980
+Thomaston	US	ME	44.079	-69.182
+Taronik	AM		40.134	44.200
+Tiszaroff	HU		47.400	20.450
+Toaca	RO		46.800	24.964
+Tzompantepec	MX	29	19.376	-98.090
+Týnec nad Labem	CZ		50.042	15.358
+Tannhausen	DE		48.979	10.361
+Türje	HU		46.984	17.107
+Tampemoche	MX	24	21.689	-99.082
+Tome	US	NM	34.741	-106.728
+Thoreau	US	NM	35.403	-108.223
+Truccazzano	IT		45.485	9.470
+Tolcsva	HU		48.283	21.450
+Tullytown	US	PA	40.139	-74.815
+Tårs	DK		57.383	10.117
+Tenango	MX	17	18.623	-98.752
+Témiscaming	CA	10	46.721	-79.097
+Teiu	RO		44.667	25.100
+Tevaitoa	PF		-16.791	-151.489
+Tricht	NL		51.891	5.268
+Tayirove	UA		46.363	30.649
+The Hill	AU	02	-32.931	151.778
+Tervo	FI		62.950	26.750
+Trpinja	HR		45.419	18.899
+Târnova	RO		45.343	22.006
+Trainer	US	PA	39.828	-75.414
+Texcaltepec	MX	13	20.030	-98.324
+Ternovka	UA		44.579	33.751
+Troy	US	TX	31.207	-97.303
+Town Row	GB		51.053	0.232
+Temósachic	MX	06	28.955	-107.830
+Tarnaörs	HU		47.595	20.053
+Tallard	FR		44.462	6.052
+Targon	FR		44.735	-0.264
+Tepuxtepec	MX	16	19.991	-100.226
+Terskol	RU		43.257	42.515
+Tenexpa	MX	12	17.185	-100.671
+Trevorton	US	PA	40.781	-76.673
+Toporzysko	PL		49.625	19.802
+Tangstedt	DE		53.677	9.849
+Tasiilaq	GL		65.615	-37.637
+Tezhuatepec	MX	21	19.812	-97.463
+Trumansburg	US	NY	42.542	-76.666
+Tulette	FR		44.287	4.931
+Tukhlia	UA		48.912	23.473
+Toxpalan	MX	20	18.101	-97.059
+Terlano	IT		46.532	11.247
+Teesdorf	AT		47.950	16.283
+Troubsko	CZ		49.170	16.511
+Tosse	FR		43.689	-1.333
+Tortoman	RO		44.350	28.217
+Tandzut	AM		40.070	44.078
+Tampacán	MX	24	21.402	-98.728
+Tlacomulco	MX	15	19.121	-99.448
+Tecomatepec	MX	15	18.839	-99.704
+Tasco	CO		5.910	-72.780
+Trunkelsberg	DE		48.000	10.217
+Tilapan	MX	30	18.349	-95.328
+Truyes	FR		47.273	0.852
+Tukan	RU		53.841	57.455
+Trestina	IT		43.366	12.237
+Teplice nad Metují	CZ		50.593	16.170
+Tarnalelesz	HU		48.050	20.183
+Torrion Quartara	IT		45.418	8.615
+Trivento	IT		41.770	14.546
+Tibaná	CO		5.317	-73.397
+Troubelice	CZ		49.817	17.081
+Trim	IE		53.555	-6.792
+Tocumbo	MX	16	19.702	-102.523
+Tetillas	MX	32	23.715	-102.908
+Tumbarumba	AU	02	-35.778	148.012
+Tăbărăști	RO		45.079	26.919
+Tatinghem	FR		50.743	2.207
+Tepalcatepec	MX	15	18.936	-99.599
+Timrat	IL		32.703	35.224
+Tawas City	US	MI	44.269	-83.515
+Trion	US	GA	34.544	-85.311
+Tafetán	MX	16	19.419	-100.908
+Tamai	IT		45.924	12.572
+Thouarcé	FR		47.267	-0.502
+Tavernelle	IT		43.732	12.883
+Tunkhannock	US	PA	41.539	-75.947
+Thalfang	DE		49.750	7.000
+Tuolumne City	US	CA	37.963	-120.241
+Train	DE		48.733	11.833
+Torfyanoy	RU		58.492	49.198
+Tanumshede	SE		58.724	11.326
+Tennille	US	GA	32.936	-82.812
+Tracy-le-Mont	FR		49.472	3.009
+Tučepi	HR		43.272	17.054
+Taibon Agordino	IT		46.298	12.013
+Taxtes	MX	25	25.916	-108.935
+Tiur	RO		46.160	23.889
+Trémuson	FR		48.523	-2.848
+Texcalapa de Juárez	MX	21	18.065	-97.989
+Thornton Dale	GB		54.235	-0.720
+Tuckerman	US	AR	35.731	-91.198
+Tlaltepango	MX	21	20.145	-97.877
+Toniataba	GM		13.433	-15.583
+Teplovka	UA		45.032	33.696
+Taradeau	FR		43.454	6.427
+Trasmiras	ES		42.025	-7.617
+Thalwil / Nord	CH		47.297	8.556
+Temapache	MX	30	21.066	-97.642
+Tulagi	SB		-9.103	160.151
+Torres	ES		37.785	-3.509
+Tenino	US	WA	46.857	-122.853
+Tobercurry	IE		54.050	-8.733
+Thorney	GB		52.621	-0.108
+Texcaltic	MX	05	14.796	-92.187
+Tanzybey	RU		53.133	92.943
+Tekamah	US	NE	41.778	-96.221
+Terrington Saint John	GB		52.705	0.274
+Tutana	RO		45.043	24.651
+Tiszasüly	HU		47.383	20.400
+Tickton	GB		53.862	-0.383
+Taipa	NZ		-34.996	173.467
+Theys	FR		45.301	5.998
+Tanamacoyan	MX	21	19.891	-97.430
+Talpoș	RO		46.691	21.803
+Třebenice	CZ		50.476	13.990
+Telchac Puerto	MX	31	21.341	-89.263
+Trzebinia	PL		49.650	19.223
+Tryon	US	NC	35.340	-81.322
+Twin Lake	US	MI	43.363	-86.165
+Thesprotikó	GR		39.251	20.785
+Tierra Blanca	MX	30	21.159	-97.920
+Tezze	IT		45.534	11.370
+Tremont	US	PA	40.628	-76.387
+Tabiago-Cibrone	IT		45.756	9.267
+Tronville-en-Barrois	FR		48.720	5.278
+Tronca	IT		39.246	17.106
+Texcatepec	MX	13	20.277	-99.254
+Taren Point	AU	02	-34.019	151.118
+Triebel	DE		50.372	12.121
+Ticehurst	GB		51.047	0.409
+Trebgast	DE		50.067	11.550
+Tríkala	GR		40.598	22.557
+Teckomatorp	SE		55.867	13.083
+Tettenweis	DE		48.443	13.270
+Taivassalo	FI		60.561	21.616
+Tuzamapan	MX	21	20.066	-97.575
+Tweed	CA	08	44.475	-77.316
+Trana	IT		45.039	7.421
+Tahdzibichen	MX	31	20.449	-88.831
+Tumby Bay	AU	05	-34.377	136.101
+Teesdale	AU	07	-38.033	144.050
+Tsotíli	GR		40.261	21.325
+Tlaxco (Santiago Tlaxco)	MX	21	20.058	-97.962
+Trinity	KN		17.300	-62.776
+Teaticket	US	MA	41.565	-70.596
+Telve	IT		46.070	11.480
+Tecoluta 2da. Sección	MX	27	18.244	-93.020
+Tieri	AU	04	-23.038	148.345
+Taulignan	FR		44.444	4.971
+Tlacuilotepec	MX	21	20.326	-98.069
+Tecomates	MX	14	19.550	-104.485
+Totness	SR		5.876	-56.326
+Totontepec Villa de Morelos	MX	20	17.257	-96.028
+Torreorgaz	ES		39.383	-6.249
+Tepetates	MX	01	21.957	-102.322
+Three Way	US	TN	35.776	-88.859
+Taboadela	ES		42.242	-7.827
+Teglio Veneto	IT		45.816	12.884
+Teffi	TR		37.558	41.096
+Trigolo	IT		45.330	9.814
+Twin City	US	GA	32.583	-82.155
+Todwick	GB		53.354	-1.257
+Teplytsya	UA		45.988	29.338
+Trept	FR		45.687	5.318
+Targowisko	PL		49.985	20.293
+Tavel	FR		44.013	4.698
+Tourouvre	FR		48.590	0.653
+Teufenthal	CH		47.329	8.118
+Tecajec	MX	17	18.798	-98.815
+Tramoyes	FR		45.876	4.965
+Tikinmul	MX	04	19.766	-90.223
+Tathra	AU	02	-36.731	149.983
+Tailem Bend	AU	05	-35.252	139.455
+Torano Castello	IT		39.504	16.161
+Ticopó	MX	31	20.889	-89.441
+Tanfield	GB		54.893	-1.713
+Tlacotepec	MX	21	18.404	-96.851
+Tilişca	RO		45.800	23.850
+Tofino	CA	02	49.153	-125.907
+Tála	CY		34.836	32.431
+Toulon-sur-Arroux	FR		46.693	4.139
+Traer	US	IA	42.194	-92.465
+Tamarama	AU	02	-33.898	151.271
+Thiberville	FR		49.138	0.455
+Tanques	MX	25	24.063	-107.014
+Trzebieszów	PL		51.990	22.555
+Tourbes	FR		43.446	3.379
+Teya	RU		60.372	92.630
+Tideswell	GB		53.278	-1.773
+Twin Lakes	US	VA	38.249	-78.444
+Tighes Hill	AU	02	-32.907	151.751
+Totoral	BO		-18.496	-66.874
+Tioga	US	ND	48.397	-102.938
+Ta’ Xbiex	MT		35.899	14.494
+Tranmere	AU	06	-42.922	147.417
+Tuta	CO		5.690	-73.228
+Tankovoye	UA		44.658	33.809
+Tepusteca	HN		15.417	-86.317
+Tallebudgera Valley	AU	04	-28.193	153.355
+Tarro	AU	02	-32.800	151.667
+Trogen	DE		50.367	11.950
+Tarakaniv	UA		50.380	25.708
+Tibolón	MX	31	20.665	-88.939
+Tryon	US	NC	35.208	-82.238
+Tanwan	CN		27.966	110.150
+Tschernitz	DE		51.583	14.617
+Templepatrick	GB		54.683	-6.083
+Tecumseh	US	NE	40.367	-96.196
+Tullnerbach-Lawies	AT		48.189	16.091
+Turners Beach	AU	06	-41.161	146.232
+Tardos	HU		47.662	18.444
+Traunkirchen	AT		47.845	13.789
+Tianguistengo	MX	13	20.728	-98.632
+Thorp	US	WI	44.961	-90.800
+Thang	IN		34.927	76.793
+Tyniec Mały	PL		51.019	16.920
+Topolița	RO		47.168	26.383
+Tecomavaca	MX	20	17.956	-97.023
+Trogen	CH		47.408	9.465
+Thil	FR		49.473	5.908
+Tuk	NL		52.797	6.094
+Trempealeau	US	WI	44.006	-91.442
+Temalacaco	MX	24	21.414	-98.847
+Tortí	PA		8.921	-78.405
+Thurmond	US	NC	36.367	-80.928
+Thornhill	GB		55.233	-3.767
+Thuellin	FR		45.640	5.508
+Tulalip Bay	US	WA	48.037	-122.310
+Tragliatella Campitello	IT		42.013	12.252
+Terontola	IT		43.210	12.011
+Tagelswangen	CH		47.431	8.673
+Talloires	FR		45.841	6.214
+Tepetongo	MX	32	22.458	-103.151
+Turets-Bayary	BY		54.379	26.658
+Tierra Blanca Booxter	MX	30	20.995	-97.717
+Taurano	IT		40.884	14.634
+Turnu Ruieni	RO		45.391	22.336
+Trekanten	SE		56.700	16.117
+Totora	BO		-17.727	-65.193
+Tabachnoye	UA		44.902	33.676
+Thomson	AU	07	-38.170	144.379
+Tepazolco	MX	21	18.700	-97.696
+Tremont	US	ME	44.254	-68.351
+Tepexco	MX	21	18.642	-98.691
+Tairua	NZ		-37.017	175.850
+Tascott	AU	02	-33.450	151.314
+Teutopolis	US	IL	39.133	-88.472
+Tillson	US	NY	41.829	-74.068
+Tiefgraben	AT		47.874	13.306
+Tichá	CZ		49.570	18.221
+Trimsaran	GB		51.720	-4.242
+Three Crosses	GB		51.629	-4.063
+Teralba	AU	02	-32.967	151.600
+Tupátaro	MX	15	19.814	-100.305
+Texmola	MX	30	18.940	-97.244
+Twijzelerheide	NL		53.240	6.046
+Toulaud	FR		44.898	4.816
+Three Oaks	US	MI	41.799	-86.611
+Tingdong	CN		25.824	108.612
+Tixhualactún	MX	31	20.644	-88.143
+Tarejero	MX	16	19.819	-101.716
+Tahtaköprü	TR		39.950	29.650
+Tuffé	FR		48.113	0.516
+Tremblay	FR		48.422	-1.476
+Tsiflikópoulo	GR		39.656	20.839
+Ts’alk’a	GE		41.595	44.089
+Trönninge	SE		56.617	12.933
+Thalwil / Berg	CH		47.292	8.556
+Tornillo	US	TX	31.445	-106.088
+Tamaulipas	MX	05	15.772	-93.407
+Thymianá	GR		38.314	26.133
+Twin Grove	US	IL	40.493	-89.080
+Tziscao	MX	05	16.082	-91.666
+Thorigné-sur-Dué	FR		48.039	0.536
+Templecombe	GB		50.999	-2.416
+Tepeitic	MX	13	20.241	-99.291
+Temimilcingo	MX	17	18.730	-99.161
+Tršice	CZ		49.542	17.425
+Tauscha	DE		51.267	13.800
+Talashkino	RU		54.655	32.183
+Thalheim	DE		51.653	12.228
+Tilloy-lès-Mofflaines	FR		50.275	2.815
+Trecenta	IT		45.029	11.459
+Tassullo	IT		46.343	11.045
+Tetitlán	MX	12	17.159	-100.640
+Trouillas	FR		42.611	2.808
+Tsaghkahovit	AM		40.634	44.222
+Terebeşti	RO		47.683	22.717
+Telén	AR		-36.264	-65.510
+Tirpersdorf	DE		50.433	12.250
+Tancoco	MX	30	21.286	-97.791
+Tierras Coloradas	MX	14	20.729	-102.861
+Topolná	CZ		49.122	17.544
+Tsikalariá	GR		35.476	24.063
+Treffléan	FR		47.682	-2.613
+Telti	IT		40.876	9.353
+Tarzo	IT		45.977	12.229
+Tetlaxco	MX	30	19.040	-97.064
+Tricot	FR		49.561	2.588
+Tal-y-bont	GB		52.775	-4.092
+Trie-Château	FR		49.285	1.821
+Tepoxtepec	MX	15	18.963	-99.556
+Tuxcacuesco	MX	14	19.698	-103.984
+Tonka Bay	US	MN	44.909	-93.593
+Thune	DE		52.333	10.510
+Tännesberg	DE		49.532	12.328
+Tannenbergsthal	DE		50.437	12.458
+Tribunj	HR		43.755	15.744
+Tragwein	AT		48.333	14.622
+Tesserete	CH		46.068	8.965
+Traiguera	ES		40.525	0.290
+Trubschachen	CH		46.922	7.845
+Torre San Patrizio	IT		43.183	13.611
+Tynaarlo	NL		53.078	6.617
+Taft Mosswood	US	CA	37.914	-121.283
+Toxtla	MX	21	20.066	-97.947
+Trabada	ES		43.445	-7.195
+Tocane-Saint-Apre	FR		45.254	0.494
+Tetney	GB		53.492	-0.021
+Tyarlevo	RU		59.708	30.445
+Torre Colonna-Sperone	IT		38.030	13.574
+Teacalco de Dorantes (San José Teacalco)	MX	21	18.804	-98.507
+Tooradin	AU	07	-38.215	145.383
+Trossin	DE		51.617	12.817
+Tercera Manzana de Zaragoza	MX	15	19.896	-99.753
+Tibi	ES		38.531	-0.578
+Tlaltempanapa	MX	12	17.736	-99.177
+Tylertown	US	MS	31.116	-90.142
+Treia	DE		54.500	9.317
+Tlachichila	MX	32	21.557	-102.786
+Tejocote de Calera	MX	11	20.179	-101.397
+Ternuvate	UA		47.830	36.128
+Turnišče	SI		46.628	16.320
+Teugn	DE		48.893	12.012
+Tatariv	UA		48.346	24.578
+Toro Canyon	US	CA	34.420	-119.567
+Thorp Arch	GB		53.916	-1.320
+Torrevecchia Pia	IT		45.282	9.296
+Trudove	UA		45.619	29.398
+Trub	CH		46.942	7.880
+Teotlalco	MX	21	18.469	-98.778
+Topaz Ranch Estates	US	NV	38.736	-119.501
+Tapera	BR	26	-27.685	-48.551
+Teeriniemi	FI		63.097	21.696
+Treignac	FR		45.537	1.795
+Tsikhisdziri	GE		41.767	41.755
+Transito Tular	MX	27	18.338	-93.403
+Tzintzimeo	MX	16	19.870	-100.978
+Tuplice	PL		51.676	14.829
+Thrapsanón	GR		35.188	25.281
+Touying	CN		39.964	117.218
+Texcapilla	MX	15	18.946	-99.895
+Tula	IT		40.732	8.984
+Tapias de Santa Cruz (Pedro Ruiz González)	MX	32	23.189	-103.131
+Tivoli	NL		51.421	5.508
+Totoești	RO		47.251	27.289
+Tülau	DE		52.576	10.878
+Thoissey	FR		46.172	4.803
+Terra Alta	US	WV	39.446	-79.546
+Toquerville	US	UT	37.253	-113.285
+Tivoli	AU	04	-27.593	152.768
+Three Legged Cross	GB		50.850	-1.883
+Tziritzícuaro	MX	16	19.956	-100.459
+Toughkenamon	US	PA	39.831	-75.757
+Trentinara	IT		40.400	15.115
+Toptepe	TR		37.261	41.249
+Tlacoapa	MX	12	17.264	-98.749
+Tarnowiec	PL		49.982	20.987
+Thorntown	US	IN	40.129	-86.607
+Triandaíika	GR		38.655	21.383
+Taza de Agua Ojo Zarco	MX	30	18.783	-97.202
+Tepechicotlán	MX	12	17.483	-99.415
+Terschuur	NL		52.165	5.517
+Teicha	DE		51.559	11.955
+Tlamatoca	MX	30	19.093	-96.937
+Tapanalá	MX	20	15.967	-95.725
+Tonosí	PA		7.407	-80.442
+Tarkio	US	MO	40.440	-95.378
+Töss (Kreis 4) / Vorder-Dättnau	CH		47.481	8.699
+Thénezay	FR		46.720	-0.028
+Tres Garantías	MX	25	25.886	-108.718
+Turka	RU		52.949	108.222
+Torres de Berrellén	ES		41.758	-1.065
+Tamándaro	MX	15	19.949	-102.284
+Térmens	ES		41.717	0.767
+Tres Estrellas	MX	15	19.587	-100.023
+Tuulos	FI		61.150	24.800
+Tessy-sur-Vire	FR		48.974	-1.061
+Tiholop	MX	31	20.332	-88.690
+Trzciana	PL		49.845	20.374
+Tišice	CZ		50.270	14.554
+Tolón	GR		37.520	22.859
+Taft Southwest (historical)	US	TX	27.974	-97.403
+Troisvierges	LU		50.121	6.000
+Tamazulita	MX	14	20.205	-103.969
+Trédrez-Locquémeau	FR		48.700	-3.567
+Troy	US	PA	40.915	-78.216
+Tepetzitzintla	MX	21	18.687	-98.073
+Tlacolulan	MX	30	19.667	-97.002
+Tornabé	HN		15.750	-87.550
+Tangjiafang	CN		26.840	110.365
+Thür	DE		50.357	7.277
+Toast	US	NC	36.500	-80.626
+Tetecolala	MX	17	18.922	-99.163
+Trablice	PL		51.352	21.129
+Tonayán	MX	30	19.683	-96.921
+Texcala	MX	17	18.934	-98.795
+Todtenweis	DE		48.517	10.929
+Termonfeckin	IE		53.763	-6.268
+Tlaxcalixtlahuaca	MX	12	16.982	-98.778
+Tupataro	MX	11	20.595	-101.646
+Telminar	TR		37.111	41.384
+Temelec	US	CA	38.267	-122.493
+Truskaw	PL		52.301	20.782
+Tracy City	US	TN	35.260	-85.736
+Türnitz	AT		47.931	15.493
+Tattendorf	AT		47.950	16.300
+The Entrance North	AU	02	-33.336	151.503
+Tihany	HU		46.914	17.889
+Tristach	AT		46.816	12.790
+Tiffauges	FR		47.011	-1.110
+Thespiés	GR		38.303	23.150
+Taneto	IT		44.772	10.456
+Tatahuicapá	MX	20	17.551	-95.641
+Trévol	FR		46.629	3.306
+Tacubaya	MX	07	25.684	-103.069
+Tahoe Vista	US	CA	39.240	-120.051
+Tucheim	DE		52.289	12.184
+Tepetitán	MX	27	17.820	-92.373
+Tlaxpanaloya	MX	21	20.226	-98.120
+Tacicuaro	MX	16	19.670	-101.360
+Towanda	US	KS	37.798	-97.000
+Tobermory	CA	08	45.250	-81.666
+Tillmitsch	AT		46.812	15.517
+Tepetongo	MX	15	19.909	-100.134
+Tanute	MX	24	21.652	-99.038
+Tlaltetelco (San Miguel Tlaltetelco)	MX	17	18.952	-98.888
+Tronconal	MX	21	18.805	-98.484
+Trenton	US	ME	44.439	-68.370
+Tonto Basin	US	AZ	33.832	-111.295
+Tlaltecahuacán	MX	15	19.579	-98.881
+Trudovoye	UA		45.238	33.758
+Teahupoo	PF		-17.846	-149.267
+Tusmore	AU	05	-34.939	138.651
+Trévou-Tréguignec	FR		48.819	-3.341
+Trinità	IT		44.507	7.756
+Temastián (La Cantera)	MX	14	21.977	-103.525
+Tri-Lakes	US	IN	41.246	-85.442
+Trinwillershagen	DE		54.250	12.623
+Tlalconteno	MX	30	19.449	-97.246
+Taxadho	MX	13	20.433	-99.149
+Tayginka	RU		55.624	60.508
+Thaon	FR		49.258	-0.456
+Tanneron	FR		43.591	6.875
+Torphins	GB		57.106	-2.624
+Thebarton	AU	05	-34.917	138.567
+Tsau	BW		-20.165	22.456
+Thorner	GB		53.861	-1.427
+Tsaghkadzor	AM		40.533	44.720
+Touvois	FR		46.902	-1.683
+Teillé	FR		47.462	-1.278
+Tequisquiapan	MX	11	21.080	-100.821
+Trąbki Wielkie	PL		54.171	18.540
+Trabitz	DE		49.800	11.900
+Tigery	FR		48.643	2.508
+Tauriac	FR		45.049	-0.500
+Tepeyehualco de Hidalgo	MX	21	19.489	-97.493
+Tlaola	MX	21	20.139	-97.923
+Torre Orsaia	IT		40.133	15.473
+Țipar	RO		46.476	21.634
+Tytsjerk	NL		53.213	5.910
+Trzebiel	PL		51.635	14.816
+Tovo San Giacomo	IT		44.176	8.270
+Taintrux	FR		48.249	6.900
+Trejos	MX	14	20.794	-103.197
+Tanaquillo	MX	15	19.846	-102.098
+Tveit	NO		58.234	8.122
+Telfer	AU	08	-21.212	123.262
+Thorpe le Soken	GB		51.856	1.166
+Tolimán	MX	14	19.601	-103.915
+Tohanu Nou	RO		45.552	25.386
+Tamași	RO		44.584	26.007
+Tubinskiy	RU		52.889	58.222
+Tlatzala	MX	12	17.615	-98.550
+Trip	RO		47.925	23.376
+Tlachichilco	MX	30	20.621	-98.199
+Tecalpulco	MX	12	18.488	-99.603
+Telchaquillo	MX	31	20.647	-89.464
+Torrecampo	ES		38.467	-4.667
+Théza	FR		42.638	2.951
+Tisno	HR		43.804	15.643
+Turcești	RO		45.040	23.866
+Trévé	FR		48.211	-2.793
+Terre Hill	US	PA	40.157	-76.050
+Tepusco	MX	14	21.613	-102.602
+Tălmăcel	RO		45.647	24.243
+Temple	US	NH	42.818	-71.851
+Trapiche del Rosario	MX	30	19.543	-96.741
+Tozongo	MX	30	19.100	-97.061
+Tatum	US	TX	32.316	-94.517
+Tecuanipa	MX	21	18.881	-98.619
+Tixmadeje Chiquito	MX	15	19.966	-99.914
+Tepeteno de Iturbide	MX	21	19.796	-97.497
+Tandzumadz	MX	24	21.565	-98.980
+Tenería	MX	15	18.973	-100.093
+Trélévern	FR		48.811	-3.371
+Tarsia	IT		39.623	16.273
+Trecchina	IT		40.026	15.776
+Tegoleto	IT		43.395	11.785
+Tuckahoe	US	NY	40.899	-72.411
+Table Top	AU	02	-35.967	147.000
+Tavernelle	IT		45.515	11.449
+Tecacahuaco	MX	13	20.941	-98.339
+Thüngen	DE		49.941	9.859
+Torriglia	IT		44.518	9.158
+Tlacoaxtla	MX	12	17.555	-99.201
+Tudor Vladimirescu	RO		47.686	27.172
+Trebitz	DE		51.586	11.920
+Târnava	RO		46.140	24.289
+Teremendo	MX	15	19.785	-101.480
+Tierra Blanca	MX	15	19.507	-99.584
+Toodyay	AU	08	-31.550	116.467
+Tuchomie	PL		54.115	17.336
+Tesoco	MX	31	20.723	-88.155
+Tătărăștii de Sus	RO		44.408	25.122
+Tierra Blanca	MX	32	23.827	-103.077
+Treuddyn	GB		53.115	-3.120
+Tetti Neirotti	IT		45.053	7.541
+Turgenevka	UA		44.697	33.830
+Tullyallen	IE		53.736	-6.423
+Timmernabben	SE		56.967	16.433
+Tula	MX	30	18.587	-95.377
+Trillo	ES		40.701	-2.593
+Turretot	FR		49.609	0.234
+Triscina	IT		37.587	12.789
+Tlacuitapan	MX	14	21.198	-102.124
+Teryayevo	RU		56.170	36.125
+Treyvaux	CH		46.728	7.138
+Teayo	MX	30	20.744	-97.680
+Trautskirchen	DE		49.458	10.594
+Trujillanos	ES		38.952	-6.258
+Théoule-sur-Mer	FR		43.508	6.941
+Theillay	FR		47.314	2.040
+Tuin	MK		41.619	21.045
+Trun	FR		48.843	0.033
+Tillières	FR		47.144	-1.163
+Ticineto	IT		45.096	8.553
+Torrenieri	IT		43.086	11.548
+Tenango	MX	13	20.227	-99.291
+Tripoli	US	IA	42.808	-92.258
+Tarcoola Beach	AU	08	-28.810	114.622
+Trulben	DE		49.139	7.544
+Tikuch	MX	31	20.703	-88.113
+Tepapayeca	MX	21	18.670	-98.529
+Terrarossa	IT		44.234	9.961
+Tântava	RO		44.415	25.825
+Tabossi	AR		-31.801	-59.935
+Tepealtı	TR		37.096	41.368
+Torre de Juan Abad	ES		38.584	-3.060
+Thompson Falls	US	MT	47.595	-115.338
+Thairé	FR		46.074	-1.003
+Tanlajás	MX	24	21.665	-98.886
+Toluca	US	IL	41.002	-89.133
+Tlixco	MX	21	18.274	-97.000
+Tennessee Ridge	US	TN	36.312	-87.773
+Texcala	MX	21	18.397	-97.445
+Taraš	RS		45.467	20.199
+Terrassa Padovana	IT		45.244	11.903
+Talpa-Ogrăzile	RO		44.287	25.293
+Tryńcza	PL		50.161	22.550
+Tătuleşti	RO		44.633	24.633
+Tariffville	US	CT	41.909	-72.760
+Totatiche	MX	14	21.928	-103.444
+Tisa	RO		47.948	23.958
+Tungor	RU		53.391	142.958
+Tlayehualancingo	MX	21	20.033	-97.827
+Tiltonsville	US	OH	40.167	-80.700
+Troy	US	TN	36.339	-89.164
+Tornareccio	IT		42.038	14.415
+Thorndale	US	TX	30.614	-97.206
+Tower City	US	PA	40.589	-76.552
+Tancazahuela	MX	13	21.183	-98.435
+Teor	IT		45.854	13.056
+Tepatlaxco	MX	30	19.069	-96.845
+Tenza	CO		5.077	-73.421
+Tigerville	US	SC	35.068	-82.368
+Tombstone	US	AZ	31.713	-110.068
+Tilly-sur-Seulles	FR		49.176	-0.626
+Talismán	MX	05	14.963	-92.147
+Tepetitán Reyeshogpan de Hidalgo	MX	21	20.084	-97.494
+Thorigny-sur-Oreuse	FR		48.293	3.401
+Taufkirchen	DE		48.150	12.450
+Tregarth	GB		53.190	-4.088
+Tlaquiltepec	MX	12	17.731	-98.547
+Teloxtoc	MX	21	18.379	-97.580
+Tomter	NO		59.659	10.995
+Taio	IT		46.321	11.066
+Traian	RO		45.029	28.235
+Tepache	MX	26	29.533	-109.531
+Täfteå	SE		63.840	20.479
+Trimdon Grange	GB		54.714	-1.426
+Tessé-la-Madeleine	FR		48.550	-0.425
+Thouría	GR		37.084	22.049
+Taylorsville	US	MS	31.830	-89.428
+Toogoolawah	AU	04	-27.087	152.376
+Trzciana	PL		50.308	21.337
+Tarnówka	PL		53.342	16.853
+Tolstopal’tsevo	RU		55.610	37.218
+Teribërka	RU		69.161	35.145
+Tsimkavichy	BY		53.067	26.990
+Tutow	DE		53.916	13.248
+Telnice	CZ		49.102	16.718
+Tuxcueca	MX	14	20.154	-103.185
+Tzoeptic	MX	05	16.883	-92.568
+Telcișor	RO		47.460	24.452
+Topolšica	SI		46.400	15.022
+Tlanepantla	MX	21	19.217	-97.134
+Tonalixco	MX	21	19.981	-97.839
+Tecoltepec	MX	21	18.325	-97.079
+Tlapala	MX	30	19.262	-96.919
+Tlahuapa	MX	12	17.375	-98.338
+Tomendán	MX	16	19.311	-101.860
+Tavers	FR		47.759	1.613
+Trinità d'Agultu	IT		40.986	8.914
+Tabachnoye	UA		45.613	34.615
+Tabanović	RS		44.820	19.641
+Tréon	FR		48.677	1.327
+Tarnow	DE		53.779	12.018
+Tiddische	DE		52.517	10.800
+Tannenberg	DE		50.607	12.938
+Travesía	HN		15.867	-87.900
+Tower Lake	US	IL	42.232	-88.152
+Tanawha	AU	04	-26.720	153.030
+Tierra Colorada	MX	30	19.225	-96.369
+Trapiche de Abra	MX	14	20.540	-103.820
+Tornavacas	ES		40.255	-5.689
+Tomeşti	RO		46.217	22.650
+Thierstein	DE		50.106	12.102
+Thenon	FR		45.137	1.071
+Trins	AT		47.083	11.417
+Tufeni	RO		45.058	25.840
+Tlanipatla	MX	12	17.808	-99.451
+Tappenbeck	DE		52.471	10.741
+Tautenhain	DE		50.925	11.919
+Tenantitla	MX	30	20.770	-98.144
+Tečovice	CZ		49.221	17.587
+Tlaxco	MX	21	20.423	-98.029
+Tiltepec	MX	13	20.314	-98.683
+Tritenii de Sus	RO		46.605	23.998
+Taujica	HN		15.700	-85.917
+Tanhuixco	MX	21	19.821	-97.467
+Thomasburg	DE		53.233	10.667
+Tuxpan de Bolaños	MX	14	21.875	-104.014
+Troy	US	PA	41.786	-76.788
+Talgarth	GB		51.996	-3.232
+Tancarville	FR		49.486	0.458
+Tecualtitán	MX	14	20.425	-103.028
+Turda	RO		44.975	28.624
+Tășad	RO		46.938	22.125
+Tsvitkove	UA		49.152	31.537
+Tre Fontane	IT		37.570	12.724
+Țibeni	RO		47.816	26.024
+Trevenzuolo	IT		45.270	10.934
+Theisseil	DE		49.690	12.227
+Taponnat	FR		45.779	0.409
+Tamazula	MX	11	20.442	-101.553
+Trhový Štěpánov	CZ		49.711	15.014
+Tye	US	TX	32.458	-99.871
+Torre San Giovanni	IT		39.890	18.112
+Tok	US	AK	63.337	-142.986
+Tonalapan	MX	30	18.468	-95.220
+Terrebonne	US	OR	44.353	-121.178
+Thalwil / Süd	CH		47.285	8.570
+Tătaru	RO		45.100	26.333
+Tepozcuautla	MX	12	17.622	-99.228
+Tieton	US	WA	46.702	-120.755
+Tollwitz	DE		51.286	12.097
+Tillières-sur-Avre	FR		48.756	1.054
+Tecuexcontitlán (Tecoescontitlán)	MX	12	18.143	-99.578
+Tecualilla	MX	25	22.767	-105.672
+Telcruz	MX	14	19.477	-104.126
+Tehuixtla	MX	12	18.317	-99.933
+Tmourghout	MA		33.907	-4.027
+Toulon	US	IL	41.094	-89.865
+Tremezzo	IT		45.984	9.216
+Tombelle	IT		45.398	11.982
+Tuggerawong	AU	02	-33.280	151.480
+Tzopilja	MX	05	16.740	-92.309
+Tonalixco	MX	21	20.232	-98.255
+Torup	SE		56.957	13.077
+Thomas	US	OK	35.744	-98.748
+Trun	CH		46.743	8.987
+Thénac	FR		45.668	-0.654
+Torà de Riubregós	ES		41.817	1.400
+Tierra Blanca	MX	15	18.972	-99.592
+Tomaquilapa	MX	21	19.756	-97.322
+Torino di Sangro	IT		42.191	14.543
+Tessera	IT		45.502	12.326
+Tres Capones	AR		-28.006	-55.605
+Trnovlje pri Celju	SI		46.257	15.295
+Travers	CH		46.940	6.676
+Tantima	MX	30	21.332	-97.833
+Tossiat	FR		46.140	5.312
+Tvøroyri	FO		61.556	-6.811
+Tournehem-sur-la-Hem	FR		50.800	2.050
+Tres Cerros	MX	05	16.916	-92.473
+Turano Lodigiano	IT		45.248	9.622
+Tlamanca	MX	21	19.675	-97.696
+Tours-sur-Marne	FR		49.049	4.121
+Thésée	FR		47.323	1.309
+Teleormanu	RO		43.963	25.459
+Tremignon	IT		45.521	11.806
+Taiohae	PF		-8.911	-140.100
+Tallende	FR		45.670	3.125
+Tonadico	IT		46.181	11.839
+Takaka	NZ		-40.850	172.800
+Trestiana	RO		46.200	27.650
+Țelna	RO		46.159	23.501
+Tasovice	CZ		48.836	16.156
+Töcksfors	SE		59.508	11.844
+Toledo	US	IL	39.274	-88.244
+Troy	US	NH	42.824	-72.181
+Teting-sur-Nied	FR		49.057	6.663
+Townhill	GB		56.089	-3.439
+Topana	RO		44.817	24.517
+Tangent	US	OR	44.541	-123.108
+Trinity Gardens	AU	05	-34.914	138.641
+Tournon-Saint-Martin	FR		46.734	0.955
+Tonnay-Boutonne	FR		45.968	-0.707
+Tlacuilolapan	MX	30	17.978	-94.263
+Tršić	RS		44.495	19.265
+Teviston	US	CA	35.929	-119.278
+Tregaron	GB		52.219	-3.933
+Theresa	US	WI	43.517	-88.451
+Těšetice	CZ		49.593	17.126
+Tuéjar	ES		39.767	-1.033
+Trambileno	IT		45.869	11.073
+Tepexco	MX	21	20.029	-97.958
+Talol	MX	13	21.120	-98.627
+Tequila 1ra. Sección (La Aurora)	MX	27	17.880	-92.723
+Tenistoye	UA		44.743	33.668
+Triguères	FR		47.940	2.986
+Tierra Nueva	MX	30	19.939	-97.016
+Terminal de Providencia	MX	32	24.693	-101.466
+Țolici	RO		47.118	26.448
+Tsaghkaber	AM		40.798	44.101
+The Rock	AU	02	-35.273	147.114
+Turanj	HR		43.971	15.411
+Tulcingo	MX	21	18.837	-98.596
+Tzummarum	NL		53.237	5.546
+Townshend	US	VT	43.047	-72.668
+Tsaile	US	AZ	36.303	-109.216
+Thundorf in Unterfranken	DE		50.201	10.319
+Tonalaco	MX	30	19.429	-97.133
+Trizay	FR		45.882	-0.897
+Tazumbo	MX	14	19.294	-102.645
+Trąbki	PL		49.962	20.142
+Tarnowiec	PL		49.731	21.577
+Topeka	US	IN	41.539	-85.540
+Troissereux	FR		49.480	2.045
+Tüttendorf	DE		54.400	10.000
+Torre de Miguel Sesmero	ES		38.619	-6.796
+Tansley	GB		53.132	-1.519
+Taugl	AT		47.647	13.203
+Tollevast	FR		49.574	-1.627
+Tennyson Point	AU	02	-33.832	151.117
+Talheim	DE		48.017	8.667
+Tamán	MX	24	21.232	-98.879
+Turcia	ES		42.534	-5.878
+Torno	IT		45.856	9.117
+Tonnarella	IT		38.125	15.113
+Tournay	FR		43.184	0.245
+Texcaco	MX	13	20.840	-98.616
+Tubac	US	AZ	31.613	-111.046
+Tahoma	US	CA	39.067	-120.128
+Tacuba Nueva	MX	05	17.090	-92.370
+Trei Sate	RO		46.476	24.899
+Tecuci	RO		44.342	24.860
+Third Lake	US	IL	42.374	-88.011
+Tupambaé	UY		-32.833	-54.767
+Tlaxocoyucan	MX	13	20.229	-98.490
+Tadten	AT		47.767	16.983
+Tuchenbach	DE		49.528	10.860
+Torrecillas de la Tiesa	ES		39.568	-5.742
+Tzicatlacoyan	MX	21	18.841	-98.048
+Tepetlacolco	MX	21	18.641	-97.693
+Talea	RO		45.226	25.564
+Tulimanca	MX	21	18.469	-97.140
+Tenay	FR		45.919	5.508
+Tríkeri	GR		39.101	23.077
+Tres Esquinas	CO		3.865	-74.709
+Thundorf	CH		47.546	8.964
+Terrossa	IT		45.463	11.319
+Trassem	DE		49.578	6.525
+Thilouze	FR		47.224	0.580
+Terrazzo	IT		45.173	11.395
+Tepetitla	MX	13	20.961	-98.384
+Thessalon	CA	08	46.250	-83.567
+Töpen	DE		50.391	11.873
+Tenexio	MX	24	21.377	-98.879
+Te Kauwhata	NZ		-37.400	175.150
+Tärnsjö	SE		60.150	16.933
+Trémery	FR		49.246	6.224
+Terrytown	US	NE	41.847	-103.662
+Tepetzintla	MX	21	19.967	-97.841
+Tlaltenanguito	MX	17	19.498	-99.583
+Tomra	NO		62.581	6.931
+Trincheras	MX	26	30.398	-111.530
+Tencin	FR		45.311	5.958
+Tierra Blanca	MX	30	20.875	-97.460
+Ternaard	NL		53.382	5.965
+Turnu	RO		46.258	21.127
+Trangie	AU	02	-32.031	147.983
+Teofani	MX	13	20.323	-99.043
+Tincontlán	MX	30	20.821	-97.691
+Tamins	CH		46.830	9.406
+Twechar	GB		55.954	-4.082
+Timboon	AU	07	-38.484	142.980
+Tvarožná	CZ		49.192	16.771
+Tierra Nueva	MX	30	18.208	-95.022
+Tłuchowo	PL		52.747	19.466
+Tămașda	RO		46.645	21.557
+Tonggu	CN		26.572	109.309
+Tôtes	FR		49.681	1.046
+Teglio	IT		46.172	10.064
+Trzcinica	PL		51.167	18.005
+Thiron Gardais	FR		48.317	0.983
+Taxiárches	GR		39.576	21.892
+Tepexititla	MX	13	21.132	-98.447
+Tereszpol	PL		50.584	22.880
+Těšany	CZ		49.040	16.770
+Triginto	IT		45.402	9.325
+Tercis-les-Bains	FR		43.671	-1.111
+Tariverde	RO		44.563	28.602
+Tenaha	US	TX	31.944	-94.244
+Turégano	ES		41.156	-4.007
+Tallaboa	PR		17.995	-66.716
+Trafalgar	US	IN	39.416	-86.151
+Tirolo	IT		46.691	11.154
+Timpson	US	TX	31.904	-94.395
+Tijeras	PA		8.475	-82.561
+Two Hills	CA	01	53.717	-111.752
+Trittenheim	DE		49.825	6.899
+Tauxigny	FR		47.213	0.835
+Turluianu	RO		46.453	26.646
+Tanlay	FR		47.845	4.085
+Taliban	TR		37.981	41.413
+Traplice	CZ		49.131	17.436
+Turjaci	HR		43.650	16.669
+Torremocha	ES		39.346	-6.173
+Thiverny	FR		49.252	2.436
+Taos Pueblo	US	NM	36.439	-105.544
+Todenbüttel	DE		54.133	9.550
+Taos	US	MO	38.506	-92.071
+Thomasboro	US	IL	40.242	-88.184
+Theuma	DE		50.470	12.222
+Tenjay	MX	15	19.808	-99.552
+Turuachi	MX	06	26.131	-106.704
+Tatamy	US	PA	40.741	-75.257
+Thornton	US	CA	38.226	-121.425
+Tarbert	GB		55.863	-5.416
+Talmage	US	CA	39.133	-123.168
+Treppo Grande	IT		46.200	13.153
+Tebosa	PT		41.483	-8.484
+Townsend	US	MA	42.667	-71.705
+Tokur	RU		53.135	132.890
+Témeni	GR		38.237	22.125
+Taverna Ravindola	IT		41.523	14.126
+Temango	MX	13	21.131	-98.691
+Takhtamygda	RU		54.110	123.608
+Tanay	CH		46.345	6.830
+Timmaspe	DE		54.140	9.894
+Taretán	MX	11	20.779	-101.335
+Teocalco	MX	13	20.086	-99.283
+Tyhee	US	ID	42.952	-112.466
+Tennyson	AU	05	-34.886	138.486
+Tzicatlán	MX	30	20.674	-98.236
+Torrecuso	IT		41.186	14.681
+Terento	IT		46.830	11.783
+Terradura	IT		45.323	11.824
+Tentic	MX	05	16.863	-92.682
+Tulillos de Abajo	MX	11	21.086	-100.484
+Tudor Vladimirescu	RO		43.948	24.906
+Tonquédec	FR		48.669	-3.397
+Tierras Coloradas (San Pedro)	MX	16	19.719	-100.646
+Tijnje	NL		53.031	5.992
+Terwolde	NL		52.283	6.100
+Texico	US	NM	34.389	-103.051
+Trnava	CZ		49.296	17.842
+Tupesy	CZ		49.084	17.370
+Teguajinal	HN		15.367	-86.600
+Timmenrode	DE		51.771	11.006
+Tourville-sur-Arques	FR		49.859	1.102
+Trarivi	IT		43.937	12.544
+Twisk	NL		52.741	5.053
+Tous	ES		39.140	-0.588
+Texcatepec	MX	30	20.585	-98.365
+Tocileni	RO		47.711	26.787
+Tihău	RO		47.227	23.330
+Tourville-sur-Odon	FR		49.142	-0.501
+Trapiche Viejo	MX	30	18.843	-96.946
+Trentham	AU	07	-37.389	144.322
+Theizé	FR		45.940	4.616
+Texcatitlán	MX	20	17.713	-97.066
+Tazaquil	MX	24	21.491	-98.940
+Tyler	US	MN	44.278	-96.135
+Tenampulco	MX	21	20.170	-97.405
+Topory	UA		49.652	29.317
+Torre-Cardela	ES		37.505	-3.356
+Trebendorf	DE		51.533	14.567
+Toulon-sur-Allier	FR		46.518	3.360
+Tierra Colorada	MX	12	18.270	-99.478
+Tzinil	MX	05	16.258	-92.322
+Torreselle	IT		45.630	12.023
+Treixedo	PT		40.432	-8.094
+Tlacoatzintepec	MX	20	17.860	-96.586
+Terry	US	MS	32.096	-90.294
+Topol’noye	RU		51.511	84.481
+Topaipí	CO		5.335	-74.303
+Toba	RS		45.689	20.557
+Tivoli	US	NY	42.058	-73.909
+Tolk	DE		54.580	9.638
+Touquin	FR		48.735	3.012
+Talihina	US	OK	34.751	-95.048
+Turba	EE		59.083	24.225
+Tanetze de Zaragoza	MX	20	17.376	-96.301
+Tecomatán	MX	16	20.115	-102.496
+Tonalixco	MX	30	18.782	-97.060
+Treibach	AT		46.867	14.467
+Thilay	FR		49.873	4.808
+Tingewick	GB		51.990	-1.048
+Talamello	IT		43.906	12.285
+Trélex	CH		46.415	6.208
+Trangé	FR		48.027	0.111
+Techichili	MX	15	19.171	-99.422
+Tsaghkunk’	AM		40.180	44.272
+Tulfes	AT		47.258	11.533
+Terranova di Pollino	IT		39.978	16.296
+Tomakin	AU	02	-35.823	150.188
+Toplița	RO		45.090	24.732
+Turmi	ET		4.967	36.483
+Towaoc	US	CO	37.204	-108.730
+Talysarn	GB		53.054	-4.258
+Tecama	MX	30	19.004	-96.985
+Tres Bocas 1ra. Sección	MX	27	17.932	-93.874
+Troviggiano	IT		43.379	13.250
+Tecolcuautla	MX	12	17.787	-98.948
+Tagmersheim	DE		48.817	10.967
+Tipton	US	PA	40.636	-78.296
+Tequepexpan	MX	18	21.216	-104.570
+Tournes	FR		49.797	4.639
+Tierra Negra	MX	21	20.243	-97.957
+Travanca	PT		40.324	-8.187
+Traian	RO		46.833	26.577
+Troúlloi	CY		35.033	33.616
+Tercé	FR		46.517	0.564
+Tlatilpa	MX	30	18.734	-97.144
+Torekov	SE		56.425	12.633
+Tinonee	AU	02	-31.936	152.414
+Thurlton	GB		52.529	1.556
+Tysvær	NO		59.332	5.490
+Thérouanne	FR		50.637	2.258
+Touvre	FR		45.661	0.259
+Tutepec	MX	12	16.922	-99.156
+Trie-sur-Baïse	FR		43.333	0.367
+Tabanac	FR		44.721	-0.406
+Toro	IT		41.573	14.762
+Tavo	IT		45.501	11.861
+Tzitzio	MX	16	19.586	-100.925
+Tamasane	BW		-22.418	27.401
+Truman	US	MN	43.828	-94.437
+Trachselwald	CH		47.017	7.736
+Torquemada	ES		42.035	-4.318
+Trédarzec	FR		48.786	-3.201
+Talmas	FR		50.030	2.326
+Trojas	HN		15.350	-86.700
+Trapivka	UA		45.794	29.699
+Tannheim	AT		47.499	10.516
+Teora	IT		40.853	15.253
+Tampiquito	MX	28	23.833	-98.195
+Turcio Segunda Sección	MX	15	19.365	-99.960
+Town Creek	US	AL	34.681	-87.406
+Trollenhagen	DE		53.607	13.291
+Toutainville	FR		49.365	0.465
+Torre Pallavicina	IT		45.446	9.877
+Třebotov	CZ		49.972	14.291
+Todendorf	DE		53.695	10.348
+Tardienta	ES		41.978	-0.537
+Tuili	IT		39.715	8.960
+Tansa	RO		47.301	27.077
+Tepehuacán de Guerrero	MX	13	21.014	-98.842
+Tierra Blanca	MX	26	27.188	-109.345
+Tocoy	MX	24	21.639	-98.871
+Tubualá	PA		9.517	-79.033
+Torkanivka	UA		48.325	29.147
+Trespaderne	ES		42.802	-3.390
+Thun-Saint-Amand	FR		50.473	3.451
+Tula	MX	21	18.539	-97.909
+The Galena Territory	US	IL	42.393	-90.326
+Thueyts	FR		44.676	4.221
+Thiverval-Grignon	FR		48.850	1.917
+Tlatzala	MX	30	18.729	-97.141
+Tuscarawas	US	OH	40.395	-81.407
+Trijueque	ES		40.774	-2.993
+Tinajas 1ra. Sección	MX	05	14.717	-92.329
+Tom Bean	US	TX	33.520	-96.484
+Talaya	RU		61.370	152.769
+Trechtingshausen	DE		50.010	7.847
+Tierra Larga (Campo Nuevo)	MX	17	18.864	-98.948
+Twin Lakes	US	NM	35.709	-108.775
+Töre	SE		65.912	22.651
+Tsiatsan	AM		40.186	44.269
+Tlanalapan	MX	21	19.251	-97.276
+Tyndall	US	SD	42.993	-97.863
+Thélus	FR		50.354	2.801
+Torricella	IT		42.659	13.657
+Torrazza dei Mandelli	IT		45.566	9.399
+Thanstein	DE		49.383	12.467
+Täferrot	DE		48.850	9.838
+Tavera	MX	16	19.061	-101.559
+Tlacuilola	MX	24	21.238	-98.868
+Traian	RO		46.991	26.904
+Tetzacual	MX	30	20.773	-98.269
+Tallangatta	AU	07	-36.218	147.177
+Tsáda	CY		34.839	32.475
+Taragual	HN		14.750	-88.483
+Tormestorp	SE		56.114	13.745
+Trunding	AU	04	-12.634	141.870
+Tillé	FR		49.464	2.110
+Tonalapa del Sur	MX	12	18.098	-99.559
+Texin	MX	30	19.366	-97.005
+Tegerfelden	CH		47.558	8.289
+Todesfelde	DE		53.900	10.183
+Tepanguare	HN		14.333	-87.750
+Texocoyohuac	MX	21	19.778	-97.590
+Tuindorp	NL		51.930	4.378
+Tienray	NL		51.495	6.093
+Turze Pole	PL		49.663	22.005
+Turija	RS		44.523	21.639
+Toutlemonde	FR		47.055	-0.765
+Taillecourt	FR		47.495	6.854
+Trappstadt	DE		50.319	10.570
+Tipacoque	CO		6.420	-72.692
+Thomm	DE		49.741	6.805
+Thil	FR		45.814	5.023
+Turobin	PL		50.824	22.743
+Terricciola	IT		43.525	10.680
+Treggiaia	IT		43.623	10.673
+Treffelstein	DE		49.422	12.616
+Tenteling	FR		49.125	6.938
+Tăureni	RO		46.267	25.250
+Turtle Lake	US	WI	45.394	-92.142
+Tomerong	AU	02	-35.052	150.587
+The Junction	AU	02	-32.938	151.759
+Tuchoměřice	CZ		50.135	14.282
+Tyrlaching	DE		48.067	12.667
+Terrinches	ES		38.611	-2.842
+Thorigné	FR		46.291	-0.251
+Tolleshunt Knights	GB		51.799	0.777
+Tejaluca	MX	21	18.637	-98.250
+Tlalcozotitlán	MX	12	17.884	-99.131
+Tetelcingo	MX	21	18.239	-98.027
+Twardawa	PL		50.343	17.991
+Taşlı	TR		37.987	42.135
+Tibacuy	CO		4.351	-72.456
+Triaize	FR		46.393	-1.198
+Tintagel	GB		50.663	-4.750
+Tengüecho	MX	15	19.838	-102.343
+Tankhoy	RU		51.557	105.126
+Taylorsville	US	KY	38.032	-85.342
+Tillmitsch Links der Laßnitz	AT		46.810	15.524
+Tílisos	GR		35.296	25.016
+Tonalapa	MX	12	17.491	-99.242
+Tiki Island	US	TX	29.297	-94.917
+Turtmann	CH		46.300	7.702
+Trappe	US	MD	38.658	-76.058
+Terramuggus	US	CT	41.635	-72.470
+Tequicuilco	MX	12	18.104	-99.198
+Tating	DE		54.326	8.708
+Týnec	CZ		48.779	17.013
+Trausnitz	DE		49.521	12.262
+Torre de' Picenardi	IT		45.143	10.288
+Twijzel	NL		53.232	6.090
+Thiers-sur-Thève	FR		49.153	2.571
+Terravecchia	IT		39.466	16.946
+Tușnadu Nou	RO		46.194	25.888
+The Patch	AU	07	-37.892	145.402
+Tersefánou	CY		34.854	33.547
+Tennie	FR		48.108	-0.076
+Totomixtlahuaca	MX	12	17.158	-98.803
+Tanner	US	WA	47.475	-121.746
+Tužno	HR		46.257	16.235
+Tonasket	US	WA	48.705	-119.439
+Thoiry	FR		48.867	1.798
+Tlahuelompa (San Francisco Tlahuelompa)	MX	13	20.651	-98.575
+Tópaga	CO		5.760	-72.826
+Tronconal	MX	30	19.564	-96.863
+Taylors Falls	US	MN	45.402	-92.652
+Teococuilco de Marcos Pérez	MX	20	17.353	-96.615
+Tjuvkil	SE		57.900	11.733
+Tamahú	GT		15.309	-90.236
+Texíguat	HN		13.650	-87.022
+Tetlatzinga	MX	30	18.695	-97.184
+Treznea	RO		47.100	23.117
+Tețcoiu	RO		44.682	25.438
+Tresbœuf	FR		47.883	-1.550
+Tenancingo	SV		13.833	-88.983
+Thumersbach	AT		47.330	12.817
+Tootsi	EE		58.578	24.793
+Tobermory	GB		56.622	-6.072
+Tabăra	RO		47.574	27.412
+Teuchel	DE		51.888	12.646
+Toloriu	ES		42.362	1.628
+Tressin	FR		50.617	3.194
+Tlacpac	MX	13	20.149	-98.217
+Tlamaya Grande	MX	21	20.147	-97.803
+Torcé	FR		48.061	-1.267
+Tlaminca	MX	15	19.136	-99.440
+Tozihuic	MX	21	19.251	-97.097
+Tankuché	MX	04	20.507	-90.242
+Tingvoll	NO		62.913	8.205
+Thompson	US	ND	47.774	-97.110
+Tilques	FR		50.777	2.199
+Tresnuraghes	IT		40.252	8.521
+Tredozio	IT		44.080	11.741
+Tonnara di Bonagia	IT		38.063	12.594
+Tamápatz	MX	24	21.567	-99.078
+Tzontehuitz	MX	05	16.833	-92.580
+Thornport	US	OH	39.913	-82.411
+Tacoignières	FR		48.836	1.675
+Tetitlán	MX	18	21.129	-104.616
+Tribes Hill	US	NY	42.955	-74.285
+Tăut	RO		46.720	21.838
+Troy	US	ME	44.665	-69.241
+Tarnawatka	PL		50.532	23.396
+Torrazza Coste	IT		44.978	9.076
+Trefnant	GB		53.225	-3.420
+Torremayor	ES		38.901	-6.539
+Tămășeu	RO		47.221	21.928
+Taebla	EE		58.954	23.752
+Troy	US	KS	39.783	-95.090
+Tamames	ES		40.657	-6.105
+Totternhoe	GB		51.886	-0.573
+Tunica	US	MS	34.685	-90.383
+Tejeda de Tiétar	ES		40.018	-5.870
+Talana	IT		40.042	9.496
+Tramatza	IT		40.003	8.649
+Trautmannsdorf an der Leitha	AT		48.024	16.633
+Torralba	IT		40.513	8.765
+Torricella Peligna	IT		42.024	14.259
+Triei	IT		40.035	9.640
+Tatatila	MX	30	19.693	-97.112
+Tlalnelhuayocan	MX	30	19.567	-96.975
+Traspinedo	ES		41.575	-4.476
+Titulcia	ES		40.135	-3.568
+Tettorosso	IT		44.473	7.343
+Trivignano Udinese	IT		45.946	13.340
+Torrevecchia	IT		42.383	14.213
+Torreano	IT		46.128	13.429
+Trinidad Zaachila	MX	20	16.921	-96.764
+Tábara	ES		41.825	-5.964
+Tratalias	IT		39.103	8.579
+Talaván	ES		39.717	-6.281
+Tagliolo Monferrato	IT		44.638	8.666
+Torre Caietani	IT		41.787	13.265
+Turleque	ES		39.601	-3.614
+Tibirita	CO		5.052	-73.505
+Trzebiechów	PL		52.021	15.736
+Turnau	AT		47.558	15.337
+Totoltepec de Guerrero	MX	21	18.226	-97.855
+Taxenbach	AT		47.291	12.962
+Tinajas	PA		8.553	-82.460
+Trenta	IT		39.285	16.321
+Tyrawa Wołoska	PL		49.577	22.370
+Tselinnoye	UA		45.906	34.181
+Tausa	CO		5.199	-73.891
+Telfes im Stubai	AT		47.167	11.367
+Tar	HR		45.301	13.625
+Torrice	IT		41.634	13.404
+Torre d'Arese	IT		45.243	9.317
+Talbotton	US	GA	32.678	-84.539
+Trovo	IT		45.283	9.035
+Torre Alháquime	ES		36.916	-5.234
+Travesio	IT		46.197	12.867
+Ta`ū	AS		-14.234	-169.514
+Trashigang	BT		27.333	91.554
+Topliţa	RO		45.683	22.783
+Tivenys	ES		40.908	0.512
+Tretten	NO		61.314	10.301
+Torella dei Lombardi	IT		40.937	15.108
+Trevi nel Lazio	IT		41.863	13.248
+Ticuşu Vechi	RO		45.933	25.100
+Tarantasca	IT		44.493	7.545
+Tenna	IT		46.016	11.264
+Tufara	IT		41.482	14.947
+Torrico	ES		39.829	-5.226
+Torrecaballeros	ES		40.992	-4.025
+Tordinci	HR		45.370	18.795
+Trevélez	ES		37.000	-3.265
+Tortoreto	IT		42.804	13.913
+Terlago	IT		46.097	11.045
+Tokarevo	UA		45.284	35.152
+Tavernole	IT		45.746	10.240
+Togüí	CO		5.935	-73.513
+Taramundi	ES		43.360	-7.108
+Tornabous	ES		41.701	1.054
+Trofors	NO		65.533	13.406
+Tulbing	AT		48.293	16.122
+Tavigliano	IT		45.622	8.052
+Totalán	ES		36.765	-4.297
+Throckmorton	US	TX	33.179	-99.178
+Torresandino	ES		41.829	-3.910
+Tavagnasco	IT		45.544	7.823
+Tribune	US	KS	38.470	-101.753
+Tarłów	PL		51.002	21.715
+Tornaco	IT		45.357	8.717
+Teufenbach	AT		47.129	14.359
+Tiñosillos	ES		40.934	-4.728
+Torrile	IT		44.925	10.324
+Tlaquilpa	MX	30	18.610	-97.119
+Tota	CO		5.558	-72.988
+Taiskirchen im Innkreis	AT		48.265	13.573
+Tales	ES		39.948	-0.307
+Tonco	IT		45.023	8.189
+Trautmannsdorf in Oststeiermark	AT		46.875	15.885
+Torano Nuovo	IT		42.823	13.777
+Tonstad	NO		58.663	6.717
+Tintern	GB		51.697	-2.681
+Terragnolo	IT		45.878	11.155
+Taniche	MX	20	16.569	-96.755
+Toceno	IT		46.145	8.469
+Trzebielino	PL		54.200	17.087
+Tectitán	GT		15.306	-92.061
+Tătărăni	RO		46.694	27.964
+Tavenna	IT		41.909	14.762
+Tlachichilco	MX	20	17.622	-98.343
+Toffia	IT		42.213	12.755
+Terraverde-Corte Palasio	IT		45.316	9.562
+Tubre	IT		46.644	10.463
+Tres Quebradas	PA		7.840	-80.407
+Terranova dei Passerini	IT		45.215	9.662
+Titești	RO		45.420	24.393
+Travo	IT		44.863	9.544
+Tavoleto	IT		43.844	12.594
+Táliga	ES		38.529	-7.017
+Torrecilla de los Ángeles	ES		40.248	-6.416
+Turośń Kościelna	PL		53.015	23.055
+Tena	CO		4.660	-74.393
+Toano	IT		44.376	10.563
+Tricerro	IT		45.236	8.327
+Tufo	IT		41.013	14.818
+Torraca	IT		40.111	15.636
+Troszyn	PL		53.031	21.731
+Trojanów	PL		51.692	21.811
+Teti	IT		40.097	9.119
+Topas	ES		41.158	-5.634
+Torre di Ruggiero	IT		38.653	16.372
+Terruggia	IT		45.082	8.444
+Tocco Caudio	IT		41.126	14.634
+Torre de Santa María	ES		39.254	-6.116
+Tytherington	GB		51.593	-2.480
+Trodena	IT		46.322	11.350
+Torrebruna	IT		41.867	14.541
+Truchas	ES		42.261	-6.436
+Torrejoncillo del Rey	ES		40.008	-2.571
+Toral de los Guzmanes	ES		42.243	-5.568
+Tolga	NO		62.409	10.999
+Tres	IT		46.322	11.097
+Tardajos	ES		42.349	-3.817
+Treglio	IT		42.262	14.423
+Torella del Sannio	IT		41.639	14.520
+Totoltepec	MX	21	18.653	-98.347
+Trawsfynydd	GB		52.902	-3.923
+Tesimo	IT		46.565	11.169
+Tona	CO		7.202	-72.965
+Templeton	GB		51.772	-4.738
+Trivigno	IT		40.580	15.989
+Terråk	NO		65.087	12.371
+Tovo di Sant'Agata	IT		46.245	10.247
+Tczów	PL		51.326	21.447
+Torija	ES		40.743	-3.028
+Torremenga	ES		40.047	-5.775
+Tauplitz	AT		47.560	14.013
+Tiglieto	IT		44.523	8.619
+Thaya	AT		48.855	15.289
+Torrequemada	ES		39.367	-6.221
+Torre de Don Miguel	ES		40.223	-6.577
+Tobobe	PA		9.121	-81.825
+Tuntange	LU		49.718	6.010
+Toabré	PA		8.651	-80.320
+Telatyn	PL		50.527	23.840
+Tomaszkowice	PL		49.979	20.100
+Tardelcuende	ES		41.594	-2.644
+Terry	US	MT	46.793	-105.312
+Torrecilla en Cameros	ES		42.255	-2.631
+Torricella del Pizzo	IT		45.020	10.295
+Terzolas	IT		46.361	10.926
+Torrelobatón	ES		41.649	-5.025
+Tempsford	GB		52.171	-0.296
+Torrejón el Rubio	ES		39.771	-6.013
+Taleggio	IT		45.893	9.565
+Torre San Giorgio	IT		44.736	7.528
+Tuczępy	PL		50.517	20.992
+Teana	IT		40.126	16.153
+Tlatlaya	MX	15	18.618	-100.208
+Telve di Sopra	IT		46.071	11.472
+Towner	US	ND	48.346	-100.405
+Trenton	US	NE	40.176	-101.013
+Torrita Tiberina	IT		42.238	12.616
+Treppo Carnico	IT		46.533	13.043
+Trattenbach	AT		47.600	15.867
+Traves	IT		45.268	7.431
+Titaguas	ES		39.867	-1.083
+Temù	IT		46.250	10.466
+Torrijo del Campo	ES		40.826	-1.338
+Torremocha de Jarama	ES		40.841	-3.497
+Tribogna	IT		44.417	9.196
+Torricella in Sabina	IT		42.263	12.872
+Tiana	IT		40.067	9.148
+Torre Mondovì	IT		44.353	7.900
+Tobadill	AT		47.125	10.514
+Torchiara	IT		40.322	15.054
+Terrer	ES		41.328	-1.713
+Tenno	IT		45.919	10.832
+Tordillos	ES		40.853	-5.353
+Torre le Nocelle	IT		41.023	14.909
+Torre Canavese	IT		45.392	7.760
+Taceno	IT		46.023	9.364
+Tortora	IT		39.941	15.805
+Tassarolo	IT		44.728	8.772
+Torres del Carrizal	ES		41.617	-5.672
+Torriana	IT		43.985	12.385
+Tordehumos	ES		41.815	-5.158
+Torgnon	IT		45.806	7.570
+The Bottom	BQ		17.626	-63.249
+Tórtola de Henares	ES		40.704	-3.123
+Timber Lake	US	SD	45.429	-101.074
+Terdobbiate	IT		45.376	8.695
+Torre Beretti	IT		45.060	8.671
+Traboch	AT		47.377	14.986
+Tepetlapa	MX	20	17.666	-98.392
+Torrecilla de Alcañiz	ES		40.961	-0.091
+Torri in Sabina	IT		42.351	12.642
+Trasaghis	IT		46.282	13.075
+Trontano	IT		46.122	8.333
+Tufillo	IT		41.917	14.626
+Trequanda	IT		43.187	11.668
+Tionesta	US	PA	41.495	-79.456
+Torroella de Fluvià	ES		42.175	3.040
+Torcegno	IT		46.074	11.450
+Topólka	PL		52.503	18.712
+Terque	ES		36.984	-2.597
+Tabuenca	ES		41.695	-1.543
+Tambre	IT		46.126	12.419
+Thomasberg	AT		47.567	16.133
+Tresjuncos	ES		39.701	-2.755
+Turri	IT		39.705	8.917
+Terranova Sappo Minulio	IT		38.322	16.007
+Talla	IT		43.602	11.787
+Terzo	IT		44.670	8.422
+Terfens	AT		47.324	11.644
+Tătărăști	RO		46.217	27.200
+Tanrake Village	TV		-7.246	177.145
+Tébar	ES		39.500	-2.167
+Tires	IT		46.468	11.527
+Tabor	SI		46.236	15.018
+Tišina	SI		46.658	16.092
+Tinjacá	CO		5.579	-73.645
+Taranta Peligna	IT		42.021	14.171
+Totanés	ES		39.711	-4.227
+Tarazona de Guareña	ES		41.172	-5.250
+Torre di Santa Maria	IT		46.234	9.852
+Taufkirchen an der Trattnach	AT		48.247	13.748
+Trzydnik Duży	PL		50.849	22.134
+Terrateig	ES		38.895	-0.320
+Tahal	ES		37.228	-2.285
+Tortorella	IT		40.142	15.606
+Tiedra	ES		41.652	-5.267
+Torreiglesias	ES		41.102	-4.033
+Tierra Amarilla	US	NM	36.700	-106.550
+Tudelilla	ES		42.300	-2.117
+Ticengo	IT		45.369	9.828
+Tricio	ES		42.402	-2.719
+Tinajas	ES		40.325	-2.582
+Tornadizos de Ávila	ES		40.628	-4.614
+Tizzano Val Parma	IT		44.519	10.198
+Trnovska Vas	SI		46.520	15.887
+Tripi	IT		38.047	15.097
+Torre de' Busi	IT		45.774	9.480
+Tergu	IT		40.867	8.715
+Trevico	IT		41.048	15.233
+Trebbio	IT		45.713	10.461
+Torricella Verzate	IT		45.020	9.174
+Tubutama	MX	26	30.885	-111.465
+Tendilla	ES		40.544	-2.958
+Trigueros del Valle	ES		41.830	-4.652
+Treglwang	AT		47.475	14.591
+Torrubia del Campo	ES		39.897	-2.961
+Torrijo de la Cañada	ES		41.473	-1.874
+Tordómar	ES		42.046	-3.865
+Tessennano	IT		42.478	11.791
+Tieschen	AT		46.786	15.942
+Torres de Barbués	ES		41.961	-0.433
+Torrecilla de la Orden	ES		41.219	-5.224
+Torregamones	ES		41.487	-6.183
+Torrecilla de la Abadesa	ES		41.485	-5.088
+Torrecilla de la Jara	ES		39.704	-4.772
+Torrellas	ES		41.894	-1.771
+Torre de' Negri	IT		45.150	9.335
+Tierz	ES		42.134	-0.355
+Taloga	US	OK	36.039	-98.964
+Tălpaș	RO		44.682	23.746
+Tormos	ES		38.801	-0.072
+Terres	IT		46.310	11.023
+Trescasas	ES		40.964	-4.036
+Thomatal	AT		47.067	13.750
+Torrioni	IT		41.034	14.814
+Treiso	IT		44.690	8.088
+Tutazá	CO		6.032	-72.856
+Trenton	US	NC	35.067	-77.353
+Tora	IT		41.340	14.024
+Tobaj	AT		47.083	16.300
+Torrecilla del Pinar	ES		41.374	-4.038
+Tossicia	IT		42.545	13.646
+Torás	ES		39.917	-0.683
+Tirgo	ES		42.546	-2.949
+Trisobbio	IT		44.661	8.586
+Tweng	AT		47.183	13.600
+Triora	IT		43.993	7.764
+Thurn	AT		46.851	12.769
+Tinnura	IT		40.269	8.548
+Torralba de Oropesa	ES		39.934	-5.154
+Trabanca	ES		41.233	-6.385
+Tamurejo	ES		38.983	-4.933
+Terelle	IT		41.552	13.778
+Tagamanent	ES		41.737	2.267
+Torlino Vimercati	IT		45.417	9.595
+Tilden	US	TX	28.462	-98.549
+Toga Village	TV		-6.288	176.315
+Trössing	AT		46.817	15.817
+Trivigliano	IT		41.776	13.272
+Toza	PA		8.345	-80.640
+Trefacio	ES		42.122	-6.654
+Torremocha del Campo	ES		40.978	-2.619
+Ternengo	IT		45.589	8.114
+Tobed	ES		41.339	-1.400
+Turrillas	ES		37.029	-2.266
+Tiefencastel	CH		46.660	9.579
+Turania	IT		42.135	13.010
+Tramonti di Sopra	IT		46.310	12.790
+Taipana	IT		46.249	13.341
+Tornos	ES		40.962	-1.434
+Thörl	AT		47.520	15.223
+Tubilla del Agua	ES		42.709	-3.801
+Toril	ES		39.897	-5.779
+Tardáguila	ES		41.115	-5.574
+Treviana	ES		42.559	-3.050
+Tosos	ES		41.315	-1.073
+Tornata	IT		45.104	10.431
+Tortuera	ES		40.972	-1.798
+Tamajón	ES		40.999	-3.247
+Torralba de los Sisones	ES		40.891	-1.459
+Traversella	IT		45.509	7.749
+Turrivalignani	IT		42.263	14.029
+Torresmenudas	ES		41.102	-5.785
+Tenebrón	ES		40.624	-6.354
+Tapioles	ES		41.857	-5.496
+Tuscumbia	US	MO	38.233	-92.459
+Trezzone	IT		46.172	9.352
+Thedford	US	NE	41.978	-100.576
+Torre Val de San Pedro	ES		41.075	-3.871
+Terzorio	IT		43.852	7.898
+Tadasuni	IT		40.110	8.884
+Tramonti di Sotto	IT		46.285	12.796
+Tormantos	ES		42.494	-3.074
+Trarego	IT		46.034	8.670
+Tornolo	IT		44.485	9.627
+Torrevelilla	ES		40.902	-0.110
+Terriente	ES		40.297	-1.504
+Tebario	PA		7.714	-80.978
+Tarano	IT		42.356	12.595
+Torralba de Ribota	ES		41.418	-1.684
+Tejado	ES		41.589	-2.267
+Torralba	ES		40.303	-2.285
+Treville	IT		45.097	8.360
+Tununguá	CO		5.730	-73.941
+Taylor	US	NE	41.770	-99.379
+Torrent	ES		41.952	3.127
+Tejadillos	ES		40.133	-1.633
+Tremenico	IT		46.076	9.366
+Trasobares	ES		41.643	-1.642
+Trebesing	AT		46.886	13.510
+Trahütten	AT		46.825	15.157
+Torrecilla del Rebollar	ES		40.910	-1.072
+Tartanedo	ES		40.993	-1.925
+Torres del Río	ES		42.552	-2.273
+Tronzano Lago Maggiore	IT		46.089	8.733
+Tubilla del Lago	ES		41.802	-3.586
+Torrella	ES		38.984	-0.567
+Torrescárcela	ES		41.485	-4.319
+Torre del Compte	ES		40.936	0.109
+Torrazzo	IT		45.499	7.954
+Tordesilos	ES		40.671	-1.594
+Tryon	US	NE	41.553	-100.958
+Tigliole	IT		44.886	8.077
+Tavertet	ES		41.996	2.419
+Tonezza del Cimone	IT		45.859	11.346
+Trebbio	IT		43.037	13.154
+Trasquera	IT		46.213	8.213
+Torres de Albarracín	ES		40.427	-1.532
+Tabanera de Cerrato	ES		42.025	-4.124
+Tione degli Abruzzi	IT		42.204	13.636
+Tramacastilla	ES		40.431	-1.575
+Todolella	ES		40.647	-0.247
+Terradillos de Esgueva	ES		41.819	-3.843
+Tribaldos	ES		39.973	-2.898
+Torres de Alcanadre	ES		41.967	-0.111
+Torre del Burgo	ES		40.792	-3.077
+Torregalindo	ES		41.583	-3.752
+Tramaced	ES		41.973	-0.298
+Talamanca	ES		41.737	1.978
+Tramacastiel	ES		40.188	-1.241
+Torreadrada	ES		41.445	-3.840
+Torralba de Aragón	ES		41.935	-0.511
+Tejeda y Segoyuela	ES		40.632	-6.023
+Tronchón	ES		40.621	-0.398
+Tolbaños	ES		40.752	-4.582
+Tulebras	ES		41.977	-1.676
+Tajueco	ES		41.536	-2.848
+Tabera de Abajo	ES		40.910	-6.002
+Testico	IT		44.006	8.026
+Torrechiva	ES		40.050	-0.400
+Tresana	IT		44.254	9.913
+Torrehermosa	ES		41.238	-2.128
+Torre los Negros	ES		40.853	-1.098
+Torre de Esgueva	ES		41.768	-4.200
+Torre de Arcas	ES		40.751	-0.069
+Tamariz de Campos	ES		41.977	-5.023
+Torre d'Isola	IT		45.218	9.077
+Torlengua	ES		41.455	-2.162
+Tórtoles	ES		40.561	-5.261
+Torrecilla del Monte	ES		42.095	-3.694
+Toga	ES		40.050	-0.367
+Tandel	LU		49.898	6.183
+Tormellas	ES		40.304	-5.512
+Trausella	IT		45.490	7.763
+Torrijas	ES		40.017	-0.950
+Torralba de los Frailes	ES		41.036	-1.660
+Triollo	ES		42.925	-4.681
+Tobía	ES		42.298	-2.814
+Torremormojón	ES		41.960	-4.778
+Tabanera la Luenga	ES		41.096	-4.239
+Torrubia de Soria	ES		41.630	-2.092
+Taroda	ES		41.348	-2.433
+Terenzo	IT		44.610	10.090
+Torralbilla	ES		41.210	-1.338
+Talamantes	ES		41.731	-1.679
+Tonengo	IT		45.118	8.002
+Torre Bormida	IT		44.563	8.154
+Trasmoz	ES		41.826	-1.723
+Tosantos	ES		42.414	-3.243
+Taravilla	ES		40.697	-1.968
+Tschanigraben	AT		47.017	16.300
+Torralba del Pinar	ES		39.983	-0.433
+Tordellego	ES		40.722	-1.670
+Tolocirio	ES		41.134	-4.651
+Torremocha del Pinar	ES		40.890	-2.045
+Trezzo Tinella	IT		44.677	8.108
+Torre de Peñafiel	ES		41.536	-4.088
+Tirapu	ES		42.657	-1.703
+Torresina	IT		44.434	8.037
+Torrecilla sobre Alesanco	ES		42.408	-2.834
+Torrecuadradilla	ES		40.854	-2.532
+Tierzo	ES		40.749	-1.931
+Tabanera de Valdavia	ES		42.647	-4.694
+Tobi Village	PW		3.005	131.122
+Tamarón	ES		42.274	-3.992
+Torrelapaja	ES		41.581	-1.952
+Tormón	ES		40.203	-1.354
+Tobar	ES		42.484	-3.940
+Tiurana	ES		41.975	1.256
+Tejada	ES		41.952	-3.535
+Torrubia del Castillo	ES		39.659	-2.312
+Torrubia	ES		40.966	-1.901
+Taragudo	ES		40.821	-3.077
+Tortuero	ES		40.934	-3.350
+Taulaga	AS		-11.055	-171.088
+Torre de las Arcas	ES		40.842	-0.718
+Tajahuerce	ES		41.740	-2.151
+Tremedal de Tormes	ES		41.074	-6.182
+Torreblacos	ES		41.669	-2.879
+Tollos	ES		38.756	-0.275
+Torrecilla de la Torre	ES		41.667	-5.050
+Terroba	ES		42.258	-2.444
+Torrelara	ES		42.167	-3.517
+Terzaga	ES		40.695	-1.904
+Tartano	IT		46.106	9.679
+Tiefenbach	AT		47.535	16.213
+Torrecuadrada de Molina	ES		40.749	-1.807
+Torremocha de Jadraque	ES		41.019	-2.899
+Torremontalbo	ES		42.500	-2.683
+Torremochuela	ES		40.765	-1.842
+Torre en Cameros	ES		42.241	-2.518
+Tordelrábano	ES		41.218	-2.758
+Tutin	RS		42.990	20.331
+Tanggul	ID		-8.165	113.453
+Triebendorf	AT		47.117	14.233
+Tōrmay	AF		33.688	68.402
+Tūlak	AF		33.975	63.729
+Tītān	AF		33.690	63.864
+Taywarah	AF		33.521	64.421
+Tsowkêy	AF		34.692	70.927
+Tsapêraī	AF		33.830	69.919
+Tsamkanī	AF		33.803	69.817
+Ţāqchah Khānah	AF		36.619	69.628
+The Quarter	AI		18.208	-63.042
+Tunjë	AL		40.834	20.112
+Tregan	AL		41.025	20.078
+Trebisht-Muçinë	AL		41.411	20.536
+Trebinjë	AL		40.913	20.553
+Topojan	AL		40.377	20.213
+Tomin	AL		41.691	20.422
+Topojë	AL		40.763	19.433
+Thumanë	AL		41.547	19.678
+Tërbuf	AL		41.040	19.614
+Tupungato	AR		-33.371	-69.148
+Tunuyán	AR		-33.577	-69.015
+Tumbaya	AR		-23.858	-65.467
+Tres Lomas	AR		-36.457	-62.860
+Trenque Lauquen	AR		-35.970	-62.734
+Tornquist	AR		-38.101	-62.223
+Toay	AR		-36.673	-64.379
+Telsen	AR		-42.436	-66.941
+Tecka	AR		-43.495	-70.810
+Tapalqué	AR		-36.355	-60.026
+Tamberías	AR		-31.459	-69.422
+Tama	AR		-30.508	-66.530
+Thiersee	AT		47.594	12.118
+Tazakend	AZ		39.155	45.443
+Trnovo	BA		43.666	18.446
+Teočak	BA		44.603	18.980
+Toéghin	BF		12.816	-1.728
+Tanghin-Dassouri	BF		12.273	-1.717
+Tin-Akoff	BF		14.965	-0.163
+Tochilari	BG		43.850	26.467
+Teixeira de Freitas	BR	05	-17.535	-39.742
+Tägertschi	CH		46.875	7.585
+Tenniken	CH		47.437	7.811
+Transua	CI		7.550	-3.014
+Toulépleu	CI		6.580	-8.411
+Tiébissou	CI		7.158	-5.225
+Téhini	CI		9.605	-3.658
+Taï	CI		5.874	-7.455
+Tiapoum	CI		5.136	-3.023
+Taabo	CI		6.200	-5.109
+Tungdor	CN		29.200	94.083
+Toding	CN		31.481	79.798
+Tengyue	CN		24.995	98.513
+Toli	CN		45.939	83.601
+Toksun	CN		42.794	88.642
+Tekes	CN		43.217	81.840
+Tacheng	CN		46.745	82.958
+Tokkuztara	CN		43.467	82.149
+Topterek	CN		47.434	85.871
+Tangdong	CN		26.002	113.254
+Taocheng	CN		25.312	118.301
+Tangxing	CN		35.745	111.699
+Tongxiang	CN		30.633	120.561
+Taicheng	CN		38.731	113.228
+Tongcheng	CN		35.355	111.216
+Tuojiang	CN		27.955	109.568
+Tuojiang	CN		25.187	111.572
+Tuodian	CN		24.667	101.633
+Tuncheng	CN		19.363	110.098
+Tubu	CN		29.045	115.813
+Tuanfeng	CN		30.714	114.916
+Tongyang	CN		29.671	114.597
+Tongxu Chengguanzhen	CN		34.477	114.458
+Tongquan	CN		25.400	103.567
+Tongle	CN		24.848	106.576
+Tongcheng	CN		31.039	116.974
+Tongbai Chengguanzhen	CN		32.364	113.396
+Tianzhou	CN		23.741	106.913
+Tiantang	CN		30.850	116.350
+Tiantai Chengguanzhen	CN		29.136	121.030
+Tiandiba	CN		27.702	103.248
+Tiandeng	CN		23.127	107.094
+Tianchi	CN		30.281	105.023
+Tiancheng	CN		29.540	114.042
+Tianchang	CN		32.685	119.009
+Tengzhou	CN		23.388	110.891
+Temuli	CN		27.708	102.808
+Taozhou	CN		30.906	119.409
+Taoyang	CN		35.401	103.853
+Taohuajiang	CN		28.524	112.125
+Taohong	CN		27.101	110.995
+Taocheng	CN		22.879	107.156
+Tangyang Chengguanzhen	CN		35.914	114.355
+Tangdukou	CN		26.966	111.241
+Tancheng	CN		34.615	118.338
+Tancheng	CN		25.508	119.807
+Taikang Chengguanzhen	CN		34.067	114.867
+Taihe Chengguanzhen	CN		33.166	115.649
+Taihe	CN		30.871	105.385
+Tanbei	CN		35.088	112.939
+Tafeng	CN		25.354	112.190
+Tianning	CN		37.547	112.161
+Tongzilin	CN		26.700	101.851
+Tiantan	CN		35.966	111.842
+Tuquan	CN		45.403	121.605
+Tonghe	CN		45.976	128.743
+Togrog Ul	CN		40.787	113.205
+Tianyi	CN		41.567	119.333
+Tianshan	CN		43.887	120.093
+Tangyuan	CN		46.726	129.900
+Taihe	CN		23.735	112.978
+Tongchuan	CN		34.899	108.951
+Tianjiao	CN		39.826	110.000
+Tongyangdao	CN		41.770	109.970
+Taizhou	CN		28.663	121.433
+Taiping	CN		28.369	121.362
+Tangxiang	CN		29.702	105.724
+Tiexi	CN		47.312	130.280
+Tantang	CN		23.137	109.413
+Tianmen	CN		30.659	113.154
+Tumxuk	CN		39.870	79.061
+Tuchín	CO		9.187	-75.555
+Toledo	CO		7.013	-75.695
+Timbío	CO		2.350	-76.683
+Tibacuy	CO		4.350	-74.452
+Teorama	CO		8.436	-73.290
+Tenerife	CO		9.901	-74.860
+Tarazá	CO		7.584	-75.401
+Talaigua Nuevo	CO		9.303	-74.565
+Taguasco	CU		22.002	-79.264
+Tsada - Tremithousa - Tala (Borders)	CY		34.834	32.454
+Tranebjerg	DK		55.833	10.597
+Taisha	EC		-2.340	-77.460
+Tehumardi	EE		58.180	22.246
+Trasierra	ES		38.183	-6.000
+Talayuelas	ES		39.850	-1.283
+Tresviso	ES		43.258	-4.668
+Trabazos	ES		41.748	-6.491
+Trabadelo	ES		42.649	-6.880
+Toses	ES		42.322	2.016
+Torrebesses	ES		41.433	0.600
+Tivissa	ES		41.033	0.733
+Terrades	ES		42.310	2.839
+Taberno	ES		37.469	-2.077
+Tiétar	ES		40.029	-5.482
+Turenki	FI		60.917	24.633
+Taavetti	FI		60.917	27.567
+Tubou	FJ		-18.237	-178.812
+Tamatam	FM		7.539	149.414
+Ta	FM		5.284	153.648
+Tafunsak	FM		5.367	162.985
+Tonoas Municipal Building	FM		7.376	151.884
+Tyberton	GB		52.045	-2.904
+Twickenham	GB		51.445	-0.338
+Turnastone	GB		52.024	-2.948
+Trewen	GB		50.617	-4.467
+Trelech	GB		51.944	-4.500
+Treherbert	GB		51.671	-3.530
+Tregoney	GB		50.267	-4.916
+Totland	GB		50.685	-1.537
+Tong	GB		52.667	-2.300
+Tiverton	GB		53.133	-2.667
+Tinwell	GB		52.646	-0.515
+Tilehurst	GB		51.456	-1.044
+Tickencote	GB		52.675	-0.537
+Thwing	GB		54.115	-0.390
+Thruxton	GB		52.000	-2.817
+Thornton	GB		53.900	-0.850
+Thornton	GB		53.500	-3.000
+Thornhaugh	GB		52.593	-0.424
+Thornbury	GB		52.233	-2.550
+Tidbury Green	GB		52.381	-1.856
+Tsageri	GE		42.651	42.770
+Tianeti	GE		42.108	44.964
+Terjola	GE		42.180	42.983
+Torteval	GG		49.433	-2.650
+Tuhelj	HR		46.077	15.747
+Trpanj	HR		43.008	17.275
+Trnovec Bartolovečki	HR		46.295	16.399
+Trnava	HR		45.261	18.253
+Tounj	HR		45.251	15.325
+Topusko	HR		45.293	15.972
+Tompojevci	HR		45.233	19.092
+Tinjan	HR		45.218	13.839
+Tualangcut	ID		4.402	98.072
+Tiku	ID		-0.396	99.923
+Teluk Dalam	ID		0.573	97.803
+Tarutung	ID		2.015	98.965
+Tangse	ID		5.014	95.915
+Talu	ID		0.230	99.981
+Takengon	ID		4.621	96.847
+Terangun	ID		4.077	97.067
+Turen	ID		-8.173	112.686
+Tunjungan	ID		-6.921	111.370
+Tumpang	ID		-8.006	112.764
+Terawas	ID		-3.053	102.815
+Tongutisungi	ID		1.498	127.556
+Tangga	ID		-8.656	118.694
+Tomu	ID		-2.217	132.971
+Tombatu	ID		1.042	124.684
+Tolitoli	ID		1.039	120.817
+Toho	ID		0.418	109.220
+Tiom	ID		-3.924	138.455
+Tinabogan	ID		0.782	120.526
+Tembuni	ID		-1.908	133.277
+Tilamuta	ID		0.527	122.346
+Tigi	ID		-3.967	136.267
+Tideng Pale	ID		3.608	116.907
+Tepas	ID		-8.717	116.917
+Tentena	ID		-1.756	120.648
+Tenga	ID		1.161	124.439
+Teminabuan	ID		-1.442	132.014
+Tembuku	ID		-8.452	115.385
+Tembilahan	ID		-0.323	103.160
+Temanggung	ID		-7.319	110.193
+Telukpakedai	ID		-0.265	109.121
+Telukdalam	ID		0.533	103.266
+Tekung	ID		-8.174	113.280
+Tehoru	ID		-3.443	129.543
+Tegalalang	ID		-8.437	115.279
+Tebing Tinggi	ID		-3.584	103.077
+Tayan	ID		-0.034	110.102
+Tanusan	ID		-3.134	133.647
+Tatelu	ID		1.531	124.948
+Tarogong	ID		-7.190	107.887
+Tarempa	ID		3.216	106.217
+Taraju	ID		-7.458	107.981
+Tapalang	ID		-2.864	118.867
+Tanjung Selor	ID		2.837	117.365
+Tanjungsakti	ID		-4.168	103.069
+Tanjungraja	ID		-3.337	104.775
+Tanjungpati	ID		-0.160	100.680
+Tanjung Lubuk	ID		-3.527	104.759
+Tanjunggadang	ID		-0.778	101.198
+Tanjunggadang	ID		-0.301	100.738
+Tanjungbumi	ID		-6.891	113.080
+Tanjungbatu	ID		-3.000	116.223
+Tanjungbatu	ID		0.659	103.462
+Tanjungampalu	ID		-0.622	100.825
+Tanjung	ID		-8.356	116.156
+Tanjung	ID		4.015	108.343
+Tanjung	ID		-2.171	115.408
+Taniwel	ID		-2.852	128.477
+Tongkiling	ID		-2.136	113.876
+Tanggeung	ID		-7.268	107.124
+Tanahwangko	ID		1.394	124.682
+Tana Paser	ID		-1.905	116.191
+Tamiang Layang	ID		-2.124	115.196
+Tamberu	ID		-6.898	113.484
+Tambaksari	ID		-7.249	108.535
+Tamako	ID		3.446	125.527
+Talun	ID		-8.091	112.285
+Teluk Kuantan	ID		-0.528	101.581
+Taliwang	ID		-8.745	116.853
+Talise	ID		1.833	125.069
+Talawi	ID		-0.597	100.740
+Talang Ubi	ID		-3.266	103.825
+Talangbetutu	ID		-2.882	104.694
+Takokak	ID		-7.051	107.004
+Takalar	ID		-5.426	119.438
+Tajinan	ID		-8.050	112.682
+Tais	ID		-4.075	102.577
+Tagolu	ID		-1.439	120.773
+Taccipi	ID		-4.507	120.184
+Tabing	ID		-0.872	100.343
+Tanjungsamalantakan	ID		-2.582	116.410
+Tabunganen	ID		-3.410	114.483
+Tulehu	ID		-3.588	128.327
+Tompasobaru	ID		0.920	124.469
+Tobadak	ID		-2.089	119.347
+Teppo	ID		-3.707	119.670
+Tancung	ID		-4.053	120.029
+Tanah Merah	ID		-6.098	140.306
+Tangantangancut	ID		3.688	96.890
+Tutuyan	ID		0.765	124.614
+Tanggunggunung	ID		-8.219	111.876
+Tirtopuro	ID		-8.181	114.357
+Tanjungampalu	ID		-0.639	100.828
+Tanjung Mas	ID		-0.497	100.773
+Tambolaka	ID		-9.428	119.238
+Tawali	ID		-8.341	118.915
+Tangratte	ID		-3.050	119.764
+Totumbang	ID		-3.078	119.921
+Tempurejo	ID		-8.299	113.679
+Terara	ID		-8.641	116.411
+Talibura	ID		-8.525	122.525
+Toroloji	ID		-8.358	120.169
+Tamanan	ID		-8.072	111.903
+Tigarunggu	ID		2.897	98.723
+Tanjungjaya	ID		-7.388	108.121
+Tempursari	ID		-8.286	112.979
+Tebing	ID		1.032	103.421
+Tlogowungu	ID		-6.707	111.014
+Talango	ID		-7.063	113.951
+Tarus	ID		-10.133	123.688
+Takari	ID		-9.973	124.047
+Tanjung Lubuk	ID		-3.360	104.843
+Topo	ID		-3.540	135.537
+Trimuris	ID		-1.958	137.837
+Teluk Pinang	ID		-0.182	103.359
+Terbangan	ID		3.215	97.272
+Tanah Merah	ID		3.632	97.702
+Tiro	ID		5.192	95.937
+Tenggulun	ID		3.991	98.007
+Trienggadeng	ID		5.240	96.202
+Tanjung Palas	ID		2.830	117.343
+Telagaselaba	ID		-2.383	115.314
+Tanta	ID		-2.228	115.452
+Tambarangan	ID		-3.004	115.132
+Tapintengah	ID		-2.956	115.037
+Telagalangsat	ID		-2.791	115.564
+Tungoo	ID		0.747	124.261
+Teritip	ID		-1.833	105.370
+Terentang	ID		-0.382	109.621
+Tigaraksa	ID		-6.228	106.514
+Tubei	ID		-3.119	102.200
+Tiakur	ID		-8.150	127.795
+Tuapejat	ID		-2.028	99.589
+Tengnoupal	IN		24.386	94.147
+Tall ‘Afar	IQ		36.379	42.448
+Tūyserkān	IR		34.551	48.444
+Ţorqabeh	IR		36.310	59.373
+Tajrīsh	IR		35.804	51.426
+Tīrān	IR		32.703	51.154
+Tāzehābād	IR		34.739	46.150
+Taft	IR		31.761	54.223
+Torbole sul Garda	IT		45.870	10.876
+Tagliuno	IT		45.643	9.909
+Tagajō-shi	JP		38.300	141.000
+Tsuchiura	JP		36.090	140.210
+Tsukubamirai	JP		35.984	140.009
+Takashima	JP		35.413	136.016
+Tama	JP		35.644	139.468
+Tonami	JP		36.620	136.943
+Tsurugashima	JP		35.960	139.403
+Tamura	JP		37.431	140.603
+Tōmi	JP		36.356	138.361
+Tomisato	JP		35.745	140.404
+Tsugaru	JP		40.804	140.403
+Towada	JP		40.620	141.211
+Toyoake	JP		35.038	136.999
+Tainai	JP		38.066	139.374
+Tsushima	JP		34.206	129.291
+Takizawa	JP		39.803	141.135
+Tōon	JP		33.794	132.890
+Tosashimizu	JP		32.784	132.963
+Toda	JP		35.814	139.660
+Taku	JP		33.277	130.109
+Taketa	JP		32.959	131.367
+Takeo	JP		33.192	130.013
+Takasago	JP		34.763	134.792
+Tachikawa	JP		35.709	139.419
+Tome	JP		38.709	141.156
+Tatsuno	JP		34.832	134.543
+Tosa	JP		33.505	133.445
+Tsuru	JP		35.547	138.910
+Tanba	JP		35.160	135.039
+Tōkai	JP		35.023	136.909
+Tayan	KG		39.903	71.108
+Talas	KG		42.355	72.657
+Toguz-Bulak	KG		39.843	69.714
+Thma Puok	KH		13.940	103.053
+Ta Loas	KH		12.808	103.460
+Thma Bang	KH		11.629	103.530
+Thpong	KH		11.754	104.427
+Trapeang Prasat	KH		14.187	104.355
+Ta Khmau	KH		11.446	104.946
+Tram Kak	KH		11.012	104.676
+Tongjin	KR		37.692	126.599
+Tanhyeon	KR		37.802	126.716
+Toseong	KR		38.257	128.560
+Touama	MA		31.535	-7.493
+Tiztoutine	MA		34.972	-3.153
+Tizguine	MA		31.228	-8.316
+Tit Mellil	MA		33.558	-7.486
+Tissa	MA		34.288	-4.664
+Tiout	MA		30.389	-8.696
+Tiouli	MA		34.367	-1.837
+Timoulilt	MA		32.204	-6.467
+Timezgana	MA		34.580	-4.730
+Timezgadiouine	MA		30.884	-9.045
+Tilmi	MA		31.818	-5.768
+Tifni	MA		31.628	-6.941
+Telouet	MA		31.289	-7.238
+Tazouta	MA		33.670	-4.634
+Taznakht	MA		30.578	-7.203
+Tazemmourt	MA		30.409	-8.829
+Tazarine	MA		33.883	-4.186
+Tata	MA		29.744	-7.973
+Tarsouat	MA		29.582	-9.027
+Teroual	MA		34.675	-5.273
+Taounza	MA		32.094	-6.606
+Taouloukoult	MA		31.222	-9.079
+Taouima	MA		35.130	-2.928
+Tanalt	MA		29.775	-9.168
+Tamorot	MA		34.936	-4.779
+Tamanar	MA		31.001	-9.678
+Talzemt	MA		33.590	-4.190
+Talmest	MA		31.810	-9.330
+Taliouine	MA		30.529	-7.913
+Tadrart	MA		30.775	-9.460
+Tabouda	MA		34.719	-5.140
+Tabia	MA		32.030	-6.800
+Tabia	MA		30.035	-8.877
+Tabant	MA		31.653	-6.410
+Tidili Mesfioua	MA		31.466	-7.612
+Tamri	MA		30.696	-9.830
+Tizgane	MA		35.412	-5.068
+Taroa	MH		8.706	171.227
+Tominian	ML		13.287	-4.593
+Tessalit	ML		20.201	1.012
+Ti-n-Essako	ML		18.451	2.488
+Tsetserleg	MN		49.271	94.858
+Tsetsegnuur	MN		46.600	93.267
+Tsenher	MN		46.917	92.117
+Tseel	MN		45.567	95.867
+Tsalgar	MN		49.717	93.267
+Tsahir	MN		48.080	98.852
+Tsagaantüngi	MN		49.050	90.450
+Tsagaan-Olom	MN		46.713	96.526
+Tsagaanchuluut	MN		47.112	96.671
+Tooromt	MN		50.467	93.583
+Tolbo	MN		48.417	90.283
+Tögrög	MN		47.424	92.224
+Tögrög	MN		45.830	94.815
+Tegsh	MN		48.751	96.000
+Taygan	MN		46.354	97.366
+Talshand	MN		45.333	97.983
+Tahilt	MN		45.347	96.646
+Telmin Suma	MN		48.643	97.619
+Tsagaanhayrhan	MN		49.400	94.233
+Tsagaannuur	MN		51.356	99.344
+Tsul-Ulaan	MN		47.833	104.500
+Tsoohor	MN		43.307	104.074
+Tsomog	MN		45.917	109.067
+Tsant	MN		46.183	106.717
+Tsagaan-Ovoo	MN		45.964	101.460
+Tsagaan-Ovoo	MN		45.507	105.756
+Tsagaandörvölj	MN		45.798	109.318
+Tsagaanders	MN		48.050	114.367
+Teshig	MN		49.947	102.661
+Teel	MN		48.046	100.509
+Tavin	MN		46.392	105.735
+Tavanbulag	MN		47.382	101.908
+Tsagaan-Owoo	MN		48.400	113.433
+Tevragh Zeina	MR		18.099	-15.988
+Tezoatlán de Segura y Luna	MX	20	17.654	-97.811
+Tepeyahualco	MX	21	18.814	-97.877
+Texmelucan	MX	20	16.585	-97.199
+Tamazulapam	MX	20	17.055	-96.065
+Tapeixtles	MX	08	19.069	-104.283
+Tchirozérine	NE		17.221	7.761
+Tureta	NG		12.594	5.544
+Tudun Wada	NG		11.248	8.401
+Tsanyawa	NG		12.296	7.987
+Toto	NG		8.388	7.078
+Toro	NG		10.059	9.069
+Tofa	NG		12.058	8.273
+Tede	NG		8.553	3.447
+Taura	NG		12.227	9.283
+Talasse	NG		9.968	11.679
+Tafawa Balewa	NG		9.760	9.552
+Tse-Agberagba	NG		7.077	8.666
+Tunkus	NG		9.022	9.614
+Tonalá	NI		12.767	-87.133
+Tysse	NO		60.374	5.760
+Treungen	NO		59.021	8.520
+Tjeldstø	NO		60.596	4.844
+Tingvatn	NO		58.376	7.220
+Tangvall	NO		58.098	7.815
+Teigebyen	NO		60.221	11.018
+Trøim	NO		60.861	8.565
+Tennevoll	NO		68.747	17.806
+Tana bru	NO		70.199	28.190
+Tucutí	PA		7.928	-77.946
+Tunal	PE		-5.209	-79.675
+Trompeteros	PE		-3.814	-75.058
+Trinidad	PE		-7.350	-79.033
+Tres Unidos	PE		-6.807	-76.229
+Tournavista	PE		-8.929	-74.708
+Totora	PE		-6.492	-77.473
+Tocmoche	PE		-6.412	-79.362
+Tingo	PE		-6.372	-77.912
+Tinco	PE		-9.270	-77.679
+Ticapampa	PE		-9.750	-77.450
+Tembladera	PE		-7.267	-79.150
+Tayabamba	PE		-8.277	-77.296
+Taurija	PE		-8.309	-77.422
+Tauca	PE		-8.483	-78.050
+Tarica	PE		-9.394	-77.575
+Tarapoto	PE		-6.501	-76.366
+Tantamayo	PE		-9.391	-76.723
+Tamarindo	PE		-4.877	-80.973
+Tamanco	PE		-5.850	-74.317
+Tacabamba	PE		-6.383	-78.617
+Tabaconas	PE		-5.315	-79.283
+Tuti	PE		-15.533	-71.551
+Turpo	PE		-13.785	-73.474
+Turpay	PE		-14.219	-72.624
+Tupe	PE		-12.741	-75.808
+Totos	PE		-13.567	-74.524
+Toro	PE		-15.264	-72.929
+Toraya	PE		-14.051	-73.297
+Tomepampa	PE		-15.173	-72.831
+Tomay Kichwa	PE		-10.077	-76.212
+Tomas	PE		-12.239	-75.745
+Tocota	PE		-15.659	-74.091
+Tibillo	PE		-14.093	-75.172
+Tisco	PE		-15.346	-71.448
+Tirapata	PE		-14.950	-70.400
+Tiquillaca	PE		-15.817	-70.200
+Tintay	PE		-13.959	-73.186
+Ticrapo	PE		-13.350	-75.417
+Ticllos	PE		-10.254	-77.191
+Ticllas	PE		-13.133	-74.333
+Ticaco	PE		-17.446	-70.047
+Tiabaya	PE		-16.450	-71.590
+Taurisma	PE		-15.175	-72.850
+Tauripampa	PE		-12.583	-76.117
+Tauria	PE		-15.356	-73.233
+Tarucani	PE		-16.183	-71.067
+Tarucachi	PE		-17.525	-70.028
+Taraco	PE		-15.300	-69.967
+Tapo	PE		-11.391	-75.564
+Tapay	PE		-15.578	-71.939
+Tapairihua	PE		-14.140	-73.143
+Tapacocha	PE		-10.017	-77.583
+Tanta	PE		-12.117	-76.017
+Tamburco	PE		-13.617	-72.871
+Tambo Quemado	PE		-14.733	-74.683
+Tambobamba	PE		-13.945	-72.171
+Tambo	PE		-12.933	-74.017
+Tambillo	PE		-13.192	-74.111
+Taray	PE		-13.428	-71.868
+Tapuarava	PF		-18.466	-136.463
+Tudela	PH		10.638	124.473
+Tuburan	PH		10.727	123.826
+Tubungan	PH		10.764	122.318
+Tubod	PH		9.562	125.571
+Tubaran	PH		7.767	124.167
+Tubao	PH		16.348	120.412
+Tuba	PH		16.317	120.549
+Tolosa	PH		11.100	125.017
+Tinglayan	PH		17.276	121.162
+T'boli	PH		6.200	124.833
+Taysan	PH		13.798	121.190
+Tayasan	PH		9.924	123.170
+Tanza	PH		14.398	120.855
+Tanudan	PH		17.296	121.238
+Tangalan	PH		11.779	122.263
+Talipao	PH		5.976	121.116
+Talayan	PH		6.981	124.382
+Tagapul-an	PH		12.050	124.150
+Tabogon	PH		10.941	124.028
+Tubo	PH		17.267	120.736
+Tabuk	PH		17.408	121.278
+Timargara	PK		34.827	71.844
+Tuczna	PL		51.880	23.425
+Trancoso	PT		40.783	-7.350
+Terras de Bouro	PT		41.718	-8.309
+Toboliu	RO		47.042	21.719
+Târşolţ	RO		47.950	23.350
+Târlişua	RO		47.383	24.183
+Târgu Lăpuş	RO		47.453	23.865
+Ţânţăreni	RO		44.600	23.483
+Tâmboeşti	RO		45.517	27.050
+Teslui	RO		44.206	24.155
+Trgovište	RS		42.364	22.082
+Topola	RS		44.254	20.683
+Temerin	RS		45.409	19.889
+Tyrnyauz	RU		43.406	42.927
+Tul’skiy	RU		44.514	40.179
+Tomsino	RU		56.452	28.539
+Taro	SB		-6.711	156.397
+Turčianske Teplice	SK		48.862	18.860
+Topoľčany	SK		48.564	18.167
+Terekeka	SS		5.444	31.751
+Trindade	ST		0.297	6.681
+Tasīl	SY		32.834	35.970
+Tall Tamr	SY		36.656	40.371
+Tall Salḩab	SY		35.259	36.385
+Tall Ḩamīs	SY		36.757	41.399
+Talldaww	SY		34.876	36.524
+Tall aḑ Ḑamān	SY		35.808	37.254
+Tall Abyaḑ	SY		36.696	38.954
+Tālīn	SY		35.148	36.033
+Taftanāz	SY		35.998	36.786
+Tchoban Bey	SY		36.612	37.448
+Thung Sai	TH		16.315	99.833
+Thung Yai	TH		8.301	99.366
+Thung Tako	TH		10.110	99.083
+Thung Saliam	TH		17.321	99.561
+Thong Pha Phum	TH		14.743	98.631
+Tha Song Yang	TH		17.227	98.226
+Tha Sala	TH		8.667	99.931
+Tha Sae	TH		10.665	99.173
+Thap Sakae	TH		11.500	99.622
+Thap Put	TH		8.516	98.640
+Tha Phae	TH		6.790	99.970
+Thalang	TH		8.032	98.334
+Thai Mueang	TH		8.399	98.261
+Tha Chang	TH		9.264	99.192
+Tha Chana	TH		9.572	99.166
+Takua Thung	TH		8.384	98.451
+Takua Pa	TH		8.870	98.344
+Thung Wa	TH		7.110	99.756
+Thung Hua Chang	TH		18.003	99.028
+Tha Maka	TH		13.921	99.766
+Thepharak	TH		15.309	101.550
+Thepha	TH		6.829	100.964
+Tak Fa	TH		15.349	100.495
+Tron	TH		17.482	100.113
+Trakan Phut Phon	TH		15.612	105.021
+Thung Fon	TH		17.472	103.260
+Thon Buri	TH		13.725	100.485
+Thoeng	TH		19.685	100.195
+Thep Sathit	TH		15.392	101.451
+Tha Wung	TH		14.811	100.503
+Thawat Buri	TH		16.038	103.746
+Tha Wang Pha	TH		19.122	100.811
+Tha Uthen	TH		17.576	104.599
+Tha Tum	TH		15.319	103.675
+Tha Tako	TH		15.642	100.478
+Tha Pla	TH		17.791	100.376
+Thanyaburi	TH		14.021	100.734
+Than To	TH		6.167	101.180
+Tha Luang	TH		15.071	101.098
+Tha Li	TH		17.624	101.421
+Tha Khantho	TH		16.940	103.246
+Tha Chang	TH		14.761	100.390
+Ta Phraya	TH		14.003	102.805
+Tao Ngoi	TH		16.997	104.167
+Tan Sum	TH		15.316	105.155
+Tamot	TH		7.339	100.112
+Taling Chan	TH		13.777	100.457
+Takhli	TH		15.263	100.344
+Thung Yang Daeng	TH		6.618	101.427
+Thung Chang	TH		19.388	100.876
+Thawi Watthana	TH		13.789	100.333
+Thung Khru	TH		13.629	100.510
+Takuk Nuea	TH		9.239	98.979
+Thong Saen Khan	TH		17.471	100.331
+Tha Takiap	TH		13.445	101.611
+Thung Khao Luang	TH		15.994	103.863
+Thai Charoen	TH		16.066	104.440
+Thung Si Udom	TH		14.733	104.909
+Tavildara	TJ		38.695	70.484
+Tajikobod	TJ		39.124	70.840
+Tutak	TR		39.539	42.766
+Türkoğlu	TR		37.386	36.843
+Turgut	TR		38.627	31.811
+Topaklı	TR		39.006	34.826
+Toklar	TR		38.418	36.015
+Tepehan	TR		38.118	38.726
+Tepecikören	TR		37.361	35.626
+Tepebaşı	TR		36.666	32.722
+Tepe	TR		37.789	40.772
+Temelli	TR		39.727	32.355
+Tecirli	TR		37.162	36.110
+Taşucu	TR		36.321	33.882
+Taşpınar	TR		38.180	34.025
+Taşdelen	TR		38.838	38.505
+Taşağıl	TR		36.922	31.236
+Taraksu	TR		38.154	39.148
+Taraksu	TR		38.017	39.083
+Tanyeri	TR		39.611	39.832
+Tanır	TR		38.419	36.912
+Tahir	TR		39.856	42.428
+Tuzla	TR		36.701	35.087
+Tilfetis	TR		37.481	39.047
+Timar	TR		38.829	43.433
+Turanlı	TR		39.277	27.325
+Tuzluca	TR		40.039	43.652
+Tütüncü	TR		40.067	27.720
+Topçam	TR		40.617	37.771
+Tekkiraz	TR		40.986	37.160
+Tekke	TR		40.716	36.192
+Teke	TR		41.060	29.654
+Taflan	TR		41.409	36.129
+Termal	TR		40.608	29.174
+Taşburun	TR		39.986	44.224
+Tepebaşı	TR		39.811	30.526
+Taoyuan	TW		24.990	121.319
+Taitung	TW		22.760	121.145
+Taibao	TW		23.459	120.332
+Tyvriv	UA		49.014	28.508
+Turiys’k	UA		51.086	24.523
+Trostyanets’	UA		48.510	29.235
+Troyits’ke	UA		49.914	38.293
+Tomashpil’	UA		48.543	28.517
+Tlumach	UA		48.864	25.003
+Terny	UA		49.092	37.961
+Teofipol	UA		49.838	26.414
+Talalayivka	UA		50.839	33.144
+Toyloq Qishlog’i	UZ		39.601	67.091
+Tomdibuloq	UZ		41.751	64.617
+Taxtako‘pir	UZ		43.012	60.301
+To‘rtko‘l Shahri	UZ		41.561	61.002
+Tŭragŭrghon Shahri	UZ		41.003	71.511
+Tocuyito	VE		10.113	-68.068
+Tunapuy	VE		10.575	-63.108
+Tumeremo	VE		7.299	-61.505
+Tucupido	VE		9.273	-65.772
+Tucaní	VE		8.970	-71.273
+Tovar	VE		8.330	-71.753
+Torunos	VE		8.500	-70.081
+Torondoy	VE		9.035	-71.014
+Tocópero	VE		11.499	-69.259
+Tinaco	VE		9.699	-68.433
+Timotes	VE		8.982	-70.739
+Tía Juana	VE		10.259	-71.363
+Temblador	VE		9.005	-62.645
+Tabay	VE		8.632	-71.078
+Thị Trấn Yên Minh	VN		23.118	105.142
+Trảng Bom	VN		10.954	107.006
+Thị Trấn Vĩnh Tuy	VN		22.274	104.891
+Tuy Phước	VN		13.827	109.167
+Tư Nghĩa	VN		15.085	108.826
+Thị Trấn Trùng Khánh	VN		22.835	106.525
+Tri Tôn	VN		10.420	105.001
+Trà Ôn	VN		9.963	105.922
+Trảng Bàng	VN		11.030	106.358
+Thị Trấn Trạm Tấu	VN		21.467	104.380
+Trà My	VN		15.340	108.221
+Tràm Chim	VN		10.670	105.565
+Trà Cú	VN		9.698	106.258
+Trà Bồng	VN		15.256	108.517
+Tĩnh Gia	VN		19.446	105.779
+Tiểu Cần	VN		9.812	106.191
+Tiên Phước	VN		15.488	108.307
+Thủ Thừa	VN		10.602	106.402
+Thường Xuân	VN		19.903	105.347
+Thủ Đức	VN		10.849	106.772
+Thọ Xuân	VN		19.931	105.522
+Thốt Nốt	VN		10.272	105.534
+Thới Lai	VN		10.065	105.559
+Thới Bình	VN		9.356	105.099
+Thị Trấn Thất Khê	VN		22.255	106.474
+Than Uyên	VN		21.959	103.880
+Thanh Sơn	VN		21.199	105.179
+Thạnh Phú	VN		9.948	106.516
+Thanh Nê	VN		20.388	106.438
+Thanh Chương	VN		18.779	105.334
+Thanh Bình	VN		10.562	105.484
+Thạch Hà	VN		18.368	105.861
+Tây Hồ	VN		21.069	105.811
+Tây Đằng	VN		21.198	105.422
+Tân Kỳ	VN		19.048	105.268
+Tánh Linh	VN		11.084	107.681
+Tân Hiệp	VN		10.449	106.344
+Tân Hiệp	VN		10.117	105.286
+Tân Châu	VN		10.798	105.239
+Trai Ngau	VN		21.393	105.614
+Tam Bình	VN		10.048	106.000
+Thị Trấn Tà Lùng	VN		22.498	106.567
+Thị Trấn Sìn Hồ	VN		22.366	103.234
+Thị Trấn Quảng Uyên	VN		22.695	106.442
+Thị Trấn Phố Lu	VN		22.319	104.187
+Thị Trấn Nước Hai	VN		22.737	106.152
+Thị Trấn Nguyên Bình	VN		22.650	105.960
+Tiền Hải	VN		20.406	106.504
+Thị Trấn Ngải Giao	VN		10.647	107.246
+Thị Trấn Na Sầm	VN		22.056	106.615
+Thạnh Mỹ	VN		15.749	107.837
+Thị Trấn Mường Khương	VN		22.761	104.122
+Thị Trấn Mèo Vạc	VN		23.164	105.410
+Thị Trấn Phước Bửu	VN		10.535	107.402
+Thị Trấn Khánh Yên	VN		22.089	104.251
+Thị Trấn Thanh Nhật	VN		22.687	106.670
+Tram de Dak Mil	VN		12.450	107.622
+Thị Trấn Đồng Văn	VN		23.278	105.363
+Thị Trấn Đông Khê	VN		22.429	106.432
+Tân Túc	VN		10.695	106.591
+Thị Trấn Phố Ràng	VN		22.234	104.476
+Thị Trấn Bảo Lạc	VN		22.949	105.680
+Thị Trấn Thuận Châu	VN		21.438	103.690
+Tân Trụ	VN		10.513	106.508
+Tam Điệp	VN		20.156	105.917
+Thanh Ba	VN		21.499	105.141
+Thị Trấn Tân Yên	VN		22.066	105.034
+Tân Việt	VN		22.864	105.459
+Tầm Vu	VN		10.441	106.468
+Thứa	VN		21.019	106.200
+Thị Trấn Gành Hào	VN		9.032	105.421
+Thị Trấn Ngan Dừa	VN		9.567	105.450
+Thị Trấn Phước Long	VN		9.438	105.462
+Thị Trấn Giá Rai	VN		9.238	105.455
+Thị Trấn Hòa Bình	VN		9.285	105.629
+Thắng	VN		21.355	105.983
+Thị Trấn Long Điền	VN		10.486	107.212
+Thị Trấn Tủa Chùa	VN		21.858	103.343
+Thị Trấn Điện Biên	VN		21.260	103.034
+Tam Đường	VN		22.318	103.626
+Thị Trấn Mường Tè	VN		22.381	102.820
+Thị Trấn Tam Sơn	VN		23.067	104.989
+Thị Trấn Vị Xuyên	VN		22.668	104.982
+Thị Trấn Việt Lâm	VN		22.625	104.960
+Thị Trấn Việt Quang	VN		22.415	104.807
+Thị Trấn Vinh Quang	VN		22.741	104.680
+Thị Trấn Thông Nông	VN		22.784	105.983
+Thị Trấn Xuân Hoà	VN		22.902	106.077
+Thị Trấn Hùng Quốc	VN		22.829	106.323
+Thị Trấn Cao Lộc	VN		21.866	106.768
+Thị Trấn Vĩnh Lộc	VN		22.144	105.272
+Thị Trấn Yên Thế	VN		22.111	104.767
+Thị Trấn Na Hang	VN		22.349	105.382
+Thị Trấn Phú Mỹ	VN		10.604	107.054
+Triệu Sơn	VN		19.819	105.604
+Thiên Tồn	VN		20.299	105.952
+Thanh Lưu	VN		20.474	105.953
+Thành Phố Bà Rịa	VN		10.496	107.168
+Thị Trấn Tuần Giáo	VN		21.590	103.422
+Tiên Lãng	VN		20.725	106.554
+Trới	VN		21.031	106.991
+Thanh Miện	VN		20.787	106.246
+Tứ Kỳ	VN		20.819	106.407
+Thanh Hà	VN		20.898	106.426
+Thanh Thủy	VN		21.175	105.284
+Trần Cao	VN		20.730	106.180
+Trôi	VN		21.070	105.706
+Thường Tín	VN		20.869	105.861
+Trâu Quỳ	VN		21.020	105.937
+Thanh Xuân	VN		20.995	105.800
+Thanh Khê	VN		16.071	108.191
+Tây Trà	VN		15.169	108.360
+Tô Hạp	VN		12.006	108.949
+Thạnh Mỹ	VN		11.762	108.495
+Tân Sơn	VN		11.775	108.785
+Thuận Nam	VN		10.850	107.879
+Tân Phú	VN		11.272	107.437
+Thống Nhất	VN		10.951	107.146
+Tân Phú	VN		11.451	106.868
+Tân Châu	VN		11.552	106.172
+Tân Biên	VN		11.544	106.012
+Tân Hưng	VN		10.835	105.661
+Tân Thạnh	VN		10.607	106.047
+Thạnh Hóa	VN		10.657	106.181
+Tân Hòa	VN		10.319	106.711
+Thứ Mười Một	VN		9.611	104.947
+Trần Văn Thời	VN		9.077	104.979
+Thamūd	YE		17.292	49.919
+Tarīm	YE		16.057	48.999
+Ţawr al Bāḩah	YE		13.182	44.300
+Tugela Ferry	ZA		-28.746	30.451
+Trompsburg	ZA		-30.034	25.780
+Taung	ZA		-27.531	24.787
+Tarkastad	ZA		-32.009	26.259

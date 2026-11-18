@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lines of Home — Your map</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+<style>
+  :root {
+    --papier: #D2C3A8; --inkt: #0F1118; --blauw: #566679; --zand: #5F564A; --creme: #F2EDE4;
+    --rand: rgba(15,17,24,.18); --fout: #8A2E22;
+  }
+  * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  html, body { margin: 0; background: var(--papier); color: var(--inkt);
+    font-family: Inter, system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
+  main { max-width: 520px; margin: 0 auto; padding: 28px 20px 64px; }
+  header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 36px; }
+  .merk { display: flex; align-items: center; gap: 10px; font-weight: 600; letter-spacing: .14em;
+    font-size: 12px; text-transform: uppercase; }
+  .taal { display: flex; border: 1px solid var(--inkt); border-radius: 999px; overflow: hidden; }
+  .taal button { border: 0; background: transparent; color: var(--inkt); font: inherit; font-size: 12px;
+    font-weight: 600; letter-spacing: .08em; padding: 7px 14px; cursor: pointer; }
+  .taal button[aria-pressed="true"] { background: var(--inkt); color: var(--creme); }
+  h1 { font-size: 34px; line-height: 1.12; font-weight: 600; letter-spacing: -.02em; margin: 0 0 12px; }
+  .intro { color: var(--zand); font-size: 16px; line-height: 1.5; margin: 0 0 32px; }
+  .veld { margin-bottom: 24px; }
+  label, .label { display: block; font-size: 13px; font-weight: 600; letter-spacing: .04em;
+    text-transform: uppercase; margin-bottom: 8px; }
+  .hulp { font-size: 13px; color: var(--zand); margin-top: 7px; line-height: 1.4; }
+  input[type=text], select {
+    width: 100%; font: inherit; font-size: 16px; color: var(--inkt); background: var(--creme);
+    border: 1px solid var(--rand); border-radius: 10px; padding: 13px 14px; appearance: none; }
+  select { background-image: linear-gradient(45deg, transparent 50%, var(--inkt) 50%),
+    linear-gradient(135deg, var(--inkt) 50%, transparent 50%);
+    background-position: calc(100% - 18px) 55%, calc(100% - 13px) 55%;
+    background-size: 5px 5px; background-repeat: no-repeat; padding-right: 34px; }
+  input:focus, select:focus { outline: 2px solid var(--blauw); outline-offset: 1px; }
+  .rij { display: grid; gap: 8px; }
+  .rij.datum { grid-template-columns: 1fr 1.6fr 1.2fr; }
+  .rij.tijd { grid-template-columns: 1fr 1fr; }
+  .rij.tijd.ampm { grid-template-columns: 1fr 1fr 1fr; }
+  .wissel { display: inline-flex; gap: 4px; margin-left: 8px; vertical-align: middle; }
+  .wissel button { font: inherit; font-size: 11px; font-weight: 600; letter-spacing: .06em;
+    border: 1px solid var(--inkt); background: transparent; color: var(--inkt);
+    border-radius: 999px; padding: 3px 10px; cursor: pointer; text-transform: none; }
+  .wissel button[aria-pressed="true"] { background: var(--inkt); color: var(--creme); }
+  .zoek { position: relative; }
+  .lijst { position: absolute; z-index: 5; left: 0; right: 0; top: calc(100% + 4px); margin: 0; padding: 4px;
+    list-style: none; background: var(--creme); border: 1px solid var(--rand); border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(15,17,24,.18); max-height: 320px; overflow-y: auto; }
+  .lijst li { padding: 11px 12px; border-radius: 7px; cursor: pointer; line-height: 1.3; }
+  .lijst li[aria-selected="true"], .lijst li:hover { background: var(--papier); }
+  .lijst .stad { font-weight: 500; }
+  .lijst .land { color: var(--zand); font-size: 14px; }
+  .lijst .leeg { color: var(--zand); cursor: default; }
+  .lijst .leeg:hover { background: transparent; }
+  .gekozen { display: flex; align-items: center; justify-content: space-between; gap: 12px;
+    background: var(--creme); border: 1px solid var(--blauw); border-radius: 10px; padding: 12px 14px; }
+  .gekozen button { font: inherit; font-size: 13px; font-weight: 600; background: none; border: 0;
+    color: var(--blauw); cursor: pointer; text-decoration: underline; padding: 0; }
+  .fout { color: var(--fout); font-size: 13px; margin-top: 7px; display: none; }
+  .veld.ongeldig .fout { display: block; }
+  .veld.ongeldig input, .veld.ongeldig select, .veld.ongeldig .gekozen { border-color: var(--fout); }
+  .knop { display: block; width: 100%; text-align: center; text-decoration: none; margin-top: 8px;
+    background: var(--inkt); color: var(--creme); font: inherit; font-size: 16px; font-weight: 600;
+    border: 0; border-radius: 999px; padding: 17px; cursor: pointer; }
+  .knop[aria-disabled="true"] { opacity: .45; }
+  .klein { font-size: 13px; color: var(--zand); line-height: 1.5; margin-top: 20px; text-align: center; }
+  .klaar { display: none; margin-top: 18px; padding: 16px; border: 1px solid var(--blauw);
+    border-radius: 10px; background: var(--creme); font-size: 14px; line-height: 1.5; }
+  .klaar.zichtbaar { display: block; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="merk">
+      <svg viewBox="0 0 100 100" width="22" height="22" aria-hidden="true">
+        <path d="M 61 25 A 26 26 0 1 0 28 46" fill="none" stroke="#0F1118" stroke-width="7" stroke-linecap="round"/>
+        <circle cx="30" cy="20" r="8" fill="#0F1118"/>
+      </svg>
+      <span>Lines of Home</span>
+    </div>
+    <div class="taal" role="group" aria-label="Language">
+      <button type="button" data-taal="en" aria-pressed="true">EN</button>
+      <button type="button" data-taal="es" aria-pressed="false">ES</button>
+    </div>
+  </header>
+
+  <h1 data-t="titel"></h1>
+  <p class="intro" data-t="intro"></p>
+
+  <form id="formulier" novalidate>
+    <div class="veld" id="v-naam">
+      <label for="naam" data-t="naam"></label>
+      <input type="text" id="naam" autocomplete="name" maxlength="80">
+      <div class="hulp" data-t="naamHulp"></div>
+      <div class="fout" data-t="naamFout"></div>
+    </div>
+
+    <div class="veld" id="v-datum">
+      <span class="label" data-t="datum"></span>
+      <div class="rij datum">
+        <select id="dag" aria-label="Day"></select>
+        <select id="maand" aria-label="Month"></select>
+        <select id="jaar" aria-label="Year"></select>
+      </div>
+      <div class="fout" data-t="datumFout"></div>
+    </div>
+
+    <div class="veld" id="v-tijd">
+      <span class="label"><span data-t="tijd"></span>
+        <span class="wissel" role="group" aria-label="Clock format">
+          <button type="button" data-klok="24" aria-pressed="true">24h</button>
+          <button type="button" data-klok="12" aria-pressed="false">AM/PM</button>
+        </span>
+      </span>
+      <div class="rij tijd" id="tijdrij">
+        <select id="uur" aria-label="Hour"></select>
+        <select id="minuut" aria-label="Minute"></select>
+        <select id="ampm" aria-label="AM or PM" hidden>
+          <option value="">AM / PM</option><option value="AM">AM</option><option value="PM">PM</option>
+        </select>
+      </div>
+      <div class="hulp" data-t="tijdHulp"></div>
+      <div class="fout" data-t="tijdFout"></div>
+    </div>
+
+    <div class="veld" id="v-plaats">
+      <label for="plaats" data-t="plaats"></label>
+      <div class="zoek" id="zoekvak">
+        <input type="text" id="plaats" autocomplete="off" role="combobox" aria-expanded="false"
+               aria-controls="suggesties" aria-autocomplete="list">
+        <ul class="lijst" id="suggesties" role="listbox" hidden></ul>
+      </div>
+      <div class="gekozen" id="gekozen" hidden>
+        <span id="gekozenTekst"></span>
+        <button type="button" id="wijzig" data-t="wijzig"></button>
+      </div>
+      <div class="hulp" data-t="plaatsHulp"></div>
+      <div class="fout" data-t="plaatsFout"></div>
+    </div>
+
+    <a class="knop" id="verder" href="#" role="button" data-t="verder"></a>
+    <div class="klaar" id="klaar" data-t="klaar"></div>
+    <p class="klein" data-t="klein"></p>
+  </form>
+</main>
+
+<script>
+// ------------------------------------------------------------------ instellingen
+const GUMROAD = "https://linesofhome.gumroad.com/l/astrocartography-map";
+// Deze namen moeten EXACT gelijk zijn aan de labels van de eigen velden in Gumroad.
+const VELD = { naam: "Name on the map", datum: "Date of birth (e.g. 3 March 1995)",
+               tijd: "Time of birth (e.g. 09:30 or 9:30 AM)", plaats: "Place of birth (city, country)" };
+const VARIANT = { en: "English", es: "Español" };
+
+const T = {
+  en: {
+    titel: "Your astrocartography map",
+    intro: "Three details about the moment you were born. Your map is calculated from them and sent to your email as a PDF within 24 hours.",
+    naam: "Name on the map", naamHulp: "The person whose chart this is. Ordering as a gift? Use their name.",
+    naamFout: "Please enter a name.",
+    datum: "Date of birth", dag: "Day", maand: "Month", jaar: "Year", datumFout: "Please choose a valid date.",
+    tijd: "Time of birth", uur: "Hour", minuut: "Min",
+    tijdHulp: "As exact as possible. It is usually on the birth certificate.",
+    tijdFout: "Please choose the hour, the minute and AM or PM.",
+    plaats: "Place of birth", plaatsZoek: "Start typing a city…",
+    plaatsHulp: "Choose from the list. Small town not listed? Pick the nearest larger town.",
+    plaatsFout: "Please choose your place of birth from the list.", wijzig: "Change",
+    geen: "No match. Try another spelling or the nearest larger town.", laden: "Searching…",
+    verder: "Continue to payment · $29",
+    klaar: "Opening the secure Gumroad checkout. Your details are already filled in there; check them once more before you pay. Nothing opened? Tap the button again.",
+    klein: "Payment is handled by Gumroad. For reflection and entertainment; astrology is not science, advice or a forecast.",
+    maanden: ["January","February","March","April","May","June","July","August","September","October","November","December"],
+  },
+  es: {
+    titel: "Tu mapa de astrocartografía",
+    intro: "Tres datos sobre el momento en que naciste. Con ellos calculamos tu mapa y te lo enviamos por email en PDF en menos de 24 horas.",
+    naam: "Nombre en el mapa", naamHulp: "La persona de la carta. ¿Es un regalo? Pon su nombre.",
+    naamFout: "Escribe un nombre.",
+    datum: "Fecha de nacimiento", dag: "Día", maand: "Mes", jaar: "Año", datumFout: "Elige una fecha válida.",
+    tijd: "Hora de nacimiento", uur: "Hora", minuut: "Min",
+    tijdHulp: "Lo más exacta posible. Suele aparecer en el certificado de nacimiento.",
+    tijdFout: "Elige la hora, los minutos y AM o PM.",
+    plaats: "Lugar de nacimiento", plaatsZoek: "Empieza a escribir una ciudad…",
+    plaatsHulp: "Elige de la lista. ¿Tu pueblo no aparece? Elige la ciudad más cercana.",
+    plaatsFout: "Elige tu lugar de nacimiento de la lista.", wijzig: "Cambiar",
+    geen: "Sin resultados. Prueba otra forma de escribirlo o la ciudad más cercana.", laden: "Buscando…",
+    verder: "Continuar al pago · 29 $",
+    klaar: "Abriendo el pago seguro de Gumroad. Tus datos ya están rellenados; revísalos una vez más antes de pagar. ¿No se abrió nada? Pulsa el botón otra vez.",
+    klein: "El pago lo gestiona Gumroad. Para reflexión y entretenimiento; la astrología no es ciencia, consejo ni predicción.",
+    maanden: ["enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],
+  },
+};
+
+// Andere schrijfwijzen (NL/ES/lokaal) -> naam in de lijst. Genormaliseerd.
+const ALIAS = {
+  "den haag":"the hague","s gravenhage":"the hague","la haya":"the hague","den bosch":"s hertogenbosch",
+  "keulen":"koln","cologne":"koln","colonia":"koln","munchen":"munich","munich":"munich","praag":"prague","praha":"prague",
+  "praga":"prague","wenen":"vienna","wien":"vienna","viena":"vienna","lissabon":"lisbon","lisboa":"lisbon",
+  "napels":"naples","napoli":"naples","napoles":"naples","firenze":"florence","florencia":"florence",
+  "moskou":"moscow","moscu":"moscow","moskva":"moscow","kopenhagen":"copenhagen","copenhague":"copenhagen",
+  "athene":"athens","atenas":"athens","seville":"sevilla","brussel":"brussels","bruselas":"brussels",
+  "bruxelles":"brussels","warschau":"warsaw","varsovia":"warsaw","geneve":"geneva","ginebra":"geneva",
+  "bombay":"mumbai","peking":"beijing","pekin":"beijing","venetie":"venice","venecia":"venice","venezia":"venice",
+  "milaan":"milan","milano":"milan","turijn":"turin","torino":"turin","roma":"rome","parijs":"paris","paris":"paris",
+  "londen":"london","londres":"london","new york":"new york city","nueva york":"new york city","nyc":"new york city",
+  "berlijn":"berlin","antwerp":"antwerpen","amberes":"antwerpen","luik":"liege","straatsburg":"strasbourg",
+  "estrasburgo":"strasbourg","boekarest":"bucharest","bucarest":"bucharest","boedapest":"budapest",
+  "belgrado":"belgrade","sint petersburg":"saint petersburg","san petersburgo":"saint petersburg",
+  "kaapstad":"cape town","ciudad del cabo":"cape town","mexico stad":"mexico city","ciudad de mexico":"mexico city",
+  "havanna":"havana","la habana":"havana","beiroet":"beirut","kairo":"cairo","el cairo":"cairo",
+  "jeruzalem":"jerusalem","jerusalen":"jerusalem","bagdad":"baghdad","teheran":"tehran","istanboel":"istanbul",
+  "estambul":"istanbul","edinburg":"edinburgh","edimburgo":"edinburgh","marrakesh":"marrakech","tanger":"tangier",
+  "rio":"rio de janeiro","saragossa":"zaragoza","nizza":"nice","niza":"nice","marsella":"marseille",
+  "burdeos":"bordeaux","hamburgo":"hamburg","francfort":"frankfurt am main","frankfurt":"frankfurt am main",
+  "estocolmo":"stockholm","oporto":"porto","filadelfia":"philadelphia","nueva orleans":"new orleans",
+  "tokio":"tokyo","ciudad de panama":"panama","amsterdam":"amsterdam","zurich":"zurich","dublin":"dublin",
+  "s hertogenbosch":"s hertogenbosch",
+};
+
+// ------------------------------------------------------------------ hulpfuncties
+function norm(s) {
+  return s.normalize("NFKD").replace(/[̀-ͯ]/g, "").toLowerCase()
+    .replace(/ø/g,"o").replace(/æ/g,"ae").replace(/ß/g,"ss").replace(/ł/g,"l")
+    .replace(/[^a-z0-9]+/g, " ").trim()
+    .replace(/\ba d\b/g, "aan den").replace(/\ba z\b/g, "aan zee");
+}
+const $ = id => document.getElementById(id);
+let taal = "en", klok = "24", gekozen = null, landen = null;
+const delen = {};            // eerste letter -> [{n, naamNorm, cc, reg, lat, lon}]
+
+function vertaal() {
+  const t = T[taal];
+  document.documentElement.lang = taal;
+  document.querySelectorAll("[data-t]").forEach(el => { el.textContent = t[el.dataset.t] ?? ""; });
+  $("plaats").placeholder = t.plaatsZoek;
+  vulDatum(); vulTijd();
+  if (gekozen) toonGekozen();
+}
+
+function opties(sel, items, plaatshouder) {
+  const oud = sel.value;
+  sel.innerHTML = `<option value="">${plaatshouder}</option>` +
+    items.map(([v, l]) => `<option value="${v}">${l}</option>`).join("");
+  sel.value = oud;
+}
+function vulDatum() {
+  const t = T[taal];
+  opties($("dag"), Array.from({length: 31}, (_, i) => [i + 1, i + 1]), t.dag);
+  opties($("maand"), t.maanden.map((m, i) => [i + 1, m]), t.maand);
+  const nu = new Date().getFullYear();
+  opties($("jaar"), Array.from({length: nu - 1899}, (_, i) => [nu - i, nu - i]), t.jaar);
+}
+function vulTijd() {
+  const t = T[taal];
+  const uren = klok === "24" ? Array.from({length: 24}, (_, i) => [i, String(i).padStart(2, "0")])
+                             : Array.from({length: 12}, (_, i) => [i + 1, i + 1]);
+  const oud = $("uur").value;
+  opties($("uur"), uren, t.uur);
+  if (!uren.some(([v]) => String(v) === oud)) $("uur").value = "";
+  opties($("minuut"), Array.from({length: 60}, (_, i) => [i, String(i).padStart(2, "0")]), t.minuut);
+  $("ampm").hidden = klok === "24";
+  $("tijdrij").classList.toggle("ampm", klok === "12");
+}
+
+// ------------------------------------------------------------------ plaatsen zoeken
+async function deel(letter) {
+  if (delen[letter]) return delen[letter];
+  if (!landen) landen = await (await fetch("plaatsen/landen.json")).json();
+  const tekst = await (await fetch(`plaatsen/${letter}.txt`)).text();
+  delen[letter] = tekst.split("\n").map(r => {
+    const [n, cc, reg, lat, lon] = r.split("\t");
+    return { n, cc, reg: /^[A-Z]{2,3}$/.test(reg) ? reg : "", lat: +lat, lon: +lon, naamNorm: norm(n) };
+  });
+  return delen[letter];
+}
+function landNaam(cc) { return landen && landen[cc] ? landen[cc][taal === "es" ? 1 : 0] : cc; }
+function regel(p) { return [p.n, p.reg, landNaam(p.cc)].filter(Boolean).join(", "); }
+
+let zoekTeller = 0, actief = -1, treffers = [];
+async function zoek() {
+  const ruw = $("plaats").value;
+  const [stuk, landStuk] = ruw.split(",").map(s => norm(s || ""));
+  const lijst = $("suggesties");
+  if (!stuk || stuk.length < 2) { sluitLijst(); return; }
+  const mijn = ++zoekTeller;
+  lijst.innerHTML = `<li class="leeg">${T[taal].laden}</li>`; openLijst();
+  const doelen = [stuk];
+  for (const [a, doel] of Object.entries(ALIAS)) if (a.startsWith(stuk) || stuk === a) doelen.push(doel);
+  const letters = [...new Set(doelen.map(d => /[a-z]/.test(d[0]) ? d[0] : "0"))];
+  try { await Promise.all(letters.map(deel)); } catch (e) { lijst.innerHTML = `<li class="leeg">⚠︎</li>`; return; }
+  if (mijn !== zoekTeller) return;
+  const gezien = new Set(); treffers = [];
+  for (const d of doelen) {
+    const letter = /[a-z]/.test(d[0]) ? d[0] : "0";
+    for (const p of delen[letter]) {
+      if (treffers.length >= 8) break;
+      const passend = d === stuk ? p.naamNorm.startsWith(d) : p.naamNorm === d;
+      if (!passend) continue;
+      if (landStuk && !norm(landNaam(p.cc)).startsWith(landStuk) && norm(p.cc) !== landStuk) continue;
+      const sleutel = p.n + p.lat + p.lon;
+      if (gezien.has(sleutel)) continue;
+      gezien.add(sleutel); treffers.push(p);
+    }
+  }
+  // Exacte naam eerst, daarna de lijstvolgorde (grootste plaats eerst).
+  treffers.sort((a, b) => (b.naamNorm === stuk) - (a.naamNorm === stuk));
+  actief = treffers.length ? 0 : -1;
+  tekenLijst();
+}
+function tekenLijst() {
+  const lijst = $("suggesties");
+  if (!treffers.length) { lijst.innerHTML = `<li class="leeg">${T[taal].geen}</li>`; return; }
+  lijst.innerHTML = treffers.map((p, i) =>
+    `<li role="option" id="opt${i}" data-i="${i}" aria-selected="${i === actief}">` +
+    `<div class="stad">${esc(p.n)}${p.reg ? ", " + esc(p.reg) : ""}</div>` +
+    `<div class="land">${esc(landNaam(p.cc))}</div></li>`).join("");
+  $("plaats").setAttribute("aria-activedescendant", actief >= 0 ? "opt" + actief : "");
+}
+function esc(s) { return s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+function openLijst() { $("suggesties").hidden = false; $("plaats").setAttribute("aria-expanded", "true"); }
+function sluitLijst() { $("suggesties").hidden = true; $("plaats").setAttribute("aria-expanded", "false"); }
+function kies(p) {
+  gekozen = p; sluitLijst(); toonGekozen();
+  $("v-plaats").classList.remove("ongeldig"); werkKnopBij();
+}
+function toonGekozen() {
+  $("zoekvak").hidden = true; $("gekozen").hidden = false; $("gekozenTekst").textContent = regel(gekozen);
+}
+
+// ------------------------------------------------------------------ controle en link
+function waarden() {
+  const fout = {};
+  const naam = $("naam").value.trim();
+  if (!naam) fout.naam = 1;
+  const d = +$("dag").value, m = +$("maand").value, j = +$("jaar").value;
+  const dt = new Date(j, m - 1, d);
+  if (!d || !m || !j || dt.getDate() !== d || dt > new Date()) fout.datum = 1;
+  let u = $("uur").value, mi = $("minuut").value, ap = $("ampm").value;
+  if (u === "" || mi === "" || (klok === "12" && !ap)) fout.tijd = 1;
+  if (!gekozen) fout.plaats = 1;
+  return { fout, naam, d, m, j, u: +u, mi: +mi, ap };
+}
+function link(w) {
+  const mnd = T.en.maanden[w.m - 1];          // Engelse maandnaam: altijd eenduidig te lezen
+  let uur24 = w.u;
+  if (klok === "12") uur24 = (w.u % 12) + (w.ap === "PM" ? 12 : 0);
+  const hhmm = String(uur24).padStart(2, "0") + ":" + String(w.mi).padStart(2, "0");
+  const tijd = klok === "12" ? `${w.u}:${String(w.mi).padStart(2, "0")} ${w.ap} (${hhmm})` : hhmm;
+  const plaats = `${gekozen.n}${gekozen.reg ? ", " + gekozen.reg : ""}, ${landNaam(gekozen.cc)} [${gekozen.lat.toFixed(3)}, ${gekozen.lon.toFixed(3)}]`;
+  const q = new URLSearchParams({ wanted: "true", variant: VARIANT[taal] });
+  q.set(VELD.naam, w.naam);
+  q.set(VELD.datum, `${w.d} ${mnd} ${w.j}`);
+  q.set(VELD.tijd, tijd);
+  q.set(VELD.plaats, plaats);
+  return GUMROAD + "?" + q.toString();
+}
+function werkKnopBij() {
+  const w = waarden(), knop = $("verder");
+  const klaar = !Object.keys(w.fout).length;
+  knop.setAttribute("aria-disabled", klaar ? "false" : "true");
+  knop.href = klaar ? link(w) : "#";
+  if (klaar) { knop.target = "_blank"; knop.rel = "noopener"; } else { knop.removeAttribute("target"); }
+}
+
+// ------------------------------------------------------------------ gebeurtenissen
+document.querySelectorAll(".taal button").forEach(b => b.addEventListener("click", () => {
+  taal = b.dataset.taal;
+  document.querySelectorAll(".taal button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  vertaal(); werkKnopBij();
+}));
+document.querySelectorAll(".wissel button").forEach(b => b.addEventListener("click", () => {
+  klok = b.dataset.klok;
+  document.querySelectorAll(".wissel button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  vulTijd(); werkKnopBij();
+}));
+["naam", "dag", "maand", "jaar", "uur", "minuut", "ampm"].forEach(id =>
+  $(id).addEventListener(id === "naam" ? "input" : "change", () => {
+    $("v-" + ({dag:"datum",maand:"datum",jaar:"datum",uur:"tijd",minuut:"tijd",ampm:"tijd"}[id] || id))
+      .classList.remove("ongeldig");
+    werkKnopBij();
+  }));
+let wacht;
+$("plaats").addEventListener("input", () => { clearTimeout(wacht); wacht = setTimeout(zoek, 120); });
+$("plaats").addEventListener("keydown", e => {
+  if ($("suggesties").hidden || !treffers.length) return;
+  if (e.key === "ArrowDown") { actief = (actief + 1) % treffers.length; tekenLijst(); e.preventDefault(); }
+  if (e.key === "ArrowUp") { actief = (actief - 1 + treffers.length) % treffers.length; tekenLijst(); e.preventDefault(); }
+  if (e.key === "Enter" && actief >= 0) { kies(treffers[actief]); e.preventDefault(); }
+  if (e.key === "Escape") sluitLijst();
+});
+$("suggesties").addEventListener("mousedown", e => {
+  const li = e.target.closest("li[data-i]"); if (li) { e.preventDefault(); kies(treffers[+li.dataset.i]); }
+});
+$("plaats").addEventListener("blur", () => setTimeout(sluitLijst, 150));
+$("wijzig").addEventListener("click", () => {
+  gekozen = null; $("gekozen").hidden = true; $("zoekvak").hidden = false;
+  $("plaats").value = ""; $("plaats").focus(); werkKnopBij();
+});
+$("formulier").addEventListener("submit", e => e.preventDefault());
+$("verder").addEventListener("click", e => {
+  const w = waarden();
+  const fouten = Object.keys(w.fout);
+  ["naam", "datum", "tijd", "plaats"].forEach(k => $("v-" + k).classList.toggle("ongeldig", fouten.includes(k)));
+  if (fouten.length) { e.preventDefault(); $("v-" + fouten[0]).scrollIntoView({behavior: "smooth", block: "center"}); return; }
+  $("klaar").classList.add("zichtbaar");
+});
+
+const voorkeur = (navigator.language || "en").slice(0, 2);
+if (voorkeur === "es") { taal = "es";
+  document.querySelectorAll(".taal button").forEach(x => x.setAttribute("aria-pressed", x.dataset.taal === "es")); }
+vertaal(); werkKnopBij();
+</script>
+</body>
+</html>

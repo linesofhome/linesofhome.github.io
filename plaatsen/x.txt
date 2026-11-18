@@ -1,0 +1,374 @@
+Xi’an	CN		34.258	108.929
+Xiamen	CN		24.480	118.082
+Xinyang	CN		32.123	114.066
+Xuchang	CN		34.032	113.863
+Xianyang	CN		34.338	108.703
+Xining	CN		36.626	101.757
+Xinxiang	CN		35.190	113.802
+Xiangtan	CN		27.850	112.900
+Xingtai	CN		37.063	114.494
+Xiangyang	CN		32.042	112.145
+Xalapa de Enríquez	MX	30	19.531	-96.916
+Xochimilco	MX	09	19.255	-99.104
+Xinpu	CN		34.600	119.159
+Xico	MX	15	19.270	-98.951
+Xinyuan	CN		43.426	83.250
+Xiuying	CN		20.001	110.294
+Xiantao	CN		30.371	113.443
+Xintai	CN		35.901	117.752
+Xinhui	CN		22.456	113.048
+Xianning	CN		29.843	114.322
+Xindi	CN		29.817	113.467
+Xiaogan	CN		30.927	113.922
+Xinzhou	CN		38.409	112.733
+Xinji	CN		37.903	115.204
+Xuanzhou	CN		30.953	118.755
+Xai-Xai	MZ		-25.052	33.644
+Xichang	CN		27.896	102.263
+Xiazhen	CN		34.802	117.112
+Xiulin	CN		29.717	112.400
+Xilin Hot	CN		43.967	116.033
+Xinghua	CN		32.939	119.834
+Xingcheng	CN		40.617	120.717
+Xinshi	CN		31.047	113.141
+Xinyi	CN		22.373	110.947
+Xishan	CN		27.667	113.500
+Xinyu	CN		27.804	114.933
+Xiaoshan	CN		30.167	120.259
+Ximeicun	CN		24.988	118.386
+Xihe	CN		31.686	113.466
+Xiangxiang	CN		27.733	112.533
+Xiannü	CN		32.428	119.560
+Xucheng	CN		20.329	110.167
+Xindian	CN		36.797	118.294
+Xiongzhou	CN		25.117	114.300
+Xinzhou	CN		30.867	114.800
+Xinmin	CN		41.991	122.825
+Xianshuigu	CN		38.985	117.383
+Xinzhi	CN		36.499	111.705
+Xiuyan	CN		40.293	123.274
+Xiaoshi	CN		41.297	124.121
+Xiaolingwei	CN		32.032	118.854
+Xiangcheng Chengguanzhen	CN		33.847	113.478
+Xincheng	CN		33.633	115.183
+Xunchang	CN		28.454	104.715
+Xiazhuang	CN		34.916	118.639
+Xianju	CN		28.855	120.732
+Xifeng	CN		42.737	124.722
+Xixiang	CN		35.163	112.865
+Xiaoweizhai	CN		26.190	107.513
+Xinglongshan	CN		43.956	125.466
+Xinqing	CN		48.287	129.523
+Xankandi	AZ		39.818	46.753
+Xo‘jayli Shahri	UZ		42.409	59.445
+Xánthi	GR		41.135	24.888
+Xinguara	BR	16	-7.098	-49.944
+Xicotepec de Juárez	MX	21	20.276	-97.961
+Xam Nua	LA		20.416	104.045
+Xaçmaz	AZ		41.464	48.806
+Xalisco	MX	18	21.451	-104.898
+Xique Xique	BR	05	-10.823	-42.728
+Xanxerê	BR	26	-26.877	-52.404
+Xirivella	ES		39.466	-0.426
+Xàtiva	ES		38.990	-0.519
+Xenia	US	OH	39.685	-83.930
+Xanten	DE		51.659	6.453
+Xoxocotla	MX	17	18.684	-99.246
+Xonacatlán	MX	15	19.405	-99.528
+Xochitepec	MX	17	18.781	-99.230
+Xico	MX	30	19.422	-97.008
+Xo‘jaobod	UZ		40.669	72.560
+Xalatlaco	MX	15	19.183	-99.418
+Xudat	AZ		41.631	48.682
+Xuddur	SO		4.121	43.889
+Xicohtzinco	MX	29	19.174	-98.234
+Xaloztoc	MX	29	19.408	-98.046
+Xinzo de Limia	ES		42.063	-7.725
+Xicoténcatl	MX	28	22.996	-98.942
+Xaltepec	MX	21	18.882	-97.608
+Xiabaishi	CN		26.815	119.679
+Xindian	CN		24.610	118.241
+Xocotla	MX	30	19.015	-97.101
+Xaltianguis	MX	12	17.098	-99.716
+Xilitla	MX	24	21.387	-98.990
+Xylofágou	CY		34.977	33.849
+Xocalı	AZ		39.913	46.790
+Xapuri	BR	01	-10.652	-68.504
+Xitangtuo	CN		39.322	117.488
+Xylókastro	GR		38.078	22.632
+Xiditou	CN		39.254	117.348
+Xochimanca	MX	15	19.491	-98.824
+Xinzhuang	CN		39.025	117.344
+X-Cán	MX	31	20.857	-87.669
+Xochitlan Todos Santos	MX	21	18.704	-97.776
+Xiaodian	CN		39.254	117.227
+Xocotlán	MX	15	19.516	-98.846
+Xiahu	CN		26.611	119.948
+Xibing	CN		26.981	119.725
+Xeraco,Jaraco	ES		39.033	-0.217
+Xochihuehuetlán	MX	12	17.906	-98.488
+Xometla	MX	15	19.643	-98.882
+Xalacapan de Lucke	MX	21	19.904	-97.590
+Xalpatlahuac	MX	12	17.471	-98.607
+Xochistlahuaca	MX	12	16.794	-98.241
+Xujiaba	CN		27.885	108.114
+Xpujil	MX	04	18.508	-89.394
+Xıllı	AZ		39.430	49.102
+Xiaodongzhuang	CN		39.060	117.415
+Xaltepuxtla	MX	21	20.175	-97.972
+Xagħra	MT		36.050	14.264
+Xinan	CN		26.720	119.856
+Xalpatláhuac	MX	12	17.023	-99.331
+Xocoyucan	MX	29	19.309	-98.375
+Xochipala	MX	12	17.812	-99.640
+Xylotymbou	CY		35.016	33.743
+Xalostoc	MX	17	18.723	-98.899
+Xiacang	CN		39.786	117.417
+Xewkija	MT		36.033	14.258
+Xocchel	MX	31	20.833	-89.183
+Xitlama	MX	21	18.303	-97.017
+Xiling	CN		26.814	119.047
+Xiyan	CN		26.616	110.474
+Xoloateno	MX	21	19.831	-97.369
+Xianxi	CN		26.335	109.643
+Xindian	CN		26.122	119.302
+Xertigny	FR		48.044	6.408
+Xolotla	MX	21	20.258	-98.133
+Xiropótamos	GR		41.192	24.104
+Xonocuautla	MX	21	19.789	-97.516
+Xochitlán	MX	17	18.889	-98.812
+Xaltepec	MX	21	20.165	-98.001
+Xochimilco	MX	21	18.842	-97.726
+Xochiltepec	MX	05	15.128	-92.434
+Xhimojay	MX	15	19.921	-99.642
+Xocen	MX	31	20.598	-88.164
+Xinzhan	CN		28.388	106.857
+Xochinanacatlán	MX	21	20.195	-97.898
+Xoxocotla	MX	30	18.647	-97.152
+Xalitzintla	MX	21	19.082	-98.516
+Xhixhata	MX	15	19.971	-99.546
+Xixi	CN		27.694	110.953
+Xiaoshajiang	CN		27.521	110.748
+Xinli	CN		39.085	117.336
+Xiancun	CN		26.939	119.360
+Xinkaikou	CN		39.679	117.190
+Xonalpu	MX	21	20.128	-97.611
+Xalatzala	MX	12	17.474	-98.574
+Xiquila	MX	13	21.078	-98.443
+Xul-Ha	MX	23	18.551	-88.464
+Xoteapan	MX	30	18.435	-95.266
+Xarardheere	SO		4.654	47.858
+Xoxonacatla	MX	21	20.008	-97.941
+Xeresa	ES		39.017	-0.217
+Xochitlán	MX	13	20.296	-99.187
+Xopilapa	MX	30	18.505	-97.079
+Xaya	MX	31	20.297	-89.187
+Xiangyun	CN		24.971	118.160
+Xiawuqi	CN		39.614	117.053
+Xocotepéc	MX	21	19.368	-97.171
+Xbacab	MX	04	18.941	-90.722
+Xichú	MX	11	21.299	-100.057
+Xocoyolzintla	MX	12	17.713	-98.982
+Xochapa	MX	12	17.384	-98.451
+Xiliguantun	CN		37.078	115.941
+Xonrupt-Longemer	FR		48.082	6.929
+Xochiatipan de Castillo	MX	13	20.835	-98.286
+Xiaohenglong	CN		27.605	110.517
+Xialiang	CN		32.077	106.772
+Xcanatún	MX	31	21.077	-89.630
+Xicoténcatl	MX	27	17.518	-92.705
+Xaaga	MX	20	16.904	-96.328
+Xochicuautla	MX	21	20.054	-97.889
+Xishan	CN		25.685	108.964
+Xylaganí	GR		40.974	25.420
+Xilópolis	GR		40.927	23.179
+Xanabá	MX	31	20.836	-89.014
+X-Hazil Sur	MX	23	19.392	-88.074
+Xochitlaxco (San Baltazar)	MX	21	19.941	-97.864
+Xohuayan	MX	31	20.188	-89.383
+Xilocuautla	MX	21	20.139	-98.023
+Xochiltepec	MX	21	18.651	-98.344
+Xochicalco (Cirenio Longares)	MX	17	18.787	-99.299
+Xochitepec	MX	12	17.183	-99.226
+Xalitla	MX	12	17.997	-99.544
+Xochitonalco	MX	20	18.094	-96.848
+X-pichil	MX	23	19.695	-88.377
+Xochimilco	MX	30	20.863	-98.070
+Xuchapa	MX	21	18.526	-98.457
+Xochicoatlán	MX	13	20.777	-98.680
+Xmabén	MX	04	19.235	-89.314
+Xalatlaco	MX	30	19.050	-97.041
+Xalticpac	MX	21	19.843	-97.596
+Xiajiang	CN		25.756	108.692
+Xoxolpa	MX	13	20.876	-98.424
+Xhitey	MX	15	19.982	-99.528
+Xolostitla de Morelos (Xolostitla)	MX	13	20.066	-98.639
+Xayacatlán de Bravo	MX	21	18.237	-97.975
+Xochitepec	MX	21	18.228	-98.876
+Xiloxochico de Rafael Ávila Camacho	MX	21	20.046	-97.491
+Xul	MX	31	20.101	-89.463
+Xococapa	MX	30	20.809	-98.351
+Xiantan	CN		28.819	106.193
+X Cabil	MX	23	20.165	-88.464
+Xinó Neró	GR		40.690	21.623
+Xiaolongmen	CN		27.802	110.161
+Xochiapulco	MX	21	19.821	-97.659
+Xagacía	MX	20	17.154	-96.268
+Xianrenwan	CN		27.754	110.330
+Xacaxomulco	MX	21	19.189	-97.147
+Xoconoxtle el Grande	MX	11	20.939	-100.981
+Xoampolco	MX	30	19.761	-97.230
+Xiteje de Zapata	MX	13	20.097	-99.389
+Xgħajra	MT		35.886	14.547
+Xicotlán	MX	21	18.059	-98.525
+Xaltocan	MX	29	19.424	-98.210
+Xarrë	AL		39.728	20.054
+Xibër-Murrizë	AL		41.455	20.026
+Xhafzotaj	AL		41.344	19.547
+Xireg	CN		36.919	98.445
+Xinyuan	CN		37.300	99.000
+Xêgar	CN		28.633	87.083
+Xarsingma	CN		27.494	88.953
+Xangda	CN		32.206	96.478
+Xinhe	CN		41.550	82.617
+Xayar	CN		41.230	82.806
+Xindu	CN		33.340	120.146
+Xianshui	CN		30.991	101.127
+Xiping	CN		25.598	103.796
+Xiushui	CN		38.104	113.389
+Xuyong	CN		28.170	105.435
+Xuyang	CN		29.459	104.419
+Xunyi Chengguanzhen	CN		35.117	108.313
+Xun Xian Chengguanzhen	CN		35.665	114.535
+Xujiang	CN		26.839	116.320
+Xuhui	CN		31.196	121.447
+Xuefeng	CN		26.357	117.198
+Xixiang	CN		32.987	107.764
+Xi Xian Chengguanzhen	CN		32.344	114.729
+Xiuwu Chengguanzhen	CN		35.231	113.438
+Xiushan	CN		24.110	102.762
+Xiugu	CN		27.911	116.776
+Xisa	CN		23.450	104.708
+Xiongshan	CN		27.364	118.857
+Xinzhou	CN		24.872	105.351
+Xinhualu	CN		34.396	113.725
+Xinzheng	CN		31.275	106.287
+Xinyu	CN		27.839	114.846
+Xincheng	CN		22.702	112.225
+Xinji	CN		31.623	114.874
+Xinshiba	CN		28.971	102.771
+Xinshan	CN		25.137	115.387
+Xinning	CN		22.671	107.889
+Xinmian	CN		29.240	102.372
+Xinling	CN		31.025	110.318
+Xinjing	CN		23.203	106.382
+Xinhuang	CN		27.374	109.134
+Xinhua	CN		26.888	102.933
+Xinhua	CN		23.643	105.653
+Xingguo	CN		34.859	105.669
+Xingguo	CN		29.923	115.302
+Xing’an	CN		25.620	110.642
+Xindu	CN		30.822	104.157
+Xindou	CN		31.396	100.678
+Xincheng	CN		35.300	111.664
+Xincheng	CN		28.015	102.842
+Xincheng Chengguanzhen	CN		24.086	108.653
+Xincai	CN		32.744	114.976
+Xin’anjiang	CN		29.475	119.271
+Xin’an Chengguanzhen	CN		34.718	112.136
+Xin’an	CN		32.438	118.409
+Xinli	CN		39.844	108.735
+Xihuachi	CN		35.816	108.013
+Xigang	CN		38.553	106.348
+Xiedian	CN		35.428	110.812
+Xidu	CN		26.956	112.368
+Xipu	CN		23.699	117.425
+Xiayi Chengguanzhen	CN		34.237	116.116
+Xiaoxita	CN		30.771	111.321
+Xiaoxi	CN		24.352	117.291
+Xiaojiang	CN		22.273	109.552
+Xiaodian	CN		37.736	112.556
+Xiangzhou	CN		23.973	109.667
+Xiangcheng	CN		25.467	100.562
+Xiangkou	CN		29.328	107.764
+Xianghu	CN		25.800	116.000
+Xiangdong	CN		27.652	113.724
+Xincheng	CN		35.875	111.435
+Xincheng	CN		33.542	114.598
+Xinguan	CN		39.455	111.530
+Xinning	CN		35.495	107.920
+Xinmatou	CN		36.818	115.170
+Xiguan	CN		33.867	115.467
+Xiayang	CN		26.489	113.768
+Xincheng	CN		39.987	112.461
+Xiangfeng	CN		29.508	109.403
+Xinning	CN		31.085	107.865
+Xiangshui	CN		35.477	106.331
+Xiluodu	CN		28.244	103.638
+Xiaopu	CN		25.239	111.317
+Xushan	CN		30.176	121.246
+Xintian	CN		35.614	111.357
+Xinshui	CN		36.478	110.755
+Xinshancun	CN		29.486	106.479
+Xinxing	CN		39.867	124.123
+Xilin	CN		24.499	105.094
+Xiasi	CN		32.290	105.513
+Xunzhong	CN		25.494	118.239
+Xiaping	CN		26.731	114.270
+Xingsha	CN		28.240	113.088
+Xiwanzi	CN		40.971	115.272
+Xiping	CN		40.040	113.605
+Xinlin	CN		51.700	124.333
+Xinhui	CN		42.284	119.898
+Xinglong	CN		40.420	117.507
+Xinghe Chengguanzhen	CN		40.876	113.884
+Xin Bulag	CN		42.237	113.836
+Xilin	CN		47.476	129.304
+Xicheng	CN		40.111	114.159
+Xiqu	CN		26.606	101.598
+Xinxing	CN		47.155	123.810
+Xiling	CN		30.716	111.284
+Xiangjiaba	CN		28.633	104.404
+Xinan	CN		23.154	112.893
+Xinfa	CN		28.831	104.321
+Xilinji	CN		52.991	123.235
+Xiwai	CN		31.217	107.475
+Xia’er	CN		29.006	101.514
+Xincheng	CN		34.263	108.950
+Xiayang	CN		31.150	121.116
+Xinchenglu	CN		31.389	121.263
+Xuejiawan	CN		39.867	111.221
+Xingong	CN		49.290	120.706
+Xiritala	CN		43.939	116.070
+Xinghua	CN		48.014	122.698
+Xarlung	CN		29.900	93.300
+Xoixar	CN		27.903	91.903
+Xiongzhou	CN		32.344	118.850
+Xiangcheng	CN		31.937	111.918
+Xingfeng	CN		39.730	116.337
+Xiyuzhuang	CN		39.166	117.157
+Xiaobailou	CN		39.118	117.206
+Xiangyang	CN		37.532	121.394
+Xiaoduchuan	CN		30.291	109.476
+Xuri	CN		47.727	128.900
+Xing’an	CN		47.246	130.220
+Xiangyang	CN		44.588	129.580
+Xianfeng	CN		44.575	129.603
+Xin’an	CN		44.580	129.626
+Xuri	CN		28.435	117.920
+Xing’an	CN		50.248	127.493
+Xinjia	CN		37.657	120.485
+Xingning	CN		24.148	115.723
+Xihu	CN		36.067	103.777
+Xingpinglu	CN		36.728	104.814
+Xingfulu	CN		43.782	87.637
+Xinhu	CN		37.446	116.297
+Xuzhou	CN		34.204	117.284
+Xove	ES		43.687	-7.511
+Xebat	IQ		36.278	43.671
+Xamtay	LA		19.945	104.517
+Xaysetha	LA		14.814	106.934
+Xochiapa	MX	30	17.664	-95.735
+Xinying	TW		23.307	120.311
+Xindian	TW		24.960	121.539
+Xuân Trường	VN		20.292	106.333

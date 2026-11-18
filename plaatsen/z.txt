@@ -1,0 +1,1524 @@
+Zhengzhou	CN		34.758	113.649
+Zibo	CN		36.791	118.063
+Zhongshan	CN		21.320	110.572
+Zapopan	MX	14	20.724	-103.385
+Zhu Cheng City	CN		35.995	119.403
+Zaria	NG		11.111	7.723
+Zhabei	CN		31.259	121.460
+Zaporizhia	UA		47.823	35.190
+Zarqa	JO		32.073	36.088
+Zhumadian	CN		32.979	114.029
+Zhuzhou	CN		27.833	113.150
+Zagreb	HR		45.814	15.978
+Zhangjiakou	CN		40.810	114.879
+Zigong	CN		29.342	104.777
+Zaragoza	ES		41.656	-0.877
+Zhanjiang	CN		21.281	110.343
+Zhenjiang	CN		32.211	119.455
+Zhangzhou	CN		24.513	117.656
+Zahedan	IR		29.496	60.863
+Zhuhai	CN		22.277	113.568
+Zunyi	CN		27.687	106.907
+Zamboanga	PH		6.910	122.074
+Zanzibar	TZ		-6.164	39.198
+Zhoukou	CN		33.633	114.633
+Zhangjiakou Shi Xuanhua Qu	CN		40.610	115.045
+Zhaoqing	CN		23.049	112.461
+Zanjān	IR		36.676	48.496
+Zürich	CH		47.367	8.550
+Zeytinburnu	TR		40.994	28.904
+Zagazig	EG		30.588	31.502
+Zhytomyr	UA		50.265	28.677
+Zelenograd	RU		55.983	37.181
+Zabrze	PL		50.325	18.786
+Zinder	NE		13.807	8.988
+Zlatoust	RU		55.171	59.651
+Zoucheng	CN		35.401	116.966
+Zawiya	LY		32.752	12.728
+Zaoyang	CN		32.127	112.754
+Zaozhuang	CN		34.865	117.554
+Zhenzhou	CN		32.280	119.170
+Zenica	BA		44.202	17.904
+Ziguinchor	SN		12.568	-16.273
+Zhicheng	CN		30.296	111.505
+Zemun	RS		44.846	20.401
+Zhaodong	CN		46.068	125.983
+Zhulebino	RU		55.700	37.850
+Zheleznodorozhnyy	RU		55.744	38.017
+Zamora	MX	16	19.985	-102.284
+Zaanstad	NL		52.453	4.814
+Zama	JP		35.488	139.391
+Zhalantun	CN		48.009	122.737
+Zugló	HU		47.518	19.105
+Zacatecas	MX	32	22.768	-102.581
+Zyablikovo	RU		55.617	37.767
+Zhoucun	CN		36.817	117.817
+Zābol	IR		31.031	61.495
+Zyuzino	RU		55.656	37.568
+Zhaoyuan	CN		37.365	120.410
+Zielona Góra	PL		51.935	15.506
+Zoetermeer	NL		52.057	4.493
+Zwolle	NL		52.513	6.094
+Zhuji	CN		29.719	120.242
+Zliten	LY		32.467	14.569
+Zhaotong	CN		27.317	103.717
+Zhongxiang	CN		31.166	112.583
+Zhezqazghan	KZ		47.783	67.767
+Zhanaozen	KZ		43.341	52.862
+Zonguldak	TR		41.451	31.793
+Zhangye	CN		38.934	100.452
+Zelenodolsk	RU		55.844	48.518
+Zwickau	DE		50.727	12.488
+Zheleznogorsk	RU		52.331	35.371
+Zhukovskiy	RU		55.595	38.120
+Zaxo	IQ		37.149	42.686
+Zheleznogorsk	RU		56.251	93.532
+Zhengjiatun	CN		43.506	123.506
+Zefta	EG		30.714	31.244
+Zhongshu	CN		24.517	103.767
+Zipaquirá	CO		5.022	-74.005
+Zárate	AR		-34.098	-59.029
+Zhaogezhuang	CN		39.765	118.412
+Zhangjiajie	CN		29.129	110.478
+Žilina	SK		49.223	18.739
+Zhoushan	CN		29.989	122.205
+Zomba	MW		-15.386	35.319
+Zhuanghe	CN		39.701	122.991
+Zrenjanin	RS		45.384	20.382
+Zarzis	TN		33.504	11.112
+Zhuangyuan	CN		37.306	120.827
+Zlín	CZ		49.226	17.671
+Zahlé	LB		33.847	35.902
+Zhlobin	BY		52.893	30.024
+Zugdidi	GE		42.509	41.871
+Zhoucheng	CN		35.912	116.312
+Zaandam	NL		52.439	4.826
+Zelenogorsk	RU		56.112	94.599
+Zadar	HR		44.116	15.225
+Zográfos	GR		37.976	23.769
+Zhenlai	CN		45.850	123.297
+Zamora	ES		41.506	-5.745
+Zhangjiagang	CN		31.865	120.539
+Zamość	PL		50.723	23.252
+Zhicheng	CN		31.008	119.909
+Zarechnyy	RU		53.204	45.192
+Zayed City	AE		23.654	53.705
+Zalău	RO		47.200	23.050
+Żory	PL		50.045	18.701
+Zhaozhou	CN		45.683	125.317
+Zarechnyy	RU		53.133	46.583
+Zhaobaoshan	CN		29.970	121.688
+Zalaegerszeg	HU		46.840	16.844
+Zeist	NL		52.090	5.233
+Zhijiang	CN		30.421	111.753
+Zushi	JP		35.295	139.578
+Zhujiajiao	CN		31.108	121.057
+Zhaoyuan	CN		45.500	125.133
+Zarand	IR		30.813	56.564
+Zehlendorf	DE		52.433	13.250
+Zgierz	PL		51.856	19.406
+Zhongxing	CN		33.704	118.679
+Zhigulevsk	RU		53.400	49.495
+Zijinglu	CN		34.760	112.971
+Zile	TR		40.303	35.886
+Zamoskvorech’ye	RU		55.733	37.633
+Zürich (Kreis 11)	CH		47.423	8.522
+Zinacantepec	MX	15	19.284	-99.734
+Zawiercie	PL		50.488	19.417
+Zacapu	MX	16	19.822	-101.789
+Zabīd	YE		14.195	43.315
+Zarinsk	RU		53.707	84.949
+Zhovti Vody	UA		48.345	33.504
+Żoliborz	PL		52.269	20.986
+Zumpango	MX	15	19.797	-99.099
+Zhob	PK		31.341	69.449
+Zacapú	MX	16	19.814	-101.792
+Zaranj	AF		30.960	61.860
+Zaječar	RS		43.904	22.264
+Ziway	ET		7.933	38.717
+Zahirābād	IN		17.681	77.607
+Zürich (Kreis 3)	CH		47.358	8.503
+Zwijndrecht	NL		51.818	4.633
+Zuwārah	LY		32.931	12.082
+Zyryanovsk	KZ		49.727	84.273
+Zürich (Kreis 9)	CH		47.382	8.480
+Zduńska Wola	PL		51.599	18.940
+Zvolen	SK		48.574	19.153
+Zouila	TN		35.501	11.061
+Zavolzh’ye	RU		56.641	43.394
+Zainsk	RU		55.319	52.069
+Zaraza	VE		9.350	-65.325
+Zelenokumsk	RU		44.407	43.881
+Żyrardów	PL		52.049	20.446
+Zacatecoluca	SV		13.500	-88.867
+Żary	PL		51.642	15.137
+Zacatelco	MX	29	19.216	-98.240
+Zouerate	MR		22.735	-12.471
+Zürich (Kreis 10)	CH		47.408	8.501
+Zutphen	NL		52.138	6.201
+Zacapa	GT		14.972	-89.531
+Zhmerynka	UA		49.037	28.112
+Zvishavane	ZW		-20.327	30.066
+Znojmo	CZ		48.855	16.049
+Zweibrücken	DE		49.247	7.370
+Zagora	MA		30.332	-5.838
+Zuénoula	CI		7.430	-6.051
+Zharkent	KZ		44.167	80.007
+Zahir Pir	PK		28.813	70.523
+Zürich (Kreis 7)	CH		47.373	8.580
+Zacatlán	MX	21	19.936	-97.961
+Zhangatas	KZ		43.562	69.734
+Zaidpur	IN		26.831	81.329
+Zima	RU		53.920	102.044
+Zgorzelec	PL		51.149	15.008
+Zintan	LY		31.932	12.253
+Zapotlanejo	MX	14	20.622	-103.068
+Żywiec	PL		49.685	19.192
+Zamānia	IN		25.420	83.558
+Znamensk	RU		48.584	45.734
+Zapala	AR		-38.899	-70.054
+Zira	IN		30.969	74.991
+Zaïo	MA		34.943	-2.733
+Zagor’ye	RU		55.577	37.667
+Zürich (Kreis 6)	CH		47.392	8.544
+Zunheboto	IN		25.967	94.517
+Zeitz	DE		51.050	12.137
+Zernograd	RU		46.845	40.308
+Zürich (Kreis 2)	CH		47.338	8.521
+Zarzal	CO		4.395	-76.072
+Zalingei	SD		12.909	23.471
+Zheleznogorsk-Ilimskiy	RU		56.577	104.122
+Znomenka	UA		48.713	32.665
+Zürich (Kreis 9) / Altstetten	CH		47.389	8.485
+Zürich (Kreis 12)	CH		47.404	8.576
+Zaventem	BE		50.884	4.473
+Zarechnyy	RU		56.811	61.325
+Zolotonosha	UA		49.668	32.040
+Zakopane	PL		49.299	19.949
+Zürich (Kreis 4) / Aussersihl	CH		47.378	8.521
+Zomin Shaharchasi	UZ		39.961	68.396
+Zarya	RU		55.755	38.096
+Zeya	RU		53.736	127.257
+Zaida	PK		34.059	72.467
+Zaltbommel	NL		51.810	5.244
+Zionsville	US	IN	39.951	-86.262
+Żagań	PL		51.618	15.315
+Zevenaar	NL		51.930	6.071
+Zest’aponi	GE		42.109	43.036
+Zittau	DE		50.898	14.808
+Zirndorf	DE		49.442	10.954
+Zavodoukovsk	RU		56.504	66.552
+Zwedru	LR		6.068	-8.136
+Zhongxing New Village	TW		23.959	120.685
+Zanesville	US	OH	39.940	-82.013
+Zelino	MK		41.980	21.064
+Zverevo	RU		48.021	40.123
+Zărnești	RO		45.561	25.318
+Zafar	UZ		40.983	68.900
+Zumpango del Río	MX	12	17.654	-99.527
+Zaraysk	RU		54.761	38.878
+Zheleznovodsk	RU		44.139	43.020
+Zungeru	NG		9.807	6.152
+Zottegem	BE		50.870	3.811
+Zuru	NG		11.435	5.235
+Zion	US	IL	42.446	-87.833
+Zorgo	BF		12.249	-0.615
+Zdolbuniv	UA		50.521	26.243
+Ząbki	PL		52.293	21.105
+Zug	CH		47.172	8.517
+Zwevegem	BE		50.813	3.338
+Zeribet el Oued	DZ		34.683	6.511
+Zacualtipán	MX	13	20.650	-98.656
+Zafarwal	PK		32.345	74.900
+Zambrów	PL		52.986	22.243
+Zapotiltic	MX	14	19.627	-103.418
+Zarautz	ES		43.284	-2.170
+Zolochiv	UA		49.806	24.894
+Zhouzhuang	CN		31.118	120.844
+Zedelgem	BE		51.142	3.137
+Zemoura	DZ		35.723	0.755
+Zacatepec	MX	17	18.654	-99.190
+Zabrat	AZ		40.477	49.942
+Zelenchukskaya	RU		43.858	41.589
+Zemst	BE		50.983	4.461
+Zürich (Kreis 3) / Sihlfeld	CH		47.374	8.512
+Žďár nad Sázavou	CZ		49.563	15.939
+Zoersel	BE		51.268	4.713
+Zele	BE		51.066	4.040
+Zulpich	DE		50.694	6.654
+Zhosaly	KZ		45.488	64.078
+Zürich (Kreis 6) / Unterstrass	CH		47.395	8.537
+Zonhoven	BE		50.991	5.368
+Zinjibār	YE		13.129	45.381
+Zhukovka	RU		53.533	33.725
+Zaprešić	HR		45.856	15.808
+Žatec	CZ		50.327	13.546
+Žiar nad Hronom	SK		48.592	18.850
+Zvenihorodka	UA		49.079	30.968
+Zuhres	UA		48.011	38.264
+Zeewolde	NL		52.330	5.542
+Zaragoza	CO		7.490	-74.869
+Złotów	PL		53.363	17.041
+Zaqatala	AZ		41.632	46.645
+Zwijndrecht	BE		51.220	4.327
+Zacoalco de Torres	MX	14	20.228	-103.569
+Zürich (Kreis 11) / Oerlikon	CH		47.408	8.543
+Zhirnovsk	RU		50.984	44.773
+Zürich (Kreis 11) / Seebach	CH		47.422	8.548
+Zubia	ES		37.119	-3.584
+Zapolyarnyy	RU		69.415	30.814
+Zeerust	ZA		-25.537	26.075
+Zalţan	LY		32.947	11.867
+Zimovniki	RU		47.147	42.472
+Zaysan	KZ		47.467	84.871
+Zeralda	DZ		36.712	2.842
+Zielonka	PL		52.304	21.160
+Zürich (Kreis 11) / Affoltern	CH		47.418	8.512
+Zossen	DE		52.216	13.449
+Zürich (Kreis 10) / Höngg	CH		47.403	8.497
+Zvečan	XK		42.907	20.840
+Zaghouan	TN		36.403	10.143
+Zarumilla	PE		-3.503	-80.273
+Zandvoort	NL		52.371	4.533
+Złotoryja	PL		51.126	15.920
+Zürich (Kreis 9) / Albisrieden	CH		47.374	8.490
+Zachary	US	LA	30.649	-91.156
+Zafra	ES		38.425	-6.417
+Zvenigorod	RU		55.734	36.859
+Ząbkowice Śląskie	PL		50.590	16.812
+Zmiyiv	UA		49.675	36.348
+Zürich (Kreis 2) / Wollishofen	CH		47.340	8.531
+Zherdevka	RU		51.849	41.461
+Zola Predosa	IT		44.490	11.218
+Zinapécuaro	MX	16	19.860	-100.829
+Zürich (Kreis 10) / Wipkingen	CH		47.395	8.525
+Zerbst	DE		51.966	12.085
+Zelenogradsk	RU		54.959	20.477
+Zlaté Moravce	SK		48.386	18.401
+Zinacatepec	MX	21	18.335	-97.246
+Zürich (Kreis 8)	CH		47.355	8.561
+Zamora	EC		-4.067	-78.955
+Zhashkiv	UA		49.245	30.110
+Zimnicea	RO		43.656	25.365
+Żabbar	MT		35.876	14.535
+Zelenogorsk	RU		60.200	29.702
+Zürich (Kreis 3) / Alt-Wiedikon	CH		47.362	8.515
+Zubin Potok	XK		42.914	20.690
+Zavodskoy	RU		43.462	132.285
+Zehdenick	DE		52.979	13.332
+Zulte	BE		50.920	3.449
+Zephyrhills	US	FL	28.234	-82.181
+Zavidovići	BA		44.446	18.150
+Zábřeh	CZ		49.883	16.872
+Żnin	PL		52.850	17.720
+Zemio	CF		5.031	25.136
+Ziro	IN		27.595	93.839
+Županja	HR		45.078	18.698
+Zeulenroda	DE		50.653	11.984
+Zarghūn Shahr	AF		32.847	68.446
+Živinice	BA		44.449	18.650
+Zhytkavichy	BY		52.217	27.856
+Zaslawye	BY		54.011	27.270
+Zaozërsk	RU		69.401	32.448
+Zdzieszowice	PL		50.425	18.123
+Zizur Mayor	ES		42.788	-1.691
+Złocieniec	PL		53.533	16.011
+Znamenskoye	RU		57.128	73.828
+Zimapan	MX	13	20.738	-99.382
+Zavitinsk	RU		50.111	129.442
+Zangguy	CN		37.283	78.767
+Zürich (Kreis 4) / Hard	CH		47.383	8.509
+Zhovkva	UA		50.058	23.973
+Zavolzhsk	RU		57.482	42.138
+Zara	TR		39.898	37.758
+Zbarazh	UA		49.664	25.776
+Ziniaré	BF		12.582	-1.297
+Zawyat an Nwaçer	MA		33.380	-7.619
+Zeven	DE		53.297	9.277
+Zaprudnya	RU		56.567	37.433
+Zaruma	EC		-3.691	-79.612
+Zuidwijk	NL		51.875	4.485
+Zvenigovo	RU		55.975	48.013
+Zastron	ZA		-30.302	27.084
+Zango	NG		13.053	8.486
+Zella-Mehlis	DE		50.656	10.660
+Zandhoven	BE		51.215	4.662
+Zhukovo	RU		55.032	36.744
+Zorritos	PE		-3.680	-80.678
+Zakamensk	RU		50.374	103.286
+Zajas	MK		41.607	20.938
+Zalanga	NG		10.614	10.176
+Zevio	IT		45.372	11.129
+Znamenka	RU		52.898	35.977
+Zgorzelisko	PL		51.138	17.134
+Zuyevka	RU		58.405	51.134
+Zemetchino	RU		53.497	42.616
+Zelzate	BE		51.190	3.808
+Zaragoza	SV		13.589	-89.289
+Zürich (Kreis 5)	CH		47.388	8.522
+Zhetibay	KZ		43.594	52.079
+Zschopau	DE		50.748	13.077
+Zetel	DE		53.417	7.983
+Zonnebeke	BE		50.873	2.987
+Żejtun	MT		35.856	14.533
+Zwönitz	DE		50.630	12.810
+Zakynthos	GR		37.780	20.896
+Zmeinogorsk	RU		51.158	82.195
+Zagarolo	IT		41.842	12.815
+Zofingen	CH		47.288	7.946
+Zürich (Kreis 12) / Hirzenbach	CH		47.402	8.586
+Zolochiv	UA		50.280	35.982
+Zimatlán de Álvarez	MX	20	16.869	-96.784
+Zhabinka	BY		52.198	24.012
+Zaragoza	MX	21	19.771	-97.555
+Zakrzów	PL		51.166	17.137
+Zardob	AZ		40.218	47.712
+Zabaykal’sk	RU		49.651	117.326
+Zayukovo	RU		43.616	43.334
+Zierikzee	NL		51.650	3.919
+Zürich (Kreis 12) / Schwamendingen-Mitte	CH		47.406	8.572
+Zaki Biam	NG		7.507	9.610
+Zaragoza	MX	07	28.493	-100.922
+Zin’kiv	UA		50.208	34.364
+Zürich (Kreis 4) / Langstrasse	CH		47.378	8.529
+Zwiesel	DE		49.017	13.238
+Zadonsk	RU		52.390	38.926
+Zetland	AU	02	-33.907	151.209
+Zacatepec	MX	21	19.266	-97.533
+Zubova Polyana	RU		54.077	42.837
+Zindah Jān	AF		34.343	61.747
+Zumarraga	ES		43.089	-2.314
+Zyrya	AZ		40.366	50.292
+Zeuthen	DE		52.348	13.622
+Zalukokoazhe	RU		43.904	43.216
+Zunil	GT		14.785	-91.483
+Zapadnaya Dvina	RU		56.259	32.075
+Zürich (Kreis 7) / Hottingen	CH		47.370	8.563
+Zürich (Kreis 3) / Friesenberg	CH		47.364	8.504
+Zürich (Kreis 6) / Oberstrass	CH		47.389	8.550
+Zürich (Kreis 5) / Gewerbeschule	CH		47.385	8.530
+Zymohiria	UA		48.585	38.938
+Zarechnyy	RU		51.849	107.521
+Zvëzdnyy	RU		57.733	56.315
+Zalari	RU		53.558	102.507
+Zlatni Pyasatsi	BG		43.285	28.042
+Zalishchyky	UA		48.643	25.738
+Znamenskoye	RU		43.679	45.129
+Zaragoza	MX	30	17.958	-94.642
+Zambrano	CO		9.747	-74.816
+Zheshart	RU		62.073	49.573
+Zorleni	RO		46.267	27.717
+Zav’yalovo	RU		52.838	80.920
+Zefyri	GR		38.066	23.717
+Zierbena	ES		43.350	-3.083
+Zaragoza	GT		14.650	-90.890
+Ziębice	PL		50.601	17.041
+Zuchwil	CH		47.202	7.566
+Zacualpa	GT		15.027	-90.878
+Zafferana Etnea	IT		37.679	15.104
+Żurrieq	MT		35.831	14.474
+Zavety Il’icha	RU		49.037	140.270
+Zollikofen	CH		46.999	7.458
+Zafarābād	IN		25.699	82.734
+Zürich (Kreis 7) / Witikon	CH		47.358	8.591
+Zaandijk	NL		52.475	4.807
+Żuromin	PL		53.066	19.909
+Żychlin	PL		52.244	19.626
+Znamenka	RU		52.417	41.431
+Zwenkau	DE		51.219	12.330
+Zhezkent	KZ		50.931	81.362
+Zillmere	AU	04	-27.356	153.045
+Zumaia	ES		43.295	-2.253
+Zaza del Medio	CU		21.997	-79.367
+Zorneding	DE		48.084	11.824
+Zastavna	UA		48.523	25.844
+Žabalj	RS		45.372	20.064
+Žepče	BA		44.427	18.038
+Zawadzkie	PL		50.605	18.485
+Zlatna	RO		46.106	23.232
+Zacapoaxtla	MX	21	19.873	-97.589
+Zürich (Kreis 2) / Enge	CH		47.361	8.531
+Zhänibek	KZ		49.422	46.847
+Zirl	AT		47.274	11.240
+Zomergem	BE		51.120	3.565
+Zhatay	RU		62.160	129.828
+Zarasai	LT		55.732	26.251
+Zwoleń	PL		51.355	21.588
+Zell	DE		48.692	8.063
+Zvornik	BA		44.386	19.102
+Zelów	PL		51.465	19.220
+Zalla	ES		43.233	-3.133
+Zalesovo	RU		53.994	84.743
+Zoutleeuw	BE		50.833	5.104
+Zaterechnyy	RU		44.793	45.210
+Zalaszentgrót	HU		46.945	17.079
+Zag	MA		28.022	-9.294
+Zheleznodorozhnyy	RU		57.905	102.778
+Zell am See	AT		47.323	12.798
+Zoryns’k	UA		48.412	38.624
+Želiezovce	SK		48.051	18.654
+Zagoryanskiy	RU		55.932	37.958
+Zadawa	NG		11.450	10.367
+Zangilan	AZ		39.084	46.660
+Zavidovo	RU		56.533	36.533
+Zubtsov	RU		56.175	34.589
+Zaragoza	PH		16.387	119.944
+Zimatepec	MX	29	19.421	-98.165
+Zaṟah Sharan	AF		33.146	68.792
+Zheleznodorozhnyy	RU		55.102	61.549
+Zlatograd	BG		41.380	25.096
+Zirc	HU		47.264	17.874
+Zanica	IT		45.641	9.686
+Zelenoborskiy	RU		66.845	32.362
+Zbąszyń	PL		52.251	15.925
+Zboriv	UA		49.665	25.141
+Zacamulpa	MX	15	19.356	-99.331
+Zwingenberg	DE		49.724	8.611
+Zuidhorn	NL		53.247	6.403
+Zambezi	ZM		-13.543	23.105
+Zaojiacheng	CN		39.277	117.436
+Żarów	PL		50.941	16.495
+Zürich (Kreis 7) / Fluntern	CH		47.380	8.561
+Zel’va	BY		53.151	24.813
+Zutendaal	BE		50.933	5.575
+Zacapechpan	MX	21	19.054	-98.351
+Zholymbet	KZ		51.742	71.712
+Zongolica	MX	30	18.667	-96.997
+Zundert	NL		51.472	4.656
+Zhumysker	KZ		49.333	49.400
+Zempoala	MX	13	19.916	-98.666
+Zierenberg	DE		51.369	9.302
+Zürich (Kreis 7) / Hirslanden	CH		47.362	8.568
+Zavetnoye	RU		47.119	43.890
+Zarichne	UA		51.813	26.129
+Zermatt	CH		46.020	7.749
+Zanè	IT		45.722	11.449
+Žarnovica	SK		48.481	18.716
+Zhangwan	CN		26.711	119.592
+Zingem	BE		50.904	3.653
+Zaouiat Djedidi	TN		36.644	10.574
+Żmigród	PL		51.467	16.906
+Zmeyskaya	RU		43.336	44.157
+Żukowo	PL		54.342	18.365
+Zaokskiy	RU		54.732	37.405
+Železný Brod	CZ		50.643	15.254
+Zagorje ob Savi	SI		46.132	14.997
+Zusmarshausen	DE		48.400	10.599
+Zgurovka	UA		50.503	31.785
+Zellingen	DE		49.897	9.817
+Zuni Pueblo	US	NM	35.073	-108.851
+Zmiyëvka	RU		52.667	36.374
+Zyryanskoye	RU		56.831	86.627
+Zitlaltépec	MX	29	19.204	-97.907
+Zvoriştea	RO		47.833	26.283
+Zona Industriale	IT		40.848	14.284
+Zuya	UA		45.054	34.322
+Za‘tarah	PS		31.674	35.257
+Zell im Wiesental	DE		47.706	7.852
+Zawoja	PL		49.644	19.542
+Zürich (Kreis 1)	CH		47.371	8.542
+Zuid-Scharwoude	NL		52.687	4.808
+Zamboanguita	PH		9.102	123.200
+Zarech’ye	RU		55.687	37.392
+Zelo Buon Persico	IT		45.412	9.432
+Zuera	ES		41.868	-0.790
+Žamberk	CZ		50.086	16.467
+Zăneşti	RO		46.817	26.550
+Zhirnov	RU		48.171	41.126
+Zitlala	MX	12	17.690	-99.186
+Zimmern ob Rottweil	DE		48.167	8.594
+Zapatoca	CO		6.815	-73.268
+Zavodskoy	KZ		52.470	72.015
+Zhanga Buqtyrma	KZ		49.630	83.525
+Zeil	DE		50.010	10.595
+Zschorlau	DE		50.567	12.650
+Zalegoshch’	RU		52.899	36.891
+Zacháro	GR		37.483	21.650
+Zilair	RU		52.233	57.439
+Zephyrhills West	US	FL	28.231	-82.206
+Zuni	IT		41.217	14.131
+Zeitlarn	DE		49.078	12.112
+Zeithain	DE		51.334	13.338
+Zero Branco	IT		45.600	12.164
+Zollikon	CH		47.340	8.574
+Zuiderburen	NL		53.173	5.843
+Zlatitsa	BG		42.717	24.133
+Željezno Polje	BA		44.399	17.941
+Zelhem	NL		52.007	6.349
+Zhizdra	RU		53.746	34.740
+Zogno	IT		45.794	9.660
+Zetea	RO		46.383	25.367
+Zavoronezhskoye	RU		52.880	40.553
+Zeeland	US	MI	42.813	-86.019
+Zürich (Kreis 8) / Mühlebach	CH		47.357	8.557
+Zdvinsk	RU		54.702	78.661
+Zorya	UA		45.991	29.692
+Zaigrayevo	RU		51.835	108.267
+Zărneşti	RO		45.300	26.867
+Zagon	RO		45.767	26.117
+Zubří	CZ		49.466	18.092
+Zaragoza de Guadalupe	MX	17	19.148	-99.644
+Złotniki	PL		51.138	16.889
+Zykovo	RU		55.955	93.161
+Zimmerman	US	MN	45.443	-93.590
+Zvečka	RS		44.640	20.164
+Zandberg	NL		51.573	4.785
+Zeelst	NL		51.424	5.416
+Zephyrhills South	US	FL	28.215	-82.189
+Zhigalovo	RU		54.811	105.158
+Zelarino	IT		45.515	12.208
+Zlynka	RU		52.427	31.738
+Zelenogorskiy	RU		55.033	87.000
+Zhelezinka	KZ		53.539	75.313
+Zürich (Kreis 12) / Saatlen	CH		47.411	8.565
+Zemeş	RO		46.583	26.417
+Żołynia	PL		50.162	22.308
+Zagórz	PL		49.515	22.267
+Zapata	US	TX	26.907	-99.271
+Zbąszynek	PL		52.243	15.817
+Zebrzydowice	PL		49.878	18.611
+Zapfendorf	DE		50.018	10.932
+Zavallya	UA		48.214	30.016
+Zakharivka	UA		47.332	29.759
+Zhaqsy	KZ		51.911	67.317
+Zhdanovichy	BY		53.943	27.425
+Zürich (Kreis 8) / Seefeld	CH		47.355	8.555
+Zlynka	UA		48.485	31.539
+Zebulon	US	NC	35.824	-78.315
+Zapotlán de Juárez	MX	13	19.977	-98.864
+Zürich (Kreis 8) / Weinegg	CH		47.352	8.570
+Žalec	SI		46.252	15.165
+Zaymishche	RU		52.726	32.233
+Zakan-Yurt	RU		43.262	45.423
+Zruč nad Sázavou	CZ		49.740	15.106
+Zborište	BA		45.146	16.017
+Zubutli-Miatli	RU		43.199	46.812
+Zeytinliova	TR		38.991	27.676
+Zacoalpan	MX	12	16.745	-98.288
+Zacualpan	MX	18	21.247	-105.166
+Zolotukhino	RU		52.084	36.378
+Zdovbytsya	UA		50.496	26.241
+Zharkovskiy	RU		55.849	32.270
+Záhony	HU		48.409	22.176
+Zimmi	SL		7.314	-11.308
+Zsámbék	HU		47.548	18.720
+Zator	PL		49.996	19.438
+Zeeland	NL		51.697	5.676
+Ziduri	RO		45.300	27.083
+Zasechnoye	RU		53.109	45.079
+Zaykovo	RU		57.561	62.757
+Zăbala	RO		45.900	26.183
+Żurawica	PL		49.823	22.789
+Ẕur Hadassa	IL		31.719	35.097
+Zabierzów	PL		50.114	19.798
+Zoar	ZA		-33.496	21.444
+Znamensk	RU		54.614	21.227
+Zyukayka	RU		58.204	54.708
+Zmajevo	RS		45.454	19.691
+Zătreni	RO		44.767	23.850
+Zeebrugge	BE		51.329	3.182
+Ziabar (Gaskar)	IR		37.426	49.246
+Zduny	PL		51.646	17.377
+Zavetnyy	RU		44.932	41.137
+Zovuni	AM		40.511	44.439
+Zapolyarnyy	RU		67.496	63.733
+Zeltweg	AT		47.183	14.750
+Zumpahuacán	MX	15	18.916	-99.566
+Zlaté Hory	CZ		50.264	17.396
+Zumikon	CH		47.332	8.623
+Zimandu Nou	RO		46.283	21.400
+Zell	DE		50.029	7.182
+Zhalghyztobe	KZ		49.211	81.216
+Zverinogolovskoye	RU		54.454	64.852
+Zăbrani	RO		46.067	21.550
+Zawidów	PL		51.025	15.062
+Zevgolateió	GR		37.933	22.800
+Żarki	PL		50.625	19.364
+Zaozyornoye	UA		45.158	33.279
+Zasosna	RU		50.631	38.397
+Zalamea de la Serena	ES		38.651	-5.661
+Zongozotla	MX	21	19.979	-97.728
+Zabrišće	BA		43.792	16.942
+Zonnemaat	NL		51.931	6.062
+Żabno	PL		50.133	20.886
+Zoeterwoude-Dorp	NL		52.120	4.496
+Zuzwil	CH		47.475	9.112
+Zachepylivka	UA		49.194	35.239
+Zăpodeni	RO		46.750	27.650
+Zăvoi	RO		45.517	22.417
+Zollikerberg	CH		47.345	8.601
+Zaḩar	JO		32.567	35.778
+Żelechów	PL		51.811	21.897
+Zirgan	RU		53.222	55.919
+Žiežmariai	LT		54.807	24.441
+Zumpahuacán	MX	15	18.837	-99.581
+Zörbig	DE		51.629	12.117
+Zell am Main	DE		49.812	9.870
+Zolling	DE		48.450	11.767
+Zabolotiv	UA		48.471	25.286
+Zelenikovo	MK		41.884	21.588
+Zagnitkiv	UA		48.049	28.892
+Zacate Colorado	MX	30	20.497	-97.524
+Zavetnoye	RU		44.749	41.599
+Zürich (Kreis 4) / Werd	CH		47.372	8.526
+Zuidlaren	NL		53.094	6.682
+Zwettl Stadt	AT		48.607	15.167
+Zatyshshya	UA		47.334	29.873
+Zbýšov	CZ		49.155	16.350
+Zinacantán	MX	05	16.760	-92.723
+Zambrano	HN		14.267	-87.400
+Zaberfeld	DE		49.056	8.927
+Zarichchya	UA		48.521	24.649
+Zdice	CZ		49.912	13.977
+Żarki	PL		50.083	19.352
+Zoquite	MX	32	22.785	-102.422
+Zhireken	RU		52.827	117.307
+Zahānah	TN		37.040	10.039
+Zschadrass	DE		51.138	12.818
+Zhaishi Miaozu Dongzuxiang	CN		26.501	110.044
+Zagra	RO		47.333	24.283
+Živinice	BA		44.548	17.374
+Zelienople	US	PA	40.795	-80.137
+Zibido San Giacomo	IT		45.360	9.111
+Zagyvarékas	HU		47.267	20.133
+Zaplavnoye	RU		48.705	45.023
+Zugliano-Terenzano-Cargnacco	IT		46.008	13.217
+Zuid-Berghuizen	NL		52.301	6.933
+Zliv	CZ		49.066	14.366
+Zolotkovo	RU		55.528	41.105
+Zyryanka	RU		65.735	150.894
+Zahna	DE		51.914	12.786
+Žacléř	CZ		50.663	15.911
+Zavet	BG		43.760	26.681
+Žiri	SI		46.042	14.107
+Zacango	MX	15	18.956	-99.698
+Zarza de Alange	ES		38.818	-6.218
+Zarcero	CR		10.186	-84.391
+Zornheim	DE		49.890	8.225
+Zandak	RU		43.057	46.456
+Zahvizdya	UA		48.918	24.653
+Zapotitlán de Vadillo	MX	14	19.549	-103.811
+Zalamea la Real	ES		37.680	-6.660
+Zacualpan de Amilpas	MX	17	18.784	-98.766
+Zaliznychne	UA		45.749	28.614
+Zăvoaia	RO		44.950	27.483
+Zesgehuchten	NL		51.417	5.550
+Zapotitán de Hidalgo	MX	14	20.326	-103.478
+Zhinvali	GE		42.132	44.773
+Złoczew	PL		51.417	18.604
+Zarubino	RU		42.633	131.090
+Zonderwijk	NL		51.411	5.394
+Żernica	PL		50.248	18.615
+Zschepplin	DE		51.500	12.600
+Zumbrota	US	MN	44.294	-92.669
+Zakroczym	PL		52.434	20.612
+Zletovo	MK		41.989	22.236
+Zürich (Kreis 10) / Rütihof	CH		47.414	8.479
+Zabolotovka	RU		50.278	39.314
+Zonal’noye	RU		52.666	84.933
+Zwierzyniec	PL		50.614	22.975
+Zapotlán del Rey	MX	14	20.466	-102.926
+Zsombó	HU		46.326	19.975
+Zhemtala	RU		43.284	43.656
+Zblewo	PL		53.934	18.323
+Zirándaro de los Chávez	MX	12	18.476	-100.979
+Zarraga	PH		10.820	122.608
+Zarrentin	DE		53.551	10.915
+Zhigansk	RU		66.766	123.374
+Zrnovci	MK		41.854	22.444
+Žrnovnica	HR		43.521	16.559
+Zozocolco de Hidalgo	MX	30	20.140	-97.576
+Zicuirán	MX	16	18.878	-101.969
+Zugliano	IT		45.730	11.524
+Zapponeta	IT		41.457	15.956
+Zingst	DE		54.436	12.689
+Zalalövő	HU		46.848	16.587
+Zhitnevo	RU		55.342	37.915
+Zamudio	ES		43.286	-2.870
+Zeytindağ	TR		38.967	27.072
+Zagórzyce	PL		50.017	21.675
+Zamostea	RO		47.867	26.200
+Zaton	RU		53.294	83.807
+Zams	AT		47.158	10.590
+Zenzeli	RU		45.924	47.047
+Zudilovo	RU		53.493	83.894
+Zillah	US	WA	46.402	-120.262
+Zöblitz	DE		50.659	13.230
+Żabnica	PL		49.581	19.156
+Zemlyansk	RU		51.904	38.733
+Zalakomár	HU		46.538	17.181
+Zalesie Górne	PL		52.028	21.037
+Zürich (Kreis 1) / Rathaus	CH		47.372	8.545
+Zabrzeg	PL		49.916	18.943
+Zurumbeneo	MX	16	19.700	-101.011
+Žirovnice	CZ		49.253	15.188
+Židlochovice	CZ		49.040	16.619
+Železniki	SI		46.225	14.172
+Zarechnyy	RU		53.731	39.594
+Žitište	RS		45.485	20.550
+Zaytā	PS		32.386	35.051
+Ziemetshausen	DE		48.292	10.535
+Zabeltitz	DE		51.351	13.505
+Zhdankovskiy	RU		53.753	38.180
+Zelenets	RU		61.885	50.749
+Zizers	CH		46.936	9.565
+Zapopan2	MX	14	20.717	-103.400
+Zaklików	PL		50.758	22.102
+Zamora	HN		15.633	-86.067
+Zhiletovo	RU		54.692	36.022
+Zubrzyca Górna	PL		49.562	19.650
+Zetten	NL		51.928	5.714
+Zell unter Aichelberg	DE		48.649	9.571
+Zheleznodorozhnyy	RU		54.360	21.306
+Zaamslag	NL		51.312	3.913
+Zagórów	PL		52.168	17.896
+Zacualpan	MX	15	18.719	-99.776
+Zacazonapan	MX	15	19.073	-100.255
+Zagórze	PL		50.094	19.404
+Zirahuén	MX	16	19.453	-101.732
+Zharyk	KZ		48.857	72.836
+Zschornewitz	DE		51.716	12.400
+Zielonki	PL		50.121	19.922
+Zreče	SI		46.382	15.379
+Zahinos	ES		38.331	-6.955
+Złoty Stok	PL		50.445	16.876
+Zlatar	HR		46.094	16.071
+Zemmer	DE		49.900	6.700
+Zembrzyce	PL		49.775	19.601
+Zhuravka	UA		50.481	32.595
+Zhavoronki	RU		55.649	37.101
+Zakharovo	RU		54.366	39.279
+Ziesar	DE		52.266	12.290
+Zabok	HR		46.029	15.915
+Zoquitlán	MX	21	18.335	-97.017
+Zapotlán	MX	15	19.547	-98.903
+Zhuoyang	CN		26.630	119.022
+Žlutice	CZ		50.092	13.163
+Zellwood	US	FL	28.731	-81.601
+Zweisimmen	CH		46.555	7.373
+Zoyatzingo	MX	15	19.090	-98.784
+Zistersdorf	AT		48.543	16.761
+Zákupy	CZ		50.685	14.645
+Zacaola	MX	21	18.881	-97.848
+Zašová	CZ		49.474	18.044
+Zürich (Kreis 2) / Unter-Leimbach	CH		47.334	8.514
+Zákányszék	HU		46.275	19.890
+Zunilito	GT		14.613	-91.510
+Zuid-Beijerland	NL		51.751	4.368
+Zuienkerke	BE		51.265	3.155
+Ždánice	CZ		49.067	17.028
+Zapoapan	MX	30	18.840	-96.993
+Zipári	GR		36.877	27.205
+Zapotitlán	MX	21	18.330	-97.474
+Zebrzydowice	PL		50.100	18.500
+Zújar	ES		37.543	-2.842
+Zhelyabovka	UA		45.399	34.758
+Zhuravki	UA		45.126	35.215
+Zilzie	AU	04	-23.289	150.798
+Zona Urbana Ejido Isla Mujeres	MX	23	21.225	-86.854
+Zhukovka	RU		56.483	37.517
+Zopoco	MX	15	19.840	-102.075
+Zunzgen	CH		47.449	7.808
+Zărand	RO		46.400	21.650
+Zbiroh	CZ		49.860	13.773
+Zaliztsi	UA		49.792	25.373
+Zelënyy Bor	RU		53.622	91.615
+Zhilëvo	RU		55.014	38.011
+Zephyrhills North	US	FL	28.252	-82.166
+Zipiajo	MX	15	19.794	-101.552
+Zoatecpan	MX	21	19.934	-97.620
+Zell	AT		47.583	12.150
+Zarzecze	PL		50.528	22.195
+Zolotoye Pole	UA		45.128	34.991
+Zalesnoye	UA		48.031	38.809
+Zillisheim	FR		47.696	7.297
+Zamostochye	BY		53.820	27.869
+Zaborze	PL		50.022	19.241
+Zacualpan	MX	12	17.089	-100.326
+Zhongdeng	CN		39.591	117.353
+Zona 179	IT		41.003	15.619
+Zsámbok	HU		47.544	19.610
+Zlataritsa	BG		43.050	25.900
+Zmeyka	RU		44.143	43.121
+Zabłudów	PL		53.014	23.338
+Zhaogezhuang	CN		39.784	117.196
+Zschortau	DE		51.479	12.359
+Zastávka	CZ		49.188	16.363
+Ẕur Moshe	IL		32.298	34.913
+Złotniki Kujawskie	PL		52.899	18.146
+Zaratán	ES		41.660	-4.784
+Zau de Câmpie	RO		46.614	24.131
+Zlătunoaia	RO		47.650	27.007
+Zagorá	GR		39.450	23.100
+Žehra	SK		48.980	20.792
+Zbrosławice	PL		50.416	18.754
+Żarki-Letnisko	PL		50.623	19.275
+Zlatibor	RS		43.729	19.700
+Zolotyy Potik	UA		48.910	25.339
+Żelistrzewo	PL		54.678	18.417
+Zhiryatino	RU		53.223	33.731
+Zelyony Gorod	RU		56.178	44.074
+Zeltingen-Rachtig	DE		49.950	7.017
+Żurowa	PL		49.826	21.169
+Zurgena	ES		37.342	-2.040
+Zeddam	NL		51.903	6.260
+Zhuqi	CN		26.149	119.102
+Zula	MX	15	19.220	-98.889
+Zeilarn	DE		48.300	12.843
+Zevenhuizen	NL		52.218	5.978
+Zomba	HU		46.411	18.566
+Zeiskam	DE		49.233	8.247
+Zell im Fichtelgebirge	DE		50.135	11.823
+Zhongchao	CN		26.137	109.220
+Zuidbroek	NL		53.163	6.861
+Zelenoborsk	RU		61.471	64.043
+Zurndorf	AT		47.983	17.003
+Zotoltitlán	MX	12	17.714	-99.292
+Zoppola	IT		45.966	12.768
+Zalas	PL		50.080	19.621
+Zlonice	CZ		50.288	14.092
+Zeitlofs	DE		50.262	9.672
+Zavet-Leninskiy	UA		45.863	34.392
+Zamárdi	HU		46.885	17.954
+Zubovo	RU		60.318	36.971
+Zarós	GR		35.130	24.904
+Žagarė	LT		56.361	23.251
+Zevenhoven	NL		52.182	4.779
+Zaniemyśl	PL		52.156	17.162
+Zhuangtou	CN		39.658	117.292
+Zámoly	HU		47.317	18.408
+Zafarraya	ES		36.976	-4.144
+Zachenberg	DE		48.967	13.000
+Zwingen	CH		47.438	7.530
+Zelenogradskiy	RU		56.100	37.917
+Zielitz	DE		52.290	11.676
+Zwiefalten	DE		48.234	9.462
+Zalamea	MX	14	20.314	-102.510
+Zmijavci	HR		43.411	17.206
+Žitoše	MK		41.420	21.291
+Zhushi	CN		27.088	110.677
+Żerków	PL		52.069	17.563
+Zoagli	IT		44.337	9.267
+Zam	RO		46.000	22.450
+Zagórnik	PL		49.837	19.379
+Zoccorino-Vergo	IT		45.697	9.254
+Zalewo	PL		53.845	19.605
+Zemen	BG		42.479	22.749
+Żórawina	PL		50.981	17.037
+Zhadovka	RU		53.575	46.950
+Železná Ruda	CZ		49.137	13.235
+Zaytā Jammā‘īn	PS		32.137	35.186
+Zandobbio	IT		45.686	9.858
+Zuzenhausen	DE		49.296	8.823
+Zirahuato de los Bernal	MX	16	19.521	-100.407
+Zagyvaszántó	HU		47.777	19.671
+Zubūbah	PS		32.543	35.223
+Zdounky	CZ		49.228	17.319
+Zădăreni	RO		46.133	21.218
+Zion	US	PA	40.914	-77.685
+Zarechnoye	UA		44.850	34.264
+Zambujeira do Mar	PT		37.528	-8.785
+Zhaoguli	CN		39.167	117.242
+Zonno	GH		10.784	-0.784
+Zhabagly	KZ		42.438	70.478
+Zawyat ech Cheïkh	MA		32.644	-5.918
+Zahuatlán de Morelos (San José)	MX	21	18.983	-97.868
+Zwolle	US	LA	31.632	-93.644
+Zizin	RO		45.637	25.779
+Znamenskoye	RU		53.279	35.691
+Zináparo	MX	16	20.173	-101.998
+Zollino	IT		40.206	18.248
+Zell	CH		47.137	7.925
+Zebrzydowice	PL		49.890	19.673
+Zamorano	MX	22	20.808	-100.118
+Žabljak	ME		43.154	19.123
+Zagorskie Dali	RU		56.391	37.992
+Zahesi	GE		41.825	44.754
+Žebrák	CZ		49.876	13.897
+Žandov	CZ		50.714	14.396
+Zacualpan	MX	08	19.363	-103.824
+Zilupe	LV		56.386	28.122
+Zürich (Kreis 2) / Mittel-Leimbach	CH		47.325	8.514
+Zbůch	CZ		49.678	13.226
+Zonza	FR		41.749	9.171
+Zelenogorskoye	UA		45.012	34.468
+Zandt	DE		49.150	12.733
+Zozocolco de Guerrero	MX	21	20.104	-97.569
+Zâmbreasca	RO		44.317	24.983
+Zeillern	AT		48.130	14.808
+Zacapuato	MX	12	18.669	-100.607
+Zawātā	PS		32.246	35.227
+Zawichost	PL		50.807	21.854
+Zebil	RO		44.946	28.769
+Zscherndorf	DE		51.611	12.268
+Zürich (Kreis 5) / Escher-Wyss	CH		47.391	8.513
+Zbuczyn	PL		52.090	22.438
+Zacatla	MX	30	19.005	-97.134
+Ziquítaro	MX	16	20.062	-101.890
+Zarechnoye	UA		45.736	34.483
+Zolfo Springs	US	FL	27.493	-81.796
+Zhirovichi	BY		53.013	25.344
+Zhemchug	RU		51.686	102.459
+Zentlalpan	MX	15	19.150	-98.785
+Zatoka	UA		46.070	30.463
+Zorita	ES		39.285	-5.700
+Zaisenhausen	DE		49.107	8.813
+Zacamulpa Tlalmimilolpan	MX	15	19.389	-99.446
+Zeilberg	NL		51.455	5.819
+Zocca	IT		44.346	10.993
+Zacisze	PL		51.123	17.075
+Żebbuġ	MT		36.072	14.236
+Zhongxinqiao	CN		39.038	117.561
+Zeigler	US	IL	37.899	-89.052
+Zásmuky	CZ		49.955	15.031
+Zell am Ziller	AT		47.233	11.883
+Zicuicho	MX	16	19.663	-102.333
+Zgornji Duplek	SI		46.514	15.721
+Zutkerque	FR		50.853	2.068
+Zapotitlán	MX	21	20.002	-97.714
+Zwölfaxing	AT		48.110	16.463
+Zarza de Granadilla	ES		40.237	-6.048
+Zungri	IT		38.657	15.984
+Zamora Pico de Oro	MX	05	16.332	-90.766
+Zagnańsk	PL		50.980	20.663
+Zaidín	ES		41.604	0.264
+Zoquiapan	MX	15	19.318	-98.850
+Zweiflingen	DE		49.256	9.518
+Zacapalco	MX	17	18.639	-98.959
+Zapotitlán Tablas	MX	12	17.424	-98.781
+Zepponami	IT		42.525	12.054
+Zonianá	GR		35.295	24.829
+Zabierzów Bocheński	PL		50.068	20.319
+Zarya	RU		52.597	85.176
+Zinna	DE		51.568	12.954
+Zernien	DE		53.068	10.883
+Zubrzyca Dolna	PL		49.527	19.673
+Zorlesco	IT		45.200	9.616
+Zerf	DE		49.600	6.683
+Zona Urbana Ejidal	MX	20	18.532	-96.589
+Ziano di Fiemme	IT		46.286	11.565
+Zuydcoote	FR		51.061	2.493
+Ziersdorf	AT		48.530	15.927
+Zaratamo	ES		43.217	-2.867
+Ziltendorf	DE		52.206	14.624
+Zavetnoye	UA		45.327	34.808
+Zagrodno	PL		51.191	15.865
+Zakrzewo	PL		53.412	17.155
+Zborovice	CZ		49.249	17.285
+Zapotitlán	GT		14.139	-89.826
+Zdíkov	CZ		49.085	13.697
+Zeleneč	CZ		50.134	14.661
+Zol’noye	RU		53.442	49.798
+Zscherben	DE		51.336	11.970
+Zarubino	RU		58.735	33.476
+Zscherben	DE		51.467	11.871
+Zappendorf	DE		51.510	11.795
+Zarzecze	PL		49.986	22.537
+Zhiguli	RU		53.358	49.301
+Zarpen	DE		53.867	10.517
+Zilwaukee	US	MI	43.476	-83.921
+Zegge	NL		51.557	4.518
+Želetava	CZ		49.142	15.673
+Zahara	ES		36.841	-5.391
+Zambana	IT		46.152	11.096
+Zeccone	IT		45.258	9.201
+Zlechov	CZ		49.074	17.379
+Zagarise	IT		39.000	16.664
+Zempoala	MX	21	20.087	-97.999
+Zaragoza	MX	29	19.319	-98.264
+Zgłobień	PL		50.013	21.855
+Zwota	DE		50.351	12.422
+Zell-Arzberg	AT		47.952	14.793
+Zminjak	RS		44.757	19.471
+Zäziwil	CH		46.902	7.662
+Zakliczyn	PL		49.856	20.809
+Zhvanets	UA		48.550	26.487
+Zaliznyy Port	UA		46.123	32.299
+Zacacoyuca	MX	12	18.250	-99.528
+Zothé	MX	13	20.370	-99.716
+Zănoaga	RO		44.155	24.098
+Zacualtipanito	MX	13	21.154	-98.800
+Żegocina	PL		49.814	20.420
+Zamch	PL		50.317	23.028
+Zębowice	PL		50.763	18.344
+Žabčice	CZ		49.012	16.603
+Zygós	GR		41.013	24.381
+Zoquitlán	MX	12	17.342	-98.949
+Zarza la Mayor	ES		39.877	-6.862
+Zipacón	CO		4.759	-74.380
+Zgornje Bitnje	SI		46.220	14.337
+Zona Industriale	IT		43.262	13.488
+Zapotitlán Lagunas	MX	20	17.756	-98.390
+Zhuravli	UA		45.252	33.641
+Zovaber	AM		40.567	44.790
+Zwaanshoek	NL		52.312	4.617
+Zerind	RO		46.617	21.517
+Zelo Surrigone	IT		45.388	8.985
+Zavodouspenskoye	RU		56.863	65.016
+Zaječí	CZ		48.873	16.766
+Żerniki Wrocławskie	PL		51.033	17.057
+Ždralovi	HR		45.876	16.875
+Zurow	DE		53.864	11.614
+Žihle	CZ		50.045	13.375
+Zamachihue	MX	24	22.510	-99.656
+Žitenice	CZ		50.555	14.157
+Zárkos	GR		39.609	22.123
+Zhenhaicun	CN		24.259	118.092
+Żyrzyn	PL		51.499	22.092
+Żyraków	PL		50.085	21.396
+Zakrzówek	PL		50.951	22.381
+Zakupne	UA		49.119	26.338
+Zapolice	PL		51.543	18.883
+Zorak	AM		40.092	44.394
+Zoquiapa	MX	12	17.545	-99.277
+Zlătărei	RO		44.631	24.258
+Zaragoza	MX	20	16.669	-97.793
+Zaragoza (Puerto de Medina)	MX	16	19.874	-100.118
+Zeri	IT		44.354	9.763
+Zapoapan de Cabañas	MX	30	18.334	-95.097
+Zbraslavice	CZ		49.812	15.183
+Zeiselmauer	AT		48.329	16.176
+Žrnovo	HR		42.951	17.114
+Złota	PL		49.881	20.693
+Zhuravlyovka	UA		45.177	33.997
+Zacatonal de Juárez	MX	05	17.271	-92.799
+Zhongfang	CN		27.411	109.932
+Zangarro (Zangarro Nuevo)	MX	11	20.858	-101.273
+Zengjia	CN		32.620	106.101
+Zadní Mostek	CZ		50.497	15.698
+Ziesendorf	DE		53.994	12.039
+Zoquitipán	MX	13	20.909	-98.432
+Zharikovo	RU		44.588	131.728
+Zaječov	CZ		49.774	13.841
+Zarr	AM		40.258	44.733
+Zarechnyy	RU		57.469	42.284
+Zărneștii de Slănic	RO		45.277	26.755
+Žulová	CZ		50.309	17.099
+Ždiar	SK		49.271	20.262
+Zarzalejo	ES		40.548	-4.182
+Znamenka	BY		51.882	23.655
+Zhankhoteko	RU		43.564	43.211
+Zarrit’ap’	AM		39.639	45.511
+Žiželice	CZ		50.132	15.393
+Zacacuautla	MX	13	20.215	-98.229
+Zabłocie	PL		49.903	18.781
+Zamishevo	RU		52.539	32.013
+Zirimícuaro	MX	16	19.408	-101.958
+Zoutelande	NL		51.502	3.485
+Zdiby	CZ		50.168	14.451
+Zacatula	MX	12	18.010	-102.179
+Zocea	MX	13	20.438	-99.357
+Zhuzhoujiang Miaozuxiang	CN		26.675	110.072
+Zahara de los Atunes	ES		36.137	-5.846
+Zapote de Peralta	MX	11	20.451	-101.395
+Zumpango	MX	29	19.558	-98.224
+Zalesie i Stadion	PL		51.120	17.092
+Zopilotepe	HN		14.600	-86.267
+Zwierzyń	PL		52.832	15.568
+Zyuzel’skiy	RU		56.486	60.133
+Zürich (Kreis 1) / Lindenhof	CH		47.372	8.540
+Zhujiachang	CN		27.358	108.938
+Zdrapți	RO		46.156	22.870
+Zusamaltheim	DE		48.531	10.636
+Želešice	CZ		49.117	16.581
+Žemaičių Naumiestis	LT		55.359	21.704
+Žujince	RS		42.316	21.702
+Zamarski	PL		49.783	18.670
+Züssow	DE		53.977	13.549
+Žleby	CZ		49.890	15.489
+Zapuyo	MX	24	21.355	-98.921
+Zgornje Pirniče	SI		46.143	14.432
+Zaragoza la Montaña	MX	05	16.417	-92.205
+Zorești	RO		45.182	26.703
+Zimbor	RO		47.000	23.267
+Zimnicele	RO		43.661	25.413
+Zoyatitla	MX	21	19.823	-97.818
+Żabia Wola	PL		52.032	20.691
+Żelazków	PL		51.854	18.174
+Zacamixtle	MX	30	21.248	-97.722
+Żurawiczki	PL		50.014	22.499
+Zapotitlán Palmas	MX	20	17.890	-97.818
+Zermeghedo	IT		45.476	11.374
+Zuilichem	NL		51.809	5.136
+Zevenbergschen Hoek	NL		51.672	4.679
+Zwaagdijk-Oost	NL		52.708	5.140
+Zillingdorf	AT		47.850	16.333
+Zizicazapa	MX	12	17.516	-99.153
+Zocoteaca de León	MX	20	16.638	-98.003
+Zbytków	PL		49.923	18.727
+Zorge	DE		51.633	10.633
+Zell an der Pram	AT		48.316	13.629
+Zegerscappel	FR		50.883	2.400
+Zybiny	UA		45.237	34.650
+Zoutkamp	NL		53.339	6.304
+Zbraslav	CZ		49.222	16.294
+Zuoz	CH		46.602	9.960
+Zgornja Polskava	SI		46.426	15.612
+Zaliznychne	UA		47.652	36.165
+Zdenci Brdovečki	HR		45.867	15.750
+Zequentic	MX	05	16.717	-92.827
+Złota	PL		50.382	20.594
+Zarzecze	PL		50.367	19.696
+Zvëzdnyy	RU		56.749	106.480
+Ziroudani	KM		-12.332	43.778
+Zagăr	RO		46.350	24.617
+Zmeu	RO		47.192	27.179
+Žďár	CZ		50.544	15.080
+Zhongfang	CN		26.601	119.426
+Zenting	DE		48.791	13.260
+Zorlenţu Mare	RO		45.451	21.956
+Zavetnoye	UA		45.123	36.400
+Zalesie	PL		50.012	22.533
+Zátor	CZ		50.034	17.593
+Zoravan	AM		40.356	44.522
+Zwochau	DE		51.465	12.268
+Zadvorsko	HR		45.720	15.909
+Zeanuri	ES		43.100	-2.750
+Zaragoza	MX	05	17.009	-91.640
+Zăuan	RO		47.225	22.663
+Zolonquiapa	MX	21	18.576	-98.527
+Zebulon	US	GA	33.102	-84.343
+Želiv	CZ		49.530	15.222
+Zalha	RO		47.183	23.533
+Zăval	RO		43.847	23.842
+Zürich (Kreis 11) / Schwandenholz	CH		47.425	8.521
+Zellerndorf	AT		48.697	15.958
+Zumpango	MX	12	17.935	-98.683
+Zürich (Kreis 12) / Auzelg	CH		47.415	8.570
+Zacatal	MX	20	16.940	-95.203
+Zuccoli	AU	03	-12.507	131.007
+Zakrzów	PL		49.826	19.650
+Zangakatun	AM		39.822	45.042
+Zarrendorf	DE		54.237	13.101
+Zamora	MX	30	18.581	-95.484
+Żabieniec	PL		52.059	21.048
+Zerfaliu	IT		39.961	8.710
+Zapotán	MX	18	21.089	-104.862
+Zapote de Cestao	MX	11	20.484	-101.676
+Zihuateutla	MX	21	20.251	-97.888
+Zarzecze	PL		49.719	19.175
+Zell-Markt	AT		47.959	14.783
+Zoyatlán	MX	12	16.709	-98.733
+Zapotanito	MX	18	21.305	-104.609
+Zvole	CZ		49.935	14.418
+Zhongzhai	CN		27.195	109.269
+Zelocotitlán	MX	12	17.446	-99.106
+Zabrušany	CZ		50.605	13.787
+Zapote de Palomas	MX	11	20.584	-101.115
+Zarszyn	PL		49.582	22.013
+Zmiennica	PL		49.677	21.966
+Zbójna	PL		53.243	21.788
+Złotniki	PL		52.494	16.845
+Zacate Colorado Segundo (Fraternidad)	MX	30	18.683	-95.971
+Zorkino	UA		45.548	34.710
+Železnice	CZ		50.473	15.385
+Zagra	ES		37.256	-4.169
+Zorile	RO		44.379	25.807
+Zdziechowice Drugie	PL		50.785	22.110
+Zürich (Kreis 1) / City	CH		47.373	8.536
+Zenson di Piave	IT		45.680	12.489
+Zotoluca	MX	13	19.611	-98.511
+Zimmersheim	FR		47.721	7.388
+Zilacayotitlán	MX	12	17.295	-98.550
+Zacualpa	MX	05	15.168	-92.627
+Zăvoiu	RO		44.660	25.404
+Zöschen	DE		51.358	12.117
+Zoh-Laguna	MX	04	18.593	-89.417
+Zacapala	MX	21	18.594	-98.066
+Zapote de Barajas	MX	11	20.375	-101.700
+Zoyotla	MX	21	19.928	-97.694
+Zdenci	HR		45.589	17.950
+Zalesye	UA		44.887	34.102
+Zykovo	RU		54.069	45.086
+Záhorovice	CZ		49.023	17.779
+Zapotillo de Mogotes	MX	11	20.378	-101.248
+Zagavia	RO		47.419	26.898
+Zijtaart	NL		51.593	5.542
+Zernez	CH		46.699	10.093
+Žužemberk	SI		45.834	14.929
+Zyembin	BY		54.358	28.221
+Zetaquira	CO		5.282	-73.169
+Žeravice	CZ		49.023	17.237
+Zapoapan de Amapan	MX	30	18.238	-95.185
+Zwentendorf	AT		48.345	15.910
+Zeddiani	IT		39.989	8.596
+Zacamulpa	MX	13	20.006	-99.257
+Zasip	SI		46.393	14.109
+Zena	US	NY	42.017	-74.076
+Zagersdorf	AT		47.765	16.514
+Zeme	IT		45.197	8.667
+Zernovoye	UA		45.324	34.481
+Zarzal	MX	20	17.014	-95.037
+Zangberg	DE		48.275	12.423
+Zhaludok	BY		53.597	24.983
+Zidurile	RO		44.582	25.555
+Zarech’ye	RU		53.731	35.632
+Zoquiopan	MX	21	20.009	-97.596
+Ziertheim	DE		48.652	10.399
+Zacalaca	MX	23	20.062	-88.596
+Zoelen	NL		51.913	5.403
+Zabukovica	SI		46.214	15.160
+Zelenikovo	MK		41.873	21.603
+Zaborze	PL		49.873	18.804
+Zánka	HU		46.871	17.685
+Žlutava	CZ		49.200	17.490
+Zencani	RO		46.927	25.334
+Zaleszany	PL		50.648	21.891
+Zimino	UA		45.508	33.514
+Zinasco Vecchio	IT		45.128	9.030
+Zhemchuzhina	UA		45.275	34.658
+Zagvozd	HR		43.398	17.057
+Zatory	PL		52.599	21.183
+Zheleznodorozhnoye	UA		44.717	33.804
+Zawidz	PL		52.827	19.874
+Zabór	PL		51.952	15.717
+Zernovoye	UA		45.288	33.864
+Zillingtal	AT		47.814	16.409
+Zibello	IT		45.018	10.130
+Zwettl an der Rodl	AT		48.466	14.271
+Żarnów	PL		51.246	20.175
+Zone	IT		45.763	10.116
+Zerbolò	IT		45.207	9.014
+Zbójno	PL		53.008	19.157
+Zuheros	ES		37.543	-4.315
+Żółkiewka	PL		50.910	22.835
+Zaccanopoli	IT		38.665	15.929
+Zungoli	IT		41.128	15.203
+Ziarat	PK		30.382	67.726
+Zöbern	AT		47.515	16.131
+Zumaglia	IT		45.594	8.089
+Zławieś Wielka	PL		53.096	18.329
+Žminj	HR		45.143	13.909
+Zontecomatlán de López y Fuentes	MX	30	20.762	-98.343
+Zemlyanichnoye	UA		44.974	34.836
+Zacualpan	MX	30	20.433	-98.348
+Zell am Moos	AT		47.900	13.317
+Zakrzew	PL		50.890	22.591
+Zautla	MX	21	19.715	-97.671
+Zarza de Montánchez	ES		39.258	-6.032
+Žirovnica	SI		46.405	14.140
+Zederhaus	AT		47.156	13.506
+Ziano Piacentino	IT		45.000	9.395
+Zotes del Páramo	ES		42.273	-5.736
+Zgornje Jezersko	SI		46.394	14.507
+Zambrone	IT		38.699	15.990
+Zarzuela del Pinar	ES		41.260	-4.185
+Zgornja Kungota	SI		46.639	15.616
+Zarzuela del Monte	ES		40.809	-4.336
+Zavattarello	IT		44.868	9.267
+Zadzim	PL		51.777	18.849
+Zgornje Gorje	SI		46.380	14.069
+Żelechlinek	PL		51.712	20.035
+Zuglio	IT		46.458	13.026
+Zettling	AT		46.952	15.434
+Zarra	ES		39.092	-1.075
+Zerbo	IT		45.110	9.396
+Zimone	IT		45.449	8.037
+Załuski	PL		52.512	20.529
+Žetale	SI		46.274	15.827
+Zellberg	AT		47.233	11.850
+Zapotillo	PA		8.005	-81.507
+Zambrana	ES		42.661	-2.879
+Zerlach	AT		46.946	15.651
+Zubiena	IT		45.493	7.996
+Zumpano	IT		39.311	16.293
+Zakrzew	PL		51.441	21.001
+Zuclo	IT		46.034	10.751
+Zubieta	ES		43.125	-1.742
+Zelyonoye	UA		44.596	34.009
+Zuccarello	IT		44.110	8.118
+Zazuar	ES		41.695	-3.555
+Zarza de Tajo	ES		40.016	-3.129
+Zoppè di Cadore	IT		46.386	12.174
+Zarzuela	ES		40.259	-2.110
+Zorita de la Frontera	ES		41.015	-5.197
+Zarratón	ES		42.516	-2.881
+Zöblen	AT		47.508	10.480
+Zugarramurdi	ES		43.270	-1.541
+Zeutschach	AT		47.067	14.367
+Zucaina	ES		40.117	-0.417
+Zaorejas	ES		40.762	-2.201
+Zell am Pettenfirst	AT		48.080	13.599
+Zúñiga	ES		42.692	-2.300
+Zamayón	ES		41.149	-5.831
+Zelbio	IT		45.905	9.181
+Zafra de Záncara	ES		39.892	-2.558
+Zapardiel de la Cañada	ES		40.606	-5.338
+Zovencedo	IT		45.429	11.504
+Zenevredo	IT		45.054	9.327
+Zamarra	ES		40.519	-6.452
+Zorita del Maestrazgo	ES		40.728	-0.167
+Zafrilla	ES		40.200	-1.617
+Zael	ES		42.106	-3.826
+Zapardiel de la Ribera	ES		40.356	-5.328
+Zarapicos	ES		41.038	-5.845
+Zorita de los Canes	ES		40.331	-2.888
+Zavrč	SI		46.392	16.050
+Zolla	IT		45.717	13.810
+Zuñeda	ES		42.605	-3.226
+Zerba	IT		44.666	9.288
+Zorraquín	ES		42.326	-3.039
+Zarzuela de Jadraque	ES		41.068	-3.044
+Zarzosa	ES		42.183	-2.343
+Zorkot	AF		33.541	69.734
+Zurmat	AF		33.438	69.028
+Zaybāk	AF		36.529	71.344
+Zīārat-e Shāh Maqşūd	AF		31.985	65.474
+Zamtō Kêlay	AF		32.373	66.177
+Zargarān	AF		34.788	69.059
+Zerok-Alakadari	AF		33.158	69.313
+Zīrakī	AF		37.592	70.558
+Zhepë	AL		40.678	20.287
+Zerqan	AL		41.502	20.361
+Zavalinë	AL		40.981	20.281
+Zapod	AL		42.051	20.552
+Zall-Reç	AL		41.876	20.320
+Zall-Dardhë	AL		41.807	20.336
+Zharrëz	AL		40.709	19.650
+Zejmen	AL		41.708	19.689
+Zall-Herr	AL		41.389	19.828
+Zall-Bastar	AL		41.430	19.930
+Zitenga	BF		12.748	-1.310
+Zelenikovo	BG		42.400	25.083
+Zagnanado	BJ		7.221	2.383
+Zoukougbeu	CI		6.762	-6.864
+Zouan-Hounien	CI		6.919	-8.207
+Zongga	CN		29.000	85.250
+Zito	CN		30.739	95.836
+Zhowagoin	CN		28.659	97.451
+Zhedao	CN		24.819	98.276
+Zhangfeng	CN		24.221	97.787
+Zhamog	CN		29.867	95.759
+Zhadong	CN		29.650	84.167
+Zepu	CN		38.189	77.271
+Zaindainxoi	CN		31.850	93.667
+Zhaosu	CN		43.123	81.076
+Zuitou	CN		34.062	107.313
+Zuitai	CN		33.331	105.605
+Zongyang	CN		30.699	117.204
+Ziyang Chengguanzhen	CN		32.519	108.532
+Zitong	CN		30.178	105.830
+Ziketan	CN		35.586	99.988
+Zhuyang	CN		30.737	107.201
+Zhuxi Chengguanzhen	CN		32.326	109.723
+Zhushan Chengguanzhen	CN		32.222	110.236
+Zhouqu Chengguanzhen	CN		33.784	104.363
+Zhoukou	CN		31.035	106.401
+Zhongzhou	CN		30.294	108.033
+Zhongxin	CN		26.617	101.272
+Zhongwei	CN		37.511	105.191
+Zhongshu	CN		25.027	103.663
+Zhongshan	CN		24.533	111.300
+Zhongmu Chengguanzhen	CN		34.711	113.966
+Zhonghe	CN		28.450	108.989
+Zhongduo	CN		28.847	108.764
+Zhongba	CN		31.778	104.739
+Zhong’an	CN		25.667	104.233
+Zhijin	CN		26.667	105.768
+Zhijiang	CN		27.458	109.659
+Zhifang	CN		30.350	114.317
+Zhenyuan Chengguanzhen	CN		35.678	107.196
+Zhenping Chengguanzhen	CN		33.033	112.233
+Zhenyang	CN		32.604	114.383
+Zhecheng Chengguanzhen	CN		34.105	115.318
+Zhaxi	CN		27.851	104.969
+Zhaozhen	CN		30.856	104.436
+Zhaoren	CN		35.207	107.791
+Zhaoping	CN		24.172	110.787
+Zhangjiapan	CN		37.602	108.797
+Zhangjiachuan	CN		34.988	106.209
+Zhangguizhuang	CN		39.090	117.307
+Zhanggu	CN		30.869	101.888
+Zhangcheng	CN		25.847	118.937
+Zagunao	CN		31.446	103.177
+Zhihe	CN		36.780	110.640
+Zhushan	CN		29.995	109.479
+Zijin	CN		33.289	111.474
+Zhongcheng	CN		28.310	105.231
+Zhangwan	CN		32.083	112.167
+Ziyang	CN		29.250	117.855
+Zhangjiang	CN		28.911	111.480
+Zherong	CN		27.240	119.894
+Zhouning	CN		27.107	119.335
+Zhaoyu	CN		37.355	112.317
+Zhangping	CN		25.300	117.415
+Zishui	CN		32.008	114.901
+Ziyuan	CN		26.037	110.641
+Zhiqing Songduo	CN		33.433	101.433
+Zhongzhan	CN		35.241	113.160
+Zhongyuanlu	CN		35.768	115.061
+Zhize	CN		21.755	111.614
+Zunhua	CN		40.179	117.959
+Zhuozishan	CN		40.899	112.560
+Zhuolu	CN		40.369	115.216
+Zhangbei	CN		41.153	114.708
+Zhongcheng	CN		28.591	103.940
+Zhongshan	CN		22.523	113.379
+Zhaoxian	CN		28.706	115.736
+Zhongshan Donglu	CN		34.380	107.146
+Zhengdonglu	CN		32.193	119.471
+Zhugang	CN		28.138	121.226
+Zhongshanlu	CN		29.357	105.904
+Zhanqian	CN		46.800	130.375
+Zhonghualu	CN		35.605	104.597
+Zhangyelu	CN		36.058	103.823
+Zapotal	CR		10.000	-85.300
+Zufre	ES		37.833	-6.333
+Zas	ES		43.099	-8.916
+Zaldibia	ES		43.037	-2.151
+Zaldibar	ES		43.167	-2.533
+Zizurkil	ES		43.199	-2.074
+Ziordia	ES		42.871	-2.230
+Zestoa	ES		43.240	-2.258
+Zerain	ES		43.012	-2.273
+Zegama	ES		42.976	-2.291
+Žumberak	HR		45.750	15.433
+Žakanje	HR		45.600	15.350
+Zadvarje	HR		43.431	16.890
+Zemunik Donji	HR		44.107	15.381
+Zagorska Sela	HR		46.097	15.635
+Zāwītah	IQ		36.905	43.145
+Zaxu	IQ		37.142	42.682
+Zarrīnābād	IR		36.426	48.282
+Zarrīn Shahr	IR		32.390	51.377
+Zehak	IR		30.894	61.680
+Zābolī	IR		27.131	61.674
+Zentsujichó	JP		34.227	133.778
+Zghartā	LB		34.397	35.895
+Zelmeņi	LV		56.452	23.352
+Zoumi	MA		34.803	-5.345
+Zinat	MA		35.430	-5.400
+Zerkten	MA		31.445	-7.392
+Zawit Al Bour	MA		30.675	-8.174
+Zoogocho	MX	20	17.240	-96.243
+Zurmi	NG		12.777	6.784
+Zonkwa	NG		9.785	8.291
+Zing	NG		8.991	11.748
+Zakirai	NG		12.100	8.885
+Zangüengas	PA		8.956	-79.870
+Zapatero	PE		-6.530	-76.493
+Zurite	PE		-13.455	-72.256
+Zepita	PE		-16.500	-69.100
+Zumarraga	PH		11.639	124.842
+Zalesie	PL		52.037	23.364
+Žitorađa	RS		43.190	21.713
+Žagubica	RS		44.197	21.788
+Žabari	RS		44.356	21.215
+Zvezdara	RS		44.775	20.532
+Zvony	RU		56.624	28.816
+Zafarobod	TJ		40.176	68.847
+Zeytinlik	TR		41.110	41.858
+Zeytinbağı	TR		40.391	28.796
+Zigopor	TR		40.947	41.495
+Zurzuna	TR		41.121	43.130
+Zhubei	TW		24.838	121.008
+Zhydachiv	UA		49.385	24.143
+Zarichne	UA		49.023	37.932
+Zombo	UG		2.514	30.909
+Ziyodin Shaharchasi	UZ		40.031	65.666
+Zarbdor Shaharchasi	UZ		40.081	68.165
+Zafarobod Shaharchasi	UZ		40.389	67.822
+Zea	VE		8.377	-71.784
+Z̧almah al ‘Ulyā	YE		14.102	44.094
+Zarājah	YE		14.867	44.379
+Zakhim	YE		14.295	44.685

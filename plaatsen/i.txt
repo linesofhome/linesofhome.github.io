@@ -1,0 +1,1931 @@
+Istanbul	TR		41.014	28.950
+Ibadan	NG		7.378	3.906
+Incheon	KR		37.456	126.705
+İzmir	TR		38.413	27.138
+Indore	IN		22.718	75.833
+Iztapalapa	MX	09	19.355	-99.062
+Isfahan	IR		32.652	51.675
+Indianapolis	US	IN	39.768	-86.158
+Ilorin	NG		8.497	4.542
+Ipoh	MY		4.584	101.083
+Izhevsk	RU		56.850	53.204
+Islamabad	PK		33.721	73.043
+Irkutsk	RU		52.298	104.296
+Iquitos	PE		-3.749	-73.254
+Ibagué	CO		4.439	-75.232
+Ivanovo	RU		56.997	40.971
+Iloilo	PH		10.697	122.564
+Iztacalco	MX	09	19.395	-99.098
+Irapuato	MX	11	20.677	-101.356
+Iwaki	JP		37.050	140.883
+Iligan	PH		8.229	124.243
+Itaquaquecetuba	BR	27	-23.486	-46.348
+Ixtapaluca	MX	15	19.316	-98.883
+Islington	GB		51.536	-0.103
+Iaşi	RO		47.167	27.600
+Ikeja	NG		6.597	3.342
+Iligan City	PH		8.250	124.400
+Irbid	JO		32.556	35.850
+Ironville	US	KY	38.456	-82.692
+Ismailia	EG		30.604	32.272
+Ichihara	JP		35.517	140.083
+Iksan	KR		35.944	126.954
+Itagüí	CO		6.185	-75.599
+Ichinomiya	JP		35.300	136.800
+Ilesa	NG		7.628	4.742
+Ichalkaranji	IN		16.691	74.461
+Ibaraki	JP		34.816	135.568
+Irvine	US	CA	33.669	-117.823
+Ikot Ekpene	NG		5.182	7.715
+Iwo	NG		7.635	4.182
+Ica	PE		-14.068	-75.729
+Irving	US	TX	32.814	-96.949
+Ibb	YE		13.967	44.183
+Ipatinga	BR	15	-19.468	-42.537
+Iquique	CL		-20.213	-70.150
+Imphal	IN		24.808	93.944
+Ikire	NG		7.370	4.186
+Imperatriz	BR	13	-5.526	-47.492
+Imus	PH		14.430	120.937
+Idkū	EG		31.307	30.298
+Ijebu-Ode	NG		6.819	3.917
+Itabuna	BR	05	-14.786	-39.280
+Ivano-Frankivsk	UA		48.922	24.710
+Itapevi	BR	27	-23.549	-46.934
+İzmit	TR		40.765	29.929
+Icheon-si	KR		37.279	127.442
+Itami	JP		34.784	135.401
+Ise-Ekiti	NG		7.465	5.423
+Izumi	JP		34.483	135.433
+Itaboraí	BR	21	-22.744	-42.859
+Indaiatuba	BR	27	-23.088	-47.212
+Ila Orangun	NG		8.017	4.904
+Ipswich	GB		52.059	1.155
+Isparta	TR		37.764	30.552
+Ingrāj Bāzār	IN		25.004	88.146
+Ijero-Ekiti	NG		7.815	5.067
+Inisa	NG		7.849	4.330
+İskenderun	TR		36.587	36.173
+Itajaí	BR	26	-26.908	-48.662
+Ilhéus	BR	05	-14.794	-39.039
+Itapecerica da Serra	BR	27	-23.717	-46.849
+Ibirité	BR	15	-20.022	-44.059
+Īlām	IR		33.637	46.423
+Itu	BR	27	-23.264	-47.299
+Irákleion	GR		35.328	25.143
+Igboho	NG		8.838	3.756
+Ikirun	NG		7.913	4.667
+İnegol	TR		40.078	29.513
+Idfū	EG		24.979	32.877
+Ibarra	EC		0.352	-78.122
+Innsbruck	AT		47.263	11.395
+Iranshahr	IR		27.202	60.685
+Isesaki	JP		36.317	139.200
+Idlib	SY		35.931	36.634
+Ivanovskoye	RU		55.767	37.833
+Isiro	CD		2.774	27.616
+Itapetininga	BR	27	-23.592	-48.053
+Indramayu	ID		-6.326	108.320
+Ingolstadt	DE		48.765	11.424
+Iguala de la Independencia	MX	12	18.345	-99.541
+Ilobu	NG		7.840	4.486
+Ikoma	JP		34.683	135.700
+Independence	US	MO	39.091	-94.416
+Ishinomaki	JP		38.417	141.300
+Iringa	TZ		-7.767	35.700
+Inglewood	US	CA	33.962	-118.353
+Ijebu-Igbo	NG		6.972	3.999
+Iwatsuki	JP		35.965	139.696
+Iida	JP		35.520	137.821
+Ilebo	CD		-4.331	20.586
+Iwakuni	JP		34.163	132.220
+Izmaylovo	RU		55.787	37.802
+Isehara	JP		35.399	139.310
+Ikere-Ekiti	NG		7.497	5.230
+Inazawa	JP		35.250	136.783
+‘Ibrī	OM		23.226	56.516
+Itaguaí	BR	21	-22.852	-43.775
+Izumisano	JP		34.417	135.317
+Itārsi	IN		22.615	77.762
+Itabira	BR	15	-19.619	-43.227
+Ikeda	JP		34.822	135.430
+Iserlohn	DE		51.375	7.703
+Isahaya	JP		32.841	130.043
+Ise	JP		34.483	136.700
+Iriga City	PH		13.432	123.412
+Igbo-Ora	NG		7.434	3.288
+Itanhaém	BR	27	-24.183	-46.789
+Isieke	NG		6.382	8.037
+Izumo	JP		35.367	132.767
+Iwata	JP		34.700	137.850
+Ifo	NG		6.815	3.195
+Indio	US	CA	33.721	-116.217
+Igede-Ekiti	NG		7.668	5.126
+Idanre	NG		7.113	5.116
+Igarassu	BR	30	-7.834	-34.906
+Ituiutaba	BR	15	-18.974	-49.462
+Iwamizawa	JP		43.200	141.760
+Ílion	GR		38.033	23.700
+Itaperuna	BR	21	-21.205	-41.888
+Ihiala	NG		5.855	6.859
+Ipoti	NG		7.874	5.077
+Ishurdi	BD		24.129	89.066
+Itajubá	BR	15	-22.426	-45.453
+Izumiōtsu	JP		34.500	135.400
+Itumbiara	BR	29	-18.419	-49.215
+Ikom	NG		5.967	8.706
+Iizuka	JP		33.637	130.687
+Ilioúpoli	GR		37.931	23.768
+Ipiales	CO		0.825	-77.640
+Inowrocław	PL		52.799	18.264
+Itaúna	BR	15	-20.075	-44.576
+Iğdır	TR		39.924	44.045
+Igbo-Ukwu	NG		6.018	7.020
+Iowa City	US	IA	41.661	-91.530
+Igbara-Odo	NG		7.503	5.063
+Inuyama	JP		35.380	136.943
+Inhambane	MZ		-23.865	35.383
+Ifrane	MA		33.527	-5.110
+Ilagan	PH		17.149	121.889
+Izmail	UA		45.351	28.838
+Itō	JP		34.967	139.083
+Ijuí	BR	23	-28.388	-53.915
+Ishimbay	RU		53.454	56.041
+Iguatu	BR	06	-6.359	-39.299
+Inaruwa	NP		26.607	87.148
+Isnā	EG		25.293	32.554
+Idah	NG		7.113	6.739
+Itatiba	BR	27	-23.006	-46.839
+Ishim	RU		56.113	69.490
+Ixtapa-Zihuatanejo	MX	12	17.643	-101.552
+I‘zāz	SY		36.587	37.046
+Ioánnina	GR		39.665	20.852
+Itauguá	PY		-25.393	-57.354
+Itacoatiara	BR	04	-3.143	-58.444
+Itaituba	BR	16	-4.276	-55.984
+Imaichi	JP		36.717	139.683
+Itabaiana	BR	28	-10.685	-37.425
+Irecê	BR	05	-11.304	-41.856
+Ichinoseki	JP		38.917	141.133
+Itapeva	BR	27	-23.982	-48.876
+Ina	JP		35.828	137.954
+Iskitim	RU		54.637	83.305
+Itapira	BR	27	-22.436	-46.822
+Issy-les-Moulineaux	FR		48.821	2.277
+Irvington	US	NJ	40.732	-74.235
+Irun	ES		43.339	-1.789
+Itapetinga	BR	05	-15.249	-40.248
+Idaho Falls	US	ID	43.467	-112.034
+Imarichō-kō	JP		33.274	129.879
+Ivry-sur-Seine	FR		48.816	2.385
+Ishikari	JP		43.240	141.354
+Itoman	JP		26.126	127.669
+Ilkal	IN		15.959	76.114
+Irving Park	US	IL	41.953	-87.736
+Itapipoca	BR	06	-3.494	-39.579
+Islāmpur	IN		26.265	88.190
+Iwade	JP		34.250	135.317
+Ilha de Moçambique	MZ		-15.034	40.736
+Izyum	UA		49.209	37.248
+Ilo	PE		-17.632	-71.341
+Ipojuca	BR	30	-8.399	-35.064
+Imola	IT		44.359	11.713
+Istaravshan	TJ		39.914	69.003
+Ishioka	JP		36.183	140.267
+Ijebu-Jesa	NG		7.683	4.818
+Irondequoit	US	NY	43.213	-77.580
+Idappadi	IN		11.586	77.839
+Içara	BR	26	-28.713	-49.300
+Ibshawāy	EG		29.359	30.681
+Ivanteyevka	RU		55.971	37.921
+Ibbenbüren	DE		52.280	7.715
+Issia	CI		6.492	-6.586
+Inda Silasē	ET		14.103	38.283
+Irákleio	GR		38.053	23.765
+Ifakara	TZ		-8.133	36.683
+Īstgāh-e Rāh Āhan-e Garmsār	IR		35.235	52.309
+I-n-Salah	DZ		27.194	2.461
+Ibitinga	BR	27	-21.758	-48.829
+Ibiza	ES		38.909	1.433
+Iwakura	JP		35.283	136.867
+Itamaraju	BR	05	-17.039	-39.531
+Itaberaba	BR	05	-12.527	-40.307
+Invercargill	NZ		-46.400	168.350
+Ilaro	NG		6.889	3.014
+Inashiki	JP		35.956	140.324
+Inverness	GB		57.479	-4.224
+Irati	BR	18	-25.467	-50.651
+Iţsā	EG		29.238	30.789
+Iganga	UG		0.609	33.469
+Itānagar	IN		27.087	93.610
+Itararé	BR	27	-24.113	-49.332
+Ishigaki	JP		24.345	124.157
+Ibiporã	BR	18	-23.269	-51.048
+Istres	FR		43.513	4.987
+Indaial	BR	26	-26.898	-49.232
+Inhumas	BR	29	-16.358	-49.496
+Imbituba	BR	26	-28.240	-48.670
+Izúcar de Matamoros	MX	21	18.602	-98.462
+Iwai	JP		36.050	139.900
+‘Irbīn	SY		33.537	36.366
+Iwanuma	JP		38.105	140.859
+Izberbash	RU		42.570	47.864
+Iten	KE		0.670	35.508
+Irbit	RU		57.671	63.071
+Indang	PH		14.195	120.877
+Irpin	UA		50.522	30.251
+Inongo	CD		-1.927	18.288
+Imzouren	MA		35.146	-3.851
+Istok	XK		42.781	20.488
+Itabirito	BR	15	-20.253	-43.801
+Izumi	JP		32.083	130.367
+Izobil’nyy	RU		45.371	41.708
+Igualada	ES		41.581	1.617
+Ilopango	SV		13.702	-89.109
+Ipiaú	BR	05	-14.134	-39.739
+Imperia	IT		43.889	8.039
+Ilkeston	GB		52.971	-1.310
+Ingeniero Pablo Nogués	AR		-34.478	-58.707
+‘Izbat al Burj	EG		31.508	31.841
+Isfara	TJ		40.126	70.625
+Imsil	KR		35.613	127.279
+Indian Trail	US	NC	35.077	-80.669
+Ituverava	BR	27	-20.339	-47.781
+Imam Qasim	IQ		32.298	44.683
+Itapema	BR	26	-27.090	-48.611
+Itu	NG		5.201	7.984
+Izkī	OM		22.933	57.767
+Issaquah	US	WA	47.530	-122.033
+Igunga	TZ		-4.283	33.883
+Igatpuri	IN		19.695	73.563
+Ieper	BE		50.851	2.886
+Itapecuru Mirim	BR	13	-3.393	-44.359
+Inver Grove Heights	US	MN	44.848	-93.043
+Ixmiquilpan	MX	13	20.478	-99.217
+Itaqui	BR	23	-29.125	-56.553
+Itápolis	BR	27	-21.596	-48.813
+Ibara	JP		34.600	133.467
+Imishli	AZ		39.871	48.060
+Indi	IN		17.177	75.953
+IJsselstein	NL		52.020	5.043
+Ichchāpuram	IN		19.114	84.687
+Irvine	GB		55.619	-4.655
+Istra	RU		55.920	36.869
+Isiolo	KE		0.355	37.582
+Itzehoe	DE		53.921	9.515
+Ilhabela	BR	27	-23.778	-45.358
+Iława	PL		53.596	19.568
+Ikongo	MG		-21.883	47.433
+Imperial	PE		-13.059	-76.353
+Itapagé	BR	06	-3.687	-39.586
+IJmuiden	NL		52.460	4.610
+İmamoğlu	TR		37.265	35.657
+Islāmpur	IN		25.141	85.206
+Isulan	PH		6.629	124.605
+Idar-Oberstein	DE		49.714	7.308
+Ibanda	UG		-0.134	30.496
+Itaitinga	BR	06	-3.969	-38.528
+Itoigawa	JP		37.033	137.850
+Ithaca	US	NY	42.441	-76.497
+Iyo	JP		33.751	132.701
+Iturama	BR	15	-19.728	-50.196
+Ibusuki	JP		31.233	130.650
+Isawa	JP		35.650	138.633
+Imatra	FI		61.172	28.752
+Ibaté	BR	27	-21.955	-47.997
+Ingenio	ES		27.919	-15.434
+Inca	ES		39.721	2.911
+Irinjālakuda	IN		10.342	76.211
+Ilula	TZ		-7.677	36.037
+Islāmnagar	IN		28.329	78.725
+Inkhil	SY		33.018	36.128
+Ipatovo	RU		45.718	42.904
+Igarapava	BR	27	-20.038	-47.747
+Ixtapa	MX	14	20.716	-105.205
+Inozemtsevo	RU		44.093	43.091
+Igrejinha	BR	23	-29.574	-50.790
+Isakogorka	RU		64.446	40.653
+Itogon	PH		16.364	120.677
+Icó	BR	06	-6.401	-38.862
+Iporá	BR	29	-16.442	-51.118
+Iskandar	UZ		41.554	69.701
+Ilgın	TR		38.279	31.914
+Imperial Beach	US	CA	32.584	-117.113
+Illkirch-Graffenstaden	FR		48.529	7.715
+Ipirá	BR	05	-12.158	-39.737
+Ilmenau	DE		50.683	10.919
+Iba	PH		15.328	119.978
+Igarapé Miri	BR	16	-1.975	-48.960
+Independence	US	KY	38.943	-84.544
+Indāpur	IN		18.300	73.250
+Ipu	BR	06	-4.322	-40.711
+Ipís	CR		9.967	-84.013
+Itaperuçu	BR	18	-25.220	-49.348
+Ishii	JP		34.068	134.442
+Izegem	BE		50.914	3.214
+Iwŏn-ŭp	KP		40.323	128.655
+Isla	MX	30	18.028	-95.529
+Inđija	RS		45.048	20.082
+Iradan	KG		40.267	72.100
+Ixtaczoquitlán	MX	30	18.854	-97.062
+Innoshima	JP		34.283	133.183
+Ishqoshim	TJ		36.725	71.613
+Ibaiti	BR	18	-23.849	-50.188
+Itako	JP		35.933	140.550
+Ixtepec	MX	20	16.561	-95.104
+Iiyama	JP		36.850	138.367
+Ibrā’	OM		22.691	58.533
+Ijūin	JP		31.617	130.400
+Ingelheim am Rhein	DE		49.971	8.059
+Ilha Solteira	BR	27	-20.433	-51.343
+Itsukaichi	JP		35.725	139.218
+Ishige	JP		36.117	139.967
+Igurusi	TZ		-8.850	33.850
+Iturrama	ES		42.808	-1.658
+Igbeti	NG		8.749	4.131
+Inkster	US	MI	42.294	-83.310
+Iringal	IN		11.559	75.617
+Ivatsevichy	BY		52.709	25.340
+Immokalee	US	FL	26.419	-81.417
+Igarapé Açu	BR	16	-1.129	-47.620
+Ino	JP		33.550	133.433
+Ibi	ES		38.625	-0.572
+Icod de los Vinos	ES		28.372	-16.712
+Ishiki	JP		34.800	137.017
+Iguape	BR	27	-24.708	-47.555
+Itambé	BR	05	-15.245	-40.624
+Ilchester	US	MD	39.251	-76.765
+Injambakkam	IN		12.916	80.249
+Ixtlán del Río	MX	18	21.039	-104.371
+Ivrea	IT		45.467	7.876
+Isla Vista	US	CA	34.413	-119.861
+Il’skiy	RU		44.842	38.567
+İdil	TR		37.335	41.889
+Ibiúna	BR	27	-23.656	-47.222
+Illapel	CL		-31.633	-71.170
+Idstein	DE		50.218	8.267
+Igugunu	TZ		-4.567	34.633
+Igaraçu do Tietê	BR	27	-22.509	-48.558
+Ibi	NG		8.181	9.744
+‘Izrā	JO		31.159	35.693
+Inglewood-Finn Hill	US	WA	47.720	-122.232
+Itimādpur	IN		27.235	78.198
+Iaçu	BR	05	-12.767	-40.212
+Iglesias	IT		39.309	8.537
+Isernhagen Farster Bauerschaft	DE		52.471	9.842
+Iisalmi	FI		63.559	27.191
+Ishikawa	JP		26.423	127.821
+Itaí	BR	27	-23.418	-49.091
+İznik	TR		40.429	29.721
+Itaberaí	BR	29	-16.020	-49.810
+Igra	RU		57.555	53.054
+Iwase	JP		36.350	140.100
+Igarapé	BR	15	-20.070	-44.302
+Isla Cristina	ES		37.200	-7.317
+Itupiranga	BR	16	-5.135	-49.327
+Illescas	ES		40.122	-3.847
+Isaka	TZ		-3.900	32.933
+Impfondo	CG		1.618	18.060
+Irosin	PH		12.700	124.032
+Itupeva	BR	27	-23.153	-47.058
+Isleworth	GB		51.475	-0.342
+Itaparica	BR	05	-12.888	-38.679
+Ibirataia	BR	05	-14.067	-39.641
+Ituberá	BR	05	-13.735	-39.148
+İskilip	TR		40.735	34.474
+Inza	RU		53.857	46.356
+Itigi	TZ		-5.700	34.483
+Itapuranga	BR	29	-15.562	-49.949
+Ikungi	TZ		-5.133	34.767
+Imbituva	BR	18	-25.230	-50.604
+Ibicaraí	BR	05	-14.865	-39.587
+Ives Estates	US	FL	25.962	-80.177
+Ishøj	DK		55.615	12.352
+Irlam	GB		53.443	-2.423
+Ivdel’	RU		60.691	60.421
+Izalco	SV		13.745	-89.673
+Ipil	PH		7.784	122.586
+Irugūr	IN		11.018	77.063
+Itabaiana	BR	17	-7.329	-35.333
+Ilembula	TZ		-8.900	34.583
+Ishikawa	JP		37.150	140.450
+Idhnā	PS		31.559	34.974
+Iselin	US	NJ	40.575	-74.322
+Islip	US	NY	40.730	-73.210
+Ipameri	BR	29	-17.722	-48.160
+İncirliova	TR		37.852	27.724
+Ischia	IT		40.738	13.949
+Isle of Lewis	GB		58.219	-6.388
+Illingen	DE		49.374	7.048
+Itá	PY		-25.501	-57.367
+Ibiá	BR	15	-19.478	-46.539
+Ibirama	BR	26	-27.057	-49.518
+Ischia Porto	IT		40.739	13.951
+Ivoti	BR	23	-29.591	-51.161
+Itamarandiba	BR	15	-17.857	-42.859
+Izazi	TZ		-7.200	35.733
+Izluchinsk	RU		60.979	76.924
+Ipinda	TZ		-9.483	33.900
+Izyaslav	UA		50.119	26.821
+Igbor	NG		7.451	8.608
+Ixtapan de la Sal	MX	15	18.844	-99.677
+Ilovays’k	UA		47.925	38.202
+Ifanadiana	MG		-21.300	47.633
+Itapemirim	BR	08	-21.011	-40.834
+Ilām	NP		26.909	87.928
+Illela	NG		13.731	5.298
+Inawashiro	JP		37.567	140.117
+Indergarh	IN		26.935	79.671
+Ibotirama	BR	05	-12.185	-43.221
+Ilongero	TZ		-4.667	34.867
+Itororó	BR	05	-15.117	-40.070
+Idylwood	US	VA	38.895	-77.212
+Ílhavo	PT		40.602	-8.670
+Iperó	BR	27	-23.350	-47.689
+Itabaianinha	BR	28	-11.274	-37.790
+Ipueiras	BR	20	-7.033	-40.450
+Imperial	US	CA	32.848	-115.569
+Ihosy	MG		-22.403	46.126
+Isfana	KG		39.839	69.528
+Isernia	IT		41.596	14.234
+Iracemápolis	BR	27	-22.581	-47.519
+Itaocara	BR	21	-21.669	-42.076
+Itapecerica	BR	15	-20.473	-45.126
+Illéla	NE		14.460	5.244
+Itapissuma	BR	30	-7.776	-34.892
+Ilanskiy	RU		56.233	96.065
+Ippy	CF		6.268	21.225
+Illertissen	DE		48.223	10.103
+Innere Stadt	AT		48.209	16.371
+Ipubi	BR	30	-7.652	-40.149
+Ilinden	MK		41.995	21.580
+Izamal	MX	31	20.935	-89.018
+Itapaci	BR	29	-14.951	-49.549
+Đinh Văn	VN		11.786	108.243
+Ilave	PE		-16.083	-69.667
+Issoire	FR		45.544	3.249
+Ipaba	BR	15	-19.414	-42.419
+Indri	IN		29.880	77.060
+Iperu	NG		6.910	3.666
+Isabela	PH		10.205	122.989
+Ikedachō	JP		34.028	133.806
+Itaporanga	BR	17	-7.304	-38.150
+Ichinohe	JP		40.220	141.290
+Itatinga	BR	27	-23.102	-48.616
+Ikalamavony	MG		-21.150	46.583
+Iwanai	JP		42.974	140.509
+Ibeto	NG		10.485	5.145
+Itajuípe	BR	05	-14.678	-39.375
+Indianola	US	IA	41.358	-93.557
+Illzach	FR		47.774	7.352
+Iona	US	FL	26.520	-81.964
+Isanlu-Itedoijowa	NG		8.274	5.835
+Ighram	DZ		36.463	4.505
+Ifatsy	MG		-22.400	47.750
+Ingleburn	AU	02	-34.000	150.867
+Itamaracá	BR	30	-7.748	-34.826
+Ialoveni	MD		46.943	28.782
+Itaú de Minas	BR	15	-20.739	-46.752
+Inala	AU	04	-27.597	152.974
+Ilkley	GB		53.924	-1.823
+Ijevan	AM		40.879	45.149
+Inhambupe	BR	05	-11.784	-38.353
+Icheu	NG		7.707	6.772
+Ikast	DK		56.139	9.158
+Itambacuri	BR	15	-18.031	-41.685
+Igarra	NG		7.294	6.104
+Ingleby Greenhow	GB		54.450	-1.107
+Ismaning	DE		48.233	11.683
+Immenstadt im Allgäu	DE		47.560	10.214
+Ibipeba	BR	05	-11.641	-42.011
+Isny	DE		47.693	10.039
+Issoudun	FR		46.948	1.994
+Iúna	BR	08	-20.346	-41.536
+Iguaí	BR	05	-14.756	-40.089
+Ikauna	IN		27.531	81.969
+Ibirubá	BR	23	-28.628	-53.090
+Ihtiman	BG		42.433	23.817
+Indiana	US	PA	40.621	-79.153
+Iglino	RU		54.832	56.413
+Izra‘	SY		32.871	36.255
+Itaíba	BR	30	-8.947	-37.423
+Istmina	CO		5.161	-76.684
+Iglās	IN		27.711	77.940
+Intibucá	HN		14.317	-88.167
+Ispica	IT		36.786	14.905
+Ichhāwar	IN		23.028	77.017
+Ivanava	BY		52.145	25.537
+İsmayıllı	AZ		40.785	48.151
+Inhapim	BR	15	-19.549	-42.120
+Ichtegem	BE		51.096	3.015
+Itanhém	BR	05	-17.166	-40.330
+Itumba	TZ		-9.400	33.183
+Inskoy	RU		54.430	86.440
+Ikang	NG		4.790	8.532
+Irauçuba	BR	06	-3.746	-39.783
+Inderbor	KZ		48.550	51.783
+Itirapina	BR	27	-22.253	-47.823
+Isoka	ZM		-10.161	32.634
+Itacarambi	BR	15	-15.102	-44.092
+Ikwiriri	TZ		-7.956	38.972
+Ishtixon Shahri	UZ		39.966	66.486
+Ifrane	MA		31.702	-6.349
+Ilgaz	TR		40.925	33.626
+Ilıca	TR		39.947	41.095
+İspir	TR		40.480	40.994
+Inverurie	GB		57.284	-2.377
+Isla Mujeres	MX	23	21.231	-86.731
+Itatiaia	BR	21	-22.496	-44.563
+Isabela	PR		18.501	-67.024
+Itacaré	BR	05	-14.279	-38.996
+Iluppūr	IN		10.513	78.624
+Islamkot	PK		24.699	70.180
+Irondale	US	AL	33.538	-86.707
+Ichnya	UA		50.863	32.394
+Ipuã	BR	27	-20.438	-48.012
+Itarantim	BR	05	-15.660	-40.066
+Ierápetra	GR		35.012	25.742
+Ibimirim	BR	30	-8.541	-37.690
+Ibatiba	BR	08	-20.234	-41.511
+Issum	DE		51.533	6.433
+Ilsede	DE		52.263	10.199
+Itajobi	BR	27	-21.318	-49.054
+Ivanhoe	AU	07	-37.769	145.043
+Irmo	US	SC	34.086	-81.183
+Itacorubi	BR	26	-27.583	-48.495
+Indooroopilly	AU	04	-27.503	152.975
+Ilovlya	RU		49.303	43.980
+Ingersoll	CA	08	43.033	-80.883
+Ivybridge	GB		50.390	-3.919
+İscehisar	TR		38.862	30.750
+Inyonga	TZ		-6.717	32.067
+Ilmajoki	FI		62.733	22.567
+Inverell	AU	02	-29.774	151.112
+Itiruçu	BR	05	-13.532	-40.150
+Ialysós	GR		36.414	28.155
+Iksāl	IL		32.682	35.324
+Ionia	US	MI	42.987	-85.071
+Ilampillai	IN		11.607	78.007
+Itanhandu	BR	15	-22.296	-44.935
+Idukki	IN		9.850	76.967
+Isselburg	DE		51.832	6.464
+Izola	SI		45.537	13.662
+Ianca	RO		45.133	27.450
+Ince-in-Makerfield	GB		53.533	-2.617
+Ilfracombe	GB		51.209	-4.113
+Iranduba	BR	04	-3.285	-60.186
+Itaquitinga	BR	30	-7.668	-35.102
+Independência	BR	06	-5.396	-40.309
+Iguaba Grande	BR	21	-22.839	-42.229
+Itaberá	BR	27	-23.862	-49.137
+Ivangorod	RU		59.372	28.216
+Isola di Capo Rizzuto	IT		38.958	17.092
+Ironton	US	OH	38.537	-82.683
+Islamey	RU		43.676	43.455
+Ilinge	ZA		-31.977	27.043
+Ipauçu	BR	27	-23.057	-49.626
+Isola del Liri	IT		41.687	13.597
+Illintsi	UA		49.105	29.218
+Ituango	CO		7.171	-75.764
+Isaszeg	HU		47.530	19.402
+Immingham	GB		53.614	-0.216
+İkizce	TR		41.058	37.080
+Ibicuí	BR	05	-14.842	-39.987
+Imeni Morozova	RU		59.976	31.038
+Ingelmunster	BE		50.921	3.256
+Itagi	BR	05	-14.163	-40.006
+Imst	AT		47.245	10.740
+Itapuí	BR	27	-22.233	-48.719
+Illora	ES		37.288	-3.881
+Isāgarh	IN		24.839	77.883
+Ingeniero Guillermo N. Juárez	AR		-23.900	-61.850
+Iporã	BR	18	-24.003	-53.704
+Inzhavino	RU		52.318	42.494
+Induno Olona	IT		45.846	8.841
+Inkerman	UA		44.614	33.610
+Itaporanga	BR	27	-23.708	-49.490
+Ivankiv	UA		50.939	29.894
+Ixhuatlán del Sureste	MX	30	18.021	-94.389
+Igurubi	TZ		-4.000	33.700
+Inwood	US	NY	40.866	-73.927
+Isbergues	FR		50.623	2.459
+Ineu	RO		46.434	21.840
+Igny	FR		48.744	2.224
+Inayauan	PH		9.900	122.434
+Isheyevka	RU		54.428	48.267
+Indianola	US	MS	33.451	-90.655
+İnebolu	TR		41.975	33.761
+Initao	PH		8.500	124.304
+Ilek	RU		51.527	53.383
+Ikryanoye	RU		46.093	47.731
+Itagibá	BR	05	-14.284	-39.843
+Inwood	US	NY	40.622	-73.747
+Isperih	BG		43.717	26.833
+Ingleside	US	TX	27.878	-97.212
+Iwye	BY		53.930	25.773
+Iveşti	RO		45.683	27.517
+Imām Şāḩib	AF		37.189	68.936
+Iguatemi	BR	11	-23.680	-54.561
+Ifs	FR		49.140	-0.349
+İçmeler	TR		36.799	28.226
+Igrim	RU		63.191	64.416
+Igoumenítsa	GR		39.503	20.267
+Ilabaya	PE		-17.421	-70.513
+Ibaan	PH		13.818	121.133
+Ivančice	CZ		49.101	16.378
+Iernut	RO		46.450	24.250
+Isabel Segunda	PR		18.149	-65.443
+Independence	US	OR	44.851	-123.187
+Irtyshsk	KZ		53.334	75.458
+Iaciara	BR	29	-14.096	-46.632
+Ibiapina	BR	06	-3.923	-40.889
+İhsaniye	TR		40.691	29.835
+Ifaki	NG		7.789	5.249
+Irshava	UA		48.317	23.038
+Imeni Sverdlova	RU		59.796	30.666
+Ibresi	RU		55.301	47.038
+Irará	BR	05	-12.050	-38.767
+Întorsura Buzăului	RO		45.683	26.033
+Ixtapa	MX	12	17.668	-101.642
+Iklehra	IN		23.147	76.390
+Independence	US	KS	37.224	-95.708
+Ibiraçu	BR	08	-19.832	-40.370
+İbradı	TR		37.097	31.599
+Irigny	FR		45.673	4.822
+Isle of Normandy	US	FL	25.853	-80.135
+Igabi	NG		10.806	7.714
+Insar	RU		53.865	44.374
+Itasca	US	IL	41.975	-88.007
+Ittiri	IT		40.592	8.570
+Incline Village	US	NV	39.251	-119.973
+Ibateguara	BR	02	-8.973	-35.939
+Ingá	BR	17	-7.281	-35.604
+Inékar	ML		15.959	3.141
+Ibarreta	AR		-25.214	-59.859
+Ingle Farm	AU	05	-34.833	138.633
+Imeko	NG		7.449	2.843
+Isabel	PH		10.927	124.434
+Ichenhausen	DE		48.371	10.307
+Inverigo	IT		45.738	9.218
+Indian Harbour Beach	US	FL	28.149	-80.588
+Inyati	ZW		-19.676	28.847
+Itri	IT		41.290	13.530
+Isola della Scala	IT		45.269	11.008
+Il’inskiy	RU		55.619	38.118
+Ilsfeld	DE		49.055	9.246
+Isara	NG		6.993	3.681
+Itaguaçu	BR	08	-19.802	-40.856
+Isla Soyaltepec	MX	20	18.201	-96.483
+Isle	FR		45.805	1.226
+Island Lake	US	IL	42.276	-88.192
+Iver Heath	GB		51.536	-0.518
+İpsala	TR		40.921	26.383
+Imielin	PL		50.145	19.186
+Imbert	DO		19.754	-70.829
+Ingré	FR		47.920	1.828
+Innaloo	AU	08	-31.893	115.795
+Inzago	IT		45.540	9.483
+Ingenbohl	CH		46.999	8.615
+Ilion	US	NY	43.015	-75.035
+Itapirapuã	BR	29	-15.823	-50.613
+Itatí	AR		-27.270	-58.245
+Ivins	US	UT	37.169	-113.679
+Iesolo	IT		45.533	12.645
+Ivnya	RU		51.063	36.134
+Issenye	TZ		-2.000	34.333
+Iho	NG		5.582	7.099
+Iāwar	IN		23.009	76.501
+Ilare	NG		7.351	5.113
+Inden	DE		50.843	6.360
+Ilvesheim	DE		49.474	8.567
+Ifon	NG		6.930	5.774
+Inverness	US	IL	42.118	-88.096
+Inhapi	BR	02	-9.221	-37.749
+Iron Mountain	US	MI	45.820	-88.066
+Irthlingborough	GB		52.327	-0.611
+Iver	GB		51.500	-0.500
+Idiroko	NG		6.632	2.747
+Igarka	RU		67.466	86.603
+Isyangulovo	RU		52.186	56.580
+Irondale	US	GA	33.481	-84.359
+Independent Hill	US	VA	38.636	-77.438
+Immenhausen	DE		51.428	9.480
+Innisfil	CA	08	44.300	-79.650
+Inveruno	IT		45.514	8.850
+Illushi	NG		6.670	6.629
+Interlaken	US	CA	36.951	-121.734
+Ikaalinen	FI		61.770	23.066
+Însurăţei	RO		44.917	27.600
+Ibirapitanga	BR	05	-14.164	-39.374
+Inírida	CO		3.865	-67.924
+Independencia	MX	17	18.877	-99.122
+Ikem	NG		6.780	7.715
+Ilyinogorsk	RU		56.228	42.954
+Işıklar	TR		38.671	30.741
+Iitti	FI		60.895	26.339
+Inverness	US	FL	28.836	-82.330
+Isle of Bute	GB		55.837	-5.056
+Illawong	AU	02	-34.000	151.033
+Illingen	DE		48.956	8.925
+İmranlı	TR		39.875	38.114
+Isetskoye	RU		56.486	65.323
+Independence	US	OH	41.369	-81.638
+Islamorada	US	FL	24.924	-80.628
+Ivolginsk	RU		51.749	107.284
+Isola delle Femmine	IT		38.191	13.247
+Inhuma	BR	20	-6.668	-41.708
+Inari	FI		68.906	27.029
+Idabel	US	OK	33.896	-94.826
+Iznalloz	ES		37.393	-3.528
+Ivanovskoye	RU		44.580	41.876
+Inda Chhoi	IN		29.640	75.790
+Ione	US	CA	38.353	-120.933
+Intendente Alvear	AR		-35.234	-63.592
+Ixtlahuaca de Rayón	MX	15	19.569	-99.767
+Imsida	MT		35.892	14.483
+Ignacio Zaragoza	MX	29	19.292	-97.921
+Ialibu	PG		-6.282	143.994
+Ibrány	HU		48.123	21.710
+Icaño	AR		-28.919	-65.328
+Imuris	MX	26	30.790	-110.846
+Izvoarele	RO		45.033	25.267
+Igis	CH		46.945	9.572
+Indaparapeo	MX	16	19.788	-100.969
+Ixtenco	MX	29	19.251	-97.894
+Ilog	PH		10.027	122.768
+Ivankovo	HR		45.289	18.684
+Itaunja	IN		27.083	80.897
+‘Illār	PS		32.370	35.107
+Ixhuatlán del Café	MX	30	19.051	-96.984
+Illizi	DZ		26.483	8.467
+Inayagan	PH		10.235	123.769
+Irvington	US	NY	41.039	-73.868
+Iscar	ES		41.361	-4.533
+Ii	FI		65.317	25.373
+Iskateley	RU		67.680	53.151
+Inverness Highlands South	US	FL	28.801	-82.337
+Ingeniero Luis A. Huergo	AR		-39.071	-67.238
+Ishpeming	US	MI	46.489	-87.668
+Igaci	BR	02	-9.537	-36.634
+Ignalina	LT		55.341	26.160
+Ilomantsi	FI		62.672	30.933
+Inwood	US	FL	28.037	-81.765
+Iowa Park	US	TX	33.951	-98.669
+Ilsenburg	DE		51.867	10.678
+Ighiu	RO		46.150	23.517
+Ivot	RU		53.675	34.189
+Isenbüttel	DE		52.433	10.583
+Ivanka pri Dunaji	SK		48.187	17.255
+Ivano-Frankove	UA		49.920	23.729
+Indian River Estates	US	FL	27.364	-80.310
+Isla Aguada	MX	04	18.787	-91.493
+Ixtlahuacán del Río	MX	14	20.864	-103.240
+Inniswold	US	LA	30.405	-91.083
+International Falls	US	MN	48.601	-93.411
+Ixtlahuacán de los Membrillos	MX	14	20.349	-103.193
+Ivanteyevka	RU		52.267	49.105
+Iqaluit	CA	14	63.747	-68.517
+İvrindi	TR		39.584	27.486
+Izsák	HU		46.805	19.352
+Indre Arna	NO		60.418	5.471
+Ixtapa	MX	05	16.803	-92.905
+Indiantown	US	FL	27.027	-80.486
+Ilshofen	DE		49.170	9.918
+Islaz	RO		43.720	24.764
+Independence	US	IA	42.469	-91.889
+Ittre	BE		50.644	4.265
+Ispringen	DE		48.917	8.667
+Idrija	SI		46.003	14.031
+Irámuco	MX	11	19.962	-100.922
+Izhmorskiy	RU		56.192	86.642
+Immenstaad am Bodensee	DE		47.667	9.367
+Immendingen	DE		47.933	8.733
+Ilok	HR		45.222	19.377
+Ingelfingen	DE		49.300	9.653
+Ilijaš	BA		43.951	18.271
+Infantes	ES		38.737	-3.012
+Ihringen	DE		48.043	7.648
+Isla del Bosque	MX	25	22.733	-105.846
+Ilminster	GB		50.927	-2.910
+Ingeniero Jacobacci	AR		-41.329	-69.550
+İhsaniye	TR		39.029	30.416
+Iskushuban	SO		10.284	50.230
+Igpit	PH		8.511	124.587
+Ijebu-Ife	NG		6.778	4.034
+Igersheim	DE		49.494	9.817
+Istok	RU		56.791	60.779
+Ingenio	PR		18.442	-66.226
+Itteville	FR		48.515	2.344
+Ibstock	GB		52.686	-1.400
+Imelda	PH		7.647	122.953
+Indian Hills	US	NV	39.086	-119.784
+Idritsa	RU		56.332	28.899
+Ingatestone	GB		51.670	0.384
+Irituia	BR	16	-1.771	-47.438
+Iargara	MD		46.425	28.427
+İnönü	TR		37.317	33.767
+Issa	RU		53.870	44.858
+Inglewood	AU	08	-31.917	115.880
+Isniq	XK		42.557	20.303
+Idrinskoye	RU		54.371	92.136
+Ille-sur-Têt	FR		42.671	2.622
+Iola	US	KS	37.924	-95.400
+Isanti	US	MN	45.490	-93.248
+Ivanec	HR		46.223	16.120
+Ilava	SK		48.998	18.235
+Islip Terrace	US	NY	40.743	-73.193
+Isaccea	RO		45.267	28.467
+Inawayan	PH		6.961	125.473
+Infanta	PH		14.745	121.650
+Iseo	IT		45.659	10.050
+Imeni Vorovskogo	RU		55.732	38.324
+Indian Wells	US	CA	33.718	-116.343
+Ipala	GT		14.620	-89.619
+Ibabang Tayuman	PH		13.404	122.516
+İyidere	TR		41.012	40.362
+Inverloch	AU	07	-38.627	145.723
+Ikovka	RU		55.609	64.938
+Iza	UA		48.215	23.329
+Isen	DE		48.212	12.057
+Inverkeithing	GB		56.033	-3.396
+Ingå	FI		60.046	24.005
+Iowa Falls	US	IA	42.522	-93.251
+Isnos	CO		1.936	-76.241
+Irymple	AU	07	-34.235	142.171
+Iluka	AU	08	-31.736	115.731
+Itaueira	BR	20	-7.603	-43.026
+Iraquara	BR	05	-12.249	-41.619
+Iłża	PL		51.163	21.240
+Izbiceni	RO		43.833	24.650
+Ipilan	PH		8.843	117.903
+Interlaken	CH		46.684	7.866
+Isle of Arran	GB		55.581	-5.212
+Iconha	BR	08	-20.793	-40.811
+Isokyrö	FI		63.012	22.333
+Ivisan	PH		11.522	122.691
+Ivanivka	UA		46.721	34.553
+Illa de Arousa	ES		42.564	-8.873
+Itzincab Palomeque	MX	31	20.916	-89.698
+Ingenio La Esperanza	AR		-24.226	-64.839
+Ironwood	US	MI	46.455	-90.171
+Ivyanyets	BY		53.886	26.743
+Itapicuru	BR	05	-11.317	-38.233
+Indiaroba	BR	28	-11.519	-37.512
+Iffezheim	DE		48.822	8.143
+Ixhuatlancillo	MX	30	18.898	-97.149
+Itatuba	BR	17	-7.375	-35.628
+Ishcherskaya	RU		43.714	45.134
+Itinga	BR	15	-16.613	-41.765
+Iznájar	ES		37.258	-4.308
+Istebna	PL		49.563	18.906
+Ituaçu	BR	05	-13.813	-41.297
+Irsina	IT		40.750	16.238
+Iscuandé	CO		2.451	-77.980
+Irig	RS		45.052	19.844
+Ixtacomitán	MX	05	17.431	-93.097
+Itéa	GR		38.432	22.424
+Island Park	US	NY	40.604	-73.655
+Izvoarele	RO		44.034	25.775
+Is	RU		58.791	59.718
+Independenţa	RO		45.483	27.750
+Imperial	US	MO	38.370	-90.378
+Irbeyskoye	RU		55.640	95.451
+Ingeniero Luiggi	AR		-35.386	-64.465
+Iara	RO		46.550	23.517
+İsabeyli	TR		37.901	28.265
+Icuseşti	RO		46.800	26.933
+Ignacio de la Llave	MX	30	18.726	-95.987
+Igensdorf	DE		49.623	11.231
+Iveşti	RO		46.183	27.533
+Ipanguaçu	BR	22	-5.498	-36.855
+Idrī	LY		27.447	13.052
+Ispravnaya	RU		44.068	41.610
+Igreja Nova	BR	02	-10.125	-36.662
+Impruneta	IT		43.685	11.254
+Iba	PH		15.454	120.410
+Ixtlán de los Hervores	MX	16	20.169	-102.395
+Incisa in Val d'Arno	IT		43.655	11.449
+Ingham	AU	04	-18.646	146.162
+Ilirska Bistrica	SI		45.568	14.246
+Irvington	US	MD	39.283	-76.686
+Ipoteşti	RO		47.617	26.283
+Imeni Pervogo Maya	RU		50.890	39.592
+Ispra	IT		45.815	8.613
+Ilaskhan-Yurt	RU		43.279	46.102
+Ivanhoe	US	CA	36.387	-119.218
+Iturbe	PY		-26.055	-56.485
+Issou	FR		48.990	1.793
+Ibung	PH		16.609	121.186
+Ibăneşti	RO		46.767	24.933
+Irtyshskiy	RU		58.333	68.133
+Ihrlerstein	DE		48.933	11.867
+Irchester	GB		52.281	-0.645
+Isakly	RU		54.133	51.533
+Iphofen	DE		49.702	10.260
+Ilulissat	GL		69.220	-51.099
+Incourt	BE		50.692	4.798
+Inzer	RU		54.217	57.556
+Iberia	PE		-11.350	-69.583
+Ioneşti	RO		44.850	24.233
+Iancu Jianu	RO		44.500	24.033
+Indian Mountain Lake	US	PA	41.003	-75.508
+Ingersheim	FR		48.098	7.303
+Imotski	HR		43.447	17.217
+Iniesta	ES		39.433	-1.750
+Iclod	RO		46.983	23.800
+Ianca	RO		43.783	24.183
+Isola Vicentina	IT		45.629	11.446
+Istiaía	GR		38.955	23.152
+Isabella Plains	AU	01	-35.428	149.088
+Iskar	BG		43.450	24.267
+Inzell	DE		47.763	12.751
+Il’inskoye	RU		55.249	37.958
+Izon	FR		44.921	-0.362
+Izoplit	RU		56.626	36.222
+Idalia	AU	04	-19.307	146.814
+Ispas	UA		48.297	25.274
+Inárcs	HU		47.262	19.327
+Isla Verde	AR		-33.241	-62.403
+Itatskiy	RU		56.070	89.037
+Iroquois Falls	CA	08	48.767	-80.683
+Ipswich	US	MA	42.679	-70.841
+Ikon-Khalk	RU		44.305	41.914
+Il’inka	RU		52.119	107.271
+Ibăneşti	RO		48.067	26.367
+Indian River Shores	US	FL	27.717	-80.384
+Irahuan	PH		9.808	118.692
+Ieud	RO		47.678	24.234
+Isle of Palms	US	SC	32.787	-79.795
+Invergordon	GB		57.689	-4.167
+Itá Ibaté	AR		-27.426	-57.338
+Indian Rocks Beach	US	FL	27.875	-82.851
+Inning am Ammersee	DE		48.076	11.152
+Ingwiller	FR		48.873	7.480
+Izačić	BA		44.875	15.783
+Iłowa	PL		51.501	15.200
+Is-sur-Tille	FR		47.527	5.106
+Izmalkovo	RU		52.689	37.964
+Itarana	BR	08	-19.874	-40.875
+Inderka	RU		53.248	46.258
+Imeni Babushkina	RU		59.757	43.128
+Iztapa	GT		13.933	-90.707
+Imaculada	BR	17	-7.390	-37.509
+Ineu	RO		47.083	22.117
+Iecava	LV		56.598	24.208
+Il’inskiy Pogost	RU		55.478	38.909
+Ivalo	FI		68.660	27.539
+Irgakly	RU		44.361	44.756
+Independencia	PE		-11.990	-77.046
+Ingoldmells	GB		53.194	0.334
+Ixcatepec	MX	30	21.237	-98.007
+Ivaylovgrad	BG		41.527	26.125
+Idtig	PH		6.799	124.773
+Ilia	RO		45.933	22.650
+Işalniţa	RO		44.400	23.733
+Íquira	CO		2.649	-75.635
+Iraga	PH		17.701	121.655
+Iana	RO		46.383	27.550
+Irirum	PH		12.616	120.931
+Imeni Tsyurupy	RU		55.496	38.651
+Iedera de Jos	RO		45.033	25.633
+Ichtershausen	DE		50.876	10.970
+Indre	FR		47.200	-1.667
+Itacurubí del Rosario	PY		-24.535	-56.824
+Ichán	MX	16	19.858	-102.054
+Idyllwild-Pine Cove	US	CA	33.744	-116.726
+Independenţa	RO		44.283	27.150
+Irwin	US	PA	40.325	-79.701
+Indian Head	US	MD	38.600	-77.162
+Ipil	PH		10.975	124.636
+Iacobeni	RO		47.433	25.317
+Ip	RO		47.233	22.650
+Indian Head Park	US	IL	41.770	-87.902
+Imphy	FR		46.936	3.260
+Ichon	PH		10.095	124.902
+Innere Stadt	AT		47.066	15.441
+Izvoarele	RO		45.033	28.533
+Ileana	RO		44.517	26.667
+Izvoarele	RO		44.267	24.517
+Irákleia	GR		41.182	23.282
+Inriville	AR		-32.944	-62.230
+Igalo	ME		42.460	18.506
+Independence	US	MN	45.025	-93.707
+Ixil	MX	31	21.152	-89.482
+Iki-Burul	RU		45.821	44.647
+Ixtahuacán	GT		15.417	-91.769
+Iksha	RU		56.172	37.498
+Izhevskoye	RU		54.557	40.875
+Ivanhoe East	AU	07	-37.773	145.062
+Ion Roată	RO		44.667	26.767
+Ilići	BA		43.348	17.768
+Im. Telmana Posyolok	RU		55.564	38.039
+Ineangan	PH		16.318	121.093
+Istrana	IT		45.677	12.101
+Isugod	PH		9.341	118.120
+Icatu	BR	13	-2.776	-44.066
+Ixhuatán	MX	05	17.293	-93.008
+I. L. Caragiale	RO		44.910	25.703
+Izhma	RU		65.008	53.911
+Icking	DE		47.950	11.433
+Idyllwild	US	CA	33.740	-116.719
+Itacurubí de la Cordillera	PY		-25.462	-56.853
+Ihuatzio	MX	16	19.566	-101.616
+Imlay City	US	MI	43.025	-83.078
+Inzing	AT		47.274	11.198
+Il’inskoye-Khovanskoye	RU		56.972	39.768
+Isorella	IT		45.309	10.323
+Ilihan	PH		13.631	121.071
+Icononzo	CO		4.177	-74.533
+Intipucá	SV		13.197	-88.054
+Ischitella	IT		41.904	15.899
+Ignacio Zaragoza	MX	06	29.642	-107.764
+Invorio	IT		45.757	8.487
+Irupi	BR	08	-20.345	-41.641
+Ibach	CH		47.011	8.645
+Indianola	US	WA	47.747	-122.526
+Isabang	PH		13.957	121.571
+Ixtlahuaca de Cuauhtémoc	MX	15	19.881	-98.860
+Igang	PH		10.916	122.639
+Imelda	PH		14.033	122.883
+Ilangay	PH		6.913	126.050
+Isle of Islay	GB		55.785	-6.239
+Insrom	ID		-1.145	136.031
+Issenheim	FR		47.904	7.252
+Idron	FR		43.289	-0.312
+Ilva Mică	RO		47.317	24.667
+Iggesund	SE		61.642	17.075
+Ignacio Allende	MX	27	18.383	-92.844
+Indulang	PH		8.090	124.584
+Islandia	US	NY	40.804	-73.169
+Illueca	ES		41.538	-1.627
+Iroquois Point	US	HI	21.328	-157.983
+Ikšķile	LV		56.834	24.497
+Iffendic	FR		48.130	-2.035
+Ipil	PH		9.791	125.439
+India Hook	US	SC	35.007	-81.022
+Illerrieden	DE		48.270	10.052
+Ingalls Park	US	IL	41.523	-88.043
+Ilovka	RU		50.705	38.637
+Iaslovăț	RO		47.759	25.977
+Ishnya	RU		57.191	39.360
+Irtyshskiy	RU		54.814	73.587
+Ingram	US	PA	40.446	-80.068
+Ixtepec	MX	21	20.025	-97.646
+Iguig	PH		17.751	121.736
+Ierissós	GR		40.397	23.875
+Inwałd	PL		49.864	19.393
+Ilihan	PH		10.905	123.970
+Ignit	PH		6.701	125.292
+Iowa	US	LA	30.237	-93.014
+Inangatan	PH		11.250	124.400
+Ilaya	PH		5.815	125.227
+Iturbide	MX	04	19.579	-89.602
+Iset’	RU		56.978	60.372
+Isabela de Sagua	CU		22.939	-80.012
+IJlst	NL		53.010	5.623
+Itsandra	KM		-11.676	43.265
+Igmaya-an	PH		10.550	123.221
+Infanta	PH		15.826	119.908
+Ishley	RU		56.023	47.051
+Independenţa	RO		43.967	28.083
+Iwuy	FR		50.233	3.321
+Isigny-sur-Mer	FR		49.316	-1.104
+Isigny-le-Buat	FR		48.617	-1.170
+Ilfeld	DE		51.576	10.785
+Ilaya	PH		8.546	123.431
+Iwade	GB		51.378	0.729
+Irschenberg	DE		47.833	11.917
+‘Ibwayn	PS		32.031	35.200
+Izmaylovo	RU		53.721	47.246
+Istok	RU		52.095	106.248
+Irkliyevskaya	RU		45.856	39.654
+Ibarra	PH		10.125	124.884
+Inverkip	GB		55.908	-4.871
+Izvoru Bârzii	RO		44.707	22.674
+Inarajan Village	GU		13.274	144.748
+Ishkhoy-Yurt	RU		43.213	46.389
+Izabelin	PL		52.300	20.817
+Invermay	AU	06	-41.420	147.134
+Innerleithen	GB		55.619	-3.063
+Itakyry	PY		-24.986	-55.150
+Island Walk	US	FL	26.251	-81.711
+Illasi	IT		45.467	11.182
+Ivanivka	UA		46.976	30.470
+Inuvik	CA	13	68.362	-133.728
+Imbery	PR		18.437	-66.552
+Irimbo	MX	16	19.701	-100.478
+Indian Heights	US	IN	40.427	-86.126
+Ibros	ES		38.021	-3.503
+Iuka	US	MS	34.812	-88.190
+Ilha Grande	BR	21	-23.152	-44.232
+Imġarr	MT		35.921	14.366
+Iteuil	FR		46.488	0.311
+Il’insko-Podomskoye	RU		61.114	47.979
+Inzá	CO		2.555	-76.067
+Irpa Irpa	BO		-17.717	-66.267
+Illnau	CH		47.411	8.721
+Inzigkofen	DE		48.070	9.180
+Indian Hills	US	KY	38.273	-85.663
+Ipswich	AU	04	-27.623	152.761
+Islington	JM		18.309	-76.855
+İhsangazi	TR		41.204	33.555
+Inwood	US	WV	39.358	-78.040
+Izvoru	RO		44.494	25.065
+Ivinghoe	GB		51.836	-0.630
+Imper	RO		46.217	26.100
+Itainópolis	BR	20	-7.447	-41.478
+Itum-Kali	RU		42.736	45.576
+Iquinuapa	MX	27	18.196	-93.121
+Ishun’	UA		45.924	33.824
+Iron River	US	MI	46.093	-88.642
+Ilūkste	LV		55.978	26.297
+Imeni Vladimira Il’icha Lenina	RU		53.564	46.980
+Ivanovice na Hané	CZ		49.305	17.093
+Invermere	CA	02	50.517	-116.035
+Igualapa	MX	12	16.746	-98.477
+Ignatovka	RU		53.948	47.654
+Indialantic	US	FL	28.089	-80.566
+Ixtlahuaca Barrio	MX	21	19.839	-98.014
+Ithaca	US	MI	43.292	-84.608
+Inabaan Sur	PH		16.263	120.478
+Ins	CH		47.006	7.106
+Irsta	SE		59.600	16.700
+Iváncsa	HU		47.157	18.820
+Iłowo -Osada	PL		53.168	20.293
+Iraray	PH		8.994	118.051
+Isili	IT		39.740	9.111
+Iregszemcse	HU		46.693	18.186
+Izbica Kujawska	PL		52.421	18.763
+Iraya	PH		13.250	123.517
+Ixtlán de Juárez	MX	20	17.332	-96.488
+İnhisar	TR		40.049	30.385
+Ixtlahuacán	MX	08	19.001	-103.736
+Iwkowa	PL		49.817	20.590
+Inapatan	PH		13.396	123.323
+Isle Of Mull	GB		56.447	-5.774
+Icard	US	NC	35.727	-81.471
+Ivry-la-Bataille	FR		48.883	1.459
+Ibajay	PH		11.820	122.162
+Insiza	ZW		-19.783	29.200
+Ibos	FR		43.233	0.000
+Izvoru de Sus	RO		44.817	24.650
+Iacobeni	RO		46.050	24.717
+Ingoldingen	DE		48.026	9.742
+Ixhuacán de los Reyes	MX	30	19.355	-97.118
+Ísafjörður	IS		66.075	-23.135
+Inzlingen	DE		47.589	7.691
+Ilembo	TZ		-9.250	33.383
+Istria	RO		44.567	28.717
+Indian Hills	US	TX	26.213	-97.916
+Ignacio Allende	MX	10	24.474	-103.997
+Íasmos	GR		41.127	25.186
+Isojoki	FI		62.113	21.959
+Izvoarele	RO		43.817	25.383
+Ilva Mare	RO		47.367	24.900
+Inicbulan	PH		13.820	120.983
+Iablaniţa	RO		44.950	22.314
+Inobulan	PH		8.886	124.795
+Ileanda	RO		47.333	23.633
+Iggingen	DE		48.832	9.879
+Imperial	US	PA	40.450	-80.245
+Irsta	SE		59.700	16.933
+Iffeldorf	DE		47.767	11.317
+Isidoro Noblía	UY		-31.962	-54.123
+Ignacio Allende	MX	15	19.344	-99.361
+Indian Springs Village	US	AL	33.355	-86.754
+Ioneşti	RO		44.617	23.433
+Ixcateopan de Cuauhtémoc	MX	12	18.501	-99.791
+Irxleben	DE		52.167	11.481
+Imbatug	PH		8.054	125.284
+Imeni Poliny Osipenko	RU		52.423	136.487
+Isverna	RO		44.980	22.629
+Ipil	PH		13.513	121.984
+Ignacio Zaragoza	MX	05	14.741	-92.171
+Ittlingen	DE		49.191	8.931
+Isla	PH		15.895	120.301
+Igls	AT		47.231	11.410
+Ignacio Ramírez	MX	10	24.508	-104.088
+Impalutao	PH		8.258	125.028
+Imtarfa	MT		35.893	14.399
+Ilandža	RS		45.169	20.920
+Irvine	US	KY	37.701	-83.974
+Imeni Stepana Razina	RU		54.893	44.296
+Indian Springs	US	GA	33.243	-83.921
+Isle of Hope	US	GA	31.982	-81.061
+Inverness Highlands North	US	FL	28.864	-82.377
+Irsch	DE		49.726	6.698
+Inchenhofen	DE		48.513	11.115
+Isola Rizza	IT		45.292	11.199
+Illmitz	AT		47.761	16.800
+Ingalls	US	IN	39.957	-85.805
+Isneauville	FR		49.498	1.154
+Immātīn	PS		32.192	35.158
+Igbon	PH		11.214	123.165
+Ixworth	GB		52.299	0.834
+Infiernillo (Morelos de Infiernillo)	MX	16	18.282	-101.901
+Ina	US	IL	38.151	-88.904
+Ion Creangă	RO		46.870	26.980
+Ignacio Zaragoza	MX	13	20.016	-99.321
+Idalou	US	TX	33.666	-101.683
+Irganay	RU		42.647	46.912
+Iepureşti	RO		44.258	25.882
+Ivanino	RU		51.643	35.577
+Izobil’noye	UA		44.703	34.354
+Ignacio Zaragoza	MX	30	19.712	-97.225
+Izvoarele	RO		45.284	26.001
+Ignacio Zaragoza	MX	27	18.401	-92.959
+Iratoşu	RO		46.317	21.200
+Ilanz	CH		46.774	9.205
+Insch	GB		57.343	-2.613
+Inverbervie	GB		56.845	-2.280
+Inya	RU		53.504	82.671
+Igcocolo	PH		10.690	122.319
+Iecea Mare	RO		45.851	20.893
+Icoana	RO		44.417	24.717
+Inman	US	SC	35.047	-82.090
+Imlili	MA		22.656	-15.607
+Isaacs	AU	01	-35.369	149.116
+Ixchiguán	GT		15.164	-91.933
+Izvoarele Sucevei	RO		47.750	25.183
+Ig	SI		45.960	14.529
+Iclănzel	RO		46.533	24.283
+Innbygda	NO		61.315	12.264
+Indian Springs	US	GA	34.958	-85.164
+Il’ichevo	RU		53.279	91.840
+Innes Park	AU	04	-24.868	152.480
+Isleham	GB		52.343	0.412
+Intampilan	PH		11.481	122.743
+Imbersago	IT		45.706	9.444
+Irgoli	IT		40.410	9.631
+Ischia di Castro	IT		42.544	11.758
+Ignacio Zaragoza	MX	23	20.882	-87.525
+Ixcuinquitlapilco	MX	13	20.111	-98.940
+Ilmmünster	DE		48.483	11.500
+Insheim	DE		49.158	8.147
+Ixhuapán	MX	30	18.176	-94.799
+Iazu	RO		44.718	25.831
+Irzniq	XK		42.520	20.347
+Iklad	HU		47.665	19.436
+Illange	FR		49.326	6.180
+Isaac Arriaga (Santa Ana Mancera)	MX	16	20.246	-101.494
+Idiazabal	ES		43.012	-2.234
+Irasan	PH		8.526	123.206
+Ivanovka	RU		43.969	132.483
+Inwil	CH		47.125	8.349
+Ipsheim	DE		49.528	10.482
+Isola del Gran Sasso d'Italia	IT		42.503	13.657
+Izvestkovyy	RU		48.980	131.553
+Ilchester	GB		51.006	-2.680
+Itzstedt	DE		53.808	10.158
+İliç	TR		39.451	38.558
+Insjön	SE		64.400	17.483
+Ivanishchi	RU		55.774	40.427
+Inotești	RO		44.961	26.358
+Ipplepen	GB		50.489	-3.639
+Insjön	SE		60.677	15.095
+Ion Corvin	RO		44.117	27.800
+Iggensbach	DE		48.730	13.142
+Ilișești	RO		47.609	26.051
+Ilioilio	PH		15.962	119.766
+Ida Grove	US	IA	42.345	-95.472
+Izvoare	RO		44.148	23.296
+Imeni Vorovskogo	RU		55.724	41.119
+Idio	PH		11.624	122.098
+Ittenheim	FR		48.605	7.594
+Isles of Scilly	GB		49.925	-6.299
+Il’ka	RU		51.721	108.522
+Inez	US	TX	28.904	-96.788
+Ipatele	RO		46.917	27.417
+Izbište	RS		45.023	21.184
+Ivanovec	HR		46.368	16.477
+Illschwang	DE		49.450	11.683
+Izvoarele	RO		46.170	23.904
+Ilbono	IT		39.893	9.546
+Iugani	RO		47.044	26.829
+Iona	US	ID	43.526	-111.933
+Imperial	US	NE	40.517	-101.643
+Ivanovka	UA		45.072	33.661
+Ibarrilla	MX	11	21.187	-101.646
+Izdebnik	PL		49.872	19.768
+Illfurth	FR		47.674	7.266
+Inguiniel	FR		47.977	-3.281
+Ilovica	MK		41.472	22.805
+Isola d'Asti	IT		44.833	8.180
+Imbang	PH		10.797	123.021
+İlyaslı	TR		38.604	29.201
+Incisa Scapaccino	IT		44.808	8.376
+Illmensee	DE		47.862	9.372
+Inčukalns	LV		57.099	24.686
+Íos	GR		36.733	25.283
+Ibṭīn	IL		32.761	35.114
+Imeni M. I. Kalinina	RU		56.179	44.331
+Illnau / Unter-Illnau	CH		47.408	8.726
+Igel	DE		49.710	6.555
+Ińsko	PL		53.436	15.550
+Il’ich	RU		45.425	36.774
+Inya	RU		50.456	86.627
+Ivančna Gorica	SI		45.938	14.804
+Iscroni	RO		45.378	23.342
+Islas Agrarias Grupo A	MX	02	32.611	-115.332
+Ionești	RO		44.694	25.278
+Izano	IT		45.356	9.751
+Iluka	AU	02	-29.401	153.351
+Indian River	US	MI	45.413	-84.613
+Ideciu de Jos	RO		46.800	24.750
+Itta Bena	US	MS	33.495	-90.320
+Izeaux	FR		45.335	5.425
+Introbio	IT		45.974	9.450
+Independencia	MX	05	16.086	-92.838
+Issé	FR		47.624	-1.452
+Întorsura	RO		44.112	23.576
+Izbica	PL		50.887	23.152
+Ineu	RO		46.545	25.764
+Iktābah	PS		32.327	35.053
+Itxassou	FR		43.330	-1.405
+Inchinnan	GB		55.890	-4.438
+Izumrudnoye	UA		45.737	34.413
+Immenreuth	DE		49.900	11.867
+Inta	RU		66.032	60.166
+Italy	US	TX	32.184	-96.885
+Iturbide	MX	19	24.726	-99.904
+Iles	CO		0.970	-77.521
+Iznoski	RU		54.988	35.311
+Ixcatlán	MX	13	21.081	-98.535
+Izsófalva	HU		48.300	20.667
+Immelborn	DE		50.792	10.278
+Iwonicz-Zdrój	PL		49.563	21.790
+Ilychyovo	UA		45.283	35.739
+Ingrave	GB		51.604	0.341
+Industry	US	PA	40.265	-79.792
+Itháki	GR		38.364	20.718
+Itzig	LU		49.588	6.171
+Inola	US	OK	36.151	-95.509
+Ilieni	RO		45.800	25.767
+Islita	MX	26	32.383	-114.869
+Izernore	FR		46.214	5.552
+Ingram	US	TX	30.077	-99.240
+Itterbeck	DE		52.506	6.804
+Inkerman	US	PA	41.299	-75.813
+Isle of South Uist	GB		57.246	-7.333
+Islington	AU	02	-32.914	151.747
+Irapeo	MX	16	19.693	-101.058
+Ilama	HN		15.067	-88.217
+Independence	US	LA	30.636	-90.503
+Il’ya	BY		54.417	27.296
+Irrigon	US	OR	45.896	-119.491
+Ibarra	MX	16	20.230	-102.624
+Industry	US	PA	40.645	-80.416
+IJzendijke	NL		51.322	3.617
+Ihlienworth	DE		53.733	8.917
+Ignacio Pérez	MX	22	20.522	-100.111
+Ingleton	GB		54.154	-2.468
+Invergowrie	GB		56.461	-3.062
+Irvinestown	GB		54.467	-7.633
+Ingelstad	SE		56.750	14.917
+Irolo	MX	13	19.735	-98.596
+Itingen	CH		47.467	7.785
+Ilpendam	NL		52.463	4.950
+Indios	PR		17.994	-66.819
+Imués	CO		1.055	-77.497
+Idaho Springs	US	CO	39.742	-105.514
+Illescas	MX	24	23.241	-102.145
+Innernzell	DE		48.852	13.275
+Invermay Park	AU	07	-37.531	143.858
+Iliatenco	MX	12	17.046	-98.686
+Ingared	SE		57.860	12.452
+Izvoru Berheciului	RO		46.583	27.217
+Idro	IT		45.736	10.473
+Ignacio Ramírez	MX	05	16.111	-93.873
+Ingleton	GB		54.580	-1.735
+Ignacio Zaragoza (El Morro)	MX	05	16.599	-93.351
+Island Heights	US	NJ	39.942	-74.150
+Indian Head	CA	11	50.533	-103.668
+Itapé	PY		-25.852	-56.614
+Imrīsh	PS		31.469	35.008
+Izmaylovo	RU		55.564	37.643
+Izvoru Crişului	RO		46.833	23.100
+Igüeña	ES		42.729	-6.277
+Itasca	US	TX	32.160	-97.150
+Ixonia	US	WI	43.144	-88.597
+Inverness	US	AL	32.015	-85.746
+Il’inskoye	RU		56.967	37.183
+Iapa	RO		47.925	23.825
+Ironbridge	GB		52.628	-2.485
+Independencia	PY		-25.691	-56.268
+Ignacio López Rayón	MX	05	14.622	-92.187
+Idiazábal	AR		-32.814	-63.033
+Istaro	MX	16	19.328	-101.754
+Inkberrow	GB		52.213	-1.981
+Ixticpan	MX	21	19.814	-97.345
+Igoville	FR		49.320	1.148
+Ile des Chênes	CA	03	49.711	-96.989
+Ixtapan de la Concepción	MX	18	21.308	-105.158
+Irsch	DE		49.605	6.595
+Iracoubo	GF		5.480	-53.205
+Inverness	US	CO	39.577	-104.861
+Isla Pucú	PY		-25.309	-56.900
+Irodouër	FR		48.249	-1.950
+Iralaya	HN		15.000	-83.233
+Ipotești	RO		44.325	24.401
+Ignacio Zaragoza	MX	29	19.569	-98.378
+Ingrandes	FR		47.405	-0.923
+Ilba	RO		47.713	23.358
+Indura	BY		53.461	23.882
+Isla Bastimentos	PA		9.300	-82.133
+Ikey	RU		54.192	100.081
+Izvoarele	RO		44.170	26.314
+Istia D'Ombrone-Le Stiacciole	IT		42.782	11.188
+Isla Holbox	MX	23	21.524	-87.378
+Iota	US	LA	30.331	-92.496
+Incheville	FR		50.012	1.494
+Indian Shores	US	FL	27.863	-82.848
+Izvoarele	RO		47.042	26.902
+Istán	ES		36.583	-4.950
+Idvor	RS		45.189	20.514
+Irwindale	US	CA	34.107	-117.935
+Isangel	VU		-19.542	169.282
+Irsha	RU		55.927	94.800
+Isle of Cumbrae	GB		55.769	-4.919
+Izvoare	RO		46.747	26.802
+Ileza	RU		61.053	43.900
+Inning am Holz	DE		48.347	12.075
+Ixpila	MX	30	19.118	-96.967
+Ixcateopan	MX	12	17.618	-98.514
+Inverleigh	AU	07	-38.102	144.051
+Ixtacapa el Chico	MX	30	18.490	-96.742
+Isola del Giglio	IT		42.358	10.907
+Ignacio Manuel Altamirano	MX	21	19.367	-98.583
+Iliokentima	GR		40.949	24.789
+Irwin	US	SC	34.694	-80.822
+Il’ichëvo	RU		60.268	29.752
+Iloviţa	RO		44.756	22.473
+Ignacio Allende	MX	05	16.526	-92.992
+Izvin	RO		45.800	21.461
+Ironton	US	MO	37.597	-90.627
+Ignacio Zaragoza	MX	32	23.943	-103.417
+Itsandzéni	KM		-11.473	43.384
+Ixcatla	MX	12	17.422	-98.999
+Iernuțeni	RO		46.764	24.719
+Icxotitla	MX	21	20.243	-98.101
+Icușeni	RO		47.593	26.596
+İçmeler	TR		40.846	29.309
+Inman	US	KS	38.232	-97.773
+Ignacio Zaragoza	MX	20	17.536	-95.894
+Ixhuapan	MX	30	18.013	-94.877
+Interlachen	US	FL	29.624	-81.893
+Ixcamilpa	MX	12	18.028	-98.696
+Isnello	IT		37.943	14.007
+Itzoteno	MX	21	19.417	-97.438
+Issogne	IT		45.655	7.686
+Irsee	DE		47.908	10.572
+Innisfail Estate	AU	04	-17.518	146.045
+Independence	US	WI	44.357	-91.420
+Ixtlilco el Chico	MX	17	18.558	-98.847
+Ighișu Nou	RO		46.111	24.349
+Irrel	DE		49.845	6.457
+Iogach	RU		51.782	87.263
+Ivouani	KM		-11.392	43.395
+Iazu	RO		44.731	27.421
+Ixtahuiata (La Legua)	MX	21	19.844	-97.336
+Inglis	US	FL	29.030	-82.669
+Ifta	DE		51.067	10.183
+Ivănești	RO		46.635	27.460
+Ignacio Gutiérrez Gómez	MX	27	18.249	-93.397
+Izumrud	RU		57.079	61.399
+Inverness	US	CA	38.101	-122.857
+Ignacio Zaragoza	MX	05	17.411	-92.032
+Itéa	GR		39.457	22.166
+Iwaniska	PL		50.731	21.281
+Itzamatitlán	MX	17	18.909	-99.022
+Iraan	US	TX	30.914	-101.898
+Illies	FR		50.561	2.830
+Indian Hills	US	CO	39.617	-105.237
+Ibeas de Juarros	ES		42.331	-3.535
+Iva	US	SC	34.306	-82.664
+Ixhuatlán de Madero	MX	30	20.689	-98.012
+Intercourse	US	PA	40.038	-76.105
+Iola	US	WI	44.508	-89.131
+Ixtapangajoya	MX	05	17.498	-93.002
+Iztacapa	MX	24	21.370	-98.942
+Iedera de Sus	RO		45.042	25.631
+Isle of North Uist	GB		57.606	-7.340
+Igriș	RO		46.113	20.785
+Izimșa	RO		44.178	22.956
+Islaz	RO		44.461	26.387
+Islantilla	ES		37.206	-7.237
+Imeni Zhelyabova	RU		58.954	36.596
+Innisfail	AU	04	-17.522	146.031
+Ilbesheim	DE		49.183	8.054
+Ischgl	AT		47.013	10.292
+Izotepec	MX	12	17.585	-99.954
+Izvoarele	RO		44.310	22.663
+Inishcrone	IE		54.216	-9.092
+Ixtlahuaca	MX	13	20.884	-98.704
+Ignacio Zaragoza	MX	05	17.290	-92.938
+Inchture	GB		56.446	-3.170
+Irricana	CA	01	51.324	-113.605
+Illats	FR		44.598	-0.373
+Ilberstedt	DE		51.800	11.667
+Isca Marina	IT		38.603	16.557
+Il Romito	IT		43.649	10.645
+Ialmicco	IT		45.913	13.346
+Ilz	AT		47.086	15.927
+Iazu Nou	RO		47.483	27.209
+I. C. Brătianu	RO		45.406	28.054
+Irvington	US	KY	37.880	-86.284
+Izlake	SI		46.150	14.950
+Iznatoraf	ES		38.157	-3.032
+Isola Dovarese	IT		45.173	10.309
+İkizce	TR		36.863	37.774
+Ignacio Allende (Concepción)	MX	21	20.011	-97.634
+Iowa Colony	US	TX	29.482	-95.415
+Irlbach	DE		48.841	12.751
+Ignacio Bastida (Santa Catarina Tlayca)	MX	17	18.940	-99.014
+Işıklar	TR		36.994	40.126
+Isques	FR		50.674	1.654
+Ignacio Zaragoza	MX	32	22.338	-101.825
+Itter	AT		47.467	12.133
+Ivanovka	RU		53.347	34.219
+Ilir	RU		55.225	100.685
+Isolaccia	IT		46.489	10.294
+Izvoare	RO		46.910	26.470
+Ionășeni	RO		47.730	26.993
+Insingen	DE		49.300	10.167
+Ilyinka	UA		45.818	33.795
+Italó	AR		-34.792	-63.782
+Ixcatla	MX	30	19.075	-96.919
+Iezeru	RO		44.286	27.624
+Isthmía	GR		37.914	23.005
+Igești	RO		45.820	27.183
+Izyumovka	UA		45.044	35.137
+Ignacio Zaragoza	MX	05	16.028	-92.588
+Ippesheim	DE		49.602	10.226
+Irura	ES		43.167	-2.067
+Iazurile	RO		45.022	28.943
+Igoiu	RO		45.048	23.808
+Irchenrieth	DE		49.623	12.225
+Imer	IT		46.149	11.789
+Iecea Mică	RO		45.821	20.923
+Inzersdorf im Kremstal	AT		47.928	14.081
+Igney	FR		48.274	6.397
+Indented Head	AU	07	-38.143	144.713
+Izbicko	PL		50.572	18.156
+Irești	RO		45.930	26.944
+Issad	RU		60.067	32.343
+Iriba	TD		15.117	22.250
+Inyokern	US	CA	35.647	-117.813
+Isoverde	IT		44.529	8.860
+Irmstett	FR		48.588	7.478
+Ironbark	AU	07	-36.755	144.264
+Izvoru Dulce	RO		45.342	26.777
+Independencia	MX	06	29.092	-107.543
+Ianoșda	RO		46.838	21.808
+Ingen	NL		51.959	5.485
+Iojib	RO		47.816	23.156
+Innenheim	FR		48.497	7.574
+Iacobeni	RO		47.861	26.913
+Inverno e Monteleone	IT		45.198	9.385
+Ingersleben	DE		50.922	10.936
+Ítrabo	ES		36.800	-3.639
+Irvillac	FR		48.370	-4.212
+Ixtlahuaca	MX	21	19.823	-97.335
+Irrsdorf	AT		47.967	13.283
+Isola D'Arbia	IT		43.259	11.379
+Ixtolco de Morelos	MX	21	19.906	-97.818
+Iadăra	RO		47.479	23.399
+Itancourt	FR		49.807	3.344
+Ignacio Zaragoza	MX	05	16.372	-93.134
+Ighiel	RO		46.147	23.480
+Islas Agrarias Grupo B	MX	02	32.600	-115.272
+Ivyland	US	PA	40.208	-75.073
+Igualeja	ES		36.632	-5.122
+Ignacio Zaragoza 1ra. Sección	MX	27	18.332	-93.335
+Inman Mills	US	SC	35.042	-82.104
+Imsbach	DE		49.583	7.883
+Inarzo	IT		45.786	8.736
+Icoana	RO		44.493	25.746
+Ivanovo	BG		43.686	25.956
+Ibrianu	RO		44.775	25.844
+Igon	FR		43.160	-0.232
+Ignacio Zaragoza	MX	10	25.136	-103.384
+Ixcapantla	MX	30	19.026	-96.971
+Illas	ES		43.497	-5.975
+Izvor	MK		42.203	21.578
+Indian Hills Cherokee Section	US	KY	38.280	-85.650
+Ivankovci	MK		41.849	21.820
+Island City	US	OR	45.341	-118.045
+Ignacio Zaragoza	MX	21	19.279	-97.199
+Iratzio	MX	16	19.646	-101.412
+Izborsk	RU		57.708	27.863
+Innerbraz	AT		47.150	9.917
+Izobil’noye	UA		45.570	34.945
+Innerschwand	AT		47.833	13.400
+Isera	IT		45.888	11.009
+Ixtapan del Oro	MX	15	19.263	-100.265
+Ipswich	US	SD	45.444	-99.029
+Isola del Cantone	IT		44.648	8.957
+Iwierzyce	PL		50.030	21.754
+Introdacqua	IT		42.010	13.898
+Innervillgraten	AT		46.812	12.375
+Ilyichevo	UA		45.245	35.071
+Independence	US	VA	36.622	-81.153
+Iisaku	EE		59.101	27.308
+Illorai	IT		40.353	9.002
+Intregalde	RO		46.250	23.417
+Ivanska	HR		45.779	16.812
+Iznate	ES		36.783	-4.183
+Igneşti	RO		46.400	22.167
+Inowłódz	PL		51.527	20.223
+Irdning	AT		47.505	14.102
+Ilovăț	RO		44.812	22.763
+Imsterberg	AT		47.205	10.696
+Illana	ES		40.184	-2.909
+Iza	CO		5.612	-72.979
+Inverso Pinasca	IT		44.946	7.218
+Igea	ES		42.068	-2.011
+Ibănești	RO		46.395	27.625
+Ilamatlán	MX	30	20.781	-98.443
+Ixcapuzalco	MX	12	18.512	-99.888
+Iłów	PL		52.340	20.027
+Ixpantepec Nieves	MX	20	17.507	-98.043
+Inez	US	KY	37.866	-82.539
+Inndyr	NO		67.034	14.027
+Indé	MX	10	25.912	-105.223
+Inverno	IT		45.199	9.384
+Ibahernando	ES		39.325	-5.918
+Iordăcheanu	RO		45.044	26.239
+Illano	ES		43.334	-6.866
+Irwinton	US	GA	32.811	-83.173
+Ibdes	ES		41.217	-1.833
+Introd	IT		45.693	7.182
+Ivanhoe	US	MN	44.463	-96.247
+Ibarrangelu	ES		43.390	-2.634
+Ittireddu	IT		40.544	8.901
+Instinción	ES		36.993	-2.660
+Ince Blundell	GB		53.524	-3.027
+Isolabona	IT		43.881	7.640
+Ibănești-Pădure	RO		46.759	24.987
+Itala	IT		38.051	15.437
+Igreja	CV		15.034	-24.325
+Ituren	ES		43.132	-1.721
+Idaho City	US	ID	43.828	-115.835
+Irschen	AT		46.757	13.025
+Illar	ES		36.986	-2.639
+Isola Sant'Antonio	IT		45.030	8.849
+Ivanovka	UA		45.374	34.720
+Incudine	IT		46.220	10.359
+Igriés	ES		42.214	-0.432
+Isca sullo Ionio	IT		38.601	16.520
+Iturmendi	ES		42.890	-2.119
+Isar	ES		42.361	-3.930
+Isolabella	IT		44.906	7.909
+Isola del Piano	IT		43.738	12.784
+Igúzquiza	ES		42.645	-2.086
+Isole Tremiti	IT		42.121	15.504
+Imdina	MT		35.887	14.402
+Issiglio	IT		45.446	7.753
+Inzenhof	AT		47.017	16.317
+Ixtacamaxtitlán	MX	21	19.624	-97.815
+Imielno	PL		50.586	20.448
+Isso	IT		45.477	9.759
+Izvoru	RO		45.192	26.592
+Iniö	FI		60.400	21.400
+Ituero de Azaba	ES		40.485	-6.693
+Izurtza	ES		43.150	-2.633
+Ilche	ES		41.957	0.057
+Itero de la Vega	ES		42.288	-4.257
+Izagre	ES		42.224	-5.257
+Isola	IT		46.256	13.179
+Isola di Fondra	IT		45.979	9.747
+Ion Neculce	RO		47.203	27.053
+Ijuw	NR		-0.521	166.958
+Irañeta	ES		42.923	-1.946
+Iglesias	ES		42.298	-3.989
+Issime	IT		45.685	7.854
+Introzzo	IT		46.081	9.341
+Imposte	IT		42.686	13.528
+Imeong Hamlet	PW		7.531	134.527
+Ispani	IT		40.087	15.558
+Ibieca	ES		42.161	-0.209
+Intragna	IT		45.995	8.574
+Irma	IT		45.771	10.285
+Ituero y Lama	ES		40.801	-4.379
+Itero del Castillo	ES		42.290	-4.244
+Ibrillos	ES		42.454	-3.082
+Isasca	IT		44.588	7.382
+Irueste	ES		40.612	-2.891
+Iglesiarrubia	ES		41.974	-3.847
+Iruelos	ES		41.141	-6.328
+Isuerre	ES		42.487	-1.054
+Igliano	IT		44.443	8.013
+Iniéstola	ES		40.994	-2.371
+Ingria	IT		45.467	7.571
+Illán de Vacas	ES		39.971	-4.557
+Istālif	AF		34.833	69.078
+Injīl	AF		34.302	62.246
+Ibrāhīm Khān	AF		35.054	69.257
+Island Harbour	AI		18.256	-63.010
+Iballë	AL		42.188	20.003
+Ishëm	AL		41.545	19.600
+Ituzaingó	AR		-34.658	-58.663
+Ituzaingó	AR		-27.582	-56.682
+Iruya	AR		-22.792	-65.217
+Illitsch	AT		46.539	13.867
+Ilidža	BA		43.829	18.300
+Iskar	BG		43.671	24.452
+Isale	BI		-3.349	29.484
+Independencia	BO		-17.084	-66.818
+Inder	CN		46.700	122.933
+Isnos	CO		1.929	-76.211
+Imías	CU		20.069	-74.631
+Iurreta	ES		43.183	-2.633
+Igantzi	ES		43.225	-1.700
+Isòvol	ES		42.378	1.818
+Itsasondo	ES		43.069	-2.165
+Irurtzun	ES		42.917	-1.833
+Irixoa	ES		43.285	-8.059
+Ikaztegieta	ES		43.094	-2.124
+Ivorra	ES		41.767	1.400
+Ivars d'Urgell	ES		41.680	0.987
+Ibarra	ES		43.131	-2.065
+Ifalik	FM		7.250	144.445
+Ince	GB		53.283	-2.833
+Ilford	GB		51.558	0.073
+Ivanić-Grad	HR		45.708	16.397
+Isak	ID		4.460	96.882
+Isimu	ID		0.645	122.861
+Ipuh	ID		-3.007	101.484
+Indralaya	ID		-3.252	104.676
+Irarututiga	ID		-2.537	133.442
+Iteng	ID		-8.812	120.422
+Idi Rayeuk	ID		4.930	97.791
+Idi Cut	ID		4.978	97.732
+Indrapuri	ID		5.477	95.417
+Ilaga	ID		-3.950	137.400
+Ibrāhīm al Khalīl	IQ		37.140	42.570
+‘Irjān	JO		32.394	35.733
+Imabari-shi	JP		34.070	133.000
+Imizu	JP		36.768	137.126
+Iruma	JP		35.818	139.368
+Inabe	JP		35.113	136.572
+Inzai	JP		35.835	140.164
+Isumi	JP		35.230	140.405
+Izunokuni	JP		35.039	138.951
+Izu	JP		34.972	138.946
+Ikata-chō	JP		33.488	132.354
+Inuotose	JP		40.602	141.327
+Ichikawa-minami	JP		35.726	139.904
+Iga	JP		34.758	136.135
+Isa	JP		32.067	130.612
+Iki	JP		33.783	129.721
+Itoshima	JP		33.542	130.184
+Izumisano	JP		34.379	135.320
+Imari	JP		33.290	129.890
+Inagi	JP		35.633	139.500
+Ichikikushikino	JP		31.729	130.293
+Ivanovka	KG		42.888	75.085
+Ivanovo-Alekseyevka	KG		42.547	72.209
+Iyang	KR		34.890	126.988
+Iwon	KR		36.246	127.620
+Illo	KR		34.853	126.490
+Ilgwang	KR		35.264	129.233
+Imja	KR		35.085	126.111
+Ingye	KR		35.413	127.141
+Itzer	MA		32.878	-5.051
+Isseksi	MA		32.230	-6.277
+Inezgane	MA		30.355	-9.536
+Imider	MA		31.373	-5.794
+Imilchil	MA		32.153	-5.625
+Iguidi	MA		30.838	-7.903
+Ider	MN		48.773	99.874
+Ingettolgoy	MN		49.462	103.974
+Ihsüüj	MN		48.226	106.292
+Ihbulag	MN		43.200	107.200
+Ikot Abasi	NG		4.569	7.553
+Isiokpo	NG		5.002	6.873
+Iye-Ekiti	NG		7.955	5.233
+Iyara	NG		7.843	5.971
+Iwere-Ile	NG		8.000	3.088
+Itu	NG		5.464	7.331
+Itori	NG		6.931	3.221
+Itigidi	NG		5.891	8.022
+Itas	NG		11.857	9.964
+Ita-Ogbolu	NG		7.368	5.247
+Isu	NG		6.150	7.801
+Issele-Uku	NG		6.316	6.476
+Isiokolo	NG		5.596	6.000
+Isua	NG		7.454	5.910
+Iseyin	NG		7.970	3.596
+Isanlu	NG		8.288	5.818
+Isa	NG		13.201	6.405
+Iresa-Adu	NG		8.087	4.393
+Iragbiji	NG		7.904	4.687
+Ipokia	NG		6.525	2.842
+Ipetumodu	NG		7.522	4.445
+Iperindo	NG		7.502	4.826
+Ingawa	NG		12.641	8.052
+Iloffa	NG		8.093	5.142
+Ile-Oluji	NG		7.213	4.869
+Ilemona	NG		8.110	4.661
+Ile-Ogbo	NG		7.621	4.245
+Ilawe-Ekiti	NG		7.599	5.105
+Ikoyi-Ile	NG		8.244	4.172
+Ikoyi	NG		6.453	3.436
+Ikotun	NG		6.544	3.264
+Ikot Nakanda	NG		4.884	8.484
+Ikot Ibritam	NG		4.812	7.614
+Ikorodu	NG		6.615	3.507
+Ikole-Ekiti	NG		7.791	5.509
+Ikenne	NG		6.866	3.715
+Ikare	NG		7.526	5.753
+Ikara	NG		11.175	8.225
+Iju	NG		7.395	5.259
+Iguobazuwa	NG		6.566	5.355
+Igumale	NG		6.798	7.968
+Igbokoda	NG		6.348	4.811
+Igbekebo	NG		6.359	4.865
+Igbara-Oke	NG		7.412	5.058
+Ifon	NG		7.860	4.476
+Ifetedo	NG		7.184	4.700
+Ile-Ife	NG		7.482	4.560
+Idu	NG		5.030	8.017
+Idogbo	NG		6.268	5.713
+Idi-Ayunre	NG		7.233	3.862
+Ido-Ekiti	NG		7.846	5.183
+Ido	NG		7.471	3.757
+Ibokun	NG		7.787	4.730
+Iboko	NG		6.407	8.233
+Ibagwa-Aka	NG		6.919	7.399
+Ifako	NG		6.644	3.325
+Ibiaku Ntok Okpo	NG		5.309	7.711
+Irrua	NG		6.736	6.220
+Igueben	NG		6.602	6.243
+Iyana-Ofa	NG		7.499	4.081
+Isiaka	NG		5.863	7.546
+Isinweke	NG		5.620	7.350
+Isiala Oboro	NG		5.406	7.568
+Ikot Edibon	NG		4.770	7.931
+Ikot Akpa Nkuk	NG		4.872	7.565
+Isdalstø	NO		60.555	5.269
+Iparia	PE		-9.300	-74.533
+Inguilpata	PE		-6.241	-77.957
+Incahuasi	PE		-6.236	-79.317
+Inahuaya	PE		-7.150	-75.283
+Iberia	PE		-5.667	-74.150
+Izcuchaca	PE		-12.483	-75.017
+Iray	PE		-15.856	-72.626
+Iquipi	PE		-15.940	-73.130
+Ingenio	PE		-11.889	-75.266
+Independencia	PE		-13.700	-76.033
+Incuyo	PE		-15.250	-73.583
+Inchupalla	PE		-15.000	-69.683
+Iñapari	PE		-10.950	-69.583
+Ihuari	PE		-11.189	-76.951
+Ichupampa	PE		-15.650	-71.688
+Ichuña	PE		-16.150	-70.567
+Indiana	PE		-3.500	-73.051
+Ihu	PG		-7.896	145.394
+Ivana	PH		20.370	121.915
+Itbayat	PH		20.787	121.842
+Inabanga	PH		10.031	124.067
+Igbaras	PH		10.716	122.266
+Idanha-a-Nova	PT		39.923	-7.241
+Iteşti	RO		46.653	26.873
+Ivanjica	RS		43.580	20.231
+Irig	RS		45.101	19.858
+Il’inskoye	RU		56.924	28.525
+Iḩsim	SY		35.721	36.556
+In Buri	TH		15.008	100.327
+Ismoili Somoní	TJ		37.766	68.801
+İslahiye	TR		37.025	36.631
+İshaklı	TR		38.200	30.013
+İnönü	TR		39.815	30.145
+İncesu	TR		38.622	35.183
+Ilıca	TR		39.876	27.776
+Ilıcalar	TR		38.980	40.674
+İkizce	TR		39.595	32.661
+İçme	TR		38.613	39.551
+İntepe	TR		40.013	26.333
+İnecik	TR		40.935	27.281
+İnece	TR		41.677	27.068
+İkizören	TR		40.688	33.883
+İkizdere	TR		40.775	40.552
+İğneada	TR		41.874	27.984
+İğdir	TR		41.226	33.137
+İğdir	TR		40.266	35.626
+İbriktepe	TR		41.010	26.503
+İlkadım	TR		41.287	36.290
+Ivanychi	UA		50.639	24.360
+Isingiro	UG		-0.869	30.830
+Isle of Wight	US	VA	36.908	-76.708
+Irapa	VE		10.570	-62.582
+Isla Ratón	VE		5.069	-67.813
+Independencia	VE		10.334	-68.755
+Đình Lập	VN		21.546	107.098
+Ít Ong	VN		21.517	104.027
+Điện Biên Đông	VN		21.297	103.220
+Ia Pa	VN		13.534	108.455
+Ia Kha	VN		13.962	107.845
+Izingolweni	ZA		-30.784	30.123
+Ixopo	ZA		-30.150	30.083
+Impendle	ZA		-29.600	29.866

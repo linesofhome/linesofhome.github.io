@@ -1,0 +1,5292 @@
+Guangzhou	CN		23.117	113.250
+Giza	EG		30.009	31.209
+Guayaquil	EC		-2.196	-79.886
+Guadalajara	MX	14	20.667	-103.392
+Gwangju	KR		35.155	126.916
+Gujranwala	PK		32.156	74.187
+Guankou	CN		28.159	113.627
+Gorakhpur	IN		29.448	75.672
+Ghāziābād	IN		28.665	77.439
+Gustavo Adolfo Madero	MX	09	19.494	-99.111
+Guiyang	CN		26.583	106.717
+Goiânia	BR	29	-16.679	-49.254
+Guarulhos	BR	27	-23.463	-46.533
+Goyang-si	KR		37.656	126.835
+Gaziantep	TR		37.059	37.383
+Guatemala City	GT		14.641	-90.513
+Guwahati	IN		26.184	91.746
+Gwalior	IN		26.230	78.173
+General Santos	PH		6.113	125.172
+Gorakhpur	IN		26.766	83.369
+Guadalupe	MX	19	25.677	-100.256
+Guilin	CN		25.282	110.286
+Glasgow	GB		55.865	-4.258
+Gold Coast	AU	04	-28.000	153.431
+Genoa	IT		44.405	8.944
+Göteborg	SE		57.707	11.967
+Guli	CN		28.882	120.033
+Guntur	IN		16.300	80.457
+Gulbarga	IN		17.336	76.838
+Gdańsk	PL		54.352	18.649
+Garoua	CM		9.301	13.398
+Gaya	IN		24.797	85.004
+Gaza	PS		31.502	34.467
+Gifu-shi	JP		35.423	136.760
+Ganja	AZ		40.683	46.361
+Guarujá	BR	27	-23.993	-46.256
+Gujrat	PK		32.574	74.075
+George Town	MY		5.411	100.335
+Galaţi	RO		45.437	28.050
+Greater Noida	IN		28.496	77.536
+Gumi	KR		36.114	128.336
+Greensboro	US	NC	36.073	-79.792
+Gebze	TR		40.803	29.431
+Gijón	ES		43.536	-5.662
+Guantánamo	CU		20.144	-75.209
+Gelsenkirchen	DE		51.505	7.097
+Gajuwaka	IN		17.700	83.217
+Gómez Palacio	MX	10	25.570	-103.496
+Gdynia	PL		54.519	18.532
+Governador Valadares	BR	15	-18.851	-41.949
+Gombe	NG		10.290	11.167
+Gilbert	US	AZ	33.353	-111.789
+Gorgān	IR		36.843	54.444
+Gunsan	KR		35.979	126.711
+Gatineau	CA	10	45.477	-75.702
+Glendale	US	AZ	33.539	-112.186
+Gravataí	BR	23	-29.942	-50.993
+Garland	US	TX	32.913	-96.639
+Gasteiz / Vitoria	ES		42.850	-2.673
+Georgetown	GY		6.804	-58.155
+Granada	ES		37.188	-3.607
+Gangānagar	IN		29.920	73.875
+Gent	BE		51.050	3.717
+Gusau	NG		12.170	6.664
+Groznyy	RU		43.312	45.689
+Geelong	AU	07	-38.147	144.361
+Gosāba	IN		22.165	88.801
+Graz	AT		47.067	15.450
+Guangyuan	CN		32.442	105.823
+Gaborone	BW		-24.655	25.909
+Gaoping	CN		30.776	106.103
+Glendale	US	CA	34.143	-118.255
+Gliwice	PL		50.298	18.677
+Gurgaon	IN		28.460	77.026
+Gandhinagar	IN		23.217	72.683
+Guri-si	KR		37.599	127.139
+Grand Rapids	US	MI	42.963	-85.668
+Guatire	VE		10.474	-66.542
+Grand Prairie	US	TX	32.746	-96.998
+Genève	CH		46.202	6.146
+Guarenas	VE		10.470	-66.619
+Groningen	NL		53.219	6.567
+Gangneung	KR		37.753	128.872
+Garden Grove	US	CA	33.774	-117.941
+Gadag-Betageri	IN		15.417	75.617
+Getafe	ES		40.306	-3.733
+Gāndhīdhām	IN		23.083	70.133
+Gaozhou	CN		21.939	110.846
+Geneina	SD		13.453	22.447
+Gadag	IN		15.430	75.630
+Grenoble	FR		45.179	5.715
+Gol’yanovo	RU		55.823	37.813
+Greater Sudbury	CA	08	46.490	-80.990
+Guyong	PH		14.836	120.978
+Gyeongju	KR		35.843	129.212
+Guangshui	CN		31.620	113.998
+Gandajika	CD		-6.745	23.953
+Gondar	ET		12.600	37.467
+Guna	IN		24.647	77.311
+Guacara	VE		10.226	-67.877
+Guarapuava	BR	18	-25.390	-51.465
+Gaomi	CN		36.383	119.753
+Gloucester	GB		51.866	-2.243
+Gimcheon	KR		36.122	128.120
+Gyumri	AM		40.794	43.845
+Gulu	UG		2.775	32.299
+Gweru	ZW		-19.450	29.817
+Gorontalo	ID		0.537	123.062
+Goma	CD		-1.674	29.228
+Ghazni	AF		33.554	68.421
+Gongzhuling	CN		43.501	124.820
+Gojra	PK		31.149	72.683
+Gbongan	NG		7.477	4.354
+Gejiu	CN		23.361	103.154
+Grimsby	GB		53.565	-0.076
+Gondā City	IN		27.132	81.953
+Godhra	IN		22.775	73.615
+Gonbad-e Kāvūs	IR		37.250	55.167
+Girardot City	CO		4.301	-74.808
+Gainesville	US	FL	29.652	-82.325
+Gyeongsan-si	KR		35.823	128.738
+Győr	HU		47.683	17.635
+Gashua	NG		12.874	11.041
+Gondiā	IN		21.460	80.192
+Guadalupe	MX	32	22.748	-102.519
+Gorzów Wielkopolski	PL		52.737	15.229
+Guelma	DZ		36.462	7.426
+Gagnoa	CI		6.132	-5.951
+Göttingen	DE		51.534	9.932
+Gràcia	ES		41.402	2.156
+Guntakal Junction	IN		15.171	77.362
+Gangāpur	IN		26.472	76.717
+Gereida	SD		11.275	25.140
+Guadalajara de Buga	CO		3.901	-76.298
+Gemena	CD		3.257	19.772
+Gudivāda	IN		16.435	80.996
+Guelph	CA	08	43.546	-80.256
+Guanabacoa	CU		23.125	-82.301
+Guangming	CN		45.333	122.783
+Guanare	VE		9.042	-69.742
+Gravesend	US	NY	40.598	-73.965
+Gresham	US	OR	45.498	-122.431
+Garanhuns	BR	30	-8.882	-36.502
+Gabès	TN		33.881	10.098
+Girón	CO		7.068	-73.170
+Gangāwati	IN		15.431	76.529
+Guaratinguetá	BR	27	-22.816	-45.193
+Green Bay	US	WI	44.519	-88.020
+Gera	DE		50.880	12.082
+Gardez	AF		33.597	69.226
+Ghazīpur	IN		25.583	83.585
+Gondal	IN		21.961	70.803
+Gillingham	GB		51.389	0.549
+Guaíba	BR	23	-30.114	-51.325
+Guarapari	BR	08	-20.672	-40.502
+Greeley	US	CO	40.423	-104.709
+Glazov	RU		58.139	52.658
+Grogol	ID		-7.601	110.819
+Grudziądz	PL		53.484	18.754
+Giresun	TR		40.917	38.387
+Guelmim	MA		28.987	-10.057
+Girona	ES		41.983	2.825
+Gütersloh	DE		51.907	8.379
+General Trias	PH		14.387	120.882
+Gjakovë	XK		42.380	20.431
+Gudiyatham	IN		12.946	78.874
+García	MX	19	25.812	-100.599
+Ghardaïa	DZ		32.491	3.673
+Galle	LK		6.046	80.210
+Ginowan	JP		26.263	127.761
+Grahamstown	ZA		-33.304	26.533
+Gaoyou	CN		32.789	119.442
+Greenville	US	NC	35.613	-77.366
+Gantang	CN		27.438	111.973
+Gatchina	RU		59.576	30.128
+Grays	GB		51.476	0.325
+Granada	NI		11.930	-85.956
+Gitarama	RW		-2.074	29.757
+Glyfáda	GR		37.863	23.758
+Gao	ML		16.272	-0.045
+Gubkin	RU		51.282	37.546
+Greenburgh	US	NY	41.033	-73.843
+Germantown	US	MD	39.173	-77.272
+Gyōda	JP		36.141	139.460
+Guozhen	CN		34.366	107.359
+Gharyan	LY		32.172	13.020
+Gonaïves	HT		19.448	-72.689
+Gesundbrunnen	DE		52.550	13.391
+Gamboru	NG		12.373	14.207
+Guider	CM		9.933	13.947
+Gotenba	JP		35.319	138.943
+Gisenyi	RW		-1.703	29.256
+Galesong	ID		-5.317	119.366
+Guadalajara	ES		40.629	-3.162
+Gwangju	KR		37.410	127.257
+Guaynabo	PR		18.357	-66.111
+Gafsa	TN		34.425	8.784
+Gamagōri	JP		34.833	137.233
+Getxo	ES		43.357	-3.011
+Giugliano in Campania	IT		40.928	14.202
+Gandia	ES		38.967	-0.183
+Genteng	ID		-8.367	114.150
+Gedangan	ID		-7.391	112.727
+Gueckedou	GN		8.567	-10.134
+Gapan	PH		15.307	120.946
+Goodyear	US	AZ	33.435	-112.358
+Gualeguaychú	AR		-33.009	-58.517
+Gateshead	GB		54.962	-1.602
+Gary	US	IN	41.593	-87.346
+Gladbeck	DE		51.571	6.986
+Guiguinto	PH		14.833	120.883
+Guigang	CN		23.096	109.609
+Gävle	SE		60.675	17.142
+Gūdūr	IN		14.151	79.852
+Gobernador Gálvez	AR		-33.030	-60.640
+Gastonia	US	NC	35.262	-81.187
+Gießen	DE		50.587	8.676
+Gucheng Chengguanzhen	CN		32.266	111.635
+Gela	IT		37.074	14.240
+Grand-Bassam	CI		5.212	-3.739
+Guixi	CN		28.289	117.213
+Genhe	CN		50.783	121.517
+Gresik	ID		-7.154	112.656
+Gokak	IN		16.169	74.824
+General Roca	AR		-39.033	-67.583
+Georgiyevsk	RU		44.152	43.470
+Gongju	KR		36.456	127.125
+Guanajuato	MX	11	21.019	-101.259
+Gouda	NL		52.017	4.708
+Guildford	GB		51.235	-0.574
+Gulfport	US	MS	30.367	-89.093
+Güigüe	VE		10.083	-67.778
+Guasave	MX	25	25.567	-108.468
+Grazhdanka	RU		60.036	30.405
+Guiping	CN		23.393	110.074
+Gemlik	TR		40.431	29.160
+Gosport	GB		50.795	-1.129
+Gongchangling	CN		41.117	123.450
+Gaillimh	IE		53.272	-9.051
+Gniezno	PL		52.535	17.583
+Goya	AR		-29.140	-59.263
+Güira de Melena	CU		22.796	-82.507
+Gujar Khan	PK		33.254	73.304
+Giurgiu	RO		43.887	25.963
+Güines	CU		22.837	-82.026
+Ga-Rankuwa	ZA		-25.617	27.995
+Głogów	PL		51.664	16.084
+Garissa	KE		-0.453	39.646
+Glen Burnie	US	MD	39.163	-76.625
+Guidonia Montecelio	IT		41.994	12.722
+Gaithersburg	US	MD	39.143	-77.201
+Goyerkāta	IN		26.700	89.026
+Gabrovo	BG		42.875	25.334
+Gamping Lor	ID		-7.796	110.326
+Gukovo	RU		48.062	39.935
+Gangārāmpur	IN		25.401	88.530
+Gushikawa	JP		26.359	127.867
+Gurupi	BR	31	-11.729	-49.069
+Grevenbroich	DE		51.091	6.583
+Greenville	US	SC	34.853	-82.394
+Ghotki	PK		28.004	69.316
+Guamúchil	MX	25	25.459	-108.077
+Gopālganj	IN		26.467	84.440
+Georgetown	US	TX	30.633	-97.677
+Genk	BE		50.965	5.501
+Great Yarmouth	GB		52.608	1.731
+Garbsen	DE		52.414	9.590
+Godean	ID		-7.770	110.294
+Graaff-Reinet	ZA		-32.252	24.531
+Gus’-Khrustal’nyy	RU		55.611	40.652
+Grao de Murviedro	ES		39.642	-0.239
+Gravatá	BR	30	-8.201	-35.565
+Gaalkacyo	SO		6.770	47.431
+Grosseto	IT		42.763	11.109
+Granollers	ES		41.608	2.288
+Gardena	US	CA	33.888	-118.309
+Grand Junction	US	CO	39.064	-108.551
+Gushu	CN		31.561	118.481
+Gamonal	ES		42.357	-3.673
+Gīrīdīh	IN		24.186	86.309
+Great Falls	US	MT	47.500	-111.301
+Gangoh	IN		29.780	77.263
+Galátsi	GR		38.017	23.750
+Gannan	CN		47.915	123.503
+Gola Gokarannāth	IN		28.078	80.471
+Guanambi	BR	05	-14.223	-42.781
+Glogovac	XK		42.628	20.894
+Göppingen	DE		48.704	9.652
+Görlitz	DE		51.155	14.989
+Guercif	MA		34.226	-3.354
+Gobichettipalayam	IN		11.455	77.442
+Guiren	CN		33.670	118.189
+Garoowe	SO		8.402	48.483
+General Pico	AR		-35.657	-63.757
+Grand Forks	US	ND	47.925	-97.033
+Gaogou	CN		34.017	119.189
+Gölcük	TR		40.703	29.872
+Gohāna	IN		29.138	76.702
+Gadwāl	IN		16.235	77.796
+Greenwood	US	IN	39.614	-86.107
+Gapyeong	KR		37.831	127.511
+Gorno-Altaysk	RU		51.961	85.919
+Ghātāl	IN		22.662	87.734
+Gravesend	GB		51.442	0.371
+Granby	CA	10	45.400	-72.732
+Gaddi Annaram	IN		17.367	78.524
+Guliston	UZ		40.490	68.784
+Gilroy	US	CA	37.006	-121.568
+Gummersbach	DE		51.026	7.565
+Gulariyā	NP		28.206	81.345
+Greifswald	DE		54.093	13.388
+Glendora	US	CA	34.136	-117.865
+Gjilan	XK		42.460	21.470
+Gwadar	PK		25.122	62.325
+Gohadi	IN		26.433	78.442
+Grand Island	US	NE	40.925	-98.342
+Grapevine	US	TX	32.934	-97.078
+Gostivar	MK		41.796	20.908
+Goālpāra	IN		26.177	90.626
+Gelendzhik	RU		44.562	38.085
+Gbadolite	CD		4.279	21.003
+Gallarate	IT		45.660	8.792
+Gajraula	IN		28.846	78.240
+Galveston	US	TX	29.301	-94.798
+Ghazieh	LB		33.517	35.369
+güngören merter	TR		41.007	28.888
+Grangwav	HT		18.426	-72.770
+Gampengrejo	ID		-7.767	112.017
+Goshogawara	JP		40.804	140.441
+Gatak	ID		-7.591	110.704
+Givatayim	IL		32.072	34.813
+Guaxupé	BR	15	-21.305	-46.713
+Goianésia	BR	29	-15.318	-49.117
+Greve	DK		55.583	12.300
+Grasse	FR		43.658	6.925
+Glenview	US	IL	42.070	-87.788
+Gudalur	IN		9.678	77.250
+Gryazi	RU		52.497	39.936
+Gumia	IN		23.797	85.825
+Gujō	JP		35.737	136.959
+Gori	GE		41.984	44.116
+Gulāothi	IN		28.589	77.793
+Garoua Boulaï	CM		5.883	14.550
+Gotha	DE		50.948	10.702
+Gangākher	IN		18.970	76.749
+Ganj Dundwāra	IN		27.733	78.941
+Gronau	DE		52.211	7.022
+Gavà	ES		41.306	2.001
+Gbarnga	LR		6.995	-9.471
+Gumlā	IN		23.043	84.544
+Golpāyegān	IR		33.454	50.288
+Gbawe	GH		5.577	-0.310
+Goiana	BR	30	-7.561	-35.002
+Grantham	GB		52.911	-0.642
+Gobārdānga	IN		22.877	88.755
+Great Sankey	GB		53.392	-2.640
+Gebog	ID		-6.735	110.844
+Guarabira	BR	17	-6.855	-35.490
+Greenock	GB		55.948	-4.761
+Godda	IN		24.827	87.213
+Gereshk	AF		31.821	64.570
+Goslar	DE		51.904	10.428
+Gonābād	IR		34.353	58.684
+General Pacheco	AR		-34.453	-58.643
+Gijang	KR		35.244	129.214
+Gifhorn	DE		52.478	10.551
+Gumel	NG		12.627	9.388
+Gap	FR		44.559	6.079
+Gambēla	ET		8.250	34.583
+Gennevilliers	FR		48.933	2.300
+Gravina in Puglia	IT		40.817	16.419
+Gutao	CN		37.203	112.178
+Gay	RU		51.467	58.455
+Guye	CN		39.731	118.441
+Grande Prairie	CA	01	55.167	-118.803
+Gādarwāra	IN		22.924	78.785
+Geidam	NG		12.894	11.926
+Garça	BR	27	-22.211	-49.656
+Gage Park	US	IL	41.795	-87.696
+G’ijduvon Shahri	UZ		40.102	64.682
+Gitega	BI		-3.427	29.925
+Gjorče Petro	MK		42.008	21.353
+Gerona	PH		15.607	120.598
+Gönen	TR		40.105	27.654
+Garhwa	IN		24.160	83.808
+Goose Creek	US	SC	32.981	-80.033
+Guimarães	PT		41.444	-8.296
+Gaurnadi	BD		22.974	90.224
+Ghātampur	IN		26.153	80.168
+Glen Waverley	AU	07	-37.878	145.165
+Gursahāiganj	IN		27.115	79.732
+Ghātsīla	IN		22.585	86.477
+Geita	TZ		-2.873	32.233
+Güiria	VE		10.577	-62.298
+Granadilla de Abona	ES		28.119	-16.576
+Garges-lès-Gonesse	FR		48.968	2.398
+Grove City	US	OH	39.881	-83.093
+Guáimaro	CU		21.052	-77.350
+Giddarbāha	IN		30.200	74.666
+Germantown	US	TN	35.087	-89.810
+Ghosī	IN		26.106	83.539
+Guiglo	CI		6.544	-7.494
+Gallus	DE		50.100	8.630
+Glenrothes	GB		56.195	-3.173
+Gummi	NG		12.145	5.118
+Gainesville	US	GA	34.298	-83.824
+Gogrial	SS		8.533	28.100
+Gagny	FR		48.883	2.533
+Greenford	GB		51.529	-0.355
+Guacamayas	MX	16	18.019	-102.212
+Geiro	TZ		-6.150	36.867
+Gosen	JP		37.733	139.167
+Greenfield	US	WI	42.961	-88.013
+Grants Pass	US	OR	42.439	-123.331
+Garhmuktesar	IN		28.787	78.102
+Giyani	ZA		-23.302	30.719
+Goes	NL		51.504	3.889
+Germering	DE		48.134	11.377
+Great Malvern	GB		52.112	-2.325
+Gadsden	US	AL	34.014	-86.006
+Gropiusstadt	DE		52.425	13.467
+Guayaramerín	BO		-10.826	-65.358
+Goldsboro	US	NC	35.385	-77.993
+Gariadhar	IN		21.539	71.577
+Geoktschai	AZ		40.651	47.742
+Greven	DE		52.094	7.594
+Goryachevodskiy	RU		44.024	43.092
+Gero	JP		35.800	137.233
+Gul’kevichi	RU		45.354	40.695
+Gowurdak	TM		37.812	66.047
+Gorinchem	NL		51.837	4.972
+Greenpoint	US	NY	40.724	-73.951
+Geel	BE		51.166	4.989
+Gorizia	IT		45.941	13.622
+Gahanna	US	OH	40.019	-82.879
+Glendale	US	NY	40.701	-73.887
+Golāghāt	IN		26.512	93.960
+Goba	ET		7.017	39.983
+Gojō	JP		34.350	135.700
+Gallatin	US	TN	36.388	-86.447
+Gharaunda	IN		29.537	76.971
+Gisborne	NZ		-38.653	178.004
+Göksun	TR		38.021	36.497
+Glendale Heights	US	IL	41.915	-88.065
+Gafargaon	BD		24.432	90.558
+Guajará Mirim	BR	24	-10.784	-65.336
+Guaíra	BR	27	-20.318	-48.311
+Geldern	DE		51.519	6.324
+Gambat	PK		27.352	68.522
+Guledagudda	IN		16.050	75.790
+Guskhara	IN		23.493	87.735
+Gremda	TN		34.750	10.783
+Goch	DE		51.679	6.159
+Gaspar	BR	26	-26.931	-48.959
+Grimbergen	BE		50.934	4.372
+Glossop	GB		53.443	-1.949
+Golden Glades	US	FL	25.912	-80.200
+Gualeguay	AR		-33.142	-59.310
+Grugliasco	IT		45.065	7.580
+Gaya	NE		11.884	3.449
+Goshen	US	IN	41.582	-85.834
+Greenacres City	US	FL	26.624	-80.125
+Gyöngyös	HU		47.783	19.928
+General Tinio	PH		15.351	121.048
+Gose	JP		34.450	135.733
+Gorna Oryahovitsa	BG		43.128	25.702
+Geleen	NL		50.974	5.829
+Gudermes	RU		43.351	46.109
+Gevelsberg	DE		51.320	7.339
+Gillette	US	WY	44.291	-105.502
+Georgsmarienhütte	DE		52.203	8.045
+Goribidnūr	IN		13.611	77.517
+Granadero Baigorria	AR		-32.857	-60.718
+Gödöllő	HU		47.597	19.355
+Granada	CO		3.546	-73.707
+Georgetown	US	KY	38.210	-84.559
+Greater Grand Crossing	US	IL	41.761	-87.615
+Guimba	PH		15.661	120.768
+Gyula	HU		46.650	21.283
+Gumushkhane	TR		40.460	39.472
+Greenville	US	MS	33.409	-91.060
+Guarda	PT		40.537	-7.266
+Guyancourt	FR		48.773	2.074
+Gombong	ID		-7.607	109.514
+Glastonbury	US	CT	41.712	-72.608
+Ghugus	IN		19.938	79.112
+Galapagar	ES		40.578	-4.004
+Gimbi	ET		9.170	35.835
+Garfield	US	NJ	40.881	-74.113
+Gorodets	RU		56.655	43.473
+General José de San Martín	AR		-26.537	-59.342
+Gomoh	IN		23.874	86.152
+Grottaglie	IT		40.537	17.437
+Galesburg	US	IL	40.948	-90.371
+Güstrow	DE		53.797	12.173
+Guapimirim	BR	21	-22.537	-42.982
+Ganderkesee	DE		53.033	8.533
+Gurnee	US	IL	42.370	-87.902
+Gūduvāncheri	IN		12.845	80.061
+Goleta	US	CA	34.436	-119.828
+Guasdualito	VE		7.242	-70.732
+Geraardsbergen	BE		50.773	3.882
+Gangtok	IN		27.326	88.612
+Gladstone	AU	04	-23.849	151.258
+Granger	US	IN	41.753	-86.111
+Guariba	BR	27	-21.360	-48.228
+Gevrai	IN		19.264	75.750
+Görele	TR		41.031	39.003
+Garibaldi	BR	23	-29.256	-51.534
+Grajaú	BR	13	-5.819	-46.139
+Goussainville	FR		49.014	2.466
+Ghormach	AF		35.731	63.783
+Giżycko	PL		54.038	21.764
+Gérakas	GR		38.023	23.858
+Grabouw	ZA		-34.152	19.015
+Gloucester	US	MA	42.614	-70.663
+Ghauspur	PK		28.139	69.082
+Gajendragarh	IN		15.736	75.970
+Gaggenau	DE		48.800	8.333
+Geesthacht	DE		53.436	10.378
+Garzón	CO		2.196	-75.628
+Gürpınar	TR		40.993	28.614
+George Town	KY		19.287	-81.374
+Gries	AT		47.062	15.424
+Galdakao	ES		43.231	-2.843
+Garh Maharaja	PK		30.834	71.905
+Gragnano	IT		40.689	14.520
+Garango	BF		11.800	-0.551
+Granite City	US	IL	38.701	-90.149
+Gagarin	RU		55.553	34.997
+Garupá	AR		-27.482	-55.829
+Gobernador Virasora	AR		-28.050	-56.033
+Gusev	RU		54.592	22.200
+Gadhada	IN		21.970	71.578
+Gorlice	PL		49.656	21.160
+Gerede	TR		40.801	32.197
+Greer	US	SC	34.939	-82.227
+Gierłoż	PL		54.081	21.496
+Geilenkirchen	DE		50.967	6.118
+Glen Ellyn	US	IL	41.878	-88.067
+Giddalūr	IN		15.374	78.926
+Groot IJsselmonde	NL		51.883	4.549
+Garhākota	IN		23.779	79.143
+Garfield Heights	US	OH	41.417	-81.606
+Goryachiy Klyuch	RU		44.631	39.130
+Gölbaşı	TR		37.784	37.637
+Garner	US	NC	35.711	-78.614
+Gramercy Park	US	NY	40.737	-73.986
+Geislingen an der Steige	DE		48.624	9.827
+Geldrop	NL		51.422	5.560
+Giannitsá	GR		40.792	22.407
+Gondomar	PT		41.145	-8.532
+Gibara	CU		21.110	-76.131
+Guararapes	BR	27	-21.261	-50.643
+Gurlan	UZ		41.845	60.392
+Glen Cove	US	NY	40.862	-73.634
+Gaur	NP		26.764	85.278
+Gundlupēt	IN		11.810	76.690
+Gobō	JP		33.882	135.170
+Gobindpur	IN		22.634	86.072
+Garden City	US	KS	37.972	-100.873
+Garden City	US	MI	42.326	-83.331
+Geraldton	AU	08	-28.779	114.615
+Gladstone	US	MO	39.204	-94.555
+Gonesse	FR		48.987	2.449
+Goseong	KR		34.976	128.324
+Grodzisk Mazowiecki	PL		52.104	20.634
+Gubakha	RU		58.839	57.553
+Gibraltar	GI		36.145	-5.353
+Gravina di Catania	IT		37.561	15.063
+Greenville	US	TX	33.138	-96.111
+Glauchau	DE		50.820	12.545
+Gulābpura	IN		25.904	74.660
+Gadhinglaj	IN		16.223	74.350
+Gedera	IL		31.815	34.780
+Garmisch-Partenkirchen	DE		47.492	11.096
+Guadalupe	CR		9.948	-84.057
+Garbagnate Milanese	IT		45.574	9.075
+Gressier	HT		18.541	-72.527
+Goiatuba	BR	29	-18.012	-49.355
+Green	US	OH	40.946	-81.483
+Granja	BR	06	-3.120	-40.826
+Gokarna	IN		14.550	74.317
+Güroymak	TR		38.576	42.016
+Geldermalsen	NL		51.881	5.289
+Ganghwa-gun	KR		37.747	126.486
+Guadalupe	PE		-7.250	-79.483
+G‘uzor	UZ		38.621	66.248
+Gerāsh	IR		27.670	54.136
+Galt	US	CA	38.255	-121.300
+Griesheim	DE		49.861	8.572
+Guanajay	CU		22.926	-82.688
+Grandview	US	MO	38.886	-94.533
+Gursarāi	IN		25.617	79.181
+Gelibolu	TR		40.410	26.671
+Gur’yevsk	RU		54.283	85.933
+Grigny	FR		48.654	2.393
+Gagarin Shahri	UZ		40.665	68.168
+Glen Iris	AU	07	-37.867	145.067
+Geidorf	AT		47.084	15.444
+Gampola	LK		7.164	80.570
+G‘azalkent	UZ		41.558	69.771
+Gauripur	IN		26.083	89.961
+Gōtsuchō	JP		35.009	132.226
+Gorantla	IN		13.984	77.772
+Gürsu	TR		40.219	29.195
+Gáldar	ES		28.147	-15.650
+Gradignan	FR		44.774	-0.614
+Greenacre	AU	02	-33.900	151.056
+Giussano	IT		45.700	9.209
+Ghat	LY		24.963	10.180
+Gumdag	TM		39.206	54.591
+Greenbelt	US	MD	39.005	-76.876
+Glan	PH		5.824	125.203
+Gioia del Colle	IT		40.800	16.923
+Greiz	DE		50.658	12.199
+Giarre	IT		37.724	15.182
+Gangāpur	IN		19.697	75.010
+Grootfontein	NA		-19.567	18.117
+Gusinoozyorsk	RU		51.283	106.500
+Golborne	GB		53.477	-2.597
+Gantang	CN		26.716	109.769
+Gornji Milanovac	RS		44.026	20.462
+Gosforth	GB		55.000	-1.617
+Golden Gate	US	FL	26.188	-81.695
+Genet	ET		9.067	38.500
+Gherla	RO		47.033	23.917
+Guanhães	BR	15	-18.775	-42.932
+Gaigeturi	KR		33.464	126.318
+Groß-Gerau	DE		49.921	8.483
+Guararema	BR	27	-23.415	-46.035
+Glenville	US	OH	41.533	-81.617
+Gif-sur-Yvette	FR		48.683	2.133
+Graham	US	WA	47.053	-122.294
+Gjirokastër	AL		40.076	20.139
+Geretsried	DE		47.858	11.481
+Graneros	CL		-34.069	-70.727
+Greenwood	US	SC	34.195	-82.162
+Gallup	US	NM	35.528	-108.743
+Grande-Synthe	FR		51.015	2.300
+Griffin	US	GA	33.247	-84.264
+Guihulñgan	PH		10.121	123.274
+Granville	AU	02	-33.841	151.007
+Glenmore Park	AU	02	-33.791	150.669
+Goianira	BR	29	-16.496	-49.426
+Grajewo	PL		53.647	22.455
+Godalming	GB		51.186	-0.615
+Goirle	NL		51.521	5.067
+Goulburn	AU	02	-34.752	149.721
+Garden City	US	NY	40.727	-73.634
+Greystanes	AU	02	-33.823	150.946
+Gambiran Satu	ID		-8.394	114.146
+Goleniów	PL		53.564	14.829
+Gorelovo	RU		59.772	30.135
+Guilford	US	CT	41.289	-72.682
+Gumaca	PH		13.921	122.100
+Genç	TR		38.748	40.553
+Gongdanglegi Kulon	ID		-8.175	112.636
+Gan Yavne	IL		31.787	34.707
+Grand Boulevard	US	IL	41.814	-87.617
+Gunupur	IN		19.080	83.809
+Guaranda	EC		-1.593	-79.001
+Glenroy	AU	07	-37.700	144.933
+Ghoti Budrukh	IN		19.716	73.628
+Greater Northdale	US	FL	28.105	-82.526
+Gediz	TR		38.994	29.391
+Georgīevka	KZ		49.327	81.574
+Great Kills	US	NY	40.554	-74.152
+Guiset East	PH		16.067	120.683
+Gyál	HU		47.384	19.221
+Gelnhausen	DE		50.202	9.187
+Guaiúba	BR	06	-4.040	-38.637
+Geneva	US	IL	41.888	-88.305
+Groß-Umstadt	DE		49.869	8.932
+Gavarr	AM		40.354	45.124
+Gembloux	BE		50.561	4.699
+Guben	DE		51.950	14.714
+Guayama	PR		17.984	-66.114
+Gandu	BR	05	-13.744	-39.487
+Gingee	IN		12.253	79.417
+Greenfield	US	IN	39.785	-85.769
+Guaramirim	BR	26	-26.473	-49.003
+Guruvāyūr	IN		10.594	76.041
+Green Valley	US	AZ	31.854	-110.994
+Gryfino	PL		53.252	14.488
+Golden Valley	US	MN	45.010	-93.349
+Glenferrie	AU	07	-37.833	145.050
+Garko	NG		10.175	11.165
+Gardanne	FR		43.455	5.469
+Gazojak	TM		41.187	61.404
+Guiseley	GB		53.876	-1.712
+Gunnaur	IN		28.240	78.440
+Germersheim	DE		49.223	8.364
+Gaya	NG		11.861	9.003
+Guidonia	IT		41.992	12.719
+Geertruidenberg	NL		51.702	4.857
+Goa	PH		13.698	123.489
+Grayslake	US	IL	42.344	-88.042
+Goodlands	MU		-20.038	57.651
+Gamboma	CG		-1.876	15.864
+Gardner	US	KS	38.811	-94.927
+Gainsborough	GB		53.383	-0.767
+Grand Island	US	NY	43.033	-78.963
+Goole	GB		53.703	-0.877
+Ghātanji	IN		20.142	78.313
+Gustavsberg	SE		59.327	18.390
+Gostyń	PL		51.882	17.012
+Gōdo	JP		35.417	136.600
+Glostrup	DK		55.667	12.404
+Gevgelija	MK		41.142	22.501
+Gerrards Cross	GB		51.586	-0.555
+Geseke	DE		51.641	8.511
+Genzano di Roma	IT		41.707	12.689
+Gorseinon	GB		51.669	-4.042
+Guía de Isora	ES		28.212	-16.779
+Giulianova	IT		42.754	13.966
+Gotse Delchev	BG		41.567	23.733
+Gubkinskiy	RU		64.434	76.503
+Greensborough	AU	07	-37.705	145.103
+Granite Bay	US	CA	38.763	-121.164
+Guadix	ES		37.299	-3.139
+Goris	AM		39.511	46.342
+Gardner	US	MA	42.575	-71.998
+Golden	US	CO	39.756	-105.221
+Gersthofen	DE		48.424	10.873
+Giengen an der Brenz	DE		48.622	10.243
+Geyve	TR		40.508	30.293
+Glen Avon	US	CA	34.012	-117.485
+Guaporé	BR	23	-28.846	-51.890
+Govardhan	IN		27.497	77.463
+Gawler	AU	05	-34.603	138.749
+Germantown	US	WI	43.229	-88.110
+Glace Bay	CA	07	46.197	-59.957
+Gaeta	IT		41.214	13.571
+Gosnells	AU	08	-32.081	116.005
+Gembu	NG		6.726	11.257
+General Enrique Mosconi	AR		-22.596	-63.813
+Guaçuí	BR	08	-20.776	-41.679
+Gheorgheni	RO		46.723	25.601
+Greenfield	US	MA	42.588	-72.600
+Günzburg	DE		48.456	10.277
+Galapa	CO		10.897	-74.886
+Gua Musang	MY		4.884	101.969
+Guacarí	CO		3.764	-76.333
+Gombi	NG		10.168	12.737
+Galatina	IT		40.174	18.170
+Gharo	PK		24.742	67.585
+Gorodishche	RU		48.805	44.474
+Gameleira	BR	30	-8.584	-35.387
+Gannavaram	IN		16.541	80.802
+Gualán	GT		15.120	-89.357
+Green Haven	US	MD	39.140	-76.548
+Ghatkesar	IN		17.451	78.684
+Gauting	DE		48.069	11.377
+Glassboro	US	NJ	39.703	-75.112
+Great Wyrley	GB		52.663	-2.011
+Giovinazzo	IT		41.185	16.671
+Gujan-Mestras	FR		44.636	-1.068
+Gallipoli	IT		40.056	17.991
+Gröbenzell	DE		48.200	11.367
+Goiás	BR	29	-15.934	-50.140
+Guápiles	CR		10.217	-83.785
+Gerlingen	DE		48.800	9.063
+Gorgonzola	IT		45.531	9.405
+Gostynin	PL		52.429	19.462
+Gokwe	ZW		-18.205	28.935
+Garches	FR		48.842	2.182
+Guaratuba	BR	18	-25.883	-48.575
+Gürgentepe	TR		40.786	37.590
+Gioia Tauro	IT		38.425	15.898
+Groesbeek	NL		51.777	5.936
+Greater Upper Marlboro	US	MD	38.831	-76.748
+Galich	RU		58.379	42.346
+Gautier	US	MS	30.386	-88.612
+Goodings Grove	US	IL	41.629	-87.931
+Galappo	TZ		-4.267	35.850
+Goroka	PG		-6.085	145.387
+Giv'at Shmuel	IL		32.078	34.849
+Guisa	CU		20.255	-76.539
+General Mamerto Natividad	PH		15.602	121.052
+Gálvez	AR		-32.029	-61.221
+Gazipaşa	TR		36.269	32.318
+Grove	GB		51.610	-1.422
+Guará	BR	27	-20.428	-47.824
+Gurmatkāl	IN		16.868	77.391
+Givors	FR		45.591	4.769
+Guaraciaba do Norte	BR	06	-4.167	-40.748
+Griffith	AU	02	-34.289	146.051
+Grottaferrata	IT		41.787	12.671
+Grimma	DE		51.234	12.720
+Gubbi	IN		13.312	76.941
+Gretna	US	LA	29.915	-90.054
+Grumo Nevano	IT		40.936	14.260
+Godfrey	US	IL	38.956	-90.187
+Gartenstadt	DE		49.459	8.404
+Güimar	ES		28.311	-16.413
+Gangāpur	IN		25.220	74.260
+Goražde	BA		43.668	18.976
+Gjøvik	NO		60.796	10.692
+Gwadabawa	NG		13.358	5.238
+Guaranésia	BR	15	-21.299	-46.803
+Gelligaer	GB		51.664	-3.256
+Glória do Goitá	BR	30	-8.002	-35.293
+Gavrilov-Yam	RU		57.302	39.853
+Glassmanor	US	MD	38.819	-76.999
+Grangemouth	GB		56.011	-3.722
+Gribanovskiy	RU		51.458	41.976
+Greenfield	US	CA	36.321	-121.244
+Gualaceo	EC		-2.893	-78.778
+Guadalupe Victoria	MX	02	32.289	-115.105
+Gescher	DE		51.954	7.005
+Gossau	CH		47.416	9.255
+Goodlettsville	US	TN	36.323	-86.713
+Guisborough	GB		54.535	-1.056
+Gemerek	TR		39.183	36.072
+Glenvar Heights	US	FL	25.708	-80.326
+Gilching	DE		48.108	11.294
+Goth Radhan	PK		27.198	67.953
+Gourcy	BF		13.208	-2.359
+Ginir	ET		7.140	40.711
+Gryfice	PL		53.916	15.200
+Gennep	NL		51.698	5.974
+Gubin	PL		51.950	14.728
+Gummidipundi	IN		13.408	80.109
+Gebre Guracha	ET		9.800	38.400
+Grafton	US	MA	42.207	-71.686
+Großenhain	DE		51.290	13.534
+Guane	CU		22.202	-84.085
+Guérande	FR		47.329	-2.428
+Garui	IN		22.633	88.400
+Gunzenhausen	DE		49.117	10.760
+Garhshankar	IN		31.215	76.141
+Greenville	LR		5.011	-9.039
+Gargždai	LT		55.710	21.394
+Gokavaram	IN		17.258	81.850
+Griffith	US	IN	41.528	-87.424
+Galanta	SK		48.190	17.727
+Ghedi	IT		45.402	10.277
+Großostheim	DE		49.920	9.076
+Guardamar del Segura	ES		38.090	-0.656
+Gobabis	NA		-22.450	18.967
+Gwarzo	NG		11.916	7.934
+Gainesville	US	TX	33.626	-97.133
+Gāndarbal	IN		34.226	74.775
+General Villegas	AR		-35.033	-63.013
+Gernika-Lumo	ES		43.317	-2.683
+Gandevi	IN		20.812	72.998
+Gamla Uppsala	SE		59.898	17.634
+Glinde	DE		53.544	10.200
+Ginosa	IT		40.577	16.757
+Gryazovets	RU		58.880	40.252
+Gelemso	ET		8.817	40.517
+Golitsyno	RU		55.609	36.982
+Ganei Tikva	IL		32.060	34.873
+Ginsheim-Gustavsburg	DE		49.971	8.345
+Glenwood	AU	02	-33.733	150.933
+Guru Har Sahāi	IN		30.709	74.404
+Grefrath	DE		51.336	6.341
+Gemert	NL		51.556	5.690
+Gien	FR		47.693	2.631
+Gurun	MY		5.817	100.474
+Grandville	US	MI	42.910	-85.763
+Gentilly	FR		48.813	2.342
+Grenchen	CH		47.192	7.396
+Garwolin	PL		51.897	21.615
+Göd	HU		47.683	19.134
+Guéret	FR		46.172	1.872
+Gwaram	NG		11.277	9.884
+Grosse Pointe Woods	US	MI	42.444	-82.907
+Gračanica	BA		44.703	18.310
+Groves	US	TX	29.948	-93.917
+General Pinedo	AR		-27.317	-61.283
+Gura Humorului	RO		47.550	25.900
+Gatesville	US	TX	31.435	-97.744
+Great Bend	US	KS	38.364	-98.765
+Galliate	IT		45.479	8.698
+Gornyak	RU		50.994	81.466
+Greenwood Village	US	CO	39.617	-104.951
+Gradačac	BA		44.879	18.428
+Galaosiyo Shahri	UZ		39.857	64.446
+Greenwood	US	MS	33.516	-90.180
+Great Falls	US	VA	38.998	-77.288
+Guinguinéo	SN		14.267	-15.950
+Greenvale	AU	07	-37.633	144.867
+Galaat el Andeless	TN		37.063	10.118
+Garching bei München	DE		48.249	11.651
+Graniteville	US	NY	40.625	-74.148
+Gangolli	IN		13.650	74.671
+Gyomaendrőd	HU		46.933	20.833
+Ganye	NG		8.435	12.051
+Gwoza	NG		11.083	13.696
+Giaginskaya	RU		44.862	40.072
+Gates-North Gates	US	NY	43.165	-77.701
+Greater Napanee	CA	08	44.250	-76.949
+Głuchołazy	PL		50.315	17.384
+Głowno	PL		51.965	19.716
+Greeneville	US	TN	36.163	-82.831
+Găeşti	RO		44.717	25.317
+Gloversville	US	NY	43.053	-74.344
+Guayos	CU		22.050	-79.461
+Gehrden	DE		52.314	9.600
+Guamo	CO		4.031	-74.970
+Grójec	PL		51.863	20.868
+Guiljungan	PH		9.980	122.674
+Gafanha da Nazaré	PT		40.636	-8.713
+Garforth	GB		53.792	-1.381
+Gaspé	CA	10	48.833	-64.482
+Garhiyasin	PK		27.906	68.512
+Guadarrama	ES		40.673	-4.089
+Glen Allen	US	VA	37.666	-77.506
+Gümüşhacıköy	TR		40.873	35.215
+Gernsbach	DE		48.770	8.343
+Graham	US	NC	36.069	-79.401
+Gouré	NE		13.983	10.270
+Groveton	US	VA	38.767	-77.085
+Gaurela	IN		22.754	81.901
+Grottammare	IT		42.982	13.868
+Gautampura	IN		22.987	75.519
+Greece	US	NY	43.210	-77.693
+Guachochi	MX	06	26.820	-107.075
+Gussago	IT		45.584	10.157
+Greensburg	US	PA	40.301	-79.539
+Glasgow	US	KY	36.996	-85.912
+Gwanda	ZW		-20.936	29.007
+Gabú	GW		12.280	-14.222
+Guaduas	CO		5.067	-74.595
+Gubbio	IT		43.350	12.573
+Greendale	US	WI	42.941	-87.996
+Gassol	NG		8.535	10.446
+Grenaa	DK		56.416	10.878
+Glasgow	US	DE	39.605	-75.745
+Glens Falls	US	NY	43.310	-73.644
+Granville	FR		48.838	-1.597
+General Miguel Alemán	MX	30	18.893	-96.792
+Guarne	CO		6.280	-75.444
+Genappe	BE		50.612	4.452
+Gorokhovets	RU		56.202	42.694
+Gibsonton	US	FL	27.854	-82.383
+Grünberg	DE		50.594	8.959
+Gantt	US	SC	34.800	-82.424
+Gadzhiyevo	RU		69.255	33.336
+Gyömrő	HU		47.427	19.401
+Galatone	IT		40.147	18.069
+Gönen	TR		37.956	30.511
+Gunjur	GM		13.202	-16.734
+Guapiaçu	BR	27	-20.795	-49.220
+Genthin	DE		52.407	12.159
+Guia	ES		28.140	-15.633
+Ghiror	IN		27.189	78.793
+Gramoteino	RU		54.537	86.384
+Gubat	PH		12.921	124.123
+Gornyak	RU		55.134	61.683
+Gandi	NG		12.964	5.743
+Goshaingaon	IN		26.439	89.963
+Greytown	ZA		-29.064	30.593
+Grovedale	AU	07	-38.200	144.350
+Groß-Zimmern	DE		49.874	8.829
+Guapí	CO		2.571	-77.885
+Gondomar	ES		42.112	-8.750
+Grodzisk Wielkopolski	PL		52.228	16.365
+Garliava	LT		54.821	23.871
+Ganta	LR		7.302	-8.531
+Grenzach-Wyhlen	DE		47.550	7.683
+Gołdap	PL		54.306	22.304
+Guipavas	FR		48.435	-4.397
+Greenlawn	US	NY	40.869	-73.365
+Gardendale	US	AL	33.660	-86.813
+Großenkneten	DE		52.944	8.253
+Głubczyce	PL		50.201	17.829
+Garhi Khairo	PK		28.060	67.980
+Gutiérrez Zamora	MX	30	20.453	-97.086
+Grover Beach	US	CA	35.122	-120.621
+Gopāmau	IN		27.535	80.285
+Gamawa	NG		12.134	10.538
+Glencoe	ZA		-28.178	30.147
+Glenmont	US	MD	39.058	-77.050
+Greystones	IE		53.141	-6.063
+Guastatoya	GT		14.854	-90.069
+Gyānpur	IN		25.333	82.466
+Glenn Dale	US	MD	38.988	-76.821
+Goianinha	BR	22	-6.265	-35.212
+Gadani	PK		25.119	66.732
+Grünstadt	DE		49.563	8.163
+Golyshmanovo	RU		56.398	68.373
+Garhi Pūkhta	IN		29.550	77.309
+Grain Valley	US	MO	39.015	-94.199
+Gradiška	BA		45.145	17.255
+Gonzalez	US	FL	30.582	-87.291
+Goyty	RU		43.164	45.623
+Godella	ES		39.533	-0.417
+Glenpool	US	OK	35.955	-96.009
+Gmunden	AT		47.918	13.799
+Guibéroua	CI		6.239	-6.171
+Goshāinganj	IN		26.571	82.381
+Gravelines	FR		50.987	2.128
+Gurdaha	IN		22.735	88.759
+Gurh	IN		24.503	81.500
+Grovetown	US	GA	33.450	-82.198
+Gvardeysk	RU		54.648	21.065
+Geneva	US	NY	42.869	-76.978
+Graulhet	FR		43.767	1.989
+Guerrero Negro	MX	02	27.969	-114.044
+Greenville	US	OH	40.103	-84.633
+Ga-Kgapane	ZA		-23.644	30.223
+Grave	NL		51.759	5.739
+Gräfelfing	DE		48.119	11.429
+Glen Carbon	US	IL	38.748	-89.983
+Grass Valley	US	CA	39.219	-121.061
+Greenwich	US	CT	41.026	-73.628
+Golub-Dobrzyń	PL		53.111	19.054
+Gines	ES		37.386	-6.077
+Grenada	US	MS	33.769	-89.808
+Guaimaca	HN		14.533	-86.817
+Gabane	BW		-24.667	25.782
+Genas	FR		45.731	5.002
+Glendale	US	WI	43.135	-87.936
+Gölmarmara	TR		38.714	27.914
+Grammichele	IT		37.213	14.633
+Gornozavodsk	RU		58.376	58.321
+Goonellabah	AU	02	-28.817	153.317
+Gölhisar	TR		37.146	29.509
+Gürün	TR		38.722	37.271
+Granadilla	CR		9.935	-84.017
+Góra	PL		51.666	16.535
+Galashiels	GB		55.615	-2.807
+Guano	EC		-1.608	-78.631
+Garbahaarrey	SO		3.329	42.221
+Grumo Appula	IT		41.011	16.708
+Gázi	GR		35.325	25.067
+Gaillac	FR		43.902	1.897
+Gaildorf	DE		49.000	9.770
+Gaffney	US	SC	35.072	-81.650
+Guebwiller	FR		47.917	7.200
+General Acha	AR		-37.377	-64.604
+Grafing bei München	DE		48.046	11.968
+Green Valley	AU	02	-33.903	150.867
+Gladenbach	DE		50.768	8.581
+Gandai	IN		21.667	81.100
+Gorgoram	NG		12.640	10.704
+Guihing Proper	PH		6.684	125.353
+Green River	US	WY	41.529	-109.466
+Grand Terrace	US	CA	34.034	-117.314
+Grange Hill	GB		51.612	0.086
+Gülnar	TR		36.341	33.399
+Grez-Doiceau	BE		50.739	4.698
+Gisors	FR		49.282	1.780
+George	ZA		-33.963	22.462
+Gulfport	US	FL	27.748	-82.703
+Gandorhun	SL		7.555	-11.693
+Garrel	DE		52.950	8.017
+Green Valley	US	MD	39.309	-77.297
+Gibraleón	ES		37.376	-6.969
+General Emilio Aguinaldo	PH		14.184	120.796
+Giruá	BR	23	-28.028	-54.350
+Glückstadt	DE		53.789	9.426
+Gore	NZ		-46.103	168.944
+Gremyachinsk	RU		58.560	57.851
+Gerstetten	DE		48.623	10.020
+Grand Falls-Windsor	CA	05	48.933	-55.665
+Giffnock	GB		55.804	-4.295
+Glenn Heights	US	TX	32.549	-96.857
+Goldenrod	US	FL	28.610	-81.289
+Glen Rock	US	NJ	40.963	-74.133
+Gladstone	US	OR	45.381	-122.595
+Gerpinnes	BE		50.338	4.527
+Geisenheim	DE		49.985	7.968
+Göle	TR		40.787	42.606
+Guymon	US	OK	36.683	-101.482
+Gavere	BE		50.929	3.662
+Gevaş	TR		38.292	43.102
+Gardelegen	DE		52.525	11.395
+Gali	GE		42.627	41.738
+Georgetown	US	GA	31.983	-81.227
+Greensburg	US	IN	39.337	-85.484
+Gobindapur	IN		22.593	88.091
+Givat Zeev	PS		31.861	35.169
+Gärtringen	DE		48.642	8.901
+Guspini	IT		39.540	8.635
+Graben-Neudorf	DE		49.167	8.492
+Guastalla	IT		44.912	10.662
+Gladesville	AU	02	-33.833	151.133
+Goniri	NG		11.485	12.313
+Guttenberg	US	NJ	40.792	-74.004
+Gaillard	FR		46.185	6.207
+Goshen	US	OH	39.233	-84.161
+Grunewald	DE		52.483	13.266
+Goedereede	NL		51.818	3.981
+Gundelfingen	DE		48.042	7.866
+Gramsh	AL		40.870	20.184
+Grigiškės	LT		54.683	25.083
+Garden City	US	ID	43.622	-116.238
+Giaveno	IT		45.044	7.347
+Greatwood	US	TX	29.554	-95.676
+Gladeview	US	FL	25.839	-80.236
+Groveland	US	FL	28.558	-81.851
+Grafton	US	WI	43.320	-87.953
+Glebe	AU	02	-33.879	151.184
+Großräschen	DE		51.588	14.011
+Grand Baie	MU		-20.018	57.580
+Gangelt	DE		50.992	5.998
+Gainesville	US	VA	38.796	-77.614
+Gur’yevsk	RU		54.773	20.605
+Götzis	AT		47.333	9.633
+Great Harwood	GB		53.785	-2.409
+Goor	NL		52.233	6.586
+Gagarawa	NG		12.408	9.529
+Gazli	UZ		40.131	63.457
+Ganjām	IN		19.387	85.051
+Garðabær	IS		64.089	-21.923
+Gänserndorf	AT		48.339	16.720
+Gua	IN		22.214	85.388
+Guelendeng	TD		10.918	15.550
+Gemünden am Main	DE		50.049	9.706
+Greentree	US	NJ	39.897	-74.956
+Guilherand-Granges	FR		44.933	4.874
+Ghogha	IN		21.688	72.276
+Grosse Ile	US	MI	42.129	-83.144
+Gujba	NG		11.500	11.934
+Gloucester City	US	NJ	39.892	-75.116
+Gardnerville Ranchos	US	NV	38.888	-119.741
+Geeste	DE		52.600	7.267
+Gewanē	ET		10.167	40.647
+Guthrie	US	OK	35.879	-97.425
+Gerze	TR		41.804	35.201
+Gösting	AT		47.098	15.398
+Gengenbach	DE		48.405	8.014
+Glubokiy	RU		48.527	40.331
+Grosse Pointe Park	US	MI	42.376	-82.937
+Germencik	TR		37.871	27.603
+González	MX	28	22.827	-98.427
+Glubokoye	KZ		50.139	82.311
+Grandview	US	WA	46.251	-119.902
+Gördes	TR		38.933	28.289
+Galena Park	US	TX	29.734	-95.230
+Grabiszynek	PL		51.087	16.986
+Gemona	IT		46.274	13.122
+Gulf Shores	US	AL	30.246	-87.701
+Grand Rapids	US	MN	47.237	-93.530
+Guadalupe	PH		10.117	123.607
+Guillena	ES		37.543	-6.056
+Garagoa	CO		5.082	-73.363
+Gebeit	SD		21.067	36.317
+Gistel	BE		51.156	2.964
+Grand Haven	US	MI	43.063	-86.228
+Guadalupe	PH		10.454	123.373
+Guiuan	PH		11.031	125.723
+Gracemere	AU	04	-23.438	150.457
+Grado	ES		43.388	-6.074
+Gaitania	CO		3.150	-75.817
+Great Bookham	GB		51.279	-0.374
+Guazapa	SV		13.877	-89.173
+Giffoni Valle Piana	IT		40.718	14.942
+Grevesmühlen	DE		53.863	11.192
+Gardabani	GE		41.461	45.093
+Govindgarh	IN		27.504	76.999
+Gola Bāzār	IN		26.345	83.353
+Guiratinga	BR	14	-16.345	-53.762
+Guéoul	SN		15.483	-16.350
+Gulf Gate Estates	US	FL	27.252	-82.515
+Grijó	PT		41.028	-8.580
+Gangavalli	IN		11.498	78.650
+Gudlavalleru	IN		16.350	81.050
+Gaimersheim	DE		48.807	11.368
+Grünwald	DE		48.039	11.523
+Gympie	AU	04	-26.190	152.665
+Gangaikondān	IN		8.858	77.780
+Góra Kalwaria	PL		51.977	21.215
+Grândola	PT		38.177	-8.567
+Gīdolē	ET		5.650	37.367
+Galeana	MX	17	18.638	-99.212
+Grobbendonk	BE		51.190	4.736
+Gorodoviki	RU		46.135	41.966
+Gandorhun	SL		7.494	-11.831
+Gonzales	US	LA	30.239	-90.920
+Grimes	US	IA	41.688	-93.791
+Grimmen	DE		54.112	13.041
+Gulpilhares	PT		41.083	-8.627
+Garden Acres	US	CA	37.964	-121.229
+Glenorchy	AU	06	-42.833	147.276
+Gland	CH		46.421	6.270
+Gardere	US	LA	30.346	-91.140
+Gourock	GB		55.962	-4.818
+Gemeinde Friedland	DE		51.417	9.933
+Grevená	GR		40.085	21.427
+Gricignano di Aversa	IT		40.980	14.231
+Gafour	TN		36.320	9.324
+Grafton	AU	02	-29.681	152.934
+Goronyo	NG		13.442	5.672
+Gottmadingen	DE		47.735	8.777
+Goodna	AU	04	-27.610	152.899
+Gariāband	IN		20.633	82.062
+Gilgit	PK		35.919	74.312
+Greencastle	US	IN	39.644	-86.865
+Gällivare	SE		67.134	20.653
+General Cabrera	AR		-32.813	-63.872
+Gaspra	UA		44.434	34.103
+Grand-Lahou	CI		5.251	-5.003
+Gages Lake	US	IL	42.352	-87.983
+Govindgarh	IN		24.378	81.296
+Gislaved	SE		57.304	13.541
+Gabarin	NG		11.109	10.444
+Gold Camp	US	AZ	33.294	-111.304
+Gold Canyon	US	AZ	33.371	-111.437
+Glodeni	MD		47.775	27.519
+Great Neck	US	NY	40.801	-73.728
+Galion	US	OH	40.734	-82.790
+Goianápolis	BR	29	-16.511	-49.024
+Gardone Val Trompia	IT		45.691	10.186
+Goulds	US	FL	25.563	-80.382
+Gérardmer	FR		48.073	6.878
+Guapó	BR	29	-16.831	-49.532
+Grajales	MX	21	19.228	-97.803
+Goundi	TD		9.363	17.366
+Goldbach	DE		50.000	9.184
+Guadalupe Victoria	MX	21	19.291	-97.343
+Gambettola	IT		44.117	12.337
+Gigant	RU		46.507	41.342
+Grantsville	US	UT	40.600	-112.464
+Gwandu	NG		12.502	4.643
+Golden Grove	AU	05	-34.783	138.733
+Glenfield	GB		52.647	-1.195
+Gudauri	GE		42.478	44.476
+Gantiadi	GE		43.381	40.079
+Golovinskiy	RU		55.854	37.496
+Ganj Murādābād	IN		26.957	80.184
+Ghanzi	BW		-21.698	21.646
+Gamba	GA		-2.650	10.000
+Giesen	DE		52.197	9.899
+Glenwood Springs	US	CO	39.551	-107.325
+General Zuazua	MX	19	25.895	-100.108
+Gohpur	IN		26.882	93.616
+Gandiaye	SN		14.233	-16.267
+Grand-Popo	BJ		6.280	1.823
+Gerenzano	IT		45.640	9.001
+Gresovskiy	UA		45.008	34.027
+Greasby	GB		53.373	-3.123
+Gigante	CO		2.387	-75.547
+Georgiyevka	KZ		43.039	74.713
+General Ángel Flores (La Palma)	MX	25	24.819	-107.657
+Gorodovikovsk	RU		46.088	41.934
+Gornyy	RU		55.115	83.906
+Guidel-Plage	FR		47.768	-3.522
+Guajará	BR	04	-2.967	-57.667
+Gāndhī Nagar	IN		13.006	80.254
+Geisenfeld	DE		48.684	11.612
+Glendale	ZW		-17.355	31.067
+Gunnedah	AU	02	-30.981	150.258
+Gualdo Tadino	IT		43.229	12.779
+Gülşehir	TR		38.746	34.625
+Gekhi	RU		43.164	45.472
+Guia Lopes da Laguna	BR	11	-21.458	-56.114
+Greenfields	AU	08	-32.524	115.763
+Girau do Ponciano	BR	02	-9.884	-36.829
+Girard	US	OH	41.154	-80.701
+Gifford	US	FL	27.675	-80.409
+Grand-Couronne	FR		49.356	1.006
+Grimstad	NO		58.340	8.593
+Glenfield	AU	02	-33.967	150.900
+Goshāīnganj	IN		26.768	81.108
+Garstang	GB		53.901	-2.774
+Gouvieux	FR		49.187	2.414
+Gounou Gaya	TD		9.629	15.513
+Guaratinga	BR	05	-16.586	-39.782
+Guagua	PH		14.965	120.632
+Gobindpur	IN		23.836	86.519
+Gnarrenburg	DE		53.383	9.000
+Garautha	IN		25.572	79.298
+Gurjaani	GE		41.743	45.801
+Galeras	CO		9.161	-75.048
+Gerasdorf bei Wien	AT		48.294	16.468
+Greymouth	NZ		-42.467	171.200
+Grindsted	DK		55.757	8.928
+Gloucester Point	US	VA	37.254	-76.497
+Gufeng	CN		26.908	118.982
+Granbury	US	TX	32.442	-97.794
+Gerzat	FR		45.826	3.145
+Gernsheim	DE		49.753	8.489
+Grappenhall	GB		53.372	-2.547
+Gulbene	LV		57.178	26.753
+Gorē	ET		8.150	35.533
+Gampaha	LK		7.090	79.993
+Greenwood	AU	08	-31.827	115.802
+Greenhill	GB		51.583	-0.339
+Greenwood	US	AR	35.216	-94.256
+Grigoropolisskaya	RU		45.297	41.057
+Gornyatskiy	RU		48.296	40.924
+Guabiraba	BR	30	-8.417	-35.667
+Germenchuk	RU		43.186	45.921
+Gunbarrel	US	CO	40.063	-105.171
+Gudibanda	IN		13.671	77.704
+Grants	US	NM	35.148	-107.853
+Grosse Pointe Farms	US	MI	42.409	-82.892
+Guifões	PT		41.197	-8.669
+Guánica	PR		17.972	-66.908
+Groton	US	CT	41.350	-72.078
+Großrosseln	DE		49.203	6.841
+Garden City	US	SC	33.593	-79.009
+Gavirate	IT		45.837	8.726
+Gstaad	CH		46.472	7.287
+Greenslopes	AU	04	-27.508	153.050
+Good Hope	US	CA	33.765	-117.267
+Guntramsdorf	AT		48.047	16.314
+Gex	FR		46.333	6.058
+General Luna	PH		13.687	122.171
+Gondizalves	PT		41.542	-8.456
+Gignac-la-Nerthe	FR		43.393	5.236
+Glienicke	DE		52.634	13.326
+Grinnell	US	IA	41.743	-92.722
+Gamay	PH		12.385	125.298
+Goldenstedt	DE		52.788	8.432
+Goldach	CH		47.474	9.467
+Galaxia Bonito Jalisco	MX	14	20.505	-103.205
+Guarambaré	PY		-25.491	-57.456
+Georgetown	US	SC	33.377	-79.294
+Gökçebey	TR		41.306	32.142
+Gudensberg	DE		51.177	9.367
+Guingamp	FR		48.563	-3.151
+Guamal	CO		9.143	-74.224
+Großhansdorf	DE		53.667	10.283
+Georges Hall	AU	02	-33.909	150.989
+Gostagayevskaya	RU		45.023	37.505
+Garden City	US	GA	32.114	-81.154
+Glenwood	US	IL	41.543	-87.602
+Glenshaw	US	PA	40.533	-79.968
+Gurabo	PR		18.254	-65.973
+Gooik	BE		50.794	4.114
+Glencoe	US	IL	42.135	-87.758
+Gurzuf	UA		44.546	34.278
+Grafenau	DE		48.858	13.397
+Graham	US	TX	33.107	-98.590
+Grande Rivière du Nord	HT		19.577	-72.169
+Garrison	US	MD	39.406	-76.761
+Gillingham	GB		51.038	-2.276
+Garching an der Alz	DE		48.135	12.582
+Großenlüder	DE		50.593	9.542
+Greenwith	AU	05	-34.766	138.714
+Gig Harbor	US	WA	47.329	-122.580
+Gleizé	FR		45.989	4.697
+Gawān	IN		28.420	78.352
+Gisborne	AU	07	-37.489	144.594
+Golden Square	AU	07	-36.773	144.253
+Girrawheen	AU	08	-31.841	115.840
+Greenville	US	RI	41.871	-71.552
+Golden Hills	US	CA	35.142	-118.490
+Grodków	PL		50.698	17.384
+Golbey	FR		48.198	6.440
+General Ramírez	AR		-32.176	-60.201
+Garlasco	IT		45.195	8.923
+Gerdzhyush	TR		37.562	41.378
+Gourbeyre	GP		15.995	-61.692
+Gharghoda	IN		22.174	83.352
+Gueugnon	FR		46.604	4.063
+Gharavŭtí	TJ		37.567	68.447
+Gonzales	US	CA	36.507	-121.444
+Glastonbury	GB		51.147	-2.721
+Goundam	ML		16.415	-3.671
+Groß Kreutz	DE		52.403	12.779
+Greenville	US	MI	43.178	-85.253
+Glens Falls North	US	NY	43.335	-73.683
+Grassina Ponte a Ema	IT		43.733	11.300
+Gessate	IT		45.548	9.438
+Gateway	US	FL	26.578	-81.750
+Gŭlŭbovo	BG		42.133	25.850
+Gomaringen	DE		48.453	9.096
+Guntersville	US	AL	34.358	-86.294
+Glenside	US	PA	40.102	-75.152
+Golden Valley	US	AZ	35.223	-114.223
+Gorodishche	RU		53.278	45.702
+Gering	US	NE	41.826	-103.660
+Grigny	FR		45.608	4.790
+Gorla Minore	IT		45.641	8.903
+Gavardo-Sopraponte	IT		45.589	10.443
+Geroskipou	CY		34.761	32.448
+Gözyeri	TR		40.866	32.542
+Großbottwar	DE		49.001	9.293
+Gagra	GE		43.279	40.271
+Gladstone Park	AU	07	-37.687	144.887
+Garuhapé	AR		-26.818	-54.957
+Gupitan	PH		7.776	125.641
+Gorokan	AU	02	-33.258	151.510
+Gassino Torinese	IT		45.129	7.829
+Grove City	US	PA	41.158	-80.089
+Geneseo	US	NY	42.796	-77.817
+Greenbriar	US	VA	38.873	-77.401
+Gleno	TL		-8.724	125.436
+Golakganj	IN		26.102	89.823
+Gastoúni	GR		37.850	21.250
+Gárdony	HU		47.209	18.636
+General Salgado	BR	27	-20.648	-50.361
+Goderich	CA	08	43.742	-81.713
+Gårdsten	SE		57.805	12.029
+Gorzyce	PL		50.667	21.840
+Gătaia	RO		45.431	21.430
+Gattinara	IT		45.613	8.365
+Gubden	RU		42.568	47.566
+Grand Blanc	US	MI	42.928	-83.630
+Galmaarden	BE		50.754	3.971
+Gambolò	IT		45.262	8.858
+Gingelom	BE		50.748	5.134
+Guardo	ES		42.790	-4.848
+Gold River	US	CA	38.626	-121.247
+Gracias	HN		14.590	-88.582
+Groslay	FR		48.986	2.347
+Gelves	ES		37.335	-6.026
+Gundelfingen	DE		48.553	10.372
+Giánnouli	GR		39.667	22.396
+Gedern	DE		50.425	9.198
+Goth Phulji	PK		26.881	67.682
+Gangadharpur	IN		22.760	88.220
+Gilford	US	NH	43.548	-71.407
+Grömitz	DE		54.150	10.967
+Greenville	US	AL	31.830	-86.618
+Gräfenhainichen	DE		51.729	12.457
+Gretz-Armainvilliers	FR		48.741	2.731
+Gökçeada	TR		40.201	25.909
+Garden City Park	US	NY	40.741	-73.663
+Grand Bois	MU		-20.419	57.544
+Gonzalillo	PA		9.092	-79.519
+Grand Ledge	US	MI	42.753	-84.746
+Guaraniaçu	BR	18	-25.101	-52.878
+General Toshevo	BG		43.701	28.038
+Giubiasco	CH		46.172	9.008
+Guerrero	MX	06	28.549	-107.484
+Great Dunmow	GB		51.872	0.363
+Gilău	RO		46.732	23.362
+Groenewoud	NL		51.539	5.090
+Gudauta	GE		43.105	40.621
+Grasberg	DE		53.183	8.983
+Galliano	US	LA	29.442	-90.299
+Gerolstein	DE		50.222	6.660
+Glen Ridge	US	NJ	40.805	-74.204
+Gorelki	RU		54.256	37.611
+Gamboula	CF		4.118	15.139
+Géri	CY		35.106	33.420
+Gilberts	US	IL	42.103	-88.373
+Gettysburg	US	PA	39.831	-77.231
+Groitzsch	DE		51.155	12.283
+Grünheide	DE		52.423	13.813
+Gordon	AU	02	-33.755	151.151
+Gorbunki	RU		59.813	29.985
+Greenbank	AU	04	-27.717	152.983
+Gundelsheim	DE		49.283	9.160
+Gonzales	US	TX	29.502	-97.452
+Garnet	US	CA	33.902	-116.546
+Green	US	OR	43.160	-123.368
+Gżira	MT		35.906	14.488
+Greifenstein	DE		50.617	8.300
+Garbsen-Mitte	DE		52.427	9.604
+Gēdo	ET		9.017	37.450
+Ghorāwal	IN		24.755	82.780
+Gymea	AU	02	-34.036	151.085
+Griñón	ES		40.212	-3.855
+Gaoual	GN		11.750	-13.200
+Gordon	AU	01	-35.457	149.085
+Guinticgan	PH		11.564	123.124
+Givet	FR		50.138	4.825
+Gresham Park	US	GA	33.703	-84.314
+Glusburn	GB		53.900	-2.000
+Gidrotorf	RU		56.476	43.538
+Geispolsheim	FR		48.516	7.648
+Guénange	FR		49.299	6.205
+Gölpazarı	TR		40.285	30.317
+Gray	FR		47.446	5.592
+Girov	RO		46.950	26.517
+Globe	US	AZ	33.394	-110.787
+Großalmerode	DE		51.259	9.784
+Glastonbury Center	US	CT	41.701	-72.600
+Goranboy	AZ		40.610	46.790
+Guareña	ES		38.860	-6.100
+Guilers	FR		48.425	-4.558
+Grandview Heights	US	OH	39.980	-83.041
+Gamarra	CO		8.323	-73.743
+Guadalupe	US	CA	34.972	-120.572
+George Town	BS		23.516	-75.787
+Großröhrsdorf	DE		51.145	14.019
+Grabovo	RU		53.388	45.064
+Gros Morne	HT		19.671	-72.678
+Gohānd	IN		25.699	79.546
+Green Cove Springs	US	FL	29.992	-81.678
+Gelendost	TR		38.121	31.015
+Gayduk	RU		44.785	37.700
+Gersheim	DE		49.150	7.200
+Gwasoro	NG		9.487	3.508
+Gabaldon	PH		15.452	121.339
+Grand Centre	CA	01	54.416	-110.213
+Gizel’	RU		43.040	44.571
+Greding	DE		49.047	11.357
+Guimbal	PH		10.663	122.323
+Gonzaga	PH		18.259	121.995
+Great Missenden	GB		51.704	-0.708
+Glina	RO		44.383	26.250
+Gniewkowo	PL		52.895	18.408
+Großkrotzenburg	DE		50.083	8.983
+Gruiu	RO		44.733	26.233
+Glenolden	US	PA	39.900	-75.289
+Gopālpur	IN		19.259	84.905
+Grand Gaube	MU		-20.006	57.661
+Gulf Hills	US	MS	30.430	-88.842
+Guichen	FR		47.968	-1.795
+Génova	CO		4.317	-75.767
+Greenville	US	NY	40.993	-73.820
+Grosuplje	SI		45.956	14.659
+Gwio Kura	NG		12.675	11.067
+Guazacapán	GT		14.074	-90.417
+Gravellona Toce	IT		45.929	8.432
+Guateque	CO		5.006	-73.473
+Guirim	IN		15.576	73.807
+Georgetown	US	DE	38.690	-75.385
+Gornyy	RU		51.758	48.541
+Gądów Mały	PL		51.119	16.986
+Gorredijk	NL		53.007	6.064
+Griviţa	RO		44.733	27.283
+Galeana	MX	19	24.825	-100.076
+Guácimo	CR		10.213	-83.688
+Gornji Vakuf	BA		43.938	17.588
+Gatton	AU	04	-27.559	152.276
+Ghadāmis	LY		30.134	9.501
+Gzhel’	RU		55.610	38.394
+Guillermo Zúñiga	MX	28	24.015	-99.201
+Gargenville	FR		48.988	1.812
+Gavrilov Posad	RU		56.559	40.121
+Goregaon	IN		18.155	73.291
+Galashki	RU		43.117	44.991
+Great Neck Plaza	US	NY	40.787	-73.727
+Gypsum	US	CO	39.647	-106.952
+Garrucha	ES		37.181	-1.823
+Gibong	PH		11.863	122.039
+Greenwood	CA	07	44.974	-64.932
+Galax	US	VA	36.661	-80.924
+Galiākot	IN		23.520	74.020
+Głuszyca	PL		50.687	16.372
+Gudāri	IN		19.348	83.781
+Gopālpur	IN		22.618	88.751
+Gryfów Śląski	PL		51.031	15.420
+Gorham	US	ME	43.680	-70.444
+Greenhills	IE		53.335	-6.303
+Geiselhöring	DE		48.825	12.396
+Glandorf	DE		52.085	7.999
+Großkarolinenfeld	DE		47.891	12.081
+Gogāpur	IN		23.557	75.517
+Goth Garelo	PK		27.435	68.076
+Gaggiano	IT		45.405	9.035
+Großbeeren	DE		52.359	13.310
+Garrni	AM		40.119	44.734
+Gibsons	CA	02	49.395	-123.506
+Gaillon	FR		49.161	1.340
+Gedzhukh	RU		42.128	48.065
+General Fernández Oro	AR		-38.953	-67.925
+Gratkorn	AT		47.133	15.350
+Giardini-Naxos	IT		37.828	15.267
+Grafenwöhr	DE		49.717	11.906
+Gammertingen	DE		48.252	9.223
+Groesbeck	US	OH	39.223	-84.587
+Gerolzhofen	DE		49.900	10.348
+Golfito	CR		8.603	-83.113
+Geelong West	AU	07	-38.139	144.348
+Gibsonville	US	NC	36.106	-79.542
+Grado	IT		45.678	13.403
+Gniew	PL		53.836	18.823
+Gorshechnoye	RU		51.524	38.037
+Gordonvale	AU	04	-17.100	145.780
+Grove	US	OK	36.594	-94.769
+Greenbrier	US	TN	36.428	-86.805
+Gueltat Zemmour	MA		25.143	-12.372
+Galliera Veneta	IT		45.667	11.822
+Gymea Bay	AU	02	-34.052	151.088
+Gulma	NG		12.642	4.355
+Girey	RU		45.401	40.659
+Griffin	AU	04	-27.271	153.039
+Gwaram	NG		10.233	10.286
+Garhdiwāla	IN		31.741	75.756
+Gorom-Gorom	BF		14.443	-0.235
+Ghumārwīn	IN		31.442	76.715
+Goulouré	BF		12.235	-1.934
+Garden Home-Whitford	US	OR	45.464	-122.759
+Glazunovka	RU		52.501	36.320
+Greenville	US	IL	38.892	-89.413
+Glen Oaks	US	NY	40.747	-73.712
+Girvan	GB		55.243	-4.856
+Gangkofen	DE		48.437	12.564
+Governador Dix Sept Rosado	BR	22	-5.459	-37.521
+Green Hill	US	TN	36.223	-86.549
+Groß-Enzersdorf	AT		48.203	16.551
+Gleneagle	US	CO	39.045	-104.824
+Ghansor	IN		22.660	79.950
+Georgensgmünd	DE		49.190	11.017
+Gridley	US	CA	39.364	-121.694
+Goondiwindi	AU	04	-28.547	150.305
+Großschönau	DE		50.900	14.683
+Gritsovskiy	RU		54.138	38.160
+Guadalupe	PA		8.855	-79.814
+Gränichen	CH		47.359	8.102
+Gau-Algesheim	DE		49.957	8.016
+Gransee	DE		53.007	13.158
+Geneseo	US	IL	41.448	-90.154
+Guilmaro	BJ		10.566	1.724
+Gaspar Hernández	DO		19.627	-70.278
+Godmanchester	GB		52.319	-0.175
+Gochsheim	DE		50.017	10.283
+Gallneukirchen	AT		48.354	14.416
+Grenay	FR		50.450	2.752
+Grenade	FR		43.767	1.283
+Gugeşti	RO		45.567	27.133
+Gelinkaya	TR		37.417	41.270
+Gurupá	BR	16	-1.405	-51.640
+Geithain	DE		51.055	12.697
+Gromiljak	BA		43.967	18.055
+Gournay-en-Bray	FR		49.483	1.725
+Gherăeşti	RO		47.017	26.817
+Geneva	US	OH	39.662	-82.433
+Gorle	IT		45.701	9.714
+Gladewater	US	TX	32.537	-94.943
+Gradisca d'Isonzo	IT		45.892	13.502
+Gangi	IT		37.796	14.204
+Grafenau	DE		48.714	8.912
+Gonnosfanadiga	IT		39.494	8.662
+Gleisdorf	AT		47.106	15.710
+Gelnica	SK		48.856	20.937
+Glenhaven	AU	02	-33.700	151.000
+Gouesnou	FR		48.453	-4.465
+Grabs	CH		47.182	9.444
+Geisenhausen	DE		48.476	12.258
+Gundelen	RU		43.597	43.172
+Gersfeld	DE		50.451	9.914
+Göreme	TR		38.644	34.835
+Garrett	US	IN	41.349	-85.136
+Gorebridge	GB		55.846	-3.046
+Glenarden	US	MD	38.929	-76.862
+Grassau	DE		47.781	12.454
+Gulf Breeze	US	FL	30.357	-87.164
+Goczałkowice Zdrój	PL		49.945	18.969
+Gobernador Roca	AR		-27.186	-55.464
+Guer	FR		47.906	-2.123
+Gilze	NL		51.544	4.940
+Gières	FR		45.180	5.789
+Gettorf	DE		54.400	9.983
+Ghidigeni	RO		46.050	27.500
+Gargaliánoi	GR		37.065	21.638
+Guaitarilla	CO		1.131	-77.548
+Gurghiu	RO		46.767	24.850
+Grabow	DE		53.280	11.565
+Glenvale	AU	04	-27.568	151.893
+Grebenstein	DE		51.446	9.412
+Grumello del Monte	IT		45.635	9.875
+Gīdam	IN		18.974	81.399
+Guaymate	DO		18.588	-68.979
+Gond-Pontouvre	FR		45.683	0.167
+Grayvoron	RU		50.477	35.677
+Gălăneşti	RO		47.917	25.800
+Green Knoll	US	NJ	40.600	-74.612
+Güglingen	DE		49.066	9.002
+Gorūr	IN		12.823	76.065
+Grand-Fort-Philippe	FR		51.000	2.108
+Großschirma	DE		50.966	13.286
+Goddard	US	MD	38.990	-76.853
+Guadalupe	US	AZ	33.371	-111.963
+Glenelg North	AU	05	-34.968	138.518
+Grafton	US	OH	41.273	-82.055
+Gizo	SB		-8.103	156.842
+Gesves	BE		50.401	5.075
+Gerbrunn	DE		49.775	9.994
+Güeñes	ES		43.213	-3.095
+Giudecca	IT		45.425	12.329
+Groveland	US	MA	42.760	-71.031
+Gloria	PH		12.983	121.467
+Gospić	HR		44.546	15.375
+Guadalupe Victoria	MX	30	19.555	-96.961
+Grabels	FR		43.648	3.799
+Gannat	FR		46.100	3.198
+Gungahlin	AU	01	-35.187	149.136
+Glen Innes	AU	02	-29.735	151.738
+Golden Beach	AU	04	-26.822	153.120
+Ghanaur	IN		30.331	76.612
+Ginebra	CO		3.725	-76.267
+Gmund am Tegernsee	DE		47.751	11.738
+Gogolin	PL		50.492	18.020
+Gunnison	US	CO	38.546	-106.925
+Gura Văii	RO		46.333	26.733
+Gournay-sur-Marne	FR		48.862	2.585
+Geneva	US	OH	41.805	-80.948
+Geisingen	DE		47.925	8.650
+Gorey	IE		52.675	-6.293
+Göynük	TR		36.660	30.550
+Gandra	PT		41.201	-8.434
+Guitiriz	ES		43.182	-7.897
+Guise	FR		49.901	3.628
+Gadebusch	DE		53.701	11.117
+Galván	DO		18.502	-71.343
+Gråbo	SE		57.836	12.300
+Giado	LY		31.955	12.029
+Ganges	CA	02	48.853	-123.500
+Garachico	ES		28.778	-17.765
+Garachico	ES		28.374	-16.763
+Gossops Green	GB		51.111	-0.217
+Grybów	PL		49.624	20.948
+Gommern	DE		52.074	11.823
+Gustavia	BL		17.896	-62.850
+Gun Barrel City	US	TX	32.335	-96.151
+Güneysu	TR		40.981	40.605
+Gas City	US	IN	40.487	-85.613
+Geislingen	DE		48.288	8.812
+Gura Viţioarei	RO		45.150	26.033
+Glücksburg	DE		54.835	9.549
+Güdül	TR		40.211	32.246
+Glendale	US	MO	38.596	-90.377
+Grassobbio	IT		45.657	9.726
+Geoagiu	RO		45.917	23.200
+Gorleston-on-Sea	GB		52.573	1.731
+Geelong city centre	AU	07	-38.150	144.362
+Girifalco	IT		38.826	16.427
+Gerbole	IT		45.001	7.507
+Grand-Bourg	GP		15.884	-61.315
+Gora	NG		11.913	7.665
+Gakem	NG		6.770	8.991
+Greenwich	AU	02	-33.840	151.183
+Great Gonerby	GB		52.935	-0.667
+Gioiosa Ionica	IT		38.327	16.304
+Gravenhurst	CA	08	44.917	-79.366
+Grudki	PL		53.095	23.668
+Granjas Ampliación Santa Rosa	MX	15	19.593	-98.967
+Greenville	US	PA	41.404	-80.391
+Guadalupe y Calvo	MX	06	26.091	-106.963
+Geetbets	BE		50.894	5.112
+Gerena	ES		37.530	-6.155
+Gostovići	BA		44.411	18.170
+Gilleleje	DK		56.122	12.311
+Guantou	CN		26.136	119.562
+Gorneşti	RO		46.671	24.648
+Ghisalba	IT		45.594	9.758
+Gnesta	SE		59.048	17.312
+Gulod	PH		14.345	121.218
+Grange	AU	05	-34.902	138.490
+Gustine	US	CA	37.258	-120.999
+Głogówek	PL		50.354	17.864
+Gaimán	AR		-43.290	-65.493
+Gelida	ES		41.433	1.867
+Granville	US	OH	40.068	-82.520
+Glad	PH		7.148	124.518
+Guisguis	PH		13.874	121.519
+Grasbrunn	DE		48.079	11.744
+Groveport	US	OH	39.878	-82.884
+Genzano di Lucania	IT		40.846	16.031
+Grayson Valley	US	AL	33.648	-86.639
+Gémenos	FR		43.298	5.628
+Gulf Park Estates	US	MS	30.392	-88.761
+Great Torrington	GB		50.953	-4.144
+Gelterkinden	CH		47.465	7.852
+Glarus	CH		47.041	9.068
+Galaxia la Noria	MX	14	20.457	-103.419
+Gauchy	FR		49.828	3.274
+Granada	CO		6.144	-75.185
+Goa Velha	IN		15.444	73.886
+Gardnerville	US	NV	38.941	-119.750
+Gūdūr	IN		17.492	78.823
+González	CO		8.389	-73.380
+Granarolo dell'Emilia e Viadagola	IT		44.553	11.443
+Gurinhém	BR	17	-7.124	-35.424
+Glushkovo	RU		51.339	34.633
+Georgiyevskaya	RU		44.111	43.492
+Großpösna	DE		51.267	12.500
+Gatteo-Sant'Angelo	IT		44.112	12.391
+Göynük	TR		40.400	30.788
+Gardiner	US	ME	44.230	-69.775
+General Conesa	AR		-40.104	-64.456
+Grotte	IT		37.403	13.699
+Gendt	NL		51.877	5.971
+Gray	US	LA	29.698	-90.786
+Gornozavodsk	RU		46.560	141.844
+Greenwood	US	MO	38.852	-94.344
+Guadassuar	ES		39.187	-0.479
+Greenacres	US	CA	35.383	-119.110
+Gateway	US	AK	61.573	-149.241
+Guanzate	IT		45.728	9.020
+Gamu	PH		17.050	121.836
+Gandino	IT		45.811	9.898
+Goito	IT		45.251	10.661
+Girraween	AU	02	-33.799	150.943
+Grissom Air Force Base	US	IN	40.658	-86.148
+Grou	NL		53.095	5.837
+Gdov	RU		58.744	27.820
+Glencoe	US	MN	44.769	-94.152
+Germantown	US	OH	39.626	-84.369
+Gofitskoye	RU		45.079	43.046
+General Levalle	AR		-34.015	-63.924
+Geltendorf	DE		48.117	11.032
+Glendive	US	MT	47.105	-104.712
+Goléré	SN		16.256	-14.102
+Gorgota	RO		44.783	26.083
+Gananoque	CA	08	44.333	-76.166
+Găiseni	RO		44.515	25.645
+Genlis	FR		47.242	5.224
+Głogów Małopolski	PL		50.151	21.963
+Gronau	DE		52.085	9.777
+Guxhagen	DE		51.200	9.483
+Glasgow Village	US	MO	38.754	-90.198
+Glyn-neath	GB		51.748	-3.618
+Grünau	DE		52.416	13.580
+Griviţa	RO		46.150	27.650
+Galegos	PT		41.563	-8.572
+Great Wakering	GB		51.552	0.804
+Goshen	US	NY	41.402	-74.324
+Guatapé	CO		6.234	-75.163
+Grumăzeşti	RO		47.133	26.367
+Greci	RO		45.183	28.233
+Glashütten	DE		50.217	8.400
+Grazzanise	IT		41.090	14.099
+Grasrijk	NL		51.439	5.415
+Gan	FR		43.229	-0.387
+Ginneken	NL		51.566	4.793
+Grassano	IT		40.635	16.278
+Giarmata	RO		45.838	21.311
+Golovchino	RU		50.534	35.797
+Grottaminarda	IT		41.070	15.059
+Gura Şuţii	RO		44.750	25.517
+Grand-Charmont	FR		47.527	6.826
+Gabčíkovo	SK		47.892	17.579
+Guînes	FR		50.867	1.870
+Gourdon	FR		44.737	1.383
+Guayabal	CO		5.031	-74.887
+Gómez Farías	MX	06	29.360	-107.740
+Gogoşu	RO		44.374	22.593
+Ganshui	CN		28.742	106.711
+Greenbrier	US	AR	35.234	-92.388
+Gawler East	AU	05	-34.599	138.763
+Goldau	CH		47.048	8.546
+Gemunde	PT		41.268	-8.645
+Gata de Gorgos	ES		38.774	0.085
+Gościcino	PL		54.605	18.155
+Guatajiagua	SV		13.667	-88.200
+Guatraché	AR		-37.668	-63.530
+Garéoult	FR		43.328	6.046
+Graneros	AR		-27.649	-65.438
+Giporlos	PH		11.120	125.449
+Gârla-Mare	RO		44.209	22.775
+Gopināthpur	IN		22.663	86.075
+Glenwood	US	IA	41.047	-95.743
+Ghimeş-Făget	RO		46.583	26.067
+Grävenwiesbach	DE		50.390	8.457
+Giessendam	NL		51.833	4.836
+Grădiştea	RO		44.233	27.217
+Grosse Pointe	US	MI	42.386	-82.912
+Gonzaga	IT		44.952	10.819
+Gumrak	RU		48.783	44.382
+Gbely	SK		48.718	17.116
+Gazi	KE		-4.424	39.506
+Guijuelo	ES		40.558	-5.671
+Guayanilla	PR		18.019	-66.792
+Gundorovskiy	RU		46.780	41.897
+Grambling	US	LA	32.528	-92.714
+Grivenskaya	RU		45.647	38.176
+Grebenhain	DE		50.489	9.339
+Grandwood Park	US	IL	42.393	-87.987
+Glendale	US	CO	39.705	-104.934
+Genoa	US	IL	42.097	-88.693
+Gilmer	US	TX	32.729	-94.942
+Glengowrie	AU	05	-34.987	138.537
+Groenswaard	NL		52.052	4.645
+Godech	BG		43.017	23.049
+Glencoe	US	AL	33.957	-85.932
+Grafton	US	WV	39.341	-80.019
+Gornyye Klyuchi	RU		45.242	133.506
+Glendenning	AU	02	-33.748	150.854
+Gremyachevo	RU		55.392	43.027
+Großheubach	DE		49.728	9.223
+Geringswalde	DE		51.077	12.907
+Glenfield Park	AU	02	-35.137	147.333
+Gergebil’	RU		42.505	47.066
+Gschwend	DE		48.933	9.744
+Glennville	US	GA	31.937	-81.928
+Greenfield Park	AU	02	-33.875	150.892
+Greenisland	GB		54.701	-5.875
+Granite Shoals	US	TX	30.589	-98.384
+Glabbeek	BE		50.873	4.956
+Grebenskaya	RU		43.531	46.372
+Giddings	US	TX	30.183	-96.936
+Gunja	HR		44.880	18.853
+Guichón	UY		-32.358	-57.198
+Gornopravdinsk	RU		60.050	69.900
+Gretna	US	NE	41.141	-96.240
+Gorla Maggiore	IT		45.664	8.895
+Gagliano del Capo	IT		39.843	18.370
+Grums	SE		59.351	13.111
+Greifensee	CH		47.367	8.681
+Gansing	PH		6.719	124.653
+Götene	SE		58.528	13.495
+Guamal	CO		3.880	-73.766
+Gignac	FR		43.652	3.551
+Gójar	ES		37.105	-3.606
+Gresford	GB		53.085	-2.971
+Gourin	FR		48.139	-3.608
+Gorodnya	RU		56.706	36.318
+Glass House Mountains	AU	04	-26.898	152.953
+Gemmingen	DE		49.156	8.982
+Ghindari	RO		46.500	24.917
+Guesnain	FR		50.350	3.150
+Grymes Hill	US	NY	40.619	-74.093
+Gambo	CF		4.648	22.263
+Guadalix de la Sierra	ES		40.785	-3.693
+Gablitz	AT		48.229	16.154
+Gregory Hills	AU	02	-34.027	150.771
+Green Tree	US	PA	40.412	-80.046
+Ghimbav	RO		45.667	25.500
+Guémené-Penfao	FR		47.633	-1.833
+Glen Huntly	AU	07	-37.892	145.041
+Guildford West	AU	02	-33.849	150.965
+Gilbués	BR	20	-9.832	-45.344
+Godim	PT		41.171	-7.803
+Grăniceşti	RO		47.817	26.067
+Gafanha da Encarnação	PT		40.618	-8.733
+Glenbrook	AU	02	-33.767	150.617
+Garchitorena	PH		13.880	123.695
+Górowo Iławeckie	PL		54.286	20.489
+Gorlago	IT		45.674	9.823
+Galten	DK		56.159	9.917
+Gammelstad	SE		65.639	22.011
+Gieten	NL		53.005	6.764
+Guagnano	IT		40.401	17.949
+Gubaan	PH		7.975	123.564
+Gefrees	DE		50.095	11.738
+Gelenau	DE		50.712	12.967
+Gironella	ES		42.034	1.880
+Gageldonk	NL		51.602	4.739
+Gornja Tuzla	BA		44.557	18.762
+Gerlafingen	CH		47.171	7.572
+Gölgelikonak	TR		37.769	42.127
+Ghiroda	RO		45.764	21.300
+Griffith	AU	01	-35.325	149.137
+Guglionesi	IT		41.921	14.916
+Gilbertsville	US	PA	40.320	-75.610
+Gladstone	US	MI	45.853	-87.022
+Galicea Mare	RO		44.100	23.300
+Gölova	TR		40.062	38.607
+Giberville	FR		49.182	-0.284
+Giessenburg	NL		51.851	4.890
+Großdubrau	DE		51.254	14.459
+Guardiagrele	IT		42.194	14.219
+Grange-over-Sands	GB		54.185	-2.925
+Grezzana	IT		45.523	11.017
+Goragorskiy	RU		43.500	45.086
+Guidizzolo	IT		45.321	10.578
+Galda de Jos	RO		46.183	23.617
+Guadalupe	CO		2.025	-75.756
+Glendora	US	NJ	39.840	-75.074
+Großaitingen	DE		48.228	10.779
+Gloggnitz	AT		47.675	15.939
+Genay	FR		45.897	4.841
+Gabino Barreda	MX	30	18.179	-96.092
+Goddard	US	KS	37.660	-97.575
+Gablingen	DE		48.450	10.817
+Gouvy	BE		50.186	5.939
+Gugark’	AM		40.805	44.540
+Georgetown	US	IN	40.741	-86.505
+Goutou	CN		39.805	117.199
+Ghelinţa	RO		45.950	26.233
+Greenhithe	GB		51.450	0.285
+Glen Head	US	NY	40.835	-73.624
+Galston	GB		55.601	-4.382
+Gweta	BW		-20.183	25.233
+Guindulman	PH		9.763	124.488
+Glodeanu-Sărat	RO		44.867	26.650
+Goicea	RO		43.917	23.617
+Gmünd	AT		48.768	14.981
+Grimethorpe	GB		53.577	-1.377
+Guardia Sanframondi	IT		41.256	14.599
+Granite Falls	US	NC	35.797	-81.431
+Gornje Živinice	BA		44.429	18.617
+Groß Pankow	DE		53.120	12.050
+Gornyy Shchit	RU		56.688	60.519
+Gersdorf	DE		50.750	12.717
+Grandyle Village	US	NY	42.996	-78.955
+Grude	BA		43.372	17.414
+Garoafa	RO		45.783	27.200
+Grand Bank	CA	05	47.100	-55.765
+Galeville	US	NY	43.090	-76.173
+Gualaquiza	EC		-3.404	-78.582
+Gatuncillo	PA		9.243	-79.649
+Győrújbarát	HU		47.606	17.649
+Glashütte	DE		50.852	13.780
+Gornja Koprivna	BA		45.011	15.955
+Genazzano	IT		41.828	12.972
+General Pánfilo Natera	MX	32	22.665	-102.110
+Gozzano	IT		45.743	8.437
+Grant City	US	NY	40.582	-74.105
+Groß-Bieberau	DE		49.801	8.824
+Gurbuki	RU		42.611	47.601
+Görwihl	DE		47.643	8.075
+Glodeanu-Siliştea	RO		44.833	26.800
+Greenfield	US	OH	39.352	-83.383
+Gibsonia	US	FL	28.115	-81.974
+Geebung	AU	04	-27.372	153.047
+Gwelup	AU	08	-31.872	115.795
+Guerneville	US	CA	38.502	-122.996
+Gibraltar	US	MI	42.095	-83.190
+Guaraní	AR		-27.523	-55.161
+Grand-Champ	FR		47.758	-2.846
+Gnosjö	SE		57.358	13.737
+Gerabronn	DE		48.971	9.920
+Great Ayton	GB		54.491	-1.136
+Grieskirchen	AT		48.233	13.833
+Graceville	AU	04	-27.522	152.982
+Galbiate	IT		45.816	9.379
+Golubinci	RS		44.985	20.063
+Glen Alpine	AU	02	-34.086	150.785
+Gdów	PL		49.908	20.199
+Göcek	TR		36.753	28.946
+Georgetown	US	IN	41.729	-86.228
+General MacArthur	PH		11.246	125.539
+Güntersleben	DE		49.870	9.905
+Ghilarza	IT		40.121	8.836
+Glamang	PH		6.163	125.084
+Geneva	US	AL	31.033	-85.864
+Goodland	US	KS	39.351	-101.710
+Gottolengo	IT		45.293	10.269
+Georgetown	US	OH	38.865	-83.904
+Gazzada Schianno	IT		45.780	8.833
+Greendale	US	IN	39.113	-84.864
+Gutach im Breisgau	DE		48.117	7.983
+Gurahonţ	RO		46.267	22.350
+Graciano Sánchez	MX	28	22.654	-98.555
+Gessertshausen	DE		48.329	10.733
+Glassport	US	PA	40.325	-79.892
+Goulds	CA	05	47.455	-52.776
+Gedinne	BE		49.980	4.937
+Gabicce Mare	IT		43.965	12.756
+Gârbovi	RO		44.783	26.767
+Gabuyan	PH		7.608	125.669
+Greenville	US	KY	37.201	-87.179
+Gerger	TR		37.950	39.017
+Golina	PL		52.243	18.093
+General Cepeda	MX	07	25.378	-101.476
+Gömeç	TR		39.390	26.841
+Giebelstadt	DE		49.653	9.944
+Għaxaq	MT		35.849	14.517
+Gardnertown	US	NY	41.535	-74.070
+Grézieu-la-Varenne	FR		45.747	4.690
+Guática	CO		5.316	-75.798
+Glodeni	RO		45.017	25.467
+Gingen an der Fils	DE		48.660	9.781
+Gropello Cairoli	IT		45.177	8.994
+Gamovo	RU		57.865	56.106
+Guinabsan	PH		8.898	125.416
+Gokul	IN		27.439	77.720
+Garwood	US	NJ	40.652	-74.323
+Großreuth bei Schweinau	DE		49.434	11.023
+Gayny	RU		60.307	54.324
+Glonn	DE		47.988	11.867
+General Lázaro Cárdenas (El Colorado)	MX	22	20.564	-100.244
+Gumalang	PH		7.208	125.404
+Groesbeck	US	TX	31.524	-96.534
+Genio Civile	IT		41.548	12.692
+Glenella	AU	04	-21.118	149.145
+Gossau	CH		47.305	8.758
+Gýtheio	GR		36.755	22.564
+Goma	PH		6.792	125.321
+Großhabersdorf	DE		49.400	10.783
+Garešnica	HR		45.574	16.941
+Gilowice	PL		49.713	19.310
+George Town	AU	06	-41.106	146.826
+Giroc	RO		45.694	21.236
+Guachetá	CO		5.384	-73.686
+Grafton	US	ND	48.412	-97.411
+Give	DK		55.845	9.238
+Găneasa	RO		44.483	26.283
+Greene	US	ME	44.190	-70.140
+Glyadyanskoye	RU		54.907	65.088
+Güsten	DE		51.796	11.612
+Grange	AU	04	-27.423	153.015
+Grand Forks	CA	02	49.033	-118.436
+Grobiņa	LV		56.535	21.168
+Gillen	AU	03	-23.709	133.866
+Greenstone	CA	08	49.733	-87.167
+Gweedore	IE		55.050	-8.232
+Giraltovce	SK		49.114	21.517
+Gang Mills	US	NY	42.146	-77.112
+Gatlinburg	US	TN	35.715	-83.512
+Großrinderfeld	DE		49.665	9.734
+Grosio	IT		46.300	10.276
+Guia	PT		37.130	-8.300
+Garran	AU	01	-35.342	149.108
+Glanamman	GB		51.800	-3.933
+Gröningen	DE		51.937	11.216
+Giubega	RO		44.127	23.408
+Glinishchevo	RU		53.304	34.065
+Gonnesa	IT		39.265	8.470
+Grabenstätt	DE		47.845	12.543
+General Galarza	AR		-32.720	-59.396
+Gößweinstein	DE		49.769	11.338
+Grant	US	MN	45.084	-92.910
+Golden Triangle	US	NJ	39.928	-75.039
+Goodview	US	MN	44.062	-91.696
+Golubitskaya	RU		45.326	37.270
+Gonzales Ortega	MX	32	23.181	-102.476
+Gavião	PT		39.464	-7.934
+Germenchik	RU		43.594	43.766
+Grimaud	FR		43.273	6.522
+Gbewebu	SL		7.551	-11.607
+Gieboldehausen	DE		51.610	10.216
+Geyer	DE		50.626	12.921
+Guinsadan	PH		16.964	120.868
+Gechingen	DE		48.695	8.829
+Grettstadt	DE		49.983	10.317
+Gräfenberg	DE		49.644	11.250
+Gößnitz	DE		50.889	12.433
+Goulding	US	FL	30.443	-87.222
+Gornau	DE		50.759	13.037
+Gebenstorf	CH		47.481	8.239
+Gemünden an der Wohra	DE		50.974	8.969
+Gambara	IT		45.254	10.294
+Gómez Plata	CO		6.682	-75.219
+Gordon Park	AU	04	-27.419	153.025
+Giedlarowa	PL		50.227	22.406
+Gumtow	DE		52.983	12.250
+Gorahun	SL		7.464	-11.240
+Gachetá	CO		4.819	-73.637
+Großwallstadt	DE		49.879	9.153
+Goring	GB		51.523	-1.133
+Găneasa	RO		44.417	24.283
+General Artigas	PY		-26.935	-56.222
+Gliesmarode	DE		52.279	10.557
+Gemmrigheim	DE		49.028	9.156
+Gambsheim	FR		48.692	7.883
+Götzens	AT		47.236	11.312
+Guadalupe	PH		11.004	124.014
+Grayson	US	KY	38.333	-82.948
+Gąbin	PL		52.398	19.735
+Grant-Valkaria	US	FL	27.940	-80.571
+Galicea	RO		44.917	24.283
+Guipos	PH		7.716	123.322
+Großbettlingen	DE		48.591	9.308
+Goleszów	PL		49.736	18.737
+Gunnislake	GB		50.524	-4.213
+Grushevskaya	RU		47.441	39.951
+Greencastle	US	PA	39.790	-77.728
+Gordon Heights	US	NY	40.859	-72.971
+Gho Brāhmanān de	IN		32.556	74.954
+Golden	CA	02	51.300	-116.969
+Grande Cache	CA	01	53.883	-119.136
+Garden City South	US	NY	40.712	-73.661
+Gråsten	DK		54.919	9.595
+Garons	FR		43.769	4.428
+Glamoč	BA		44.046	16.849
+Guachucal	CO		0.961	-77.732
+Gălbinaşi	RO		45.083	26.917
+Gornje Moštre	BA		44.019	18.155
+Gádoros	HU		46.667	20.600
+Großrückerswalde	DE		50.633	13.117
+Geitenkamp	NL		52.004	5.939
+Gyalshing	IN		27.290	88.258
+Grans	FR		43.609	5.063
+Ghioroc	RO		46.150	21.583
+Ganges	FR		43.934	3.708
+Gondecourt	FR		50.545	2.984
+Greenfield	US	CA	35.269	-119.003
+Gnojnica	BA		44.621	18.447
+Gandara	PH		12.013	124.812
+Gigean	FR		43.500	3.712
+Gorgo al Monticano	IT		45.791	12.550
+Gordola	CH		46.183	8.867
+Gherghiţa	RO		44.800	26.267
+Grignasco	IT		45.680	8.344
+Golfo de Santa Clara	MX	26	31.687	-114.498
+Greußen	DE		51.230	10.944
+Grevenmacher	LU		49.678	6.440
+Gamewell	US	NC	35.869	-81.596
+Gravigny	FR		49.053	1.170
+Gernrode	DE		51.726	11.139
+Grand-Santi	GF		4.273	-54.381
+Gabi	PH		7.622	126.092
+Gonars	IT		45.897	13.244
+Goreloye	RU		52.937	41.504
+Gagino	RU		55.231	45.034
+General Bravo	MX	19	25.792	-99.181
+Gainfarn	AT		47.963	16.194
+Gümüşgöze	TR		36.148	36.133
+Grunuovo-Campomaggiore San Luca	IT		41.272	13.807
+Gumpoldskirchen	AT		48.045	16.277
+Guayabo Dulce	DO		18.650	-69.283
+Gramat	FR		44.781	1.720
+Garchizy	FR		47.048	3.096
+General Enrique Estrada	MX	32	22.997	-102.743
+Gohor	RO		46.067	27.400
+Gendringen	NL		51.873	6.376
+Gosheim	DE		48.134	8.754
+Gračanica	BA		43.733	18.283
+Geffen	NL		51.740	5.464
+Gerringong	AU	02	-34.747	150.828
+Gnosall	GB		52.786	-2.255
+Gerstungen	DE		50.967	10.067
+Garden Ridge	US	TX	29.635	-98.305
+Guinsang-an	PH		6.465	124.685
+Gandzak	AM		40.315	45.111
+Green Oaks	US	IL	42.290	-87.903
+Girton	GB		52.233	0.083
+Gols	AT		47.897	16.911
+Gura Teghii	RO		45.483	26.417
+Golegã	PT		39.405	-8.486
+Garbolovo	RU		60.341	30.496
+Grossarl	AT		47.233	13.200
+Grünburg	AT		47.972	14.265
+General Enrique Godoy	AR		-39.079	-67.158
+Groß-Rohrheim	DE		49.721	8.483
+Genoenhuis	NL		51.409	5.539
+Guadalupe Cachi	MX	15	19.601	-99.825
+Gilena	ES		37.252	-4.914
+Greentown	US	OH	40.928	-81.403
+Gars	DE		48.154	12.278
+Gorskaya	RU		60.046	29.971
+Grünsfeld	DE		49.609	9.747
+Gouverneur	US	NY	44.337	-75.463
+Golden Beach	US	MD	38.490	-76.682
+Greve in Chianti	IT		43.585	11.317
+Gazzaniga	IT		45.793	9.830
+Gosford	AU	02	-33.424	151.344
+Golynki	RU		54.870	31.386
+Glenwood Landing	US	NY	40.831	-73.639
+Gunskirchen	AT		48.133	13.950
+Gerga	RU		42.346	47.963
+Gallicano nel Lazio	IT		41.864	12.835
+General Felipe Ángeles (Los Ángeles)	MX	13	19.898	-98.926
+Găneşti	RO		46.333	24.350
+Göllheim	DE		49.595	8.051
+Ghioca	RO		44.317	24.733
+Goldberg	DE		53.589	12.089
+Ghoga	IN		25.217	87.157
+Gayaman	PH		16.014	120.308
+Glăvăneşti	RO		46.250	27.383
+Göss	AT		47.359	15.100
+Gierałtowice	PL		50.225	18.734
+Grödig	AT		47.738	13.037
+Gradec	MK		41.896	20.904
+Güzelyurt	TR		38.277	34.372
+Génova	GT		14.617	-91.833
+Givry	FR		46.782	4.743
+Gau-Odernheim	DE		49.785	8.194
+Gibbstown	US	NJ	39.825	-75.284
+Grădinari	RO		44.392	25.816
+Gancedo	AR		-27.490	-61.676
+Gréasque	FR		43.433	5.544
+Gradsko	MK		41.578	21.943
+Gornja Breza	BA		44.038	18.246
+Gattières	FR		43.760	7.176
+Gjellerup	DK		56.146	9.055
+Grindelwald	CH		46.624	8.036
+Gratwein	AT		47.117	15.317
+Gelos	FR		43.283	-0.371
+Gatow	DE		52.483	13.183
+Glodeni	RO		46.650	24.600
+Glan Peidu	PH		5.855	125.219
+Goldkronach	DE		50.011	11.688
+Gundershoffen	FR		48.906	7.661
+Gehren	DE		50.649	11.005
+Guntersblum	DE		49.797	8.346
+Glenelg East	AU	05	-34.976	138.530
+Gravedona-San Gregorio	IT		46.146	9.301
+Germignaga	IT		45.991	8.724
+Gumian	PH		14.710	121.619
+Gorin	RU		51.199	136.662
+Granger	US	WA	46.342	-120.187
+Grizzana Morandi	IT		44.258	11.153
+Griviţa	RO		45.717	27.650
+Geroldswil	CH		47.422	8.411
+Guinlo	PH		10.801	119.438
+Grainau	DE		47.476	11.024
+Grand Bay	US	AL	30.476	-88.342
+George Enescu	RO		48.033	26.483
+Gaylord	US	MI	45.028	-84.675
+Gamba	TZ		-5.900	39.300
+Georgiyevka	RU		53.274	50.998
+Gonfaron	FR		43.320	6.289
+Glasnevin	IE		53.379	-6.280
+Grafrath	DE		48.117	11.167
+Grantley	US	PA	39.940	-76.729
+Gallardon	FR		48.526	1.693
+Glenelg	AU	05	-34.981	138.515
+Gistrup	DK		56.994	9.991
+Golden Bay	AU	08	-32.425	115.761
+Gräfenroda	DE		50.748	10.811
+Gattaran	PH		18.062	121.644
+Garda	IT		45.579	10.718
+Gouménissa	GR		40.946	22.450
+Gighera	RO		43.850	23.800
+Genesee	US	CO	39.686	-105.273
+Großbothen	DE		51.188	12.751
+Gualaco	HN		15.025	-86.071
+Garino	IT		44.973	7.617
+Gabao	PH		12.727	123.978
+Gimry	RU		42.760	46.840
+Greenhills	US	OH	39.268	-84.523
+Gulyantsi	BG		43.641	24.694
+Gorbăneşti	RO		47.783	26.850
+Guatacalca	MX	27	18.166	-92.979
+Georgetown	GM		13.540	-14.764
+Golf Manor	US	OH	39.187	-84.446
+Gołkowice	PL		49.914	18.514
+Gramalote	CO		7.888	-72.797
+Gulfview Heights	AU	05	-34.795	138.669
+Gözpınar	TR		37.977	41.458
+Galbenu	RO		45.217	27.167
+Guadalupe	MX	30	18.816	-96.924
+Gilles Plains	AU	05	-34.850	138.650
+Giswil	CH		46.833	8.181
+Gostilitsy	RU		59.748	29.622
+Geisa	DE		50.715	9.951
+Gulpen	NL		50.816	5.889
+Givoletto	IT		45.162	7.496
+Górki Wielkie	PL		49.780	18.831
+Gaglianico	IT		45.537	8.078
+Gura Râului	RO		45.733	23.983
+Gibson	US	AR	34.884	-92.236
+Gossolengo	IT		45.002	9.618
+Guasca	CO		4.866	-73.877
+General Nakar	PH		14.764	121.636
+Gorssel	NL		52.202	6.201
+Gobernador Juan E. Martínez	AR		-28.912	-58.936
+Gerzel’-Aul	RU		43.247	46.402
+Ghisonaccia	FR		42.016	9.405
+Gothenburg	US	NE	40.929	-100.161
+General Vedia	AR		-26.934	-58.660
+Glubokiy	RU		44.947	41.018
+Gooding	US	ID	42.939	-114.713
+Germantown Hills	US	IL	40.766	-89.468
+Glattbach	DE		50.008	9.150
+Godega	IT		45.929	12.397
+Groß Grönau	DE		53.800	10.750
+Gaptsakh	RU		41.452	47.930
+Ghemme	IT		45.599	8.420
+Georgetown	US	IL	42.140	-89.829
+Granite Falls	US	WA	48.084	-121.969
+Générac	FR		43.728	4.350
+Ghioșești	RO		45.242	25.627
+Gamut	PH		8.532	126.241
+Göda	DE		51.178	14.320
+Gorbatovka	RU		56.257	43.746
+Gusevskiy	RU		55.662	40.563
+Gilserberg	DE		50.950	9.067
+Gallipolis	US	OH	38.810	-82.202
+Giavera del Montello	IT		45.794	12.167
+Gramatneusiedl	AT		48.030	16.489
+Gualtieri	IT		44.897	10.629
+Gramercy	US	LA	30.047	-90.690
+Gualaca	PA		8.530	-82.300
+Géfyra	GR		40.733	22.694
+Goleşti	RO		45.667	27.133
+Gagatli	RU		42.801	46.292
+Gologanu	RO		45.610	27.271
+Graus	ES		42.189	0.337
+Grantorto	IT		45.603	11.732
+Goldendale	US	WA	45.821	-120.822
+Grosbliederstroff	FR		49.158	7.024
+Gilberdyke	GB		53.753	-0.739
+Gagliano Castelferrato	IT		37.710	14.535
+Guhāgar	IN		17.484	73.193
+Grasonville	US	MD	38.958	-76.210
+Glenorie	AU	02	-33.602	151.009
+Geraldton city centre	AU	08	-28.778	114.615
+Gereykhanovskoye	RU		41.701	48.281
+Gacko	BA		43.167	18.535
+Greenland	US	NH	43.036	-70.833
+Großharthau	DE		51.107	14.099
+Gropniţa	RO		47.350	27.250
+Glasgow	US	MT	48.197	-106.637
+Gornorechenskiy	RU		44.266	135.115
+Gibson City	US	IL	40.458	-88.385
+Gratentour	FR		43.724	1.432
+Großweitzschen	DE		51.158	13.045
+Greensboro	US	GA	33.576	-83.182
+Grakhovo	RU		56.050	51.968
+Gradište	HR		45.148	18.707
+Gozdnica	PL		51.436	15.099
+Gentry	US	AR	36.268	-94.485
+Giano dell'Umbria	IT		42.834	12.578
+Glemsford	GB		52.104	0.669
+Guadalupe	PH		8.583	125.708
+Grésy-sur-Aix	FR		45.723	5.925
+Gouyave	GD		12.165	-61.730
+Gołańcz	PL		52.943	17.300
+Gostavăţu	RO		44.083	24.533
+Gambang	PH		16.750	120.783
+Gálvez	ES		39.702	-4.272
+Georgetown	US	IL	39.975	-87.636
+Gnoien	DE		53.969	12.711
+Gros Cailloux	MU		-20.207	57.430
+Giorgilorio	IT		40.387	18.149
+Gevrey-Chambertin	FR		47.226	4.968
+Gensingen	DE		49.900	7.933
+Genaro Estrada	MX	25	25.936	-108.396
+Goubellat	TN		36.542	9.663
+Guadalupe Tlachco	MX	29	19.329	-98.110
+Grootegast	NL		53.212	6.274
+Giehun	SL		7.884	-11.049
+Grafenrheinfeld	DE		50.000	10.200
+Gialo	LY		29.033	21.550
+Godeni	RO		45.233	24.983
+Graveson	FR		43.851	4.774
+Giuleşti	RO		47.817	23.933
+Gétigné	FR		47.077	-1.248
+Gromnik	PL		49.838	20.961
+Gopālur	IN		16.612	77.807
+Gang	PH		7.246	124.266
+Ghirdoveni	RO		44.941	25.674
+Galyugayevskaya	RU		43.697	44.934
+Göfis	AT		47.234	9.635
+Græsted	DK		56.066	12.285
+Gorzkowice	PL		51.215	19.596
+Gay	AM		40.084	44.305
+Gosnell	US	AR	35.960	-89.972
+Greensburg	US	OH	40.932	-81.465
+Gayle	JM		18.326	-77.010
+Groot-Ammers	NL		51.923	4.824
+Galena	US	IL	42.417	-90.429
+Gropeni	RO		45.075	27.880
+Garbatka-Letnisko	PL		51.483	21.611
+Giromagny	FR		47.743	6.827
+Gundelsheim	DE		49.937	10.920
+Goven	FR		48.006	-1.846
+Gévezé	FR		48.219	-1.790
+Geising	DE		50.757	13.793
+Grojdibodu	RO		43.750	24.267
+Guipry	FR		47.826	-1.842
+Gostyń	PL		50.105	18.882
+Gruissan	FR		43.108	3.087
+Gobowen	GB		52.896	-3.037
+Geenhoven	NL		51.359	5.460
+Gray	US	GA	33.010	-83.534
+Grajduri	RO		46.967	27.517
+Għajnsielem	MT		36.026	14.285
+Gigmoto	PH		13.780	124.390
+Gilmanton	US	NH	43.424	-71.415
+Gray	AU	03	-12.490	130.982
+Garnett	US	KS	38.281	-95.242
+Graben	DE		48.187	10.822
+Gamlingay	GB		52.156	-0.193
+Gerolsbach	DE		48.493	11.361
+Gjinkar	AL		40.199	20.406
+Guararé	PA		7.815	-80.283
+Gherăseni	RO		45.026	26.791
+Gioseni	RO		46.429	26.992
+Glebychevo	RU		60.439	28.718
+Giralang	AU	01	-35.211	149.096
+Gioiosa Marea	IT		38.174	14.899
+Gunnison	US	UT	39.155	-111.818
+Gachnang	CH		47.539	8.853
+Großolbersdorf	DE		50.700	13.083
+Geographe	AU	08	-33.640	115.384
+Gravette	US	AR	36.422	-94.454
+Gateshead	AU	02	-32.982	151.692
+Groningen	SR		5.800	-55.467
+Georgetown	US	IN	38.295	-85.976
+Gusinoye Ozero	RU		51.114	106.261
+Guilvinec	FR		47.799	-4.281
+Gooseberry Hill	AU	08	-31.954	116.049
+Goffstown	US	NH	43.020	-71.600
+Giurgiţa	RO		44.017	23.633
+Gwandalan	AU	02	-33.135	151.583
+Greenwood	US	LA	32.443	-93.973
+Geroldsgrün	DE		50.333	11.600
+Gherţa Mică	RO		47.933	23.233
+Güneren	TR		36.734	39.089
+Gondelsheim	DE		49.059	8.658
+Grantville	US	GA	33.235	-84.836
+Gălbinași	RO		44.317	26.419
+Glenroy	AU	02	-36.050	146.911
+Gubskaya	RU		44.316	40.636
+Gillespie	US	IL	39.130	-89.820
+Gălăţeni	RO		44.217	25.350
+Groisy	FR		46.010	6.170
+Galatás	GR		35.499	23.963
+Goričan	HR		46.384	16.681
+Gyöngyössolymos	HU		47.817	19.936
+Gargas	FR		43.902	5.358
+Gornja Radgona	SI		46.673	15.992
+Gaienhofen	DE		47.683	8.983
+Gornoye Loo	RU		43.713	39.605
+Grangeville	US	ID	45.927	-116.122
+Grape Creek	US	TX	31.579	-100.548
+Glauburg	DE		50.317	9.000
+Grayson	US	GA	33.894	-83.956
+Gamaches	FR		49.986	1.556
+Gari	RU		59.431	62.350
+Glina	HR		45.338	16.088
+Grand Saline	US	TX	32.673	-95.709
+Grub	DE		50.103	11.929
+Galston	AU	02	-33.653	151.047
+Guisguis	PH		15.793	119.977
+Gitagum	PH		8.597	124.406
+Gruia	RO		44.267	22.705
+Gavojdia	RO		45.617	22.017
+Gachancipá	CO		4.991	-73.872
+Grisolles	FR		43.829	1.297
+Glinojeck	PL		52.820	20.292
+Großpostwitz	DE		51.121	14.441
+Gillieston Heights	AU	02	-32.762	151.529
+Greenwood Lake	US	NY	41.223	-74.294
+Gura Caliţei	RO		45.583	27.017
+Ghyvelde	FR		51.053	2.526
+Garner	US	IA	43.102	-93.602
+Gipf-Oberfrick	CH		47.499	8.005
+Goro	IT		44.852	12.297
+Glamsbjerg	DK		55.272	10.105
+Grămeşti	RO		47.917	26.150
+Grazhdanskoye	RU		44.230	42.770
+Gilgandra	AU	02	-31.712	148.663
+Gasny	FR		49.092	1.603
+Gaggi	IT		37.860	15.221
+Grandvillars	FR		47.539	6.971
+Gorges	FR		47.099	-1.300
+Galindo	MX	22	20.397	-100.098
+Grünkraut	DE		47.744	9.656
+Gornet	RO		45.117	26.067
+Grays Point	AU	02	-34.059	151.086
+Giurgiuleşti	MD		45.482	28.197
+Gwynneville	AU	02	-34.417	150.887
+Gura Ocniței	RO		44.942	25.568
+Grabovac	RS		44.600	20.085
+Glendale	AU	02	-32.932	151.641
+Gimbsheim	DE		49.778	8.375
+Garding	DE		54.331	8.781
+Gigaquit	PH		9.594	125.698
+Găiceana	RO		46.333	27.217
+Golden Grove	JM		17.934	-76.273
+Grădiştea	RO		44.867	23.817
+Golema Rečica	MK		41.988	20.945
+Guyam Malaki	PH		14.152	120.861
+Gorron	FR		48.411	-0.813
+Gretna	GB		54.994	-3.066
+Glotovka	RU		53.949	46.704
+Granite Hills	US	CA	32.803	-116.905
+Gberia Fotombu	SL		9.879	-11.165
+Gulivoire Park	US	IN	41.613	-86.245
+Galaxídhion	GR		38.381	22.380
+Geyikli	TR		39.805	26.207
+Genoa City	US	WI	42.498	-88.328
+Gaißach	DE		47.750	11.583
+Gagret	IN		31.658	76.061
+Gudja	MT		35.849	14.503
+Girard	US	PA	42.000	-80.318
+Guadalupe	MX	06	31.390	-106.106
+Gambara	MX	16	18.932	-102.112
+Gröbming	AT		47.443	13.901
+Grandvilliers	FR		49.665	1.941
+Gaozhuang	CN		39.269	117.976
+Givisiez	CH		46.812	7.126
+Güéjar-Sierra	ES		37.160	-3.439
+Gailingen	DE		47.697	8.756
+Goshen	US	CA	36.351	-119.420
+Griffioen	NL		51.505	3.596
+Grunji	RO		45.500	26.650
+Gordeyevka	RU		52.957	31.970
+Gádor	ES		36.953	-2.493
+Govindapuram,Chilakaluripet,Guntur	IN		16.155	80.103
+Grębów	PL		50.565	21.874
+Grabownica Starzeńska	PL		49.659	22.078
+Gamla Stan	SE		59.326	18.073
+Gleichamberg	DE		50.371	10.598
+Gratia	RO		44.433	25.450
+Granite Quarry	US	NC	35.612	-80.447
+Giulvăz	RO		45.549	20.984
+Gorban	RO		46.876	28.079
+Golovino	RU		55.961	40.425
+Grisignano di Zocco	IT		45.487	11.708
+Guadalupe	PH		9.724	123.402
+General Elizardo Aquino	PY		-24.444	-56.901
+General Campos	AR		-31.523	-58.405
+Grand Mound	US	WA	46.788	-123.011
+Gararu	BR	28	-9.967	-37.083
+Great Glen	GB		52.575	-1.035
+Gattico	IT		45.707	8.520
+Gams	CH		47.204	9.442
+Green Rock	US	IL	41.473	-90.358
+Gowrie	AU	01	-35.412	149.109
+Gângiova	RO		43.900	23.850
+Gorki Vtoryye	RU		55.726	37.163
+Großbreitenbach	DE		50.583	11.010
+Győrszemere	HU		47.553	17.564
+Galeana	MX	15	20.036	-101.572
+Genarp	SE		55.599	13.398
+Gandesa	ES		41.054	0.439
+Guarromán	ES		38.183	-3.687
+Glandore	AU	05	-34.962	138.568
+Gloucester Courthouse	US	VA	37.410	-76.527
+Graymoor-Devondale	US	KY	38.273	-85.623
+Gassin	FR		43.229	6.585
+Grästorp	SE		58.332	12.681
+Groveville	US	NJ	40.170	-74.672
+Gerstheim	FR		48.382	7.704
+Grosswangen	CH		47.133	8.050
+Geneva	US	FL	28.740	-81.115
+Geilston Bay	AU	06	-42.830	147.346
+Gremberghoven	DE		50.902	7.061
+Giarratana	IT		37.047	14.795
+Guadalupe Victoria	MX	18	21.680	-105.328
+Galena	US	KS	37.076	-94.640
+Gheaba	RO		45.309	26.006
+Gallur	ES		41.868	-1.316
+Grădiştea	RO		44.667	26.283
+Grojec	PL		49.981	19.238
+Großhartmannsdorf	DE		50.800	13.333
+Greenfield	US	MN	45.103	-93.691
+Gocoton	PH		7.156	124.691
+Glen Iris	AU	08	-33.337	115.674
+Goodwood	AU	05	-34.951	138.592
+Guanaceví	MX	10	25.931	-105.957
+Gaythorne	AU	04	-27.417	152.983
+Gleed	US	WA	46.658	-120.613
+Gadu	PH		17.629	121.611
+Gravel Ridge	US	AR	34.868	-92.191
+Găleşti	RO		46.517	24.750
+Gloucester	AU	02	-32.008	151.963
+Grubišno Polje	HR		45.702	17.173
+Gurkovo	BG		42.667	25.800
+Gerbstedt	DE		51.633	11.627
+Gladwin	US	MI	43.981	-84.486
+Guiling	PH		15.843	120.615
+Guaquitepec	MX	05	16.980	-92.288
+Granite Falls	US	WA	47.890	-120.214
+Gressan	IT		45.721	7.293
+Gomba	HU		47.371	19.531
+Guinacotan	PH		14.157	122.868
+Gaszowice	PL		50.109	18.430
+Guayatá	CO		4.964	-73.487
+Grindavík	IS		63.838	-22.439
+Gimont	FR		43.626	0.877
+Galaxia la Calera	MX	21	18.999	-98.153
+Großenaspe	DE		53.983	9.967
+General San Martín	AR		-37.979	-63.604
+Giehun	SL		8.555	-11.043
+Ganløse	DK		55.791	12.264
+Guanagazapa	GT		14.225	-90.643
+Greppin	DE		51.647	12.301
+Gesztely	HU		48.100	20.967
+Greenacres	AU	05	-34.869	138.628
+Guiddam	PH		18.335	121.466
+Gries	FR		48.754	7.814
+Gloverville	US	SC	33.526	-81.830
+Großenwiehe	DE		54.700	9.250
+Gheorghe Doja	RO		46.467	24.500
+Great Neck Estates	US	NY	40.787	-73.737
+Guadalupe Zaragoza	MX	21	19.358	-98.537
+Gastonville	US	PA	40.257	-79.996
+Greta	AU	02	-32.678	151.389
+Ganapi	PH		17.202	121.865
+Golßen	DE		51.972	13.601
+Garyville	US	LA	30.056	-90.619
+Grossaffoltern	CH		47.065	7.357
+Glossodia	AU	02	-33.536	150.774
+Grotte Santo Stefano	IT		42.517	12.172
+Grezzago	IT		45.591	9.497
+Głogoczów	PL		49.895	19.874
+Georgiyevskoye	RU		58.731	45.024
+Gambrills	US	MD	39.067	-76.665
+Gulliver	AU	04	-19.288	146.777
+Gyenesdiás	HU		46.771	17.287
+Greaca	RO		44.109	26.339
+Göynücek	TR		40.399	35.525
+Gerwisch	DE		52.177	11.740
+Gibbons	CA	01	53.833	-113.335
+Goutum	NL		53.177	5.804
+Gussola	IT		45.012	10.349
+Gruchet-le-Valasse	FR		49.555	0.487
+Ghergheşti	RO		46.500	27.517
+Galzignano	IT		45.308	11.731
+Gommiswald	CH		47.231	9.024
+Glenboig	GB		55.894	-4.046
+Gais	CH		47.361	9.454
+General Luna	PH		15.731	121.179
+Gantang	CN		26.920	119.633
+Gantang	CN		26.798	118.936
+Green Forest	US	AR	36.335	-93.436
+Găujani	RO		43.733	25.700
+Genech	FR		50.531	3.217
+Girard	US	KS	37.511	-94.838
+Gamleby	SE		57.895	16.405
+Grottoes	US	VA	38.267	-78.826
+Glen Raven	US	NC	36.113	-79.476
+Gowanbrae	AU	07	-37.708	144.891
+Grottazzolina	IT		43.119	13.607
+Gröbzig	DE		51.682	11.875
+Granite Falls	US	MN	44.810	-95.546
+Giesbeek	NL		51.993	6.067
+Gazoldo degli Ippoliti	IT		45.200	10.578
+Gilly-sur-Isère	FR		45.659	6.351
+Grandson	CH		46.809	6.646
+Guécélard	FR		47.878	0.129
+Gavoi	IT		40.161	9.195
+Gibsonia	US	PA	40.630	-79.969
+Guinayangan, Fourth District of Quezon	PH		13.900	122.448
+Groß Twülpstedt	DE		52.374	10.919
+Grebenau	DE		50.742	9.473
+Ghergheasa	RO		45.267	27.200
+Gränna	SE		58.017	14.467
+Gyöngyöspata	HU		47.815	19.789
+Guayalejo	MX	30	22.383	-98.483
+Goştinari-Văcăreşti	RO		44.183	26.217
+Güssing	AT		47.059	16.324
+Gâlgău Almaşului	RO		47.200	23.333
+Grosse Pointe Shores	US	MI	42.437	-82.877
+Güinope	HN		13.883	-86.933
+Gornyy	RU		47.816	40.204
+Golczewo	PL		53.824	14.978
+Grundy Center	US	IA	42.362	-92.769
+Grignano Polesine	IT		45.044	11.747
+Goranu	RO		45.105	24.384
+Great Leighs	GB		51.828	0.506
+Grandate	IT		45.767	9.053
+Gulod	PH		13.875	120.634
+Galateo	PR		18.362	-66.259
+Glen Forrest	AU	08	-31.919	116.107
+Gračac	HR		44.299	15.848
+Gilmore	AU	01	-35.420	149.135
+Gray Summit	US	MO	38.490	-90.817
+Ginatilan	PH		9.569	123.313
+Gavrilovka Vtoraya	RU		52.877	42.766
+Ghimpați	RO		44.196	25.783
+Gimo	SE		60.173	18.185
+Gruaro	IT		45.835	12.841
+Guasila	IT		39.560	9.044
+Glen Eden	AU	04	-23.897	151.271
+Gârcov	RO		43.759	24.616
+Geer	BE		50.670	5.174
+Gägelow	DE		53.686	11.896
+Giuvărăşti	RO		43.800	24.700
+Guruyan	PH		12.739	123.939
+Grifton	US	NC	35.373	-77.437
+Ghindăreşti	RO		44.650	28.033
+Granville	AU	04	-25.545	152.733
+Grasleben	DE		52.306	11.015
+Galgon	FR		44.991	-0.272
+Gemonio	IT		45.879	8.675
+Gara	HU		46.032	19.043
+Gornyy Balykley	RU		49.550	45.068
+Giawang	PH		9.792	124.509
+Gidgegannup	AU	08	-31.754	116.187
+Gornet-Cricov	RO		45.083	26.267
+Googong	AU	02	-35.439	149.213
+Georgenthal	DE		50.832	10.663
+Greenmount	AU	08	-31.901	116.049
+Guignen	FR		47.920	-1.862
+Gerbole-Zucche	IT		44.986	7.517
+Golčův Jeníkov	CZ		49.816	15.477
+Gort	IE		53.066	-8.817
+Garcia Hernandez	PH		9.614	124.295
+Glattbrugg	CH		47.431	8.563
+Galgahévíz	HU		47.617	19.567
+Großheirath	DE		50.176	10.950
+Green Park	US	MO	38.524	-90.338
+Guignes	FR		48.633	2.800
+Gambellara	IT		45.460	11.340
+Gammad	PH		17.710	121.744
+Gartz	DE		53.208	14.392
+Großerlach	DE		49.054	9.514
+Gościno	PL		54.051	15.653
+Gowanda	US	NY	42.463	-78.936
+Guadalupe Septién	MX	22	20.527	-100.114
+Gouderak	NL		51.984	4.678
+Garbutt	AU	04	-19.266	146.782
+George West	US	TX	28.332	-98.118
+Gervais	US	OR	45.108	-122.898
+Grosseto-Prugna	FR		41.871	8.964
+Görbeháza	HU		47.833	21.233
+Grădiştea	RO		45.267	27.383
+Gutad	PH		14.927	120.489
+Guananico	DO		19.727	-70.923
+Gălăuţaş	RO		46.917	25.433
+Grossgmain	AT		47.724	12.909
+Graniteville	US	SC	33.564	-81.808
+Garessio	IT		44.207	8.018
+Green Island	US	NY	42.744	-73.692
+Green Harbor-Cedar Crest	US	MA	42.075	-70.658
+Grosspetersdorf	AT		47.239	16.318
+Guntown	US	MS	34.443	-88.660
+Guijalo	PH		13.737	123.868
+Grünhain	DE		50.580	12.807
+Garlate	IT		45.812	9.400
+Guenrouet	FR		47.519	-1.954
+Guindarohan	PH		10.261	123.766
+Geldersheim	DE		50.043	10.156
+Glenrock	US	WY	42.861	-105.872
+General Roca	AR		-32.732	-61.916
+Godelleta	ES		39.417	-0.683
+Guilford Center	US	CT	41.282	-72.676
+Geraberg	DE		50.716	10.837
+Gatersleben	DE		51.822	11.287
+Gabi	PH		10.263	123.961
+Guégon	FR		47.937	-2.564
+Gyöngyöshalász	HU		47.742	19.929
+Gunn	AU	03	-12.488	130.993
+Gützkow	DE		53.724	13.107
+Glencoe	US	FL	29.026	-80.972
+Gencsapáti	HU		47.285	16.596
+Geldermalsen-West	NL		51.880	5.280
+Glen Rose	US	TX	32.235	-97.755
+Glattfelden	CH		47.559	8.502
+Gunib	RU		42.388	46.965
+Grinţieş	RO		47.050	25.867
+Gullane	GB		56.037	-2.828
+Gueral	PT		41.459	-8.629
+Ghidfalău	RO		45.900	25.850
+Glenwood	US	MN	45.650	-95.390
+Genovés	ES		38.989	-0.470
+Godstone	GB		51.248	-0.069
+Gibsonburg	US	OH	41.385	-83.320
+Gallo-Tre Re-Mezzana Corti	IT		45.126	9.122
+Gârceni	RO		46.767	27.283
+Grimshaw	CA	01	56.183	-117.603
+Grotte di Castro	IT		42.676	11.869
+Gualchos	ES		36.745	-3.391
+Gallicano	IT		44.058	10.442
+Gheorghe Doja	RO		44.616	27.187
+Guiscriff	FR		48.049	-3.644
+Góra	PL		49.980	19.105
+Granville	US	WV	39.646	-79.987
+Gimigliano	IT		38.973	16.532
+Grâces	FR		48.557	-3.185
+Gram	DK		55.289	9.049
+Grăniceri	RO		46.517	21.300
+Guaytalpa	MX	27	18.217	-93.032
+Gémozac	FR		45.569	-0.675
+Gössendorf	AT		46.998	15.486
+Galátista	GR		40.468	23.280
+Gornji Breg	RS		45.920	20.018
+Gaggino	IT		45.808	8.964
+Gånghester	SE		57.700	13.017
+Gilfach Goch	GB		51.592	-3.473
+Getaria	ES		43.303	-2.204
+Gol	NO		60.701	8.946
+Gabriel Leyva Velázquez	MX	25	25.791	-108.563
+Gallargues-le-Montueux	FR		43.717	4.167
+Guatimozín	AR		-33.461	-62.438
+Grijpskerk	NL		53.263	6.308
+Giulianello	IT		41.686	12.879
+Galva	US	IL	41.168	-90.043
+Gulgong	AU	02	-32.363	149.532
+Glušci	RS		44.890	19.549
+Gualmatán	CO		0.920	-77.567
+Gerhardshofen	DE		49.631	10.691
+Ghindăoani	RO		47.110	26.339
+Gura Vadului	RO		45.050	26.467
+Greenwood	US	LA	30.545	-91.107
+Guirang	PH		11.350	125.117
+Großmaischeid	DE		50.500	7.633
+Guinoaliuan	PH		11.658	122.385
+Grzechynia	PL		49.714	19.646
+Garden View	US	PA	41.254	-77.046
+Gandrange	FR		49.271	6.125
+Greenbriar	US	FL	28.011	-82.753
+Gaoniang	CN		26.843	109.179
+Gardeja	PL		53.611	18.947
+Gökçen	TR		38.114	27.871
+Göggingen	DE		48.861	9.884
+Gappal	PH		16.836	121.822
+Groşi	RO		47.617	23.617
+Granges-sur-Vologne	FR		48.145	6.791
+Grădinari	RO		44.567	24.267
+Grenfell	AU	02	-33.895	148.164
+Glenside	AU	05	-34.943	138.634
+Großlehna	DE		51.307	12.172
+Gložan	RS		45.280	19.568
+Guérigny	FR		47.087	3.202
+Griesstätt	DE		47.994	12.177
+Georgioupolis	GR		35.362	24.260
+Großenehrich	DE		51.248	10.835
+Guadalupe Victoria	MX	30	20.168	-96.914
+Guiong	PH		6.419	122.026
+Gibgos	PH		13.859	123.767
+Grenade-sur-l'Adour	FR		43.777	-0.430
+Great Horkesley	GB		51.938	0.876
+Grenville	GD		12.123	-61.625
+Gines-Patay	PH		10.936	122.493
+Gheorghe Lazăr	RO		44.633	27.450
+Granja de Torrehermosa	ES		38.317	-5.583
+Great Houghton	GB		53.554	-1.350
+Guichainville	FR		49.001	1.193
+Grand Point	US	LA	30.061	-90.753
+Grande Rivière Sud Est	MU		-20.286	57.776
+Gimampang	PH		8.471	124.297
+Güepsa	CO		6.025	-73.573
+Gesté	FR		47.182	-1.109
+Golden Grove	US	SC	34.734	-82.444
+Granville	US	NY	43.408	-73.260
+Gyöngyöstarján	HU		47.814	19.867
+Gyuzdek	AZ		40.374	49.682
+Gergy	FR		46.876	4.945
+Gröbers	DE		51.431	12.116
+Galatádes	GR		40.756	22.281
+Galgate	GB		53.994	-2.792
+Galaţii Bistriţei	RO		46.983	24.400
+Greenwood	US	PA	40.536	-78.358
+Gottenheim	DE		48.050	7.733
+Gadung	PH		6.803	124.020
+Gyhum	DE		53.217	9.317
+Gawler South	AU	05	-34.607	138.744
+Garland	US	UT	41.741	-112.162
+Greenfield	GB		53.283	-3.217
+Grantown on Spey	GB		57.331	-3.609
+Gaiberg	DE		49.366	8.750
+Gambier	US	OH	40.376	-82.397
+Gorzyce	PL		49.959	18.399
+Gregorio Méndez	MX	27	18.047	-93.085
+Ganzda	MX	15	19.990	-99.847
+Guiwanon	PH		11.197	123.708
+Groix	FR		47.639	-3.454
+Godineşti	RO		45.000	22.967
+Grainet	DE		48.800	13.650
+Glendalough	AU	08	-31.920	115.819
+Guderup	DK		54.990	9.872
+Gainneville	FR		49.518	0.262
+Gravellona	IT		45.328	8.764
+Gilston	AU	04	-28.033	153.300
+Geiselwind	DE		49.774	10.471
+Ganassi	PH		7.827	124.103
+Grindu	RO		44.767	26.917
+Greenhill	GB		55.992	-3.891
+Geghanist	AM		40.146	44.430
+Guillestre	FR		44.660	6.649
+Golasecca	IT		45.698	8.661
+Gestel	FR		47.804	-3.442
+Graffignana	IT		45.206	9.454
+Gârcina	RO		46.977	26.346
+Gârbou	RO		47.150	23.433
+Greentown	US	IN	40.478	-85.967
+Gouesnach	FR		47.910	-4.114
+Groton	US	NY	42.588	-76.367
+Guardamiglio	IT		45.107	9.685
+Giovo	IT		46.156	11.153
+Gehrde	DE		52.577	8.003
+Ginabuyan	PH		11.238	124.405
+Gralla	AT		46.814	15.555
+Garrovillas	ES		39.711	-6.550
+Gostinu	RO		44.000	26.117
+Greensboro	US	AL	32.704	-87.596
+Gorshkovo	RU		56.376	37.412
+Gatbo	PH		13.583	123.383
+Giammoro	IT		38.204	15.307
+Gabawan	PH		12.427	122.013
+Garancières	FR		48.823	1.755
+Gus’-Zheleznyy	RU		55.058	41.166
+Gronsveld	NL		50.811	5.731
+Großenseebach	DE		49.633	10.875
+Guayabal	PR		18.081	-66.501
+Geistown	US	PA	40.291	-78.869
+Georgetown	US	CA	38.907	-120.839
+Grand Forks Air Force Base	US	ND	47.955	-97.387
+Geudertheim	FR		48.724	7.752
+Gros Islet	LC		14.067	-60.950
+Guadalupe Victoria	MX	25	24.299	-107.271
+Grande Rivière Noire	MU		-20.360	57.366
+Gibato	PH		11.225	122.814
+Galeras	MX	22	20.618	-100.157
+Gazimurskiy Zavod	RU		51.554	118.345
+Grevenbicht	NL		51.038	5.775
+Gabao	PH		12.992	124.017
+Guardavalle Marina	IT		38.480	16.577
+Gumaus	PH		14.310	122.723
+Großengottern	DE		51.148	10.562
+Gnojnik	PL		49.894	20.609
+Geghakert	AM		40.185	44.243
+Guadalupe Victoria	MX	12	16.756	-98.182
+Gheboaia	RO		44.802	25.749
+Gießhübl	AT		48.098	16.235
+Gaukönigshofen	DE		49.633	10.000
+Goderville	FR		49.646	0.366
+Grimisuat	CH		46.259	7.384
+Glatten	DE		48.442	8.511
+Genoa	US	OH	40.783	-81.467
+Gerbido	IT		45.044	7.614
+Guintubhan	PH		10.207	122.963
+Garrettsville	US	OH	41.284	-81.096
+Gembrook	AU	07	-37.953	145.555
+Green Meadows	US	OH	39.869	-83.944
+Glenville	US	CT	41.035	-73.660
+Greenville	US	DE	39.779	-75.598
+Guin	US	AL	33.966	-87.915
+Guaimitas	HN		15.500	-87.717
+Geneva	US	WA	48.746	-122.402
+Gachenbach	DE		48.500	11.233
+Gura Foii	RO		44.750	25.283
+Gavi	IT		44.686	8.807
+Grantham	US	NH	43.490	-72.138
+Genoa	US	OH	41.518	-83.359
+Gundinci	HR		45.158	18.491
+Geraldine	NZ		-44.091	171.245
+Gorzów Śląski	PL		51.029	18.423
+Groșii Țibleșului	RO		47.490	24.064
+Grafenhausen	DE		48.284	7.767
+Galta	IT		45.391	12.023
+Goxhill	GB		53.676	-0.338
+Glenmavis	GB		55.889	-3.987
+Gebesee	DE		51.115	10.935
+Garsten	AT		48.022	14.407
+Good Hope	US	AL	34.116	-86.864
+Guindapunan	PH		11.303	124.706
+Gold Beach	US	OR	42.407	-124.422
+Geilo	NO		60.534	8.205
+Gragnano Trebbiense	IT		45.012	9.571
+Großkugel	DE		51.417	12.146
+Gondreville	FR		48.694	5.965
+Gørlev	DK		55.539	11.227
+Granada	PH		11.633	123.350
+Grushevka	UA		45.023	34.973
+Gruibingen	DE		48.595	9.644
+Gornsdorf	DE		50.700	12.883
+Galtellì	IT		40.385	9.612
+Gobernador Mansilla	AR		-32.545	-59.355
+Gilwern	GB		51.825	-3.094
+Grande-Digue	CA	04	46.300	-64.565
+Guadalupe de Atlas	MX	01	22.267	-102.031
+Guadalupe Victoria	MX	28	24.082	-98.233
+Gonnehem	FR		50.561	2.573
+Geschwenda	DE		50.732	10.825
+Giacciano con Baruchella	IT		45.067	11.450
+Gabas	PH		10.730	124.796
+Gunness	GB		53.591	-0.728
+Gambalidio	PH		13.620	122.891
+Guadalupe	ES		39.451	-5.326
+Găgeşti	RO		46.333	27.967
+Girdwood	US	AK	60.943	-149.166
+Grumolo delle Abbadesse	IT		45.517	11.672
+Guayaybi	PY		-24.533	-56.433
+Gamut	PH		9.004	126.170
+Gaylord	US	MN	44.553	-94.221
+Gogoşari	RO		43.867	25.700
+Gibbsboro	US	NJ	39.838	-74.965
+Gordes	FR		43.913	5.199
+Godziszów	PL		50.749	22.498
+Ghiffa	IT		45.953	8.604
+Goravan	AM		39.908	44.733
+Geiersthal	DE		49.046	12.982
+Gates Mills	US	OH	41.518	-81.403
+Great Barrington	US	MA	42.196	-73.362
+Gasan	PH		13.324	121.847
+Gârbești	RO		46.983	27.300
+Guignicourt	FR		49.437	3.968
+Goolwa	AU	05	-35.502	138.782
+Godziszka	PL		49.713	19.076
+Graceville	US	FL	30.957	-85.517
+Gargnano	IT		45.686	10.659
+Grodzisko Górne	PL		50.187	22.438
+Glavinitsa	BG		43.917	26.833
+Grozeşti	RO		44.650	23.317
+Geneston	FR		47.056	-1.511
+Gönc	HU		48.467	21.283
+Gièvres	FR		47.278	1.669
+General Calixto Contreras	MX	10	24.429	-104.046
+Greenport	US	NY	41.103	-72.359
+Gelorup	AU	08	-33.424	115.641
+Guibodangan	PH		10.116	123.494
+Golden Point	AU	07	-37.575	143.869
+Grand Sable	MU		-20.314	57.764
+Groß Köris	DE		52.166	13.659
+Gutach	DE		48.248	8.213
+Glapwell	GB		53.189	-1.283
+Grisy-Suisnes	FR		48.685	2.668
+Gameren	NL		51.801	5.204
+Golcowa	PL		49.772	22.025
+Gomadingen	DE		48.400	9.391
+Gurb	ES		41.954	2.235
+Guisijan	PH		11.093	122.046
+Galatás	GR		37.496	23.449
+Guadalupe Santa Ana	MX	21	18.091	-98.121
+Guba	PH		10.313	123.267
+Greenock	US	PA	40.312	-79.807
+Guadalupe Victoria	MX	13	20.037	-98.269
+Grossenbrode	DE		54.383	11.083
+Gabi	PH		11.596	123.338
+Glenelg South	AU	05	-34.990	138.514
+Gorcy	FR		49.535	5.685
+Genola	IT		44.591	7.661
+Garbagnate Monastero	IT		45.773	9.301
+Gobernador Costa	AR		-44.050	-70.598
+Groșani	RO		45.248	25.948
+Galiwinku	AU	03	-12.028	135.565
+Guadalupe	CO		6.246	-73.418
+Grebănu	RO		45.383	26.967
+Gytsjerk	NL		53.243	5.895
+Grabiszyn	PL		51.094	16.978
+Grottole	IT		40.603	16.378
+Gainza	PH		13.617	123.142
+Góis	PT		40.157	-8.110
+Ganyangan	PH		7.679	122.909
+Geuensee	CH		47.200	8.107
+Gambais	FR		48.774	1.672
+General Andrés Figueroa	MX	14	20.304	-103.609
+Glendale	US	OH	41.397	-81.542
+Gacé	FR		48.793	0.296
+Ghermănești	RO		46.830	28.081
+Gülveren	TR		37.487	41.494
+Gottfrieding	DE		48.637	12.536
+Grazalema	ES		36.760	-5.368
+Green Level	US	NC	36.121	-79.344
+Gandhó	MX	13	20.545	-99.687
+Grosselfingen	DE		48.332	8.887
+Green Level	US	NC	35.782	-78.904
+Gerindote	ES		39.966	-4.303
+Grand-Fougeray	FR		47.724	-1.732
+Glanegg	AT		47.750	13.000
+Günyazı	TR		36.233	36.117
+Glendale	US	OH	39.271	-84.459
+Gromadka	PL		51.361	15.765
+Gundsømagle	DK		55.736	12.152
+Gyönk	HU		46.556	18.477
+Guiniculalay	PH		7.656	123.391
+Grängesberg	SE		60.075	15.008
+Gumlog	US	GA	34.492	-83.097
+Ghioroiu	RO		44.700	23.833
+Gurdon	US	AR	33.921	-93.154
+Gattikon	CH		47.284	8.548
+Glenwood	US	AR	34.327	-93.551
+Guiclan	FR		48.550	-3.962
+Gennes	FR		47.340	-0.231
+Gunyo Poniente (San José Gunyo)	MX	15	20.111	-99.839
+Guilford	US	PA	39.915	-77.601
+Gianico	IT		45.866	10.175
+Geiselbach	DE		50.123	9.197
+Guérard	FR		48.821	2.960
+General Baldissera	AR		-33.122	-62.306
+Gassville	US	AR	36.283	-92.494
+Gornostayevka	UA		45.278	36.186
+Geneva	US	NE	40.527	-97.596
+Gartcosh	GB		55.888	-4.082
+Giethoorn	NL		52.740	6.079
+Grădinari	RO		45.119	21.599
+Granby	US	MO	36.919	-94.255
+Glencoe	CA	08	42.750	-81.716
+Gföhl	AT		48.517	15.483
+Greenport West	US	NY	41.102	-72.372
+Greensburg	US	KY	37.261	-85.499
+Gau-Bickelheim	DE		49.835	8.021
+Gakovo	RS		45.901	19.061
+Greenfield	US	TN	36.153	-88.801
+Gilet	ES		39.683	-0.317
+Granja de Rocamora	ES		38.152	-0.892
+Glodenii Gândului	RO		46.952	27.299
+Getashen	AM		40.044	43.942
+Givenchy-en-Gohelle	FR		50.391	2.773
+Găgeni	RO		45.022	25.946
+Ghukasavan	AM		40.128	44.417
+Gramzow	DE		53.212	14.007
+Gónnoi	GR		39.862	22.476
+Gold Bar	US	WA	47.857	-121.697
+Garelochhead	GB		56.082	-4.829
+Gyulagarak	AM		40.967	44.471
+Goldsby	US	OK	35.141	-97.477
+Güicán	CO		6.466	-72.415
+Ghindești	MD		47.855	28.377
+Gioia dei Marsi	IT		41.957	13.691
+Glasco	US	NY	42.044	-73.947
+Graysville	US	AL	33.621	-86.971
+Ganado	US	TX	29.041	-96.514
+Gégény	HU		48.150	21.950
+Glumslöv	SE		55.941	12.809
+Großörner	DE		51.615	11.490
+Gaillan-en-Médoc	FR		45.325	-0.955
+Galeata	IT		43.996	11.911
+Großrudestedt	DE		51.093	11.100
+Gorzyczki	PL		49.949	18.403
+Gittelde	DE		51.798	10.188
+Grimston	GB		52.773	0.548
+Gladstone	US	NJ	40.723	-74.665
+Galatiní	GR		40.320	21.551
+Goncelin	FR		45.344	5.979
+Gumdale	AU	04	-27.492	153.153
+Großkorbetha	DE		51.260	12.030
+Gözler	TR		38.107	29.154
+Gaming	AT		47.929	15.088
+Gladzor	AM		39.781	45.347
+Gracht	NL		50.852	6.028
+Gorzyce Wielkie	PL		51.637	17.730
+Guinisiliban	PH		9.096	124.783
+Grein	AT		48.229	14.859
+Gowrie Junction	AU	04	-27.483	151.883
+Guaro	ES		36.656	-4.834
+Gontenschwil	CH		47.272	8.144
+Gueset	PH		15.950	120.633
+Gorno Orizari	MK		41.052	21.345
+Gommegnies	FR		50.272	3.706
+Ganguvāda	IN		18.667	84.117
+Grünau im Almtal	AT		47.855	13.956
+Guandu	CN		28.568	106.103
+Getulio	PH		10.747	122.666
+Grünendeich	DE		53.570	9.612
+Galgamácsa	HU		47.696	19.387
+Gambassi Terme	IT		43.536	10.952
+Garbów	PL		51.355	22.329
+Golden Meadow	US	LA	29.379	-90.260
+Gyulaháza	HU		48.133	22.117
+Gardone Riviera	IT		45.624	10.567
+Galati Mamertino	IT		38.032	14.771
+Gallo	IT		43.786	12.713
+Gwembe	ZM		-16.498	27.607
+Grosshöflein	AT		47.836	16.480
+Golden Shores	US	AZ	34.782	-114.478
+Gréoux-les-Bains	FR		43.758	5.884
+Galesburg	US	MI	42.289	-85.418
+González Ortega	MX	21	19.343	-97.270
+Grône	CH		46.253	7.459
+Geromina	IT		45.536	9.575
+Granowo	PL		52.222	16.529
+Gandy	US	FL	27.869	-82.616
+Granite	US	OK	34.962	-99.381
+Glen Rock	US	PA	39.793	-76.730
+Galisteo	ES		39.976	-6.268
+Gayndah	AU	04	-25.625	151.611
+Gonzalo	DO		18.951	-69.751
+Girard	US	IL	39.446	-89.781
+Gostinari	RO		44.186	26.228
+Gila Bend	US	AZ	32.948	-112.717
+Greifenberg	DE		48.071	11.083
+Glen Osmond	AU	05	-34.960	138.649
+Gârbova	RO		45.867	23.733
+Gouldsboro	US	ME	44.478	-68.038
+Guayabetal	CO		4.215	-73.817
+Groß Oesingen	DE		52.648	10.464
+Golling an der Salzach	AT		47.600	13.167
+Greceşti	RO		44.450	23.283
+Gimli	CA	03	50.634	-96.991
+Goostrey	GB		53.227	-2.339
+Glenunga	AU	05	-34.950	138.638
+Golfo Aranci	IT		40.983	9.633
+Guadahortuna	ES		37.557	-3.399
+Gesualdo	IT		41.006	15.073
+Granitogorsk	KZ		42.744	73.468
+Goubétto	DJ		11.424	43.000
+Great Barford	GB		52.158	-0.352
+Gołuchów	PL		51.850	17.931
+Gniechowice	PL		50.988	16.834
+Găinești	RO		47.420	25.918
+Gon’ba	RU		53.417	83.575
+Güllü	TR		38.271	29.105
+Gllogjan	XK		42.507	20.363
+Gorno Orizari	MK		41.686	21.735
+Greenway	AU	01	-35.418	149.067
+Galșa	RO		46.288	21.651
+Groß-Siegharts	AT		48.792	15.404
+Gregory	US	TX	27.922	-97.290
+Grañén	ES		41.941	-0.369
+Guerville	FR		48.944	1.734
+Guyra	AU	02	-30.217	151.668
+Glenmoor	US	OH	40.666	-80.623
+Guildford	AU	08	-31.900	115.967
+Goliad	US	TX	28.668	-97.388
+Greffern	DE		48.752	8.005
+Gersau	CH		46.994	8.525
+Glogova	RO		44.928	22.907
+Guabito	PA		9.490	-82.613
+Gau-Bischofsheim	DE		49.916	8.273
+Garz	DE		54.318	13.351
+Godewaersvelde	FR		50.794	2.645
+Goolwa Beach	AU	05	-35.505	138.773
+Golfo Aranci	IT		41.006	9.615
+Guardavalle	IT		38.505	16.507
+Gartenstadt	DE		52.235	10.506
+Gello	IT		43.754	10.424
+Guadalupe Minerva	MX	13	20.126	-98.714
+Gabriel Esquinca	MX	05	16.941	-93.176
+Glenning Valley	AU	02	-33.354	151.426
+Grabów nad Prosną	PL		51.506	18.119
+Glinka	RU		54.640	32.878
+Glaubitz	DE		51.325	13.378
+Gayéri	BF		12.648	0.493
+Groß Kummerfeld	DE		54.050	10.083
+Génissieux	FR		45.084	5.081
+Grignon	FR		45.651	6.378
+Gordon	US	GA	32.882	-83.332
+Groessen	NL		51.932	6.026
+Gate City	US	VA	36.638	-82.581
+Gometz-le-Châtel	FR		48.678	2.138
+Goniadz	PL		53.490	22.736
+Gablenz	DE		51.533	14.667
+Główczyce	PL		54.619	17.372
+Getazat	AM		40.038	44.564
+Güevéjar	ES		37.258	-3.597
+Guanaja	HN		16.448	-85.894
+General Zaragoza	MX	19	23.973	-99.772
+Gniewino	PL		54.717	18.017
+Guilford Siding	US	PA	39.865	-77.612
+Guissény	FR		48.633	-4.409
+Genisséa	GR		41.062	24.962
+Gorbatov	RU		56.131	43.064
+Great Falls	US	SC	34.575	-80.902
+Granite	US	UT	40.573	-111.806
+Gap	US	PA	39.987	-76.021
+Garafía	ES		28.817	-17.933
+Gabbio-Cereda-Ramate	IT		45.910	8.421
+Ghindeni	RO		44.212	23.923
+Grünbach	DE		50.450	12.362
+General Lázaro Cárdenas	MX	10	25.294	-103.998
+Gunzwil	CH		47.211	8.179
+Guemes	MX	28	23.919	-99.006
+Grasmere	AU	02	-34.054	150.666
+Gutenzell-Hürbel	DE		48.117	9.983
+Godów	PL		49.925	18.478
+Ghiorac	RO		46.713	21.683
+Guatavita	CO		4.937	-73.833
+Grandcamp-Maisy	FR		49.383	-1.033
+Gwinn	US	MI	46.281	-87.441
+Grzęska	PL		50.083	22.454
+Gotha	US	FL	28.528	-81.523
+Gatteo a Mare	IT		44.171	12.435
+Gullhaug	NO		59.501	10.252
+Gusterath	DE		49.700	6.717
+Golina	PL		51.915	17.483
+Getinge	SE		56.817	12.733
+Garcz	PL		54.348	18.102
+Gars am Kamp	AT		48.589	15.654
+Glynde	AU	05	-34.896	138.653
+Gomunice	PL		51.169	19.493
+Gaïtánion	GR		37.791	20.874
+Gemenele	RO		45.283	27.617
+Górno	PL		50.282	22.145
+Gorliczyna	PL		50.092	22.488
+Georgetown	AU	02	-32.908	151.731
+Gaiarine	IT		45.881	12.481
+Grozăvești	RO		44.569	25.454
+Gallspach	AT		48.210	13.810
+Grabăț	RO		45.879	20.742
+Greenfield	US	IA	41.305	-94.461
+Giffone	IT		38.440	16.149
+Gissi	IT		42.018	14.545
+Griboyedov	AM		40.113	44.272
+Gibbon	US	NE	40.748	-98.845
+Greybull	US	WY	44.489	-108.056
+Garden Suburb	AU	02	-32.944	151.681
+Goght’	AM		40.135	44.783
+Grebbestad	SE		58.702	11.257
+Granby	US	CO	40.086	-105.939
+Guadalupe Victoria	MX	05	16.627	-93.335
+Glenalta	AU	05	-35.008	138.626
+Greensboro	US	MD	38.974	-75.805
+Glen Lyon	US	PA	41.175	-76.075
+Gramada	BG		43.837	22.653
+Galleh Manda	GM		13.433	-14.783
+Gladstone Central	AU	04	-23.843	151.249
+Gleneagle	AU	04	-27.933	152.983
+Großsolt	DE		54.700	9.517
+Guşoeni	RO		44.733	24.117
+Grycksbo	SE		60.688	15.485
+Gebhardshain	DE		50.750	7.817
+Gargallo	IT		45.729	8.425
+Gelting	DE		54.750	9.900
+Grozeşti	RO		46.991	28.051
+Glimboca	RO		45.483	22.317
+Girikbedro	TR		37.180	42.421
+Gerzen	DE		48.507	12.427
+Guttenberg	US	IA	42.786	-91.100
+Gradići	HR		45.700	16.050
+Goldthwaite	US	TX	31.450	-98.571
+Gardawice	PL		50.117	18.800
+Guyton	US	GA	32.336	-81.391
+Gerswalde	DE		53.170	13.749
+Guadalupe Etla	MX	20	17.173	-96.810
+Gâlâfi	DJ		11.716	41.836
+Grimston	GB		52.790	-0.987
+Gaucín	ES		36.518	-5.316
+Guachinango	MX	14	20.577	-104.380
+Gailes	AU	04	-27.611	152.913
+Goldbach	DE		51.046	11.433
+Great Yeldham	GB		52.013	0.565
+Great Haywood	GB		52.808	-2.000
+Grayling	US	MI	44.661	-84.715
+Gasca	MX	11	20.604	-100.856
+Getap’	AM		39.764	45.308
+Ghilad	RO		45.465	21.138
+Groß Lindow	DE		52.233	14.533
+Gelgaudiškis	LT		55.077	22.977
+Garmen	BG		41.600	23.817
+Gornja Bistra	HR		45.917	15.900
+Giurdignano	IT		40.124	18.432
+Gorgier	CH		46.901	6.780
+Gagnac-sur-Garonne	FR		43.700	1.375
+Greenfield	GB		52.003	-0.466
+Goodrich	US	MI	42.917	-83.506
+Gold Key Lake	US	PA	41.306	-74.939
+Guamúchil	MX	20	16.369	-94.669
+Gaißau	AT		47.467	9.600
+Gebsattel	DE		49.350	10.200
+Grillon	FR		44.395	4.930
+Garennes-sur-Eure	FR		48.911	1.438
+Griesheim-près-Molsheim	FR		48.503	7.530
+Gârda de Sus	RO		46.450	22.817
+Gârliciu	RO		44.767	28.083
+Galena	US	IN	38.352	-85.942
+Geraci Siculo	IT		37.859	14.153
+Großweikersdorf	AT		48.471	15.983
+Grinzane Cavour	IT		44.653	7.995
+Groß Rosenburg	DE		51.917	11.892
+Goetzenbruck	FR		48.978	7.380
+Georgenberg	AT		47.633	13.150
+Gutiérrez Zamora	MX	30	19.724	-97.215
+Georgetown	US	CT	41.256	-73.435
+Green Acres	US	CA	33.738	-117.076
+Guásimas (De Belem)	MX	26	27.886	-110.582
+Grove City	US	FL	26.914	-82.327
+Guiscard	FR		49.657	3.051
+Gasperina	IT		38.740	16.507
+Gili Air	ID		-8.358	116.082
+Guraidhoo	MV		2.325	73.318
+Guraidhoo	MV		3.900	73.466
+Górki	PL		49.644	22.043
+Gostycyn	PL		53.490	17.810
+G. L. Garcia	PR		18.127	-66.104
+Glouster	US	OH	39.503	-82.085
+Glide	US	OR	43.302	-123.101
+Gosau	AT		47.584	13.534
+Grassington	GB		54.071	-1.998
+Gilbert	US	MN	47.489	-92.465
+Gata	ES		40.238	-6.597
+Großbardau	DE		51.204	12.698
+Grande Saline	HT		19.265	-72.769
+Grièges	FR		46.256	4.849
+Golăiești	RO		47.233	27.700
+Gschwandt	AT		47.935	13.846
+Glattbrugg / Rohr/Platten-Balsberg	CH		47.437	8.566
+Gasselternijveen	NL		52.988	6.853
+Grambach	AT		47.015	15.504
+Gorno	IT		45.862	9.842
+Gal’bshtadt	RU		53.226	78.984
+Ger	FR		43.253	-0.052
+Gruetli-Laager	US	TN	35.372	-85.618
+Gelbensande	DE		54.203	12.302
+Ghermănești	RO		44.688	26.150
+Galatro	IT		38.461	16.108
+Gottlob	RO		45.936	20.712
+Grellingen	CH		47.442	7.589
+Guadalupe Victoria	MX	05	16.405	-92.552
+Greenfield	US	NH	42.951	-71.872
+Gosberton	GB		52.869	-0.161
+Gais	IT		46.837	11.949
+Groß Börnecke	DE		51.885	11.470
+Gironico al Piano	IT		45.801	9.003
+Guadalupe Enríquez	MX	21	18.894	-97.588
+Gobojango	BW		-21.833	28.729
+Gargrave	GB		53.984	-2.105
+Geovillas Laureles del Campanario	MX	14	21.331	-101.924
+Guadalupe Totoltepec	MX	15	19.348	-99.564
+Grishino	UA		45.642	33.831
+Gourdan-Polignan	FR		43.071	0.575
+Gilman	US	IL	40.767	-87.992
+Gulia	RO		47.412	26.609
+Gârleni	RO		46.667	26.800
+Gallatin	US	MO	39.914	-93.962
+Greenwich	US	NY	43.091	-73.499
+Gurrea de Gállego	ES		42.015	-0.761
+Giuliana	IT		37.673	13.237
+Glinton	GB		52.639	-0.296
+Geroyskoye	UA		45.139	33.747
+Garfield	AU	07	-38.090	145.675
+Guadamur	ES		39.812	-4.149
+Guttau	DE		51.259	14.561
+Guidomandri Marina	IT		38.045	15.463
+Gerwen	NL		51.490	5.562
+Guadalupe	CO		6.814	-75.241
+Geaca	RO		46.867	24.100
+Gouville-sur-Mer	FR		49.096	-1.579
+Guasavito	MX	25	25.553	-108.435
+Goodwick	GB		52.005	-4.995
+Gurgy	FR		47.867	3.563
+Gundagai	AU	02	-35.064	148.104
+Giovi-Ponte alla Chiassa	IT		43.526	11.866
+Gorki-Leninskiye	RU		55.509	37.776
+Gavarno-Tribulina	IT		45.717	9.775
+Gvardinița	RO		44.395	23.146
+Gemini	IT		39.911	18.187
+Günselsdorf	AT		47.944	16.261
+Graton	US	CA	38.436	-122.870
+Guayape	HN		14.717	-86.833
+Grignano	IT		45.618	9.542
+Grodzisko Dolne	PL		50.162	22.463
+Glafirovka	RU		46.764	38.408
+Giardinello	IT		38.087	13.156
+Garfield	US	TX	30.187	-97.558
+Gresten	AT		47.985	15.026
+Grane	FR		44.733	4.922
+Gratacasolo	IT		45.829	10.129
+Gámeza	CO		5.803	-72.806
+Gensac-la-Pallue	FR		45.651	-0.253
+Guadalupe	MX	05	14.980	-92.339
+Gordo	US	AL	33.320	-87.903
+Guengat	FR		48.042	-4.205
+Großensee	DE		53.613	10.340
+Gerolsheim	DE		49.548	8.264
+Grunthal	CA	03	49.407	-96.859
+Gernrode	DE		51.400	10.400
+Gallo	IT		44.731	11.553
+Georgetown	VC		13.281	-61.118
+Gaphatshwe	BW		-24.574	25.834
+Granton	AU	06	-42.751	147.228
+Gârdani	RO		47.551	23.309
+Gaoqiao	CN		26.634	110.900
+Ghelari	RO		45.717	22.783
+Galaxias Toluca	MX	15	19.398	-99.650
+Gundersheim	DE		49.696	8.203
+Gudow	DE		53.556	10.770
+Georgiana	US	AL	31.637	-86.742
+Gunter	US	TX	32.869	-95.630
+Gâldău	RO		44.305	27.670
+Grădiștea	RO		44.211	26.165
+Glen Gardner	US	NJ	40.697	-74.941
+Grandview Plaza	US	KS	39.029	-96.789
+Gachalá	CO		4.692	-73.520
+Grand Ronde	US	OR	45.060	-123.609
+Gaweinstal	AT		48.480	16.588
+Gulmarrad	AU	02	-29.487	153.233
+Gaston	US	SC	33.817	-81.101
+Guatapanal	DO		19.507	-70.917
+Great Eccleston	GB		53.853	-2.870
+Glendale	US	MS	31.365	-89.306
+Golubac	RS		44.653	21.632
+Gaozeng	CN		25.802	108.938
+Grzegorzew	PL		52.202	18.734
+Grain	GB		51.456	0.711
+Gruyères	CH		46.583	7.082
+Genderen	NL		51.736	5.088
+Gullbrandstorp	SE		56.700	12.733
+Gurbăneşti	RO		44.383	26.700
+Georgetown	US	PA	41.227	-75.869
+Gornate Olona	IT		45.742	8.860
+Gudo Visconti	IT		45.374	9.000
+Guaca	CO		6.876	-72.856
+Gornji Kneginec	HR		46.251	16.376
+Gröden	DE		51.400	13.567
+Gazzolo-Volpino	IT		45.375	11.313
+Guiglia	IT		44.424	10.961
+Gadesco-Pieve Delmona	IT		45.158	10.116
+Gilberto Camacho	MX	21	20.374	-97.885
+Gadsden	US	SC	33.846	-80.766
+General Ignacio Zaragoza	MX	01	21.881	-102.465
+Gobernadores	MX	27	18.247	-93.185
+Goldens Bridge	US	NY	41.293	-73.677
+Gobernador Cruz	MX	27	18.434	-92.872
+Giurgeni	RO		44.767	27.883
+Gaumberg	AT		48.281	14.269
+Guggisberg	CH		46.768	7.329
+Greußenheim	DE		49.817	9.767
+Goúrnes	GR		35.326	25.277
+Guayameo	MX	12	18.304	-101.262
+Girraween	AU	03	-12.525	131.096
+Gontaud-de-Nogaret	FR		44.450	0.300
+Gârlenii de Sus	RO		46.654	26.795
+Grayville	US	IL	38.258	-87.994
+Gornyy	RU		50.763	136.450
+Garden City	US	MO	38.561	-94.191
+Green Valley	US	CA	38.253	-122.162
+Gaaden	AT		48.054	16.200
+Gravdal	NO		68.118	13.553
+Grafenwiesen	DE		49.200	12.883
+Ghiaie	IT		45.682	9.581
+Gura Padinii	RO		43.757	24.316
+Gorgo della Chiesa	IT		45.787	12.563
+Guadalupe Coté	MX	15	19.611	-99.985
+Girardi-Bellavista-Terrazze	IT		42.103	12.580
+Gragnague	FR		43.681	1.585
+Grandview	US	TX	32.270	-97.179
+Gambo	CA	05	48.783	-54.215
+Gerdau	DE		52.967	10.417
+Gómez Poniente	MX	21	19.773	-97.487
+Gura Văii	RO		44.667	22.556
+Grebenişu de Câmpie	RO		46.600	24.300
+Garphyttan	SE		59.304	14.946
+Guîtres	FR		45.041	-0.186
+Grishkovka	RU		53.149	78.751
+Glasenbach	AT		47.767	13.083
+Gallitzin	US	PA	40.482	-78.552
+Gunzgen	CH		47.314	7.831
+Great Marton	GB		53.812	-3.023
+Great Barton	GB		52.273	0.767
+Gruta	PL		53.453	18.957
+Gronowo Elbląskie	PL		54.086	19.306
+Gorham	US	NH	44.388	-71.173
+Geghamavan	AM		40.562	44.889
+Gheboieni	RO		44.987	25.307
+Gramastetten	AT		48.380	14.192
+Girvas	RU		62.480	33.685
+Gavia de Rionda	MX	11	20.834	-101.616
+Goshen	US	AR	36.101	-93.991
+Garden Island	AU	08	-32.243	115.695
+Glandwr	GB		51.928	-4.633
+Groß Kiesow	DE		54.013	13.479
+Gilford	GB		54.373	-6.361
+Gouaix	FR		48.485	3.293
+Gidy	FR		47.985	1.838
+Godo	IT		44.392	12.075
+Gordonsville	US	VA	38.137	-78.188
+Grolley	CH		46.834	7.071
+Guarumal	PA		8.345	-82.532
+Gardendale	US	TX	32.020	-102.380
+Gherța Mare	RO		47.969	23.209
+Gamlitz	AT		46.720	15.553
+Gjinoc	XK		42.318	20.819
+Glashütten	DE		49.887	11.449
+Gullspång	SE		58.986	14.096
+Giffers	CH		46.762	7.208
+Gunjur Kuta	GM		13.533	-14.117
+Grüt	CH		47.312	8.783
+Groenekan	NL		52.123	5.153
+Gotham	GB		52.868	-1.206
+Grabenstetten	DE		48.524	9.462
+Grindu	RO		45.400	28.217
+Giba	IT		39.072	8.636
+Gabarret	FR		43.986	0.011
+Guipel	FR		48.299	-1.719
+Graçay	FR		47.144	1.847
+Golden Valley	US	NV	39.615	-119.827
+Gingst	DE		54.457	13.257
+Galecio Narcia	MX	05	16.588	-93.021
+Gatún	PA		9.289	-79.772
+Grosotto	IT		46.282	10.259
+Glattbrugg / Wydacker/Bettacker/Lättenwiesen	CH		47.429	8.567
+Gaerwen	GB		53.221	-4.274
+Galesville	US	WI	44.082	-91.349
+Gać	PL		50.027	22.359
+Grand Canyon Village	US	AZ	36.046	-112.154
+Gaven	AU	04	-27.957	153.335
+Garat	FR		45.626	0.263
+General Pedro María Anaya	MX	13	20.156	-99.348
+Granville	US	MA	42.067	-72.861
+Guijo de Galisteo	ES		40.094	-6.410
+Great Bentley	GB		51.853	1.064
+Garyp	NL		53.167	5.967
+General Delgado	PY		-27.090	-56.525
+Graiguenamanagh	IE		52.540	-6.955
+Glenville	US	WV	38.934	-80.838
+Gallese	IT		42.374	12.396
+Gremsdorf	DE		49.695	10.832
+Guadalupe Victoria	MX	05	15.607	-92.063
+Gornja Bukovica	RS		44.342	19.786
+Griston	GB		52.557	0.864
+Gidle	PL		50.962	19.472
+Großhennersdorf	DE		50.986	14.788
+Górzyca	PL		52.494	14.655
+Grandfresnoy	FR		49.372	2.652
+Garrison	US	ND	47.652	-101.416
+Guermantes	FR		48.853	2.705
+Großlangheim	DE		49.756	10.241
+Glomel	FR		48.223	-3.397
+Gradara	IT		43.939	12.770
+Gordon	US	NE	42.805	-102.203
+Goudswaard	NL		51.794	4.276
+Greilickville	US	MI	44.783	-85.639
+Grizáno	GR		39.632	22.053
+Gra Liyiá	GR		35.015	25.691
+Granze	IT		45.156	11.715
+Grasmere	AU	08	-35.018	117.756
+Görzke	DE		52.172	12.375
+Genillé	FR		47.183	1.100
+Glendale	US	WV	39.949	-80.754
+Gavray	FR		48.911	-1.351
+Gearhart	US	OR	46.024	-123.911
+Günzach	DE		47.825	10.435
+Goudelin	FR		48.604	-3.018
+Götzendorf an der Leitha	AT		48.017	16.583
+Geusa	DE		51.339	11.944
+Guadalupe Sarabia	MX	21	19.531	-97.428
+Guadalupe Victoria	MX	21	19.560	-97.660
+Guaymango	SV		13.750	-89.842
+Granger	US	TX	30.718	-97.443
+Gardinovci	RS		45.204	20.136
+Graysville	US	TN	35.447	-85.084
+Großbodungen	DE		51.476	10.481
+Gura Suhașului	RO		45.088	24.299
+Guthrie Center	US	IA	41.677	-94.503
+Gaviotas Sur (El Cedral)	MX	27	17.954	-92.891
+Greci	RO		44.550	23.117
+Groton	US	SD	45.447	-98.099
+Georgenberg	DE		49.703	12.421
+Gyundyukoru	TR		37.142	40.501
+Gielow	DE		53.698	12.745
+Guayabal	DO		18.598	-71.642
+Geddington	GB		52.438	-0.690
+Gundremmingen	DE		48.500	10.400
+Gremersdorf	DE		54.333	10.933
+Greene	US	NY	42.329	-75.770
+Gorna Malina	BG		42.683	23.700
+Gardonne	FR		44.836	0.333
+Gower	US	MO	39.611	-94.599
+Guern	FR		48.030	-3.091
+Gili Trawangan	ID		-8.349	116.037
+Grudusk	PL		53.058	20.625
+Górno	PL		50.848	20.825
+Głuchów	PL		50.082	22.271
+Grębocice	PL		51.599	16.167
+Gaworzyce	PL		51.628	15.882
+Guran	RU		54.761	100.644
+Gadaley	RU		54.403	100.741
+Goz Béïda	TD		13.946	20.547
+Glen Alpine	US	NC	35.729	-81.779
+Gosné	FR		48.247	-1.466
+Genolier	CH		46.435	6.218
+Grimaldi	IT		39.141	16.235
+Gaillefontaine	FR		49.654	1.615
+Granjenal	MX	24	22.393	-100.069
+Gasselte	NL		52.972	6.794
+Greenup	US	IL	39.248	-88.163
+Great Chesterford	GB		52.064	0.197
+Grove Hill	US	AL	31.709	-87.777
+Gillenfeld	DE		50.128	6.904
+Găgești	RO		45.856	27.055
+Gol Gol	AU	02	-34.174	142.222
+Gemonde	NL		51.618	5.357
+Ginestra Fiorentina	IT		43.709	11.074
+Great River	US	NY	40.721	-73.158
+Gaël	FR		48.132	-2.223
+Gryaznovskoye	RU		56.782	61.705
+Girardville	US	PA	40.791	-76.284
+Guadalupe	MX	11	21.716	-100.976
+Gelu	RO		46.006	21.060
+Girișu de Criș	RO		47.064	21.761
+Grünbach am Schneeberg	AT		47.797	15.988
+Grabovci	HR		43.493	17.201
+Gwoźnica Górna	PL		49.828	21.998
+Gârnic	RO		44.786	21.794
+Grabovci	RS		44.765	19.845
+Genaro Codina	MX	32	22.488	-102.458
+Groß-Engersdorf	AT		48.359	16.566
+Gönnheim	DE		49.448	8.239
+Grua	NO		60.257	10.662
+Greenbush	US	ME	45.080	-68.651
+Guadalupe Libertad	MX	21	19.188	-97.387
+Gualtieri Sicaminò	IT		38.163	15.317
+Gräfenhain	DE		50.817	10.700
+Groffliers	FR		50.384	1.615
+Gammelsdorf	DE		48.550	11.950
+Génissac	FR		44.859	-0.257
+Gouwsluis	NL		52.119	4.669
+Gonderange	LU		49.695	6.246
+Grill	US	PA	40.299	-75.940
+Guilden Sutton	GB		53.208	-2.830
+Glimåkra	SE		56.300	14.133
+Grandview	US	OH	39.194	-84.724
+Giraldo	CO		6.680	-75.953
+Gemla	SE		56.868	14.644
+Gallio	IT		45.885	11.534
+Gildardo Magaña (Los Ángeles)	MX	16	19.549	-102.459
+Grand Canyon	US	AZ	36.054	-112.139
+Gräfendorf	DE		50.123	9.741
+Garstedt	DE		53.285	10.161
+Godshill	GB		50.633	-1.255
+Golmés	ES		41.634	0.931
+Gorzano	IT		44.516	10.880
+Gałków Mały	PL		51.726	19.714
+Gimel	CH		46.509	6.307
+Guilliers	FR		48.043	-2.406
+Gueux	FR		49.250	3.910
+Goros Número Dos	MX	25	25.877	-109.044
+Glade Spring	US	VA	36.791	-81.771
+Gruaro-Bagnara	IT		45.842	12.851
+Guerlesquin	FR		48.518	-3.586
+Gabriel Leyva Solano (Zapotillo Dos)	MX	25	25.883	-109.009
+Gudurica	RS		45.168	21.443
+Govilon	GB		51.819	-3.063
+Grumello Cremonese	IT		45.194	9.864
+Gossersweiler-Stein	DE		49.150	7.933
+Gérgeri	GR		35.133	24.950
+Grignan	FR		44.420	4.908
+Gerbéviller	FR		48.496	6.511
+Gilberton	AU	05	-34.901	138.613
+Génelard	FR		46.581	4.236
+Großenstein	DE		50.900	12.200
+Gresswiller	FR		48.535	7.433
+Gargazzone	IT		46.585	11.202
+Gagebrook	AU	06	-42.748	147.270
+Grandfontaine	FR		47.198	5.901
+Gromlongo	IT		45.729	9.541
+Gridley	US	IL	40.743	-88.881
+Guthrie	US	KY	36.648	-87.166
+Gardner	US	IL	41.186	-88.310
+Golubinka	UA		44.594	33.915
+Grammatikó	GR		38.203	23.965
+Gualjoco	HN		14.950	-88.233
+General Alvear	AR		-27.426	-55.169
+Granger	US	IA	41.761	-93.824
+Garður	IS		64.071	-22.651
+Gheja	RO		46.447	24.065
+Garvăn	RO		45.347	28.162
+Greenwich	US	OH	41.030	-82.516
+Giussago	IT		45.284	9.140
+Grandview	US	IL	39.816	-89.619
+Gammelshausen	DE		48.640	9.651
+Grattersdorf	DE		48.804	13.154
+Geslau	DE		49.366	10.315
+Gorze	FR		49.052	6.001
+Gordona	IT		46.292	9.367
+Genola	US	UT	39.996	-111.843
+Garrett	US	WA	46.052	-118.403
+Grazhdanka	RU		44.216	133.177
+Grapeland	US	TX	31.492	-95.479
+Gooburrum	AU	04	-24.823	152.332
+Gizzeria	IT		38.980	16.207
+Güvercinlik	TR		37.137	27.582
+Gato Colorado	AR		-28.022	-61.187
+Gockhausen	CH		47.381	8.600
+Godefroy	CA	10	51.750	-68.082
+Gouzon	FR		46.192	2.239
+Golspie	GB		57.973	-3.978
+Granville South	US	OH	40.052	-82.542
+Großweil	DE		47.676	11.301
+Golzow	DE		52.276	12.601
+Gaggio Montano	IT		44.196	10.935
+Gleason	US	TN	36.214	-88.613
+Gonten	CH		47.327	9.347
+Gozdowo	PL		52.725	19.685
+Gemeni	RO		44.173	23.083
+Groß Ammensleben	DE		52.233	11.522
+Givrand	FR		46.671	-1.886
+Gowarczów	PL		51.278	20.438
+Grodziec	PL		52.039	18.060
+Gąsawa	PL		52.768	17.756
+Grinzens	AT		47.229	11.253
+Graniti	IT		37.890	15.225
+General Higinio Morínigo	PY		-25.950	-55.917
+Grand Isle	US	LA	29.237	-89.987
+Grins	AT		47.140	10.514
+Goosnargh	GB		53.822	-2.670
+Gondrecourt-le-Château	FR		48.514	5.511
+Gueydan	US	LA	30.026	-92.508
+Gunter	US	TX	33.448	-96.747
+Gutenstetten	DE		49.617	10.633
+Großniedesheim	DE		49.575	8.312
+Göllersdorf	AT		48.494	16.119
+Gartow	DE		53.025	11.462
+Greenland	US	AR	35.994	-94.175
+Gill	US	MA	42.640	-72.500
+Gampel	CH		46.316	7.742
+Gretna	US	FL	30.617	-84.660
+Grygov	CZ		49.538	17.309
+Grünhainichen	DE		50.767	13.154
+Grez-Neuville	FR		47.603	-0.682
+Goult	FR		43.863	5.244
+Gangdong	CN		27.917	110.834
+Glyndon	US	MN	46.875	-96.579
+Goßwitz	DE		50.635	11.477
+Großschweidnitz	DE		51.069	14.643
+Gatika	ES		43.363	-2.873
+Grundisburgh	GB		52.112	1.246
+Guadalupe de Rivera	MX	11	20.605	-101.467
+Giessen	NL		51.790	5.031
+Garvagh	GB		54.983	-6.667
+Gura Ialomiței	RO		44.716	27.753
+Giarmata-Vii	RO		45.800	21.300
+Guéthary	FR		43.424	-1.609
+Guémar	FR		48.189	7.397
+Greiling	DE		47.767	11.617
+Guadalupe Victoria	MX	06	31.534	-107.738
+Galar	ES		42.761	-1.699
+Granby	US	MA	42.256	-72.516
+Gerenzago	IT		45.206	9.361
+Guadalupe	MX	19	24.894	-99.471
+Gruffy	FR		45.789	6.056
+Grünenbach	DE		47.629	10.008
+Grächen	CH		46.195	7.837
+Galerade Panales	MX	11	20.295	-100.815
+Goritsy	RU		59.869	38.260
+Gries am Brenner	AT		47.038	11.481
+Golmayo	ES		41.766	-2.523
+Grandola ed Uniti	IT		46.025	9.213
+Gorgota	RO		44.976	25.508
+Galižana	HR		44.932	13.869
+Gstadt am Chiemsee	DE		47.885	12.418
+Groß Nemerow	DE		53.473	13.225
+Grashoek	NL		51.361	5.943
+Gillett	US	WI	44.890	-88.307
+Górzno	PL		53.198	19.643
+Goascorán	HN		13.583	-87.617
+Gorenice	PL		50.208	19.620
+Gurba	RO		46.468	21.788
+Génova	CO		1.644	-77.019
+Grzmiąca	PL		53.837	16.435
+Glindenberg	DE		52.239	11.684
+Grez-sur-Loing	FR		48.318	2.688
+Grzybowo	PL		54.159	15.486
+General José Eduvigis Díaz	PY		-27.201	-58.367
+Grosbreuil	FR		46.539	-1.617
+Goodwater	US	AL	33.066	-86.053
+Ghiare-Madonna	IT		44.808	8.374
+Güttingen	CH		47.603	9.287
+Galende	ES		42.104	-6.663
+Giovenzano	IT		45.273	9.116
+Garsington	GB		51.716	-1.161
+Gattendorf	AT		48.017	16.983
+Gondershausen	DE		50.150	7.500
+Green Springs	US	OH	41.256	-83.052
+Goodman	US	MS	32.970	-89.912
+Girards Hill	AU	02	-28.817	153.278
+Gunjur	GM		13.523	-16.028
+Grand Marais	US	MN	47.750	-90.334
+Goodwell	US	OK	36.595	-101.637
+Gemünden	DE		49.894	7.478
+Geráki	GR		36.992	22.707
+Gandra	PT		41.522	-8.762
+Gütenbach	DE		48.050	8.150
+Gantofta	SE		55.987	12.805
+Gairo Sant'Elena	IT		39.850	9.505
+General Simón Bolívar	MX	10	24.688	-103.226
+Guasticce	IT		43.598	10.409
+Garderen	NL		52.231	5.714
+Gura Vulcanei	RO		45.024	25.396
+Glenmora	US	LA	30.977	-92.585
+Geneva	US	IN	40.592	-84.957
+Gössenheim	DE		50.017	9.783
+Great Gransden	GB		52.185	-0.146
+Goldbeck	DE		52.717	11.861
+Gerald	US	MO	38.400	-91.331
+Granville	US	IL	41.261	-89.228
+Gmünd	AT		46.907	13.529
+Großgoltern	DE		52.333	9.501
+Geneva	US	IN	39.392	-85.720
+Greenfield	US	MO	37.415	-93.841
+Gázoros	GR		41.026	23.776
+Grčec	MK		41.988	21.330
+Gaspoltshofen	AT		48.143	13.736
+Gommersheim	DE		49.291	8.266
+Grafenwörth	AT		48.408	15.778
+Georgsdorf	DE		52.567	7.083
+Grönwohld	DE		53.642	10.408
+Gorzyce	PL		50.128	22.579
+Groß Düben	DE		51.567	14.567
+Gilley	FR		47.047	6.483
+Guinzano	IT		45.257	9.159
+Giera	RO		45.407	20.992
+Gvozd	HR		45.353	15.866
+Galbeni	RO		46.457	26.947
+Gouy-sous-Bellonne	FR		50.311	3.057
+Gersdorf	DE		51.112	12.939
+Glorie	IT		44.470	12.077
+Geamăna	RO		44.820	24.891
+Gagarin	AM		40.540	44.870
+Gradoli	IT		42.645	11.856
+Geary	US	OK	35.631	-98.317
+Guénin	FR		47.908	-2.979
+Gara Hitrino	BG		43.433	26.917
+Gilette	FR		43.850	7.163
+Gornje Vratno	HR		46.359	16.154
+Guaymitas	MX	26	27.110	-109.438
+Guarizama	HN		14.917	-86.333
+Grabów	PL		52.127	19.003
+Gumbrechtshoffen	FR		48.906	7.629
+Guarbecque	FR		50.612	2.489
+Géfyra	GR		36.687	23.035
+Großkmehlen	DE		51.379	13.725
+Gergei	IT		39.699	9.100
+General Francisco Villa	MX	16	18.743	-102.249
+Görzig	DE		51.664	11.998
+Gerakaroú	GR		40.627	23.216
+Grisolia	IT		39.725	15.856
+Granadillas (La Colonia)	MX	14	21.380	-101.901
+Ghizela	RO		45.824	21.737
+Gülzow	DE		53.450	10.500
+Guémené-sur-Scorff	FR		48.067	-3.200
+Grant Park	US	IL	41.241	-87.646
+Gnadenhutten	US	OH	40.358	-81.434
+Grantsburg	US	WI	45.776	-92.683
+Garbagna Novarese	IT		45.389	8.661
+Grenay	FR		45.663	5.080
+Glenariff	GB		55.050	-6.067
+Granada	MX	07	25.641	-103.267
+Groß Miltzow	DE		53.536	13.594
+Geismar	DE		51.232	10.165
+Gilita	MX	07	25.393	-103.200
+Germantown	US	IL	38.554	-89.538
+Gouzeaucourt	FR		50.056	3.124
+Großthiemig	DE		51.383	13.667
+Gaggio	IT		44.635	11.013
+General Enrique Mosconi	AR		-23.217	-62.300
+Ghimeș	RO		46.568	26.089
+Głuszyca Górna	PL		50.666	16.376
+Glod	RO		45.242	25.450
+Gunung Kendil	ID		-7.332	110.404
+Green Valley Farms	US	TX	26.122	-97.561
+Galveston	US	IN	40.579	-86.190
+Guadalupe Hidalgo	MX	29	19.226	-98.188
+Gronowo Górne	PL		54.139	19.460
+Görisried	DE		47.707	10.510
+Gamprin	LI		47.220	9.509
+Gmbet’	AM		40.224	44.254
+Gotteszell	DE		48.967	12.967
+Gold Hill	US	OR	42.432	-123.051
+Graikochóri	GR		39.498	20.276
+Geeveston	AU	06	-43.163	146.925
+Girod	DE		50.450	7.917
+Gulishah Kach	PK		32.671	70.339
+Guttecoven	NL		51.015	5.818
+Grojec	PL		50.090	19.557
+Gronant	GB		53.337	-3.360
+Grammenítsa	GR		39.184	20.979
+Gómez	PA		8.561	-82.741
+Greenville	US	ME	45.459	-69.591
+Great Waldingfield	GB		52.055	0.774
+Gabriel Hernández (Mancinas)	MX	10	23.812	-104.024
+Gadheim	DE		49.846	9.906
+Gregory	US	SD	43.232	-99.430
+Giacalone	IT		38.033	13.237
+Gierałtowice	PL		49.944	19.391
+Garlin	FR		43.561	-0.272
+Grantola	IT		45.949	8.774
+Guadalupe Victoria	MX	05	14.804	-92.251
+Guacamaya	HN		15.017	-88.150
+Giuggianello	IT		40.094	18.369
+Granarolo	IT		44.359	11.935
+Gestratz	DE		47.650	9.983
+Guruieni	RO		44.058	25.397
+Goodman	US	MO	36.742	-94.399
+Gretna	US	VA	36.954	-79.359
+Gasport	US	NY	43.199	-78.576
+Gardendale	US	TX	28.517	-99.216
+Gaowu	CN		25.562	108.908
+Gutenberg	DE		51.547	11.972
+Geroldshausen	DE		49.684	9.902
+Groß-Schweinbarth	AT		48.415	16.632
+Gurbediu	RO		46.794	21.865
+Gemenea Brătulești	RO		45.108	25.232
+Gesees	DE		50.032	11.666
+Gradec	MK		41.851	22.511
+Grüsch	CH		46.980	9.646
+Gambatesa	IT		41.509	14.912
+Guderhandviertel	DE		53.549	9.610
+Giove	IT		42.510	12.330
+Gąsocin	PL		52.738	20.712
+Gura Putnei	RO		47.900	25.595
+Geronimo	US	OK	34.481	-98.383
+Guadalcázar	ES		37.757	-4.944
+Gron	FR		48.160	3.263
+Găvănești	RO		45.088	27.065
+Granadas	MX	32	22.101	-101.863
+Granschütz	DE		51.184	12.051
+Guewenheim	FR		47.753	7.093
+Glenns Ferry	US	ID	42.955	-115.301
+Großlobming	AT		47.183	14.800
+Gruson	FR		50.596	3.208
+Guadalupe Hidalgo	MX	20	17.149	-96.811
+Great Bardfield	GB		51.948	0.436
+Gesturi	IT		39.732	9.021
+Gheorghieni	RO		46.714	23.689
+Grose Vale	AU	02	-33.583	150.674
+Grendelbruch	FR		48.493	7.322
+Gray	US	TN	36.420	-82.477
+Guilsfield	GB		52.696	-3.157
+Gazeran	FR		48.633	1.771
+Glenwood City	US	WI	45.059	-92.172
+Gelsa	ES		41.408	-0.462
+Gangloffsömmern	DE		51.189	10.943
+Gattendorf	DE		50.322	11.998
+Güster	DE		53.539	10.676
+Granozzo con Monticello	IT		45.360	8.573
+Gotovlje	SI		46.274	15.152
+Gosnay	FR		50.506	2.589
+Gilowice	PL		49.995	19.096
+Geneva-on-the-Lake	US	OH	41.859	-80.954
+Ghimpețeni	RO		44.281	24.775
+Gersten	DE		52.583	7.517
+Grafton	US	NH	43.559	-71.944
+Gulden Bodem	NL		51.994	5.891
+Ganado	US	AZ	35.711	-109.542
+Guadalcázar	MX	24	22.618	-100.399
+Garrochales	PR		18.454	-66.566
+Goričani	ME		42.332	19.212
+Grnčari	MK		41.017	21.053
+Glomfjord	NO		66.817	13.944
+Gordonsville	US	TN	36.173	-85.930
+Gries	AT		46.832	14.851
+Grandas de Salime	ES		43.216	-6.876
+Guardea	IT		42.624	12.299
+Goel	DE		54.283	10.940
+Gorbio	FR		43.787	7.444
+Garretson	US	SD	43.717	-96.503
+Guofuchang	CN		28.850	106.601
+Glan-Münchweiler	DE		49.472	7.442
+Galewice	PL		51.345	18.258
+Glovelier	CH		47.335	7.206
+Großeibstadt	DE		50.301	10.410
+Gnarp	SE		62.049	17.259
+Gagnef	SE		60.599	15.077
+Goincourt	FR		49.426	2.036
+Galovac	HR		44.071	15.393
+Gabella	IT		43.724	10.497
+Guernsey	US	WY	42.270	-104.742
+Gustavo Díaz Ordaz	MX	25	25.267	-108.095
+Glenview	AU	04	-26.767	153.017
+Gorenja Vas	SI		46.107	14.148
+Giraumont	FR		49.171	5.914
+Gazzo	IT		45.582	11.707
+Gruver	US	TX	36.265	-101.406
+Gasville-Oisème	FR		48.470	1.538
+Gruszów Wielki	PL		50.192	21.031
+Greci	RO		44.661	25.343
+Gutenswil	CH		47.384	8.718
+Guadalupe Texcalac	MX	29	19.438	-98.078
+Garachiné	PA		8.067	-78.364
+Gusenburg	DE		49.633	6.900
+Giersleben	DE		51.767	11.567
+Glodeni	RO		45.063	25.453
+Great Neck Gardens	US	NY	40.797	-73.724
+Greinsfurth	AT		48.108	14.844
+Gliaca	IT		38.163	14.848
+Gorica	BA		43.418	17.285
+Günthersdorf	DE		51.346	12.172
+Gavarda	ES		39.083	-0.550
+Gumböle	FI		60.219	24.617
+Gugești	RO		46.763	27.901
+Göttelsberg	AT		47.217	15.600
+Gros-Réderching	FR		49.068	7.219
+Grosssulz	AT		46.946	15.490
+Griggsville	US	IL	39.709	-90.725
+Greenwell Point	AU	02	-34.908	150.731
+Görsbach	DE		51.462	10.937
+Gradefes	ES		42.624	-5.227
+Great Bedwyn	GB		51.380	-1.602
+Gorjani	HR		45.399	18.372
+Goodhue	US	MN	44.401	-92.624
+Gugging	AT		48.314	16.249
+Goruna	RO		45.087	25.942
+Guillac	FR		47.911	-2.466
+Gerde	FR		43.056	0.167
+Greci	RO		44.330	24.559
+Greenfields	US	PA	40.360	-75.952
+Garbagnate	IT		45.770	9.298
+Gaojingzhuang	CN		39.416	117.630
+Geisleden	DE		51.350	10.200
+Grimsley	US	TN	36.267	-84.984
+Grass Lake	US	MI	42.251	-84.213
+Gnutz	DE		54.133	9.817
+Guéreins	FR		46.103	4.773
+Gonneville-la-Mallet	FR		49.639	0.222
+Grambois	FR		43.762	5.589
+Gavarno Rinnovata	IT		45.725	9.763
+Gettysburg	US	SD	45.012	-99.956
+Groß Wokern	DE		53.751	12.492
+Guillermo Prieto	MX	30	18.161	-94.277
+Groß Munzel	DE		52.366	9.478
+Gales Ferry	US	CT	41.430	-72.082
+Grebnevo	RU		55.951	38.080
+General Juan José Ríos	MX	32	24.325	-103.406
+Goești	RO		47.157	27.137
+Gurgurnica	MK		41.845	21.105
+Grabowo Kościerskie	PL		54.168	18.147
+Großkarlbach	DE		49.538	8.225
+Guarcino	IT		41.799	13.314
+Gaupne	NO		61.405	7.295
+Goșmani	RO		46.836	26.715
+Greenup	US	KY	38.573	-82.830
+Golden	CA	08	51.059	-93.736
+Garganta la Olla	ES		40.110	-5.777
+Guadalupe Victoria	MX	24	22.163	-101.070
+Garruchos	AR		-28.172	-55.654
+Gambino	MX	25	25.652	-108.387
+Greceanca	RO		45.079	26.545
+Gneixendorf	AT		48.438	15.618
+Goseck	DE		51.200	11.867
+Giurtelecu Șimleului	RO		47.297	22.796
+Gusum	SE		58.269	16.499
+Grand Meadow	US	MN	43.706	-92.572
+Grignols	FR		44.388	-0.044
+Gilgilçay	AZ		41.139	49.090
+Genderkingen	DE		48.700	10.883
+Guadalupe Victoria	MX	20	16.896	-95.850
+Ganterschwil	CH		47.381	9.092
+Granvilla	IT		46.568	12.689
+Gin Gin	AU	04	-24.994	151.958
+Granados	MX	26	29.862	-109.310
+Groß Ippener	DE		52.967	8.617
+Guándaro	MX	16	20.192	-101.874
+Griesheim-sur-Souffel	FR		48.636	7.669
+Goudhurst	GB		51.113	0.456
+Goruni	RO		47.104	27.719
+Glenmore	US	WI	44.386	-87.927
+Gataivai	WS		-13.774	-172.388
+Gosfield	GB		51.937	0.592
+Guadalupe de Lerma	MX	14	20.341	-102.361
+Guataquí	CO		4.516	-74.789
+Gniazdów	PL		50.596	19.111
+Greifensee / Pfisterhölzli	CH		47.364	8.690
+Glött	DE		48.500	10.483
+Gundaroo	AU	02	-35.033	149.250
+Gray-la-Ville	FR		47.439	5.573
+Gainford	GB		54.547	-1.736
+Grant	US	NE	40.842	-101.725
+Gilten	DE		52.700	9.583
+Gouvernes	FR		48.860	2.691
+Gherteniș	RO		45.433	21.581
+Grovesend	GB		51.685	-4.038
+Gordon	AU	07	-37.582	144.109
+Gramkow	DE		53.921	11.317
+Giekau	DE		54.317	10.517
+Ginestas	FR		43.266	2.870
+Greenville	US	CA	40.140	-120.951
+Grésy-sur-Isère	FR		45.599	6.254
+Gračec	HR		45.833	16.317
+General Juan José Baz (San José del Corral)	MX	30	18.822	-96.818
+Glidden	US	IA	42.057	-94.729
+Grabill	US	IN	41.211	-84.967
+Groß Santersleben	DE		52.191	11.455
+Großdorf	AT		47.434	9.915
+Gornji Karin	HR		44.136	15.634
+Grumento Nova	IT		40.283	15.889
+Galeton	US	PA	41.733	-77.642
+Groton	US	MA	42.611	-71.575
+Gaillac-Toulza	FR		43.255	1.471
+Gryon	CH		46.274	7.060
+Galán	CO		6.638	-73.289
+Geitelde	DE		52.210	10.469
+Gironde-sur-Dropt	FR		44.583	-0.083
+Gaiole in Chianti	IT		43.467	11.434
+Groß-Gerungs	AT		48.574	14.958
+Gunbalanya	AU	03	-12.325	133.051
+General Lauro G. Caloca (El Rascón)	MX	32	22.378	-102.058
+Groombridge	GB		51.115	0.183
+Goiești	RO		44.483	23.767
+Greene	US	IA	42.896	-92.802
+Godrano	IT		37.903	13.428
+Groveton	US	NH	44.599	-71.511
+Gœulzin	FR		50.317	3.100
+Grand-Savagnier	CH		47.051	6.955
+Gilbert	US	IA	42.107	-93.650
+Guardialfiera	IT		41.804	14.793
+Greblești	RO		45.475	24.312
+Glasgow	US	VA	37.634	-79.450
+Gespunsart	FR		49.821	4.829
+Ghizdăvești	RO		44.058	24.108
+Gnieżdżewo	PL		54.747	18.379
+Galera	ES		37.743	-2.552
+Gardouch	FR		43.391	1.683
+Gaoyi	CN		26.959	110.016
+Granica	PL		52.134	20.803
+Greenback	US	TN	35.661	-84.172
+Gjoa Haven	CA	14	68.626	-95.878
+Gravelbourg	CA	11	49.883	-106.551
+Großebersdorf	AT		48.364	16.471
+Guzów	PL		52.116	20.337
+Godziszów Pierwszy	PL		50.758	22.484
+Gura Căluiu	RO		44.459	24.035
+Greenville	US	NH	42.767	-71.812
+Ghinești	RO		44.748	25.553
+Gregorio Méndez	MX	27	18.196	-93.102
+General Alatriste (San Joaquín)	MX	30	18.840	-96.794
+Großnaundorf	DE		51.200	13.933
+Glasgow	US	MO	39.227	-92.847
+Güleçler	TR		37.953	42.539
+Garrafe de Torío	ES		42.733	-5.524
+Granada	CO		5.067	-74.567
+Guadalupe Calderón	MX	21	18.966	-97.858
+Gielniów	PL		51.401	20.481
+Grecheskoye	RU		44.431	43.008
+Galluis	FR		48.797	1.794
+Great Amwell	GB		51.790	-0.017
+Gutau	AT		48.417	14.613
+Grossraming	AT		47.883	14.550
+Gœrsdorf	FR		48.950	7.767
+Giv'on HaHadasha	IL		31.849	35.161
+Groß Laasch	DE		53.346	11.549
+Glyncorrwg	GB		51.679	-3.628
+Gniebing	AT		46.963	15.856
+Gnangara	AU	08	-31.776	115.866
+Gudovac	HR		45.880	16.781
+Guadalupe del Monte	MX	11	20.557	-100.641
+Găzărie	RO		46.489	26.519
+Gärsnäs	SE		55.549	14.179
+Greenvale	US	NY	40.811	-73.628
+Gifford	US	IL	40.306	-88.021
+Gaschurn	AT		46.986	10.027
+Großkayna	DE		51.291	11.933
+Grandris	FR		46.038	4.475
+Great Hanwood	GB		52.683	-2.817
+Gilbert Creek	US	WV	37.576	-81.895
+Groß Rodensleben	DE		52.121	11.384
+Giroussens	FR		43.762	1.776
+Glenavy	GB		54.592	-6.214
+Gogaran	AM		40.893	44.199
+Gordon Town	JM		18.036	-76.718
+Gargantillo	MX	14	20.017	-105.346
+Gorganu	RO		44.842	25.038
+Guatimapé	MX	10	24.807	-104.920
+Guanajuatillo	MX	32	22.716	-102.143
+Gilcrest	US	CO	40.282	-104.778
+Glöthe	DE		51.910	11.675
+General Pascual Fentes	MX	20	16.435	-94.263
+Guadalupe Victoria	MX	21	19.104	-97.606
+Glommen	SE		56.933	12.350
+Gouarec	FR		48.227	-3.180
+Grolsheim	DE		49.908	7.916
+Gérgal	ES		37.119	-2.540
+Gropșani	RO		44.441	23.970
+Galgagnano	IT		45.358	9.445
+Grossacker/Opfikon	CH		47.427	8.579
+Gholson	US	TX	31.701	-97.216
+Gaiano	IT		44.724	10.173
+Garlstorf	DE		53.237	10.101
+Górażdże	PL		50.529	18.010
+Golești	RO		44.840	24.965
+Gailitz	AT		46.561	13.704
+Garidech	FR		43.711	1.560
+Gedney Hill	GB		52.684	-0.020
+Goúmero	GR		37.762	21.619
+Gietrzwałd	PL		53.746	20.237
+Grabsleben	DE		50.936	10.835
+Godley	US	TX	32.449	-97.527
+Grainville-la-Teinturière	FR		49.748	0.640
+Glazebury	GB		53.471	-2.498
+Guadalupe de Paso Blanco	MX	11	20.755	-101.403
+Ginasservis	FR		43.671	5.849
+Gaston	US	NC	36.500	-77.645
+Gerolfingen	DE		49.053	10.512
+Gökbudak	TR		37.904	42.649
+Greenwood	US	DE	38.807	-75.591
+Genivolta	IT		45.333	9.877
+Glimmen	NL		53.139	6.629
+Greifensee / Müllerwis / Seilerwis	CH		47.370	8.682
+Groß Quenstedt	DE		51.933	11.117
+Gómfoi	GR		39.464	21.693
+Gradiștea	RO		44.888	26.515
+Golnik	SI		46.333	14.333
+Gravesano	CH		46.042	8.918
+Goreville	US	IL	37.554	-88.972
+Gorobinci	MK		41.875	21.876
+Gănești	RO		46.090	27.993
+Geghamasar	AM		40.311	45.679
+Greenock	AU	05	-34.457	138.927
+Galugnano	IT		40.256	18.215
+Galitsy	RU		56.178	42.846
+Gerber	US	CA	40.056	-122.150
+Guadalupe Morelos	MX	21	19.026	-97.804
+Galatás	GR		38.357	21.562
+Guadalupe Victoria	MX	14	21.701	-101.618
+Greoni	RO		45.089	21.617
+Gheorghe Doja	RO		46.378	26.962
+Groß Rheide	DE		54.442	9.435
+Guadalupe de Tambula	MX	11	20.866	-100.576
+Gulia	RO		44.547	25.873
+George	US	IA	43.344	-96.002
+Grebin	DE		54.200	10.500
+Gometz-la-Ville	FR		48.672	2.129
+Guisande	PT		41.483	-8.446
+Glengarry	AU	07	-38.117	146.567
+Grong	NO		64.465	12.316
+Grzybowa Góra	PL		51.133	20.962
+Guayabal de Síquima	CO		4.877	-74.467
+Gorman	US	TX	32.214	-98.671
+Gondrin	FR		43.885	0.237
+Great Horwood	GB		51.974	-0.881
+Gerano	IT		41.935	12.990
+General Luis Felipe Domínguez Suárez	MX	27	17.656	-91.537
+Georgetown	US	CO	39.706	-105.698
+Goraj	PL		50.722	22.667
+Gornji Grad	SI		46.295	14.808
+Grafendorf bei Hartberg	AT		47.340	15.991
+Grijota	ES		42.053	-4.583
+Grebo	SE		58.301	15.871
+Grafhorst	DE		52.445	10.945
+Grabowhöfe	DE		53.569	12.595
+Gutiérrez Zamora	MX	30	21.368	-97.798
+Glăvile	RO		44.817	24.150
+Guadalupe Victoria	MX	06	28.333	-105.428
+Gökçekoru	TR		37.956	42.450
+Gries	DE		49.417	7.400
+Garčin	HR		45.183	18.183
+Garrett Park	US	MD	39.038	-77.093
+Gy	FR		47.406	5.812
+Gerace	IT		38.271	16.221
+Godiasco	IT		44.896	9.057
+Gachupines	MX	11	21.763	-101.562
+Grand Coulee	US	WA	47.942	-119.003
+Goodwood	AU	06	-42.828	147.293
+Golmbach	DE		51.900	9.550
+Gastello	RU		49.101	142.959
+Gückingen	DE		50.391	8.007
+Galliano	IT		44.017	11.294
+Gideon	US	MO	36.452	-89.919
+Gyovren	BG		41.663	24.376
+Grijpskerke	NL		51.534	3.561
+Goreni	RO		46.855	24.656
+Gaibanella-Sant'Edigio	IT		44.767	11.650
+Großmonra	DE		51.213	11.296
+Guadalupe Grijalva	MX	05	15.699	-92.164
+Großlittgen	DE		50.028	6.799
+Gouézec	FR		48.169	-3.973
+Gorgoglione	IT		40.395	16.145
+Guixé	MX	20	16.470	-96.703
+Gelles	FR		45.769	2.763
+Giebułtów	PL		50.146	19.879
+Geronimo	US	TX	29.663	-97.967
+Goudargues	FR		44.214	4.467
+Greyabbey	GB		54.535	-5.560
+Garland	US	ME	45.038	-69.160
+Garnay	FR		48.705	1.337
+Guadalupe Victoria	MX	30	19.542	-97.278
+Gălășești	RO		44.956	24.786
+Grillby	SE		59.626	17.258
+Gančani	SI		46.633	16.251
+Green Valley	US	CA	34.622	-118.414
+Grafengehaig	DE		50.203	11.594
+Gor	ES		37.369	-2.970
+Galoșpetreu	RO		47.483	22.217
+Gillonnay	FR		45.393	5.294
+Ghighișeni	RO		46.551	22.431
+Groveton	US	TX	31.055	-95.126
+Greci	RO		44.281	24.352
+Ghimpați	RO		44.154	24.427
+Gunnebo	SE		57.717	16.533
+Georgetown	US	PA	39.938	-76.083
+Großbartloff	DE		51.250	10.217
+Gala	HR		43.715	16.727
+Granard	IE		53.779	-7.494
+Gerach	DE		50.033	10.800
+Gauriaguet	FR		45.043	-0.397
+Greenfield	US	IL	39.344	-90.213
+Greimerath	DE		49.562	6.684
+General Treviño	MX	19	26.223	-99.485
+Gura Beliei	RO		45.211	25.649
+Gavaloú	GR		38.529	21.532
+Glazovka	UA		45.388	36.580
+Gogoşu	RO		44.417	23.367
+Gepiu	RO		46.930	21.790
+General Manuel J. Campos	AR		-37.460	-63.585
+Guadalupe Buenavista	MX	15	19.612	-100.127
+Glowe	DE		54.569	13.466
+Greda	HR		43.615	16.694
+Grafhorst	NL		52.583	5.933
+Greater Lakeburn	CA	04	46.077	-64.668
+Giavenale	IT		45.700	11.400
+Goodland	US	IN	40.763	-87.294
+Goldingen	CH		47.265	8.962
+Garha Brahman	IN		23.869	77.357
+Gessopalena	IT		42.055	14.274
+Greenwood	US	WI	44.770	-90.599
+Greifenburg	AT		46.750	13.180
+Görmin	DE		53.991	13.271
+Grubine	HR		43.430	17.163
+Grumolo Pedemonte	IT		45.724	11.492
+Groissiat	FR		46.222	5.608
+Gorman	US	NC	36.037	-78.823
+Gleinstätten	AT		46.754	15.370
+Grainville-sur-Odon	FR		49.139	-0.530
+Großholbach	DE		50.450	7.883
+Giardina Gallotti	IT		37.351	13.523
+Grăjdana	RO		45.209	26.631
+Grube	DE		54.233	11.033
+Groß Wittensee	DE		54.400	9.767
+Great Paxton	GB		52.261	-0.228
+Großbardorf	DE		50.267	10.367
+Glandorf	US	OH	41.029	-84.079
+Guazzino	IT		43.213	11.782
+Gărăgău	RO		44.232	25.189
+Großwoltersdorf	DE		53.067	13.100
+Glasford	US	IL	40.573	-89.813
+Groși	RO		47.045	22.480
+Göta	SE		58.106	12.153
+Gutenberg	DE		49.883	7.800
+Goring-by-Sea	GB		50.812	-0.422
+Gola	HR		46.196	17.058
+Głuchów	PL		51.779	20.077
+Goz Beïda	TD		12.225	21.410
+Gazzuolo	IT		45.062	10.572
+Grottola	IT		41.317	14.041
+Grafenstein	AT		46.614	14.467
+Green Lake	US	WI	43.844	-88.960
+Grundy	US	VA	37.278	-82.099
+Gradina	HR		45.855	17.507
+Georgetown	US	GA	31.885	-85.107
+Grottolella	IT		40.971	14.789
+Għarb	MT		36.060	14.209
+Grafenschachen	AT		47.367	16.067
+Gavello	IT		45.025	11.914
+Ginestar	ES		41.042	0.633
+Gościeradów	PL		50.869	22.005
+Guerrero	MX	07	28.310	-100.380
+Garlenda	IT		44.033	8.095
+Gainesboro	US	TN	36.356	-85.659
+Grimmenstein	AT		47.616	16.127
+Garaguso	IT		40.549	16.228
+Gerocarne	IT		38.588	16.218
+Galliate Lombardo	IT		45.785	8.770
+Guamaggiore	IT		39.568	9.074
+Guavatá	CO		5.955	-73.700
+Greatham	GB		54.642	-1.238
+Graffignano	IT		42.575	12.201
+Granados	GT		14.916	-90.523
+Gonnostramatza	IT		39.683	8.833
+Grontardo	IT		45.201	10.152
+Grabowiec	PL		50.821	23.551
+Godzianów	PL		51.897	20.036
+Goruia	RO		45.187	21.779
+Goszczyn	PL		51.732	20.852
+Germagnano	IT		45.263	7.469
+Groß Sankt Florian	AT		46.824	15.319
+Gózd	PL		51.378	21.379
+Giuliano Teatino	IT		42.312	14.281
+Großkrut	AT		48.644	16.724
+Giuliano di Roma	IT		41.539	13.280
+Güttenbach	AT		47.157	16.292
+Großrußbach	AT		48.474	16.416
+Giustenice	IT		44.173	8.243
+Genoni	IT		39.794	9.008
+Gosaldo	IT		46.221	11.956
+Guttaring	AT		46.885	14.511
+Gadoni	IT		39.914	9.186
+Gvarv	NO		59.388	9.172
+Greenville	US	GA	33.029	-84.713
+Gesico	IT		39.616	9.107
+Goochland	US	VA	37.684	-77.885
+Guardistallo	IT		43.314	10.629
+Gurk	AT		46.874	14.292
+Grădina	RO		44.555	28.432
+Guarda Veneta	IT		44.982	11.802
+Gratteri	IT		37.966	13.973
+Găvănești	RO		44.417	24.017
+Gromo	IT		45.962	9.926
+Gâlgău	RO		47.282	23.702
+Glorenza	IT		46.671	10.557
+Guaca Arriba	PA		8.537	-82.493
+Galápagos	ES		40.693	-3.335
+Gallicchio	IT		40.292	16.136
+Gnadenwald	AT		47.317	11.567
+Garnich	LU		49.617	5.952
+Goszczanów	PL		51.792	18.506
+Griffen	AT		46.704	14.733
+Goworowo	PL		52.901	21.556
+Gnas	AT		46.873	15.825
+Grosso	IT		45.256	7.557
+Gavignano	IT		41.699	13.050
+Gioia Sannitica	IT		41.300	14.444
+Govone	IT		44.804	8.094
+Grant City	US	MO	40.487	-94.411
+Guntersdorf	AT		48.650	16.050
+Gonnosnò	IT		39.761	8.871
+Greensburg	US	KS	37.603	-99.293
+Goldwörth	AT		48.327	14.101
+Gerlos	AT		47.225	12.030
+Gorišnica	SI		46.415	16.014
+Grožnjan	HR		45.379	13.724
+Goizueta	ES		43.172	-1.864
+Ghislarengo	IT		45.529	8.385
+Gaiba	IT		44.946	11.481
+Gutiérrez	CO		4.255	-74.002
+Guacamayas	CO		6.462	-72.505
+Göpfritz an der Wild	AT		48.725	15.402
+Gropparello	IT		44.834	9.728
+Godeanu	RO		44.801	22.609
+Galtür	AT		46.967	10.183
+Grigno	IT		46.016	11.636
+Gârbău	RO		46.833	23.352
+Gallo Matese	IT		41.465	14.225
+Gainesville	US	MO	36.603	-92.428
+Gaflenz	AT		47.895	14.725
+Guarene	IT		44.740	8.035
+Gámbita	CO		5.946	-73.344
+Gavorrano	IT		42.925	10.907
+Geldo	ES		39.833	-0.467
+Giustino	IT		46.151	10.768
+Garriguella	ES		42.344	3.065
+Gallegos del Río	ES		41.735	-6.174
+Garlitos	ES		38.880	-5.048
+Gnojno	PL		50.603	20.849
+Gampern	AT		47.989	13.554
+Graglia	IT		45.558	7.979
+Gestalgar	ES		39.600	-0.833
+Ginestra	IT		40.931	15.735
+Giarole	IT		45.061	8.567
+Gołymin-Ośrodek	PL		52.808	20.873
+Gioi	IT		40.290	15.218
+Gavilanes	ES		40.278	-4.853
+Grad	SI		46.800	16.100
+Greensburg	US	LA	30.831	-90.672
+Guijo de Granadilla	ES		40.194	-6.163
+Gallzein	AT		47.368	11.772
+Gera Lario	IT		46.170	9.367
+Gazzo	IT		45.180	10.897
+Ganna	IT		45.902	8.826
+Garzeno	IT		46.134	9.250
+Gibson	US	GA	33.233	-82.595
+Grosbous	LU		49.828	5.967
+Giano Vetusto	IT		41.203	14.193
+Girasole	IT		39.952	9.661
+Górzno	PL		51.847	21.709
+Greytown	NI		10.947	-83.735
+Großklein	AT		46.736	15.444
+Greetham	GB		52.721	-0.631
+Gierzwałd	PL		53.541	20.089
+Gordoncillo	ES		42.136	-5.402
+Guisando	ES		40.222	-5.139
+Gossendorf	AT		46.911	15.930
+Golconda	US	IL	37.367	-88.486
+Greenland	BB		13.258	-59.578
+Gardola	IT		45.742	10.719
+Griante	IT		45.995	9.236
+Grana	IT		44.998	8.299
+Gries im Sellrain	AT		47.196	11.156
+Gravere	IT		45.125	7.018
+Grone	IT		45.727	9.909
+Goriano Sicoli	IT		42.080	13.775
+Génave	ES		38.431	-2.733
+Gosdorf	AT		46.728	15.793
+Gerersdorf	AT		48.201	15.556
+Gama	CO		4.763	-73.611
+Gersdorf an der Feistritz	AT		47.167	15.850
+Gizałki	PL		52.043	17.769
+Garcihernández	ES		40.861	-5.436
+Gombito	IT		45.262	9.729
+Guapotá	CO		6.308	-73.320
+Giaglione	IT		45.139	7.015
+Guardia Perticara	IT		40.362	16.098
+Giglio Castello	IT		42.365	10.901
+Göstling an der Ybbs	AT		47.807	14.938
+Genalguacil	ES		36.545	-5.236
+Greci	IT		41.252	15.169
+Greeley	US	NE	41.549	-98.531
+Gasa	BT		27.904	89.727
+Grantsville	US	WV	38.923	-81.096
+Großmugl	AT		48.499	16.231
+Garbayuela	ES		39.050	-4.999
+Georgetown	SH		-7.929	-14.412
+Galindo y Perahuy	ES		40.944	-5.874
+Gachantivá	CO		5.757	-73.540
+Galinduste	ES		40.663	-5.540
+Giave	IT		40.452	8.752
+Gams bei Hieflau	AT		47.667	14.783
+Grotteria	IT		38.365	16.265
+Gomecello	ES		41.043	-5.536
+Garray	ES		41.816	-2.446
+Gonnoscodina	IT		39.700	8.836
+Gonte	IT		45.995	8.650
+Garcia	ES		41.133	0.650
+Gandosso	IT		45.659	9.889
+Gradec	HR		45.911	16.483
+Gaiola	IT		44.336	7.409
+Greenville	US	MO	37.127	-90.450
+Goni	IT		39.579	9.285
+Gáïos	GR		39.197	20.186
+Gionghi-Cappella	IT		45.937	11.275
+Großharras	AT		48.664	16.246
+Guarumal	PA		7.794	-81.259
+Grisén	ES		41.745	-1.163
+Geria	ES		41.579	-4.877
+Geras	AT		48.797	15.673
+Gorga	IT		41.655	13.107
+Gedersdorf	AT		48.433	15.689
+Ginestra degli Schiavoni	IT		41.280	15.044
+Gerlosberg	AT		47.217	11.933
+Gandellino	IT		45.991	9.946
+Großsölk	AT		47.417	13.967
+Garínoain	ES		42.600	-1.644
+Granvin	NO		60.524	6.719
+Galisancho	ES		40.744	-5.555
+Grazzano Badoglio	IT		45.040	8.311
+Gignese	IT		45.864	8.509
+Guardiaregia	IT		41.434	14.543
+Gutenbrunn	AT		48.365	15.119
+Geta	AX		60.375	19.845
+Greisdorf	AT		46.926	15.219
+Graja de Iniesta	ES		39.517	-1.667
+Gargantilla	ES		40.248	-5.921
+Gryllefjord	NO		69.363	17.053
+Gagliato	IT		38.676	16.461
+Gschnitz	AT		47.045	11.351
+Guilmi	IT		41.997	14.479
+Gamalero	IT		44.809	8.541
+Gręboszów	PL		50.245	20.777
+Guijo de Santa Bárbara	ES		40.154	-5.654
+Gea de Albarracín	ES		40.411	-1.348
+Garbagna	IT		44.780	8.998
+Großriedenthal	AT		48.483	15.867
+Guayabito	PA		8.539	-81.482
+Gornji Petrovci	SI		46.805	16.223
+Gómara	ES		41.623	-2.225
+Gualdo Cattaneo	IT		42.912	12.557
+Gignod	IT		45.780	7.296
+Guardia Piemontese	IT		39.466	16.000
+Gabbioneta	IT		45.216	10.220
+Galena	US	MO	36.805	-93.467
+Geboltskirchen	AT		48.153	13.634
+Gressoney-Saint-Jean	IT		45.773	7.828
+Gildone	IT		41.509	14.740
+Giungano	IT		40.395	15.108
+Gurasada	RO		45.955	22.595
+Grabica	PL		51.480	19.531
+Grafenschlag	AT		48.500	15.167
+Guadasequies	ES		38.925	-0.486
+Garcillán	ES		40.978	-4.266
+Gotor	ES		41.546	-1.649
+Gallodoro	IT		37.902	15.294
+Gaby	IT		45.713	7.882
+Gaubitsch	AT		48.650	16.383
+Gualdo	IT		43.066	13.343
+Guimerà	ES		41.565	1.185
+Guardia Lombardi	IT		40.952	15.209
+Garganta de los Montes	ES		40.920	-3.684
+Grañón	ES		42.450	-3.028
+Gemmano	IT		43.904	12.581
+Gallegos de Argañán	ES		40.631	-6.702
+Going	AT		47.513	12.332
+Genzone	IT		45.180	9.348
+Gaverina Terme	IT		45.756	9.887
+Góra Świętej Małgorzaty	PL		52.057	19.320
+Gutenstein	AT		47.876	15.889
+Gnesau	AT		46.775	13.963
+Gabersdorf	AT		46.777	15.584
+Guararé Arriba	PA		7.800	-80.360
+Gazzola	IT		44.960	9.549
+Gastern	AT		48.894	15.220
+Grän	AT		47.500	10.550
+Genuri	IT		39.743	8.924
+Grębków	PL		52.269	21.910
+Gjerstad	NO		58.881	9.019
+Gualta	ES		42.030	3.103
+Gabiano	IT		45.157	8.195
+Garden City	US	TX	31.864	-101.481
+Grabersdorf	AT		46.843	15.825
+Granja de Moreruela	ES		41.810	-5.739
+Grumes	IT		46.221	11.293
+Garrigàs	ES		42.193	2.954
+Glödnitz	AT		46.874	14.119
+Greggio	IT		45.451	8.385
+Gallo	IT		41.465	14.225
+Gobernador	ES		37.478	-3.321
+Grancy	CH		46.592	6.464
+Guazzora	IT		45.014	8.848
+Galilea	ES		42.347	-2.236
+Guardabosone	IT		45.702	8.249
+Gatesville	US	NC	36.403	-76.753
+Gordaliza del Pino	ES		42.344	-5.157
+Gladstad	NO		65.677	11.962
+Gundersdorf	AT		46.950	15.233
+Glinzendorf	AT		48.246	16.641
+Globasnitz	AT		46.557	14.703
+Gottlieben	CH		47.664	9.134
+Gambugliano	IT		45.588	11.439
+Gressenberg	AT		46.800	15.117
+Grizzana	IT		44.258	11.156
+Gallizien	AT		46.550	14.517
+Grajal de Campos	ES		42.321	-5.019
+Garzigliana	IT		44.837	7.374
+Guadalaviar	ES		40.388	-1.718
+Gema	ES		41.419	-5.649
+Goldfield	US	NV	37.709	-117.236
+Gorga	ES		38.719	-0.356
+Gorzków	PL		50.948	23.013
+Gnadendorf	AT		48.617	16.400
+Guildhall	US	VT	44.565	-71.560
+Gagliano Aterno	IT		42.126	13.700
+Guijo de Coria	ES		40.101	-6.464
+Gerosa	IT		45.850	9.572
+Goesdorf	LU		49.921	5.966
+Gerolding	AT		48.250	15.417
+Glanegg	AT		46.723	14.199
+Glanica	XK		42.549	21.063
+General Berthelot	RO		45.617	22.883
+Grávalos	ES		42.108	-1.999
+Geistthal	AT		47.167	15.167
+Gzy	PL		52.740	20.944
+Gallinaro	IT		41.655	13.798
+Gail	US	TX	32.770	-101.445
+Gurro	IT		46.085	8.568
+Garcibuey	ES		40.516	-5.994
+Guzman	PA		8.520	-80.584
+Granucillo	ES		42.052	-5.928
+Garniga Nuova	IT		46.003	11.087
+Gósol	ES		42.237	1.660
+Guayabal	PA		8.622	-82.579
+Gallifa	ES		41.692	2.113
+Galliavola	IT		45.098	8.819
+Gaibiel	ES		39.933	-0.483
+Goñi	ES		42.852	-1.904
+Gallmannsegg	AT		47.183	15.067
+Gabaldón	ES		39.617	-1.933
+Gambarana	IT		45.029	8.763
+Guadramiro	ES		41.017	-6.494
+Germagno	IT		45.893	8.388
+Garralda	ES		42.948	-1.286
+Gotarrendura	ES		40.827	-4.741
+Grondona	IT		44.696	8.965
+Gemuño	ES		40.592	-4.782
+Gajates	ES		40.783	-5.365
+Ganda	IT		46.555	10.780
+Garanas	AT		46.767	15.117
+Golpejas	ES		41.000	-5.907
+Gascones	ES		41.018	-3.642
+Garde	ES		42.789	-0.926
+Germoe	GB		50.115	-5.379
+Gusendos de los Oteros	ES		42.378	-5.431
+Gressoney-La-Trinitè	IT		45.830	7.823
+Gallegos del Pan	ES		41.600	-5.581
+Gargüera	ES		40.061	-5.928
+Guthrie	US	TX	33.621	-100.323
+Gistaín	ES		42.591	0.335
+Gallipienzo	ES		42.525	-1.411
+Gallegos de Hornija	ES		41.610	-5.098
+Gorzegno	IT		44.512	8.135
+Gerola Alta	IT		46.060	9.550
+Gaztelu	ES		43.116	-2.024
+Gascueña	ES		40.299	-2.519
+Gallocanta	ES		40.996	-1.508
+Gambasca	IT		44.630	7.347
+Guabal	PA		8.575	-82.537
+Grauno	IT		46.230	11.298
+Griegos	ES		40.427	-1.712
+Gimileo	ES		42.550	-2.822
+Galve	ES		40.656	-0.882
+Ganz	AT		47.600	15.683
+Galve de Sorbe	ES		41.217	-3.183
+Gagliole	IT		43.238	13.068
+Graja de Campalbo	ES		39.900	-1.267
+Gasen	AT		47.383	15.567
+Grijalba	ES		42.430	-4.119
+Grognardo	IT		44.630	8.493
+Gaal	AT		47.273	14.670
+Garaballa	ES		39.817	-1.367
+Gutierre-Muñoz	ES		40.983	-4.638
+Golosalvo	ES		39.233	-1.633
+Gamberale	IT		41.905	14.208
+Gremiasco	IT		44.796	9.107
+Guijo de Ávila	ES		40.531	-5.640
+Gimialcón	ES		40.877	-5.123
+Genga	IT		43.430	12.935
+Grajera	ES		41.373	-3.613
+Gargallo	ES		40.836	-0.584
+Gamones	ES		41.467	-6.176
+Garvín	ES		39.720	-5.347
+Gottasecca	IT		44.460	8.168
+Genevilla	ES		42.645	-2.390
+Gallegos	ES		41.075	-3.786
+Gove	US	KS	38.958	-100.489
+Großhofen	AT		48.258	16.619
+Giusvalla	IT		44.448	8.394
+Guirguillano	ES		42.717	-1.878
+Garcirrey	ES		40.900	-6.131
+Grand Brissogne	IT		45.726	7.393
+Gallegos de Sobrinos	ES		40.717	-5.112
+Giuncugnano	IT		44.211	10.247
+Guayabito	PA		8.548	-80.013
+Grancona	IT		45.422	11.452
+Gavazzana	IT		44.776	8.886
+Gúdar	ES		40.441	-0.720
+Granera	ES		41.727	2.059
+Golferenzo	IT		44.961	9.306
+Guaza de Campos	ES		42.134	-4.909
+Galbárruli	ES		42.622	-2.961
+Gajanejos	ES		40.841	-2.892
+Grisel	ES		41.871	-1.728
+Godojos	ES		41.268	-1.864
+Garganta del Villar	ES		40.450	-5.104
+Gascueña de Bornova	ES		41.142	-3.019
+Gorreto	IT		44.605	9.291
+Galluccio	IT		41.352	13.954
+Gejuelo del Barro	ES		41.076	-6.123
+Gramais	AT		47.267	10.533
+Grafenegg	AT		48.430	15.749
+Gerre de' Caprioli	IT		45.090	10.051
+Grisaleña	ES		42.591	-3.264
+Gatón de Campos	ES		42.050	-4.981
+Galbarros	ES		42.527	-3.438
+Garadassi	IT		44.754	9.154
+Gallinero de Cameros	ES		42.172	-2.618
+Gifflenga	IT		45.493	8.232
+Gormaz	ES		41.492	-3.005
+Glojach	AT		46.867	15.667
+Groscavallo	IT		45.368	7.258
+Gusinje	ME		42.562	19.834
+Golubovci	ME		42.335	19.231
+Grytviken	GS		-54.281	-36.509
+Guz̄arah	AF		34.212	62.212
+Gōshtah	AF		34.358	70.763
+Gōmal Kêlay	AF		32.510	68.856
+Ghōriyān	AF		34.345	61.493
+Ghurayd Gharamē	AF		36.522	70.791
+Ghulām ‘Alī	AF		34.951	69.229
+George Hill	AI		18.199	-63.066
+Gostimë	AL		41.146	20.240
+Golaj	AL		42.248	20.380
+Gjorica e Sipërme	AL		41.534	20.450
+Gjinar	AL		41.023	20.189
+Gjinaj	AL		42.118	20.436
+Gjergjan	AL		41.043	20.030
+Gjegjan	AL		41.938	20.011
+Gjerbës	AL		40.629	20.251
+Gurra e Vogël	AL		41.536	19.991
+Guri i Zi	AL		42.045	19.575
+Gruemirë	AL		42.159	19.519
+Greshicë	AL		40.552	19.778
+Grekan	AL		40.929	19.948
+Gradishtë	AL		40.888	19.586
+Gracen	AL		41.152	19.964
+Grabjan	AL		40.953	19.581
+Gosë e Madhe	AL		41.091	19.625
+Golem	AL		40.968	19.685
+Gjoçaj	AL		41.026	19.724
+Gjepalaj	AL		41.333	19.578
+Golem	AL		41.246	19.535
+Grudë-Fushë	AL		42.162	19.497
+General San Martín	AR		-34.574	-58.535
+General Rodríguez	AR		-34.608	-58.953
+General Lavalle	AR		-36.406	-56.943
+General Las Heras	AR		-34.927	-58.947
+General Juan Madariaga	AR		-36.997	-57.140
+General Guido	AR		-36.641	-57.792
+General Conesa	AR		-36.520	-57.325
+General Belgrano	AR		-35.770	-58.493
+Guernica	AR		-34.916	-58.381
+Guaminí	AR		-37.014	-62.419
+Guachipas	AR		-25.520	-65.509
+Godoy Cruz	AR		-32.929	-68.835
+Gobernador Gregores	AR		-48.751	-70.247
+General Viamonte	AR		-35.000	-61.035
+General Pinto	AR		-34.765	-61.891
+General Martín Miguel de Güemes	AR		-24.670	-65.048
+General Lavalle	AR		-32.722	-68.591
+General La Madrid	AR		-37.248	-61.263
+General Arenales	AR		-34.303	-61.305
+General Alvear	AR		-36.021	-60.014
+General Alvear	AR		-34.977	-67.691
+Gastre	AR		-42.262	-69.221
+Garza	AR		-28.153	-63.539
+Gössenberg	AT		47.417	13.817
+Goldegg	AT		47.319	13.099
+Großkirchheim	AT		46.973	12.896
+Gornji Ribnik	BA		44.418	16.817
+Gaibandha	BD		25.329	89.544
+Gaongo	BF		12.004	-1.165
+Gorichevo	BG		43.850	26.450
+Gabrovo	BG		41.800	25.267
+Goumori	BJ		11.181	2.293
+Guanay	BO		-15.498	-67.883
+Governor’s Harbour	BS		25.167	-76.233
+Gamèti	CA	13	64.112	-117.353
+Gansingen	CH		47.543	8.135
+Guitry	CI		5.520	-5.240
+Guéyo	CI		5.688	-6.071
+Gbéléban	CI		9.585	-8.132
+Guma	CN		37.617	78.281
+Geji	CN		32.395	81.140
+Gyigang	CN		28.667	97.517
+Gyangkar	CN		28.400	87.800
+Gyamotang	CN		31.533	95.433
+Golmud	CN		36.407	94.901
+Gengqing	CN		31.816	98.596
+Gengma	CN		23.523	99.379
+Gartog	CN		29.685	98.595
+Gaotai Chengguanzhen	CN		39.345	99.800
+Guandou	CN		31.378	118.398
+Guhan	CN		36.535	113.025
+Guanghe Chengguanzhen	CN		35.482	103.576
+Gaolan Chengguanzhen	CN		36.335	103.946
+Guwei	CN		34.710	110.657
+Guhuai	CN		32.959	114.626
+Guanshan	CN		37.808	113.597
+Guang’an	CN		30.474	106.637
+Guantao	CN		36.541	115.283
+Gaoyao	CN		23.024	112.446
+Gujiang	CN		35.494	111.553
+Ganting	CN		34.102	108.614
+Guangze	CN		27.543	117.332
+Guzhen Chengguanzhen	CN		33.311	117.311
+Guyong	CN		26.731	117.468
+Guyi	CN		25.778	109.600
+Guyang	CN		28.614	109.933
+Gushi Chengguanzhen	CN		32.162	115.670
+Guoyang Chengguanzhen	CN		33.505	116.231
+Gunan	CN		29.023	106.648
+Gulin	CN		28.042	105.810
+Gulaobei	CN		30.519	111.427
+Gulang	CN		37.467	102.894
+Guiyang Chengguanzhen	CN		25.733	112.746
+Guixi	CN		30.334	107.345
+Guishan	CN		24.050	102.000
+Guidong Chengguanzhen	CN		26.079	113.941
+Guancheng	CN		36.480	115.435
+Guanyang	CN		25.495	111.135
+Guangrao	CN		37.053	118.399
+Guangming	CN		28.310	102.412
+Gongjing	CN		29.347	104.712
+Gongjiang	CN		25.957	115.410
+Gonghe	CN		25.256	101.519
+Gongcheng	CN		24.833	110.817
+Gedong	CN		37.893	111.255
+Gecheng	CN		31.949	108.661
+Ganzi	CN		31.627	99.994
+Gaotangling	CN		28.367	112.817
+Gaoleshan	CN		29.678	109.145
+Gaohe	CN		30.742	116.843
+Gaocun	CN		27.877	109.785
+Gaocheng	CN		29.988	100.269
+Ganzhou	CN		25.847	114.933
+Gantang	CN		30.297	118.131
+Gangu Chengguanzhen	CN		34.736	105.326
+Gabasumdo	CN		35.259	100.550
+Gaizhou	CN		40.394	122.369
+Gufu	CN		31.362	110.729
+Galutu	CN		38.601	108.847
+Guyang	CN		32.135	119.442
+Gulou	CN		26.087	119.298
+Gongchen	CN		39.728	116.138
+Gulou	CN		40.370	116.834
+Gucheng	CN		28.849	121.116
+Guoyuan Xincun	CN		39.222	117.130
+Guangming	CN		47.340	130.287
+Gounan	CN		47.359	130.297
+Guitang	CN		28.140	113.042
+Guangzhoulu	CN		38.499	102.168
+Ganhechen	CN		33.558	114.020
+Gangba	CN		28.217	88.474
+Gulou	CN		36.444	115.964
+Gumudi	CN		43.955	87.673
+Guangrao	CN		37.260	118.463
+Guaranda	CO		8.467	-74.536
+Guachené	CO		3.133	-76.393
+Guachavés	CO		1.222	-77.678
+Granada	CO		4.520	-74.353
+Girardota	CO		6.377	-75.449
+Génova	CO		4.208	-75.789
+Guara	CU		22.810	-82.203
+Gaspar	CU		21.739	-78.544
+Geroskípou (quarter)	CY		34.756	32.449
+Guerra	DO		18.559	-69.701
+Gonzalo Pizarro	EC		0.017	-77.379
+Guadalmez	ES		38.727	-4.971
+Guadalcanal	ES		38.100	-5.817
+Galaroza	ES		37.929	-6.707
+Guntín	ES		42.887	-7.693
+Guils de Cerdanya	ES		42.447	1.880
+Guardiola de Berguedà	ES		42.235	1.877
+Ger	ES		42.411	1.845
+Gabiria	ES		43.049	-2.280
+Garrigoles	ES		42.100	3.033
+Garaioa	ES		42.933	-1.233
+Gaintza	ES		43.053	-2.133
+Gordexola	ES		43.179	-3.076
+Gurnard	GB		50.761	-1.324
+Grosmont	GB		51.917	-2.867
+Grindon	GB		54.617	-1.383
+Grindale	GB		54.125	-0.274
+Greenhead	GB		54.967	-2.517
+Great Ness	GB		52.764	-2.892
+Great Coates	GB		53.571	-0.139
+Gravenhurst	GB		52.009	-0.370
+Goldcliff	GB		51.542	-2.918
+Gildersome	GB		53.761	-1.631
+Gayhurst	GB		52.114	-0.763
+Greenham	GB		51.387	-1.311
+Gulrip’shi	GE		42.927	41.096
+Goaso	GH		6.804	-2.517
+Geráni	GR		35.517	23.878
+Guam Government House	GU		13.472	144.750
+Gradac	HR		43.106	17.342
+Gračišće	HR		45.219	14.011
+Gornji Mihaljevec	HR		46.429	16.333
+Gornji Bogičevci	HR		45.259	17.236
+Gornje Jesenje	HR		46.206	15.912
+Gornja Vrba	HR		45.155	18.066
+Gornja Stubica	HR		45.975	16.019
+Generalski Stol	HR		45.348	15.383
+Gunung Tua	ID		1.513	99.626
+Gunungsitoli	ID		1.289	97.614
+Gosong Telaga	ID		2.279	97.927
+Gajrug	ID		-6.527	106.380
+Gunungwungkal	ID		-6.566	110.989
+Gunung Sugih	ID		-4.975	105.214
+Gunungmenang	ID		-3.180	104.033
+Gunungmegang Dalam	ID		-3.450	103.870
+Gunungkencana	ID		-6.572	106.074
+Gunungbatubesar	ID		-2.621	116.293
+Gunem	ID		-6.807	111.466
+Gulukguluk	ID		-7.055	113.675
+Gondang	ID		-8.073	111.847
+Godo	ID		-8.561	118.666
+Gianyar	ID		-8.543	115.327
+Geser	ID		-3.873	130.925
+Gerung	ID		-8.683	116.125
+Glumbang	ID		-3.239	104.437
+Gedong Tataan	ID		-5.383	105.096
+Gayam	ID		-7.164	114.331
+Garut	ID		-7.202	107.888
+Garawangi	ID		-6.999	108.539
+Gapura	ID		-6.997	113.956
+Gandusari	ID		-8.130	111.704
+Gandusari	ID		-8.046	112.303
+Gandrungmangu	ID		-7.520	108.854
+Ganding	ID		-7.039	113.689
+Gampang	ID		-6.956	112.299
+Galunggalung	ID		-3.489	118.896
+Galis	ID		-7.156	113.554
+Gununganyar	ID		-7.341	112.782
+Getengan	ID		-3.181	119.884
+Gubengairlangga	ID		-7.273	112.757
+Genyem	ID		-2.579	140.149
+Gambarsari	ID		-7.531	109.201
+Guguk	ID		-0.139	100.553
+Gunung Talang	ID		-0.906	100.627
+Gadingrejo	ID		-5.372	105.062
+Gardutanjak	ID		-6.313	106.101
+Gudang	ID		-7.307	107.797
+Gununglimbangan	ID		-7.102	107.984
+Gedongombo	ID		-6.909	112.065
+Gupakan	ID		-7.000	112.509
+Gedangan	ID		-8.295	112.652
+Glagahwero	ID		-8.177	113.619
+Getentiri	ID		-6.589	140.346
+Guay	ID		-2.503	139.810
+Gondang	ID		-8.046	111.657
+Geuleumpangminyeuk	ID		5.250	96.029
+Geumpang	ID		4.829	96.161
+Gambut	ID		-3.396	114.675
+Guruafin	ID		0.101	127.434
+George Town	IN		13.093	80.280
+Garamur	IN		26.949	94.172
+Gomīshān	IR		37.072	54.077
+Gīlān-e Gharb	IR		34.142	45.920
+Gāvbandī	IR		27.208	53.036
+Garmsār	IR		35.218	52.341
+Germī	IR		39.022	48.080
+Garmeh	IR		36.987	56.289
+Galūgāh	IR		36.727	53.809
+Gālīkesh	IR		37.273	55.434
+Gīvī	IR		37.686	48.342
+Ghawr al Mazra‘ah	JO		31.266	35.517
+Gotō	JP		32.684	128.807
+Gul’cha	KG		40.314	73.444
+Gwanchon	KR		35.675	127.271
+Guryongpo	KR		35.990	129.554
+Gampo	KR		35.805	129.501
+Gwangyang	KR		34.941	127.696
+Gyuam	KR		36.275	126.884
+Gunbuk	KR		36.331	127.534
+Gunseo	KR		36.279	127.527
+Gunbuk	KR		36.168	127.527
+Gyodong	KR		37.783	126.281
+Gwangtan	KR		37.781	126.850
+Gwangjeok	KR		37.826	126.983
+Gwanin	KR		38.159	127.249
+Geumjeong	KR		34.863	126.749
+Gangdong	KR		37.729	128.954
+Gujeong	KR		37.719	128.880
+Geumseong	KR		34.964	127.790
+Gyeombaek	KR		34.830	127.152
+Gunnam	KR		35.240	126.453
+Gunseo	KR		35.259	126.475
+Gongeum	KR		35.378	126.511
+Gurim	KR		35.454	127.102
+Gangjin	KR		35.530	127.164
+Garkalne	LV		57.045	24.420
+Ghouazi	MA		34.477	-5.302
+Guisser	MA		32.766	-7.498
+Guenfouda	MA		34.484	-2.046
+Goulmima	MA		31.692	-4.953
+Galaz	MA		34.544	-4.804
+Gourma Rharous	ML		16.878	-1.923
+Gadhdhoo	MV		0.290	73.457
+Gómez Farías	MX	28	22.884	-99.026
+Galeana	MX	06	30.114	-107.616
+Gómez Farías	MX	14	19.794	-103.477
+Guidan Roumdji	NE		13.658	6.696
+Gwiwa	NG		12.782	8.337
+Gwantu	NG		9.229	8.458
+Gwagwalada	NG		8.943	7.082
+Guyuk	NG		9.907	11.928
+Guri	NG		12.728	10.420
+Gulak	NG		10.805	13.458
+Gudumbali	NG		12.943	13.178
+Gubio	NG		12.497	12.781
+Giwa	NG		11.316	7.450
+Girei	NG		9.365	12.546
+Gidan Madi	NG		13.296	4.975
+Giade	NG		11.391	10.200
+Gezawa	NG		12.102	8.750
+Gella	NG		10.157	13.300
+Gboko	NG		7.323	9.001
+Gbajimba	NG		7.820	8.860
+Garun Malam	NG		11.686	8.370
+Garko	NG		11.650	8.803
+Garki	NG		12.435	9.190
+Garaku	NG		8.847	8.130
+Gantsa	NG		11.663	9.726
+Gajiram	NG		12.491	13.212
+Gada	NG		13.754	5.657
+Gawu Babangida	NG		9.278	6.993
+Gratangen	NO		68.650	17.683
+Gonzalo Vásquez	PA		8.415	-78.456
+Gobea	PA		9.159	-80.251
+Gatú	PA		8.538	-80.951
+Güibale	PA		8.512	-81.363
+Guadalupito	PE		-8.950	-78.623
+Guzmango	PE		-7.383	-78.900
+Granada	PE		-6.099	-77.627
+Guadalupe	PE		-13.967	-75.767
+Goyllarisquizga	PE		-10.474	-76.409
+Gorgor	PE		-10.583	-77.033
+Genaro Herrera	PE		-4.907	-73.668
+Gutalac	PH		7.982	122.405
+Guinobatan	PH		13.191	123.599
+Gregorio del Pilar	PH		17.130	120.612
+General Luna	PH		9.784	126.159
+Galimuyod	PH		17.184	120.472
+Gandava	PK		28.613	67.486
+Gakuch	PK		36.177	73.764
+Gura Văii	RO		46.272	26.826
+Gâdinţi	RO		46.933	27.017
+Ghidici	RO		43.891	23.195
+Galiciuica	RO		44.103	23.391
+Grocka	RS		44.672	20.716
+Gadžin Han	RS		43.223	22.032
+Glubokoye	RU		56.609	29.021
+Glembochino	RU		56.188	28.378
+Gorod Shebekino	RU		50.417	36.917
+Gikongoro	RW		-2.464	29.574
+Guadalupe	ST		0.379	6.638
+Ghabāghib	SY		33.182	36.225
+Ghonchí	TJ		39.962	69.130
+Ghafurov	TJ		40.216	69.729
+Güzelsu	TR		38.310	43.799
+Güzelsu	TR		36.895	31.856
+Güzeloluk	TR		36.794	34.083
+Güzelbağ	TR		36.734	31.898
+Gürpınar	TR		38.324	43.410
+Güre	TR		38.651	29.167
+Günyüzü	TR		39.383	31.810
+Güney	TR		38.154	29.068
+Gümüşakar	TR		39.794	38.673
+Gülpınar	TR		39.533	26.121
+Gücük	TR		38.194	37.481
+Gözne	TR		36.995	34.573
+Gözeli	TR		38.425	39.057
+Göynük	TR		39.139	40.874
+Gölova	TR		36.799	30.039
+Göllü	TR		39.450	34.300
+Göldüzü	TR		38.813	43.019
+Gölcük	TR		39.313	27.983
+Gölbaşı	TR		39.790	32.809
+Göktepe	TR		37.419	28.559
+Göktepe	TR		36.627	32.623
+Göksu	TR		39.489	42.151
+Gökoğlan	TR		39.546	41.304
+Gökdere	TR		38.743	40.208
+Gökçedağ	TR		39.558	28.919
+Göçbeyli	TR		39.223	27.404
+Girmeli	TR		37.111	41.420
+Geyikpınar	TR		38.318	41.821
+Gesi	TR		38.792	35.659
+Geriş	TR		36.962	31.733
+Gencek	TR		37.450	31.546
+Gelembe	TR		39.179	27.848
+Gedikler	TR		39.082	38.803
+Gedikbaşı	TR		39.489	38.247
+Geçitli	TR		37.587	43.562
+Gebiz	TR		37.104	30.938
+Gaziemir	TR		38.324	27.129
+Güneysınır	TR		37.269	32.729
+Gerger	TR		38.028	39.034
+Gülağaç	TR		38.396	34.346
+Gyuvench	TR		36.685	36.423
+Gülyalı	TR		40.962	38.049
+Gelegra	TR		40.014	31.832
+Güzelkent	TR		41.948	34.395
+Güvem	TR		40.591	32.661
+Güneyce	TR		40.821	40.470
+Gündoğdu	TR		41.053	40.607
+Gündoğdu	TR		40.264	27.093
+Gümüşova	TR		40.847	30.941
+Gümüş	TR		40.840	35.172
+Görükle	TR		40.231	28.840
+Gölyaka	TR		40.777	30.996
+Gölköy	TR		40.687	37.615
+Gökdere	TR		40.473	36.752
+Gökçeli	TR		40.583	36.733
+Gökçesu	TR		40.894	31.960
+Gökçekent	TR		40.286	38.118
+Göbel	TR		40.020	28.146
+Gediksaray	TR		40.445	35.626
+Gaziler	TR		40.422	42.348
+Gaziler	TR		40.081	43.452
+Güce	TR		40.893	38.798
+Gombe	UG		0.203	32.088
+G‘uzor Shahri	UZ		38.626	66.245
+G’oliblar Qishlog’i	UZ		40.495	67.876
+G’allaorol Shahri	UZ		40.027	67.588
+Guayabal	VE		8.001	-67.397
+Guasipati	VE		7.477	-61.897
+Guaraque	VE		8.154	-71.736
+Guanta	VE		10.235	-64.597
+Guanarito	VE		8.696	-69.208
+Guama	VE		10.266	-68.820
+Guadarrama	VE		8.535	-68.049
+Gia Ray	VN		10.926	107.402
+Gò Quao	VN		9.733	105.274
+Giồng Riềng	VN		9.910	105.314
+Gio Linh	VN		16.925	107.084
+Gia Nghĩa	VN		12.004	107.691
+Giemdiem	VN		20.558	106.569
+Giồng Trôm	VN		10.150	106.506
+Gia Bình	VN		21.059	106.175
+Gôi	VN		20.333	106.078
+Gia Lộc	VN		20.868	106.300
+Gò Dầu	VN		11.088	106.263
+Ghayl Bā Wazīr	YE		14.776	49.366
+Groblershoop	ZA		-28.895	21.984
+Groblersdal	ZA		-25.168	29.394
+Germiston	ZA		-26.235	28.177
+Ganyesa	ZA		-26.596	24.176
+Garies	ZA		-30.562	17.989
